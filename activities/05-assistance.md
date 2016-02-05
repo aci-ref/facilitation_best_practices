@@ -14,12 +14,12 @@ title: Assisting Researchers in the Use of ACI Resources
 7. Reflection on Assistance Experiences
 
 <a name="introduction"></a>
-## Introduction
+<h2> Introduction</h2>
 
 lorem ipsum
 
 <a name="routes"></a>
-## Establishing Communication Routes for Providing Assistance
+<h2>Establishing Communication Routes for Providing Assistance</h2>
 
 lorem ipsum
 
