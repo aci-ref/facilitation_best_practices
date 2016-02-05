@@ -29,6 +29,9 @@ description: BP Documentation developed as part of grant
 # List of links in the navigation bar
 navbar-links:
   Home: ""
+  Introduction: "introduction"
+  Definitions: "definitions"
+  Major Activities: "activities"
   Appendix: "appendix"
   Author's home: "http://www.aciref.org"
   
