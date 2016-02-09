@@ -295,7 +295,7 @@ header.header-post .post-heading h1 {
 }
 
 header.header-page .page-heading h1 {
-  font-size: 50px;
+  font-size: 35px; 
   margin-top: 0;
 }
 
@@ -315,13 +315,13 @@ header.header-post .post-heading .post-subheading {
 
 @media only screen and (min-width: 768px) {
   header.header-post .post-heading h1 {
-    font-size: 50px;
+    font-size: 35px;
   }
 }
 
 @media only screen and (min-width: 768px) {
   header.header-page .page-heading h1 {
-    font-size: 80px;
+    font-size: 35px;
   }
 }
 
