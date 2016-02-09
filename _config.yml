@@ -30,8 +30,8 @@ description: BP Documentation developed as part of grant
 navbar-links:
   Home: ""
   Introduction: "introduction"
-  Definitions: "definitions"
   Major Activities: "activities"
+  Definitions: "definitions"
   Appendix: "appendix"
   Author's home: "http://www.aciref.org"
   
