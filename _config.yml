@@ -15,10 +15,10 @@ baseurl: "/bp_test"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: BP Documentation (test)
+title: ACI-REF
 
 # Short description of your site
-description: BP Documentation developed as part of grant
+description: Best Practices for facilitation, developed as part of ACI-REF project
 
 # --- Navigation bar options --- #
 
@@ -33,14 +33,14 @@ navbar-links:
   Major Activities: "activities"
   Definitions: "definitions"
   Appendix: "appendix"
-  Author's home: "http://www.aciref.org"
+  ACI-REF: "http://www.aciref.org"
   
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Christina
+  name: ACI-REF
 #  email: "youremail@domain.com"
 #  facebook: yourname  # eg. daattali
   github: ACI-REF    # eg. daattali
@@ -60,7 +60,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "bp_test"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "Best Practices of Facilitation"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
