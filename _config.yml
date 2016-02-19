@@ -9,8 +9,8 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://christinalk.github.io/bp_test"
-baseurl: "/bp_test"
+url: "http://aci-ref.github.io/facilitation_best_practices"
+baseurl: "/facilitation_best_practices"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
