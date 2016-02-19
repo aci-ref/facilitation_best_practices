@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Executing Major Activties of Facilitation
+title: Executing Major Activities of Facilitation
 subtitle: defining major activities
 ---
 
