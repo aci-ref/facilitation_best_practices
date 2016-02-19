@@ -5,12 +5,13 @@ subtitle: intro to document
 ---
 
 <a name="toc"></a>
-- [Goals, Motivation, and Approach for Establishing Facilitation Best Practices](#goals)
-- [What is Facilitation?](#whatis)
-	- [Philosophically](#whatis-philosophy)
-	- [In Practice (defining the Major Activities of Facilitation)](#whatis-practice)
-	- [What Skills and Experience Should Facilitators Possess?](#whatis-skills)
-- [Format and Organization of Remaining Content](#content)
+
+1. [Goals, Motivation, and Approach for Establishing Facilitation Best Practices](#goals)
+2. [What is Facilitation?](#whatis)
+	1. [Philosophically](#whatis-philosophy)
+	2. [In Practice (defining the Major Activities of Facilitation)](#whatis-practice)
+	3. [What Skills and Experience Should Facilitators Possess?](#whatis-skills)
+3. [Format and Organization of Remaining Content](#content)
 
 
 <a name="goals"></a>
