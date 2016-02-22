@@ -62,7 +62,115 @@ meeting. Jump to: [top](#toc)
 <a name="routes"></a>
 <h2>Establishing Communication Routes for Providing Assistance</h2>
 
-lorem ipsum
+To effectively support researchers in their use of ACI resources, a set of routes by which researchers can obtain assistance should be well-advertised. It is crucial to utilize multiple established communication routes for assistance when the Facilitator most directly supports a specific ACI resource (a campus computing center, for example). Facilitators should also be aware of and clearly identify external assistance resources, especially those of external ACI resources (e.g., other institutional ACI resources, national computing centers, commercial cloud services, etc.). Below, we discuss the implementation and applicability of several communication routes for providing assistance, and later discuss effective communication strategies.
+Common Assistance Routes
+
+While each of the below communication routes for providing assistance is powerful on its own, it is valuable to have multiple routes from which to choose to cater to various situations and researcher preferences. At the same time, it is a good strategy to avoid having too many routes, so as not to overwhelm researchers with the number of choices and so that the options are clear to researchers.
+Email and email-based ticket systems
+In comparison to other assistance routes, email is often best for addressing issues that can be easily understood and whose solutions can be readily communicated without the need for significant back-and-forth conversation. Email contact is also the most common gateway to other assistance routes, especially when contact is initiated by the Facilitator. Finally, email follow-ups can and should be used after providing assistance to a researcher via one of the other assistance routes, in order to recap the conversation and to document specific details that the researcher may not have recorded or remembered.
+
+Many ACI organizations leverage an email-based ticket or other issue tracking system for managing and responding to user support requests. This approach typically provides a convenient, single point of access for email-based support requests from users, allow a consolidated view of past issues and requests, and come with built-in features for ease of collecting metrics. Alternatives include the use of a single, dedicated email address monitored by one or more Facilitators and possibly other ACI staff, as long as the ownership of each new request can be made clear among these staff. Typically, individual staff email addresses are much less effective and add unnecessary confusion for users, especially if there are multiple individuals providing assistance or when staffing changes occur. Furthermore, the use of individual email addresses often leads to confusion between multiple Facilitators when assisting the same user(s), over time, and can impede the collection of metrics.
+
+Scheduled appointments
+
+There are times when email (or any other assistance route) may be
+insufficient, such that a scheduled, and preferably in-person, meeting
+is necessary. Examples include, but are not limited to, issue
+troubleshooting that would require many back-and-forth emails, instances
+where a researcher isn’t sure how to start using an ACI resource or how
+to explain their problem, and even a researcher’s preference for
+in-person communication instead of email. Effective in-person meetings
+draw on many of the same practices as for engagements, including: 
+
+* selecting a meeting location that is accessible to the researcher
+* understanding the full problem or question from a researcher before beginning to pursue solutions
+* clearly communicating and explaining next steps 
+* making sure to follow-up with the researcher, as appropriate
+
+Additionally, and distinct from practices typical to an engagement, it
+is most effective to have a researcher execute a solution for
+themselves, rather than only demonstrating the solution while the
+researcher watches. Assistance meetings (and office hours, below) have
+an added benefit over email communication in that they allow
+Facilitators a unique look into the regular practices and hiccups of ACI
+users when working side-by-side (see Porter et al., 2013, for more on
+pair programming benefits). Furthermore, in-person contact provides many
+more communication context clues, with the visual recognition of facial
+expressions and body language. However, scheduled video and telephone
+calls may be necessary if an in person meeting is problematic (see
+further below).
+
+As a reminder, many scheduled meetings may involve assistance for
+specific tasks and discussion of ACI planning, or may transition from
+one to the other. 
+
+> ## Office hours
+
+> Regularly scheduled office hours are often an effective complement to
+other assistance routes, especially if the assistance conversation may
+not warrant the scheduling of a special meeting but would still benefit
+from in-person communication that might otherwise take multiple emails.
+Furthermore, office hours cater to user preferences for face-to-face
+communication, and allow researchers to drop in without the waiting time
+that may be necessary for a scheduled, dedicated meeting. Office hours
+are most effective when provided at consistent and convenient times, and
+in accessible locations. This may mean that office hours are held at
+different times, on different days of the week, or in different
+locations on different days of the week, in order to maximize the
+likelihood that at least one of the office hours slots and locations
+will work for a given researcher.
+
+> Depending on the popularity of office hours, it may be necessary to have
+multiple facilitators (or similar individuals) at a given session, or to
+have other ACI staff prepared to assist should office hours become too
+busy for a sole person. As office hours are otherwise very similar to
+scheduled meetings in that they are usually executed in a face-to-face
+manner, the best practices of assisting an individual researcher are the
+same for both, while acknowledging the potential need for juggling more
+than one researcher’s concerns at the same time during office hours.
+
+> ## On-demand options (chat, phone, etc.)
+
+> With the popularity of new technologies and social media, there are a 
+number of other routes which have been effectively leveraged for
+providing assistance to researchers needing support. For example, chat
+rooms and messaging services can be leveraged with a hybrid set of best
+practices drawing from email and in-person assistance. Phone calls may
+be effective when email is perceived to be insufficient and when a
+convenient location for in-person assistance is not possible. These and
+other less common routes not discussed here can be implemented,
+according to the Facilitator’s best judgement regarding applicability
+and best practices, drawing on similarities with the
+previously-described routes. 
+
+As technology preferences and other factors shift researcher and
+Facilitators practices toward additional assistance routes, the set of
+most common and recommended routes described here should be amended, but
+with the same goal of providing the most effective support to ACI users.
+Across the various communication pathways for providing assistance, and
+regardless of the purpose of the communication  – follow-up with user,
+resolving user issues, proactive support – there are a number of best
+practices for providing assistance that are covered further below in
+[Effective Communication in Assisting Researchers](#communication). 
+
+<h3>Promoting Awareness of Assistance Routes</h3>
+
+Just as it is important to promote awareness of ACI resources and
+facilitation services to researchers (as described in [Outreach](../02-outreach)), it is
+also essential to adequately document and promote the ways that
+researchers can obtain assistance from Facilitators (and/or other ACI
+staff). Typically, this information can be listed alongside in-house
+learning materials and troubleshooting documentation on a website (see
+[Education and Training of Researchers](../06-education)). For example, it may be effective
+to provide a dedicated web page discussing the routes via which
+assistance can be pursued, and to remind researchers of support
+mechanisms within *other* online documentation pages. Furthermore, the
+options for assistance should also be discussed during engagements and
+in follow-up correspondence, perhaps as part of the ACI Plan
+communicated to the researcher. Additionally, discussion of available
+assistance routes may be included in outreach materials, in part, to
+demonstrate the extent of support for researchers who might need to
+leverage ACI in the future.
 
 Jump to: [top](#toc)
 
