@@ -41,9 +41,9 @@ strive to be as clear as possible, regardless of the assistance route,
 and present solutions that advance a researcher’s own future
 capabilities in using ACI resources. We also discuss the importance of
 translating assistance experiences into improvements to learning
-materials (see also [Education and Training of Researchers](06-education)) and into
+materials (see also [Education and Training of Researchers](../06-education)) and into
 optimization of ACI system capabilities to better meet researcher needs
-(covered in [Interfacing with ACI Resource Providers](09-interface)).
+(covered in [Interfacing with ACI Resource Providers](../09-interface)).
 
 For the purpose of distinguishing the information in this section from
 that in Engaging Researchers, we define “assistance” as the one-to-one
@@ -68,6 +68,153 @@ Jump to: [top](#toc)
 
 <a name="communication"></a>
 <h2>Effective Communication in Assistance Interactions</h2>
+
+Regardless of the assistance route, and in order to establish trust in
+the Facilitator, assistance communication should be clear to the
+researcher and be performed in a professional manner. Furthermore, as
+the primary goal of facilitation is to truly accelerate research,
+assistance strategies should clearly communicate approaches and
+solutions that will enhance each researcher’s capabilities in the use of
+ACI resources and empower the researcher to achieve more into the
+future. We discuss below these overall considerations, which apply to
+multiple assistance contexts covered later in the Assistance section,
+including “Addressing User-reporting Issues”, “Assistance for Non-issue
+Support Requests”, and “Proactive Support”.
+
+As Facilitators will often rely on assistance participation or input
+from other ACI staff, it is crucial that they strive to ensure that
+their fellow ACI staff maintain these same standards of practice when
+communicating with researchers. Often, Facilitators can be a crucial,
+clarifying, and resounding voice by remaining involved when issue
+resolution is taken on by another staff member.
+
+<h3>Professionalism and Empathy in Assistance Communication</h3>
+
+Regardless of the assistance route, it is important to distinguish
+assistance and other communication with researchers from internal-issue
+communication between ACI staff. Doing so fosters better relationships
+and a two-way, “beyond the help desk,” communication culture that is
+more akin to collaboration between colleagues. Such a distinction is
+central to establishing a supportive relationship and is essential to
+the role of Facilitators. Beyond professionalism, a colleague-like
+relationship with researchers is also best achieved by treating
+researchers and their potential misunderstandings with respect and
+empathy.
+
+Because each researcher has a unique background of experience with and
+understanding of ACI concepts, assistance communication should recognize
+this uniqueness and strive to instill confidence of the researcher in
+their own abilities and in the Facilitator. Empathy for the difficulty a
+researcher may face in learning ACI skills is one of the arguments for
+Facilitators themselves to possess experience with implementing ACI
+resources for research projects (see more about peer instruction in
+Crouch and Mazur 2001 and Porter et al 2013). Rather than discouraging
+the researcher from asking questions that they might believe to be
+naive, assistance practices should encourage researchers to seek more
+answers in a combination approach of learning for themselves and being
+comfortable in seeking assistance in the appropriate circumstances.
+
+The importance of professionalism and empathy is often overlooked in
+email communication for user support. It is therefore important to
+follow typical practices for professional email communication, including
+the use of greetings and introducing your name and role in the email
+body and/or closing signature. Good examples of this are shown below,
+under the topics of “Addressing User-Reported Issues” and “Assistance
+for Non-Issue Support Requests”. Even for messages sent via email-based
+issue “ticket” systems, where there may be a tendency to leave out
+greetings and closing statements, it is important to treat communication
+with users with more formalism than the styles culturalized in email
+communication between ACI staff. For this reason, the Facilitator and
+ACI service provider may find it useful to separate internal
+communication from that used to communicate with researchers, perhaps by
+using separate ticket queues. Furthermore, any communication that would
+demean a researcher for misunderstanding or lack of knowledge, or that
+might discourage researchers from pursuing assistance in the future,
+should be strictly avoided.
+
+<h3>Achieving Clarity in Complex Assistance Discussions</h3>
+
+A primary impetus for the assistance role of Facilitators is that
+researchers often benefit significantly by having a translator of
+complex concepts and terminology when learning to effectively utilize
+ACI resources. To this end, Facilitators must strive to find language
+that is already familiar to researchers, *especially* for assistance
+communication. As discussed more thoroughly in [Educating and Training
+Researchers](../06-education), education research indicates that non-experts are more
+effective in teaching concepts that are novel to learners, as teachers
+with greater expertise already possess a more sophisticated
+understanding and set of terminology (see Ambrose 2010 and Dreyfus 2004
+for more discussion on this topic).
+
+Other specific guidelines for clear wording in any communication context are:
+<ul>
+<li>Describe concepts succinctly and in the simplest terms possible. It’s 
+often useful to re-read and consolidate or shorten written information before sending.</li>
+<li>Use specific nouns to identify relevant items and concepts (e.g. “the submit file”, 
+“your software”, “the file transfer rate”), and avoid less-specific pronouns as much 
+as possible (e.g. “it”, “they”, “them”).</li>
+<li>Avoid jargon specific to an expert understanding and strive to find terminology 
+that is familiar to the researcher. For example, use “program” or “software” if 
+the word “executable” is less familiar.</li>
+<li>Avoid overwhelming the researcher with too much new information at once. 
+Please see [Educating and Training Researchers](../06-education) in the Use of ACI, Ambrose 2010,
+ Mayer and Moreno 2003, and Software Carpentry instructor training for more 
+ discussion on concept/cognitive overload.</li>
+<li>When introducing new terminology and ideas, as necessary define terms and 
+provide distinction from other concepts. For example, “the submit file, 
+which will be separate from the BLAST alignment program you wish to run 
+within each job ...”.</li>
+<li>Minimize the use of acronyms by limiting these to terms that are: (1)
+ already familiar to the researcher, and/or (2) have been sufficiently defined 
+ and used previously in non-acronym forms.</li>
+</ul>
+
+Facilitators may benefit from a plethora of existing literature and
+professional development opportunities to develop excellent
+communication skills. In later sections, we elaborate more on assistance
+approaches that are more specific to assisting with issues, reaching
+beyond effective communication to include strategies for selecting
+solutions and recommendations.
+
+<h3>Assistance Strategies that Advance Researcher Capabilities</h3>
+
+As previously stated, a key role of a Facilitator is to enable
+researchers to achieve more for themselves than they might have thought
+possible, and than might have been achievable with a purely help-desk,
+or reactive and issue-focused strategy of support. For the Facilitator,
+this often means pursuing assistance that teaches a research to “fish
+for her/himself”. Rather than directly solving issues for the researcher
+or only suggesting easy to implement, short term solutions, Facilitators
+should strive to identify and recommend solutions that enable
+researchers to accomplish more and to imagine greater research
+possibilities, in the long term. The communication of solutions should
+be presented, as much as possible, as a form of guided
+instruction. (Kirschner 2006)
+
+To achieve the proper balance and to assist researchers in deciding for
+themselves which solutions to pursue in various cases, there are a
+number of specific strategies that effective Facilitators should
+implement. Firstly, it is important to consider various options relative
+to both the researcher’s immediate needs and long-term goals.
+Additionally, the Facilitator should explain reasons for recommending a
+specific solution over others, especially when an easier, but less
+impactful solution may already be apparent. Facilitators should also
+explain their level of confidence in the researcher’s ability to
+implement various approaches or solutions, potentially based upon
+demonstrated success from other research examples, and should provide
+clear suggestions that the researcher can follow to achieve and assess
+stepwise success.
+
+Beyond explaining solutions, Facilitators can also improve the
+researcher’s capabilities by teaching them how to troubleshoot and seek
+answers for themselves in the future. Beyond explaining the
+Facilitator’s thought process in determining appropriate solutions, a
+Facilitator can establish examples of useful information sources,
+including in-house learning materials and information sources (online or
+elsewhere) deemed to be effective and trustworthy by the Facilitator and
+other staff. Additionally, Facilitators can check in proactively when
+issues or optimization opportunities are detected by various ACI staff
+from usage metrics (as described further in [Proactive Support](#proactive)).
 
 Jump to: [top](#toc)
 
@@ -379,11 +526,40 @@ will likely follow more of a casual interview. If the Facilitator has
 specific goals in contacting the researcher, preparing a set of specific
 questions will be helpful. More information on understanding researcher
 attitudes using interview-like interactions is available in 
-[Assessment and Metrics](10-assessment).
+[Assessment and Metrics](../10-assessment).
 
 Jump to: [top](#toc)
 
 <a name="reflection"></a>
 <h2>Reflection on Assistance Experiences</h2>
+
+Over time, Facilitators will most likely identify common needs,
+misunderstandings, issues, etc.. In such instances, Facilitators are
+ideally poised to understand and represent the evolving needs of the
+user community in order to inform future changes to support routes and
+ACI systems that may include:
+
+<ul>
+<li>Changes in practices relevant to engagement and assistance</li>
+<li>Improvements or additions to outreach and education/training approaches 
+and content</li>
+<li>Improvements to and selection of middleware and other mechanisms by which 
+users interact with ACI (e.g., user interfaces, selection of compute scheduling 
+middleware, etc.)</li>
+<li>Configuration adjustments to ACI systems/technology that enhance user 
+outcomes (e.g., enhancements to ACI system availability, optimizations to 
+compute scheduling efficiency, etc.)</li>
+<li>Enhancements to existing ACI resource capabilities and/or capacity</li>
+<li>Policies and cost models governing user access to ACI resources and capacity</li>
+<li>Addition of new ACI resources and capabilities</li>
+</ul>
+
+Importantly, Facilitators need built-in communication pathways and
+working relationships by which feedback regarding the above areas can be
+readily communicated to ACI resource providers and technology
+specialists, as described further in the section on [Interfacing with ACI
+Resource Providers](../09-interface). To the extent that the above ACI changes might be
+informed by measures and systematic evaluation, additional
+considerations are covered in [Assessment and Metrics](../10-assessment).
 
 Jump to: [top](#toc)
