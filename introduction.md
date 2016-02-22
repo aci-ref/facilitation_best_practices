@@ -17,35 +17,34 @@ title: Introduction and Major Ideas
 <a name="goals"></a>
 <h2>Goals, Motivation, and Approach for Establishing Facilitation Best Practices</h2>
 
-TEXT
 
 Jump to [top](#toc)
 
 <a name="whatis"></a>
 <h2>What is Facilitation?</h2>
 
-TEXT
+
 
 <a name="whatis-philosophy"></a>
 <h3>Philosophically</h3>
 
-TEXT
+
 
 <a name="whatis-practice"></a>
 <h3>In Practice</h3>
 
-TEXT
+
 
 <a name="whatis-skills"></a>
 <h3>What Skills and Experience Should Facilitators Possess?</h3>
 
-TEXT
+
 
 Jump to: [top](#toc)
 
 <a name="content"></a>
 <h2>Format and Organization of Remaining Content</h2>
 
-TEXT
+
 
 Jump to: [top](#toc)
