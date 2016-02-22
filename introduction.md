@@ -7,10 +7,10 @@ title: Introduction and Major Ideas
 <a name="toc"></a>
 
 1. [Goals, Motivation, and Approach for Establishing Facilitation Best Practices](#goals)
-2. [What is Facilitation?](#whatis)
-	1. [Philosophically](#whatis-philosophy)
-	2. [In Practice (defining the Major Activities of Facilitation)](#whatis-practice)
-	3. [What Skills and Experience Should Facilitators Possess?](#whatis-skills)
+2. [What is Facilitation?](#whatis)    
+	1.1 [Philosophically](#whatis-philosophy)
+	1.2 [In Practice (defining the Major Activities of Facilitation)](#whatis-practice)
+	1.3 [What Skills and Experience Should Facilitators Possess?](#whatis-skills)
 3. [Format and Organization of Remaining Content](#content)
 
 
