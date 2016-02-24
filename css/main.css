@@ -106,6 +106,7 @@ img {
   text-transform: uppercase;
   font-size: 12px;
   /*letter-spacing: 0px;*/
+  margin-top:100px;
 }
 
 .navbar-custom .navbar-brand,
