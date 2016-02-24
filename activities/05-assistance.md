@@ -41,9 +41,9 @@ strive to be as clear as possible, regardless of the assistance route,
 and present solutions that advance a researcher’s own future
 capabilities in using ACI resources. We also discuss the importance of
 translating assistance experiences into improvements to learning
-materials (see also [Education and Training of Researchers](../06-education)) and into
+materials (see also *Education and Training of Researchers*) and into
 optimization of ACI system capabilities to better meet researcher needs
-(covered in [Interfacing with ACI Resource Providers](../09-interface)).
+(covered in *Interfacing with ACI Resource Providers*).
 
 For the purpose of distinguishing the information in this section from
 that in Engaging Researchers, we define “assistance” as the one-to-one
@@ -84,7 +84,7 @@ the same time, it is a good strategy to avoid having too many routes, so
 as not to overwhelm researchers with the number of choices and so that
 the options are clear to researchers.
 
-> #### Email and email-based ticket systems
+> ### Email and email-based ticket systems
 
 >In comparison to other assistance routes, email is often best for
 >addressing issues that can be easily understood and whose solutions can
@@ -111,7 +111,7 @@ changes occur. Furthermore, the use of individual email addresses often
 leads to confusion between multiple Facilitators when assisting the same
 user(s), over time, and can impede the collection of metrics.
 
-> #### Scheduled appointments
+> ### Scheduled appointments
 
 > There are times when email (or any other assistance route) may be
 insufficient, such that a scheduled, and preferably in-person, meeting
@@ -144,7 +144,7 @@ further below).
 specific tasks *and* discussion of ACI planning, or may transition from
 one to the other. 
 
-> #### Office hours
+> ### Office hours
 
 > Regularly scheduled office hours are often an effective complement to
 other assistance routes, especially if the assistance conversation may
@@ -169,7 +169,7 @@ manner, the best practices of assisting an individual researcher are the
 same for both, while acknowledging the potential need for juggling more
 than one researcher’s concerns at the same time during office hours.
 
-> #### On-demand options (chat, phone, etc.)
+> ### On-demand options (chat, phone, etc.)
 
 > With the popularity of new technologies and social media, there are a 
 number of other routes which have been effectively leveraged for
@@ -196,12 +196,12 @@ practices for providing assistance that are covered further below in
 <h3>Promoting Awareness of Assistance Routes</h3>
 
 Just as it is important to promote awareness of ACI resources and
-facilitation services to researchers (as described in [Outreach](../02-outreach)), it is
+facilitation services to researchers (as described in *Outreach*), it is
 also essential to adequately document and promote the ways that
 researchers can obtain assistance from Facilitators (and/or other ACI
 staff). Typically, this information can be listed alongside in-house
 learning materials and troubleshooting documentation on a website (see
-[Education and Training of Researchers](../06-education)). For example, it may be effective
+*Education and Training of Researchers*). For example, it may be effective
 to provide a dedicated web page discussing the routes via which
 assistance can be pursued, and to remind researchers of support
 mechanisms within *other* online documentation pages. Furthermore, the
@@ -287,8 +287,8 @@ researchers often benefit significantly by having a translator of
 complex concepts and terminology when learning to effectively utilize
 ACI resources. To this end, Facilitators must strive to find language
 that is already familiar to researchers, *especially* for assistance
-communication. As discussed more thoroughly in [Educating and Training
-Researchers](../06-education), education research indicates that non-experts are more
+communication. As discussed more thoroughly in *Educating and Training
+Researchers*, education research indicates that non-experts are more
 effective in teaching concepts that are novel to learners, as teachers
 with greater expertise already possess a more sophisticated
 understanding and set of terminology (see Ambrose 2010 and Dreyfus 2004
@@ -305,7 +305,7 @@ as possible (e.g. “it”, “they”, “them”).</li>
 that is familiar to the researcher. For example, use “program” or “software” if 
 the word “executable” is less familiar.</li>
 <li>Avoid overwhelming the researcher with too much new information at once. 
-Please see [Educating and Training Researchers](../06-education) in the Use of ACI, Ambrose 2010,
+Please see *Educating and Training Researchers* in the Use of ACI, Ambrose 2010,
  Mayer and Moreno 2003, and Software Carpentry instructor training for more 
  discussion on concept/cognitive overload.</li>
 <li>When introducing new terminology and ideas, as necessary define terms and 
@@ -674,7 +674,7 @@ will likely follow more of a casual interview. If the Facilitator has
 specific goals in contacting the researcher, preparing a set of specific
 questions will be helpful. More information on understanding researcher
 attitudes using interview-like interactions is available in 
-[Assessment and Metrics](../10-assessment).
+*Assessment and Metrics*.
 
 Jump to: [top](#toc)
 
@@ -705,9 +705,9 @@ compute scheduling efficiency, etc.)</li>
 Importantly, Facilitators need built-in communication pathways and
 working relationships by which feedback regarding the above areas can be
 readily communicated to ACI resource providers and technology
-specialists, as described further in the section on [Interfacing with ACI
-Resource Providers](../09-interface). To the extent that the above ACI changes might be
+specialists, as described further in the section on *Interfacing with ACI
+Resource Providers*. To the extent that the above ACI changes might be
 informed by measures and systematic evaluation, additional
-considerations are covered in [Assessment and Metrics](../10-assessment).
+considerations are covered in *Assessment and Metrics*.
 
 Jump to: [top](#toc)
