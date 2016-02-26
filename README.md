@@ -17,9 +17,9 @@ order to understand the purpose and method behind this documentation.
 
 There are several ways to contribute: 
 
-* Open an "issue" [here](issues), to describe your suggestion or question. 
-* Submit changes for review using a [pull request](pulls)
-* Fill out a form?  
+* Open an "issue" [here](https://github.com/aci-ref/facilitation_best_practices/issues), to describe your suggestion or question. 
+* Submit changes for review using a [pull request](https://github.com/aci-ref/facilitation_best_practices/pulls)
+* Fill out a form?  Use the wiki?  
 
 ### Website Theme
 
