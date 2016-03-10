@@ -4,7 +4,6 @@ title: Acknowledgements
 #subtitle: intro to document
 ---
 
-
 ![NSF Logo](../img/nsf1.gif) 
 
 We would like to thank the National Science Foundation for its sponsorship of the 
@@ -13,10 +12,10 @@ We would like to thank the National Science Foundation for its sponsorship of th
 this documentation by Facilitators from the below institutions:
 
 <table width="100%"><tr>
-<td width="16%">![Clemson University](../img/clemson.png) </td>
-<td width="16%">![Harvard University](../img/nsf1.gif) </td>
-<td width="16%">![University of Hawai'i](../img/nsf1.gif) </td>
-<td width="16%">![University of Southern California](../img/nsf1.gif) </td>
-<td width="16%">![University of Utah](../img/utah.png) </td>
-<td width="16%">![University of Wisconsin](../wisconsin.png) </td>
+<td width="16%"><img src="../img/clemson.png" alt="Clemson University"></td>
+<td width="16%"><img src="../img/nsf1.gif" alt="Harvard University"></td>
+<td width="16%"><img src="../img/nsf1.gif" alt="University of Hawai'i"></td>
+<td width="16%"><img src="../img/nsf1.gif" alt="University of Southern California"></td>
+<td width="16%"><img src="../img/utah.png" alt="University of Utah"></td>
+<td width="16%"><img src="../wisconsin.png" alt="University of Wisconsin"></td>
 </tr></table>
