@@ -17,5 +17,5 @@ this documentation by Facilitators from the below institutions:
 <td width="16%"><img src="../img/nsf1.gif" alt="University of Hawai'i"></td>
 <td width="16%"><img src="../img/nsf1.gif" alt="University of Southern California"></td>
 <td width="16%"><img src="../img/utah.png" alt="University of Utah"></td>
-<td width="16%"><img src="../wisconsin.png" alt="University of Wisconsin"></td>
+<td width="16%"><img src="../img/wisconsin.png" alt="University of Wisconsin"></td>
 </tr></table>
