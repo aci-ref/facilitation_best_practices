@@ -13,10 +13,10 @@ We would like to thank the National Science Foundation for its sponsorship of th
 this documentation by Facilitators from the below institutions:
 
 <table width="100%"><tr>
-<td width="16%">Clemson</td>
-<td width="16%">Harvard</td>
-<td width="16%">Hawaii</td>
-<td width="16%">USC</td>
-<td width="16%">Utah</td>
-<td width="16%">Wisconsin</td>
+<td width="16%">![Clemson University](../img/clemson.png) </td>
+<td width="16%">![Harvard University](../img/nsf1.gif) </td>
+<td width="16%">![University of Hawai'i](../img/nsf1.gif) </td>
+<td width="16%">![University of Southern California](../img/nsf1.gif) </td>
+<td width="16%">![University of Utah](../img/utah.png) </td>
+<td width="16%">![University of Wisconsin](../wisconsin.png) </td>
 </tr></table>
