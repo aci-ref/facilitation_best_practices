@@ -7,20 +7,20 @@ title: Assisting Researchers in the Use of ACI Resources
 
 1. [Introduction](#introduction)
 2. [Establishing Communication Routes for Providing Assistance](#routes)
-	2.1 [Common Assistance Routes](#routes-common)
-	2.2 [Promoting Awareness of Assistance Routes](#routes-awareness)
+    2.1 [Common Assistance Routes](#routes-common)
+    2.2 [Promoting Awareness of Assistance Routes](#routes-awareness)
 3. [Effective Communication in Assistance Interactions](#communication)
-	3.1 [Professionalism and Empathy in Assistance Communication](#communication-professional)
-	3.2 [Achieving Clarity in Complex Assistance Discussions](#communication-clarity)
-	3.3 [Assistance Strategies that Advance Researcher Capabilities](#communication-advance)
+    3.1 [Professionalism and Empathy in Assistance Communication](#communication-professional)
+    3.2 [Achieving Clarity in Complex Assistance Discussions](#communication-clarity)
+    3.3 [Assistance Strategies that Advance Researcher Capabilities](#communication-advance)
 4. [Addressing User-Reported Issues](#issues)
-	4.1 [Clarify the User's Problem](#issues-clarify)
-	4.2 [Identify Issue(s) and Appropriate Solution(s)](#issues-identify)
-	4.3 [Communicate Next Steps to the User](#issues-communicate)
+    4.1 [Clarify the User's Problem](#issues-clarify)
+    4.2 [Identify Issue(s) and Appropriate Solution(s)](#issues-identify)
+    4.3 [Communicate Next Steps to the User](#issues-communicate)
 5. [Assistance for Non-Issue Support Requests](#non-issue)
-	5.1 [Understand the User's Most Immediate Question(s)](#non-understand)
-	5.2 [Anticipate the Real and Next Questions](#non-anticipate)
-	5.3 [Empower the User to Find Her/His Own Answers](#non-empower)
+    5.1 [Understand the User's Most Immediate Question(s)](#non-understand)
+    5.2 [Anticipate the Real and Next Questions](#non-anticipate)
+    5.3 [Empower the User to Find Her/His Own Answers](#non-empower)
 6. [Proactive Support](#proactive)
 7. [Reflection on Assistance Experiences](#reflection)
 8. [References](#references)
@@ -145,7 +145,7 @@ themselves, rather than only demonstrating the solution while the
 researcher watches. Assistance meetings (and office hours, below) have
 an added benefit over email communication in that they allow
 Facilitators a unique look into the regular practices and hiccups of ACI
-users when working side-by-side (see Porter et al., 2013, for more on
+users when working side-by-side (see [Porter et al., 2013](#references), for more on
 pair programming benefits). Furthermore, in-person contact provides many
 more communication context clues, with the visual recognition of facial
 expressions and body language. However, scheduled video and telephone
@@ -270,7 +270,7 @@ their own abilities and in the Facilitator. Empathy for the difficulty a
 researcher may face in learning ACI skills is one of the arguments for
 Facilitators themselves to possess experience with implementing ACI
 resources for research projects (see more about peer instruction in
-Crouch and Mazur 2001 and Porter et al 2013). Rather than discouraging
+[Crouch and Mazur 2001](#references) and [Porter et al 2013](#references)). Rather than discouraging
 the researcher from asking questions that they might believe to be
 naive, assistance practices should encourage researchers to seek more
 answers in a combination approach of learning for themselves and being
@@ -306,7 +306,8 @@ communication. As discussed more thoroughly in *Educating and Training
 Researchers*, education research indicates that non-experts are more
 effective in teaching concepts that are novel to learners, as teachers
 with greater expertise already possess a more sophisticated
-understanding and set of terminology (see Ambrose 2010 and Dreyfus 2004
+understanding and set of terminology (see [Ambrose 2010](#references) and 
+[Dreyfus 2004](#references)
 for more discussion on this topic).
 
 Other specific guidelines for clear wording in any communication context are:
@@ -353,7 +354,7 @@ should strive to identify and recommend solutions that enable
 researchers to accomplish more and to imagine greater research
 possibilities, in the long term. The communication of solutions should
 be presented, as much as possible, as a form of guided
-instruction. (Kirschner 2006)
+instruction. ([Kirschner 2006](#references))
 
 To achieve the proper balance and to assist researchers in deciding for
 themselves which solutions to pursue in various cases, there are a
