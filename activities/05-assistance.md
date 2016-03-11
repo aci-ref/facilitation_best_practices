@@ -7,15 +7,27 @@ title: Assisting Researchers in the Use of ACI Resources
 
 1. [Introduction](#introduction)
 2. [Establishing Communication Routes for Providing Assistance](#routes)
+	2.1 [Common Assistance Routes](#routes-common)
+	2.2 [Promoting Awareness of Assistance Routes](#routes-awareness)
 3. [Effective Communication in Assistance Interactions](#communication)
+	3.1 [Professionalism and Empathy in Assistance Communication](#communication-professional)
+	3.2 [Achieving Clarity in Complex Assistance Discussions](#communication-clarity)
+	3.3 [Assistance Strategies that Advance Researcher Capabilities](#communication-advance)
 4. [Addressing User-Reported Issues](#issues)
+	4.1 [Clarify the User's Problem](#issues-clarify)
+	4.2 [Identify Issue(s) and Appropriate Solution(s)](#issues-identify)
+	4.3 [Communicate Next Steps to the User](#issues-communicate)
 5. [Assistance for Non-Issue Support Requests](#non-issue)
+	5.1 [Understand the User's Most Immediate Question(s)](#non-understand)
+	5.2 [Anticipate the Real and Next Questions](#non-anticipate)
+	5.3 [Empower the User to Find Her/His Own Answers](#non-empower)
 6. [Proactive Support](#proactive)
 7. [Reflection on Assistance Experiences](#reflection)
+8. [References](#references)
 
 
 <a name="introduction"></a>
-<h2> Introduction</h2>
+<h1> Introduction</h1>
 
 Assisting researchers as they actively use ACI is a key component of
 facilitation, especially if the Facilitator is directly associated with
@@ -36,7 +48,7 @@ to:
 Therefore, an essential component of providing assistance is to
 establish consistent and accessible routes by which users can obtain
 assistance and to establish a set of effective communication practices.
-As described later in this section, assistance communication should
+As described later in this chapter, assistance communication should
 strive to be as clear as possible, regardless of the assistance route,
 and present solutions that advance a researcher’s own future
 capabilities in using ACI resources. We also discuss the importance of
@@ -45,7 +57,7 @@ materials (see also *Education and Training of Researchers*) and into
 optimization of ACI system capabilities to better meet researcher needs
 (covered in *Interfacing with ACI Resource Providers*).
 
-For the purpose of distinguishing the information in this section from
+For the purpose of distinguishing the information in this chapter from
 that in Engaging Researchers, we define “assistance” as the one-to-one
 or one-to-few support of researchers already accessing an ACI resource,
 where the support pertains directly to their specific practices in using
@@ -60,7 +72,7 @@ important avenue by which a researcher may request a new engagement
 meeting. Jump to: [top](#toc)
 
 <a name="routes"></a>
-<h2>Establishing Communication Routes for Providing Assistance</h2>
+<h1>Establishing Communication Routes for Providing Assistance</h1>
 
 To effectively support researchers in their use of ACI resources, a set
 of routes by which researchers can obtain assistance should be
@@ -75,7 +87,8 @@ implementation and applicability of several communication routes for
 providing assistance, and later discuss effective communication
 strategies.
 
-<h3>Common Assistance Routes</h3>
+<a name="routes-common"></a>
+<h2>Common Assistance Routes</h2>
 
 While each of the below communication routes for providing assistance is
 powerful on its own, it is valuable to have multiple routes from which
@@ -84,19 +97,19 @@ the same time, it is a good strategy to avoid having too many routes, so
 as not to overwhelm researchers with the number of choices and so that
 the options are clear to researchers.
 
-> ### Email and email-based ticket systems
+<h3>Email and email-based ticket systems</h3>
 
->In comparison to other assistance routes, email is often best for
->addressing issues that can be easily understood and whose solutions can
->be readily communicated without the need for significant back-and-forth
->conversation. Email contact is also the most common gateway to other
->assistance routes, especially when contact is initiated by the
->Facilitator. Finally, email follow-ups can and should be used after
->providing assistance to a researcher via one of the *other* assistance
->routes, in order to recap the conversation and to document specific
->details that the researcher may not have recorded or remembered.
+In comparison to other assistance routes, email is often best for
+addressing issues that can be easily understood and whose solutions can
+be readily communicated without the need for significant back-and-forth
+conversation. Email contact is also the most common gateway to other
+assistance routes, especially when contact is initiated by the
+Facilitator. Finally, email follow-ups can and should be used after
+providing assistance to a researcher via one of the *other* assistance
+routes, in order to recap the conversation and to document specific
+details that the researcher may not have recorded or remembered.
 
-> Many ACI organizations leverage an email-based ticket or other issue
+Many ACI organizations leverage an email-based ticket or other issue
 tracking system for managing and responding to user support requests.
 This approach typically provides a convenient, single point of access
 for email-based support requests from users, allow a consolidated view
@@ -111,9 +124,9 @@ changes occur. Furthermore, the use of individual email addresses often
 leads to confusion between multiple Facilitators when assisting the same
 user(s), over time, and can impede the collection of metrics.
 
-> ### Scheduled appointments
+<h3>Scheduled appointments</h3>
 
-> There are times when email (or any other assistance route) may be
+There are times when email (or any other assistance route) may be
 insufficient, such that a scheduled, and preferably in-person, meeting
 is necessary. Examples include, but are not limited to, issue
 troubleshooting that would require many back-and-forth emails, instances
@@ -122,12 +135,12 @@ to explain their problem, and even a researcher’s preference for
 in-person communication instead of email. Effective in-person meetings
 draw on many of the same practices as for engagements, including: 
 
-> * selecting a meeting location that is accessible to the researcher
-> * understanding the full problem or question from a researcher before beginning to pursue solutions
-> * clearly communicating and explaining next steps 
-> * making sure to follow-up with the researcher, as appropriate
+* selecting a meeting location that is accessible to the researcher
+* understanding the full problem or question from a researcher before beginning to pursue solutions
+* clearly communicating and explaining next steps 
+* making sure to follow-up with the researcher, as appropriate
 
-> Additionally, and distinct from practices typical to an engagement, it
+Additionally, and distinct from practices typical to an engagement, it
 is most effective to have a researcher execute a solution for
 themselves, rather than only demonstrating the solution while the
 researcher watches. Assistance meetings (and office hours, below) have
@@ -140,13 +153,13 @@ expressions and body language. However, scheduled video and telephone
 calls may be necessary if an in person meeting is problematic (see
 further below).
 
-> As a reminder, many scheduled meetings may involve assistance for
+As a reminder, many scheduled meetings may involve assistance for
 specific tasks *and* discussion of ACI planning, or may transition from
 one to the other. 
 
-> ### Office hours
+<h3>Office hours</h3>
 
-> Regularly scheduled office hours are often an effective complement to
+Regularly scheduled office hours are often an effective complement to
 other assistance routes, especially if the assistance conversation may
 not warrant the scheduling of a special meeting but would still benefit
 from in-person communication that might otherwise take multiple emails.
@@ -160,7 +173,7 @@ locations on different days of the week, in order to maximize the
 likelihood that at least one of the office hours slots and locations
 will work for a given researcher.
 
-> Depending on the popularity of office hours, it may be necessary to have
+Depending on the popularity of office hours, it may be necessary to have
 multiple facilitators (or similar individuals) at a given session, or to
 have other ACI staff prepared to assist should office hours become too
 busy for a sole person. As office hours are otherwise very similar to
@@ -169,9 +182,9 @@ manner, the best practices of assisting an individual researcher are the
 same for both, while acknowledging the potential need for juggling more
 than one researcher’s concerns at the same time during office hours.
 
-> ### On-demand options (chat, phone, etc.)
+<h3>On-demand options (chat, phone, etc.)</h3>
 
-> With the popularity of new technologies and social media, there are a 
+With the popularity of new technologies and social media, there are a 
 number of other routes which have been effectively leveraged for
 providing assistance to researchers needing support. For example, chat
 rooms and messaging services can be leveraged with a hybrid set of best
@@ -193,7 +206,8 @@ resolving user issues, proactive support – there are a number of best
 practices for providing assistance that are covered further below in
 [Effective Communication in Assisting Researchers](#communication). 
 
-<h3>Promoting Awareness of Assistance Routes</h3>
+<a name="routes-awareness"></a>
+<h2>Promoting Awareness of Assistance Routes</h2>
 
 Just as it is important to promote awareness of ACI resources and
 facilitation services to researchers (as described in *Outreach*), it is
@@ -215,7 +229,7 @@ leverage ACI in the future.
 Jump to: [top](#toc)
 
 <a name="communication"></a>
-<h2>Effective Communication in Assistance Interactions</h2>
+<h1>Effective Communication in Assistance Interactions</h1>
 
 Regardless of the assistance route, and in order to establish trust in
 the Facilitator, assistance communication should be clear to the
@@ -225,7 +239,7 @@ assistance strategies should clearly communicate approaches and
 solutions that will enhance each researcher’s capabilities in the use of
 ACI resources and empower the researcher to achieve more into the
 future. We discuss below these overall considerations, which apply to
-multiple assistance contexts covered later in the Assistance section,
+multiple assistance contexts covered below,
 including “Addressing User-reporting Issues”, “Assistance for Non-issue
 Support Requests”, and “Proactive Support”.
 
@@ -236,7 +250,8 @@ communicating with researchers. Often, Facilitators can be a crucial,
 clarifying, and resounding voice by remaining involved when issue
 resolution is taken on by another staff member.
 
-<h3>Professionalism and Empathy in Assistance Communication</h3>
+<a name="communication-professional"></a>
+<h2>Professionalism and Empathy in Assistance Communication</h2>
 
 Regardless of the assistance route, it is important to distinguish
 assistance and other communication with researchers from internal-issue
@@ -280,7 +295,8 @@ demean a researcher for misunderstanding or lack of knowledge, or that
 might discourage researchers from pursuing assistance in the future,
 should be strictly avoided.
 
-<h3>Achieving Clarity in Complex Assistance Discussions</h3>
+<a name="communication-clarity"></a>
+<h2>Achieving Clarity in Complex Assistance Discussions</h2>
 
 A primary impetus for the assistance role of Facilitators is that
 researchers often benefit significantly by having a translator of
@@ -319,12 +335,13 @@ within each job ...”.</li>
 
 Facilitators may benefit from a plethora of existing literature and
 professional development opportunities to develop excellent
-communication skills. In later sections, we elaborate more on assistance
+communication skills. In later sections, below, we elaborate more on assistance
 approaches that are more specific to assisting with issues, reaching
 beyond effective communication to include strategies for selecting
 solutions and recommendations.
 
-<h3>Assistance Strategies that Advance Researcher Capabilities</h3>
+<a name="communication-advance"></a>
+<h2>Assistance Strategies that Advance Researcher Capabilities</h2>
 
 As previously stated, a key role of a Facilitator is to enable
 researchers to achieve more for themselves than they might have thought
@@ -367,7 +384,7 @@ from usage metrics (as described further in [Proactive Support](#proactive)).
 Jump to: [top](#toc)
 
 <a name="issues"></a>
-<h2>Addressing User-Reported Issues</h2>
+<h1>Addressing User-Reported Issues</h1>
 
 Although the nature of issues reported by users of ACI resources will
 vary significantly between resource type, the basic practical steps for
@@ -379,7 +396,8 @@ effort from ACI staff, there are several basic steps for communicating
 solutions and for capitalizing on assistance requests for teaching
 opportunities. 
 
-<h3>Clarify the User’s Problem </h3>
+<a name="issues-clarify"></a>
+<h2>Clarify the User’s Problem </h2>
 
 Assistance-providers may first need to interpret the researcher’s
 reported problem by asking any clarifying questions and by stating the
@@ -390,7 +408,8 @@ requests. If multiple problems were reported, or the Facilitator
 perceives that there may be more than one issue at play, these should be
 stated and addressed, separately.
 
-<h3>Identify Issue(s) and Appropriate Solution(s)</h3>
+<a name="issues-identify"></a>
+<h2>Identify Issue(s) and Appropriate Solution(s)</h2>
 
 After the user’s problem has been clarified, typical problem solving
 steps can be followed to identify the source of the problem and to
@@ -405,7 +424,8 @@ other ACI staff. If a solution is not immediately obvious, and/or
 requires more work, it may be necessary to provide the researcher with
 an update, in order to communicate a potential resolution timeline.
 
-<h3>Communicate Next Steps to the User</h3>
+<a name="issues-communicate"></a>
+<h2>Communicate Next Steps to the User</h2>
 
 After selecting a solution for the issue, the Facilitator should
 communicate this solution to the researcher, making sure to clearly
@@ -474,7 +494,7 @@ Research Computing Facilitator, CHTC
 Jump to: [top](#toc)
 
 <a name="non-issue"></a>
-<h2>Assistance for Non-Issue Support Requests</h2>
+<h1>Assistance for Non-Issue Support Requests</h1>
 
 Often, users may contact Facilitators to discuss questions about ACI
 options, capabilities, and modes of use. Typically these questions
@@ -502,7 +522,8 @@ the first few steps below, and according to practices described in
 examples of email communication for non-issue requests, though the same
 ideas would apply within the context of other assistance route(s).
 
-<h3>Understand the User’s Most-immediate Question(s)</h3>
+<a name="non-understand"></a>
+<h2>Understand the User’s Most-immediate Question(s)</h2>
 
 After receiving a non-issue question from a researcher, it is important
 to fully understand the researcher’s intent and the scope of information
@@ -547,8 +568,8 @@ starting points (variation files).
 ~~~ 
 (continued later...)
 
-
-<h3>Anticipate the Real and Next Questions</h3>
+<a name="non-anticipate"></a>
+<h2>Anticipate the Real and Next Questions</h2>
 
 In some cases, the original question(s) may be limited by the
 researcher’s current knowledge of ACI such that the researcher is
@@ -592,7 +613,8 @@ Michelle
 --------------------------
 ~~~
 
-<h3>Empower the User to Find Her/His Own Answers</h3>
+<a name="non-empower"></a>
+<h2>Empower the User to Find Her/His Own Answers</h2>
 
 As demonstrated in the facilitator’s response above, it is important to
 link to external resources that contain solutions for achieving a
@@ -637,7 +659,7 @@ requests, as needed.
 Jump to: [top](#toc)
 
 <a name="proactive"></a>
-<h2>Proactive Support</h2>
+<h1>Proactive Support</h1>
 
 Proactive user support can be thought of as assistance initiated by the
 Facilitator rather than by a user of an ACI resource. It might be
@@ -660,7 +682,7 @@ A few possible reasons to proactively contact a user are:
 1. Metrics indicate misuse of an ACI resource. 
 2. Metrics indicate that a user’s work may be better optimized. 
 3. A sudden increase in the user’s activity potentially indicates a new type of work with different resource needs to address. 
-4. The Facilitator believes a follow up to previous assistance may be helpful. 
+4. The Facilitator believes a follow up to previous assistance may be helpful, perhaps after reviewing tickets.
 5. The Facilitator may simply want to check in with a long-time user who hasn’t written in with any issues in some time.
 
 If the reason for contacting the researcher is more akin to issue
@@ -679,7 +701,7 @@ attitudes using interview-like interactions is available in
 Jump to: [top](#toc)
 
 <a name="reflection"></a>
-<h2>Reflection on Assistance Experiences</h2>
+<h1>Reflection on Assistance Experiences</h1>
 
 Over time, Facilitators will most likely identify common needs,
 misunderstandings, issues, etc.. In such instances, Facilitators are
@@ -705,9 +727,12 @@ compute scheduling efficiency, etc.)</li>
 Importantly, Facilitators need built-in communication pathways and
 working relationships by which feedback regarding the above areas can be
 readily communicated to ACI resource providers and technology
-specialists, as described further in the section on *Interfacing with ACI
+specialists, as described further in the chapter on *Interfacing with ACI
 Resource Providers*. To the extent that the above ACI changes might be
 informed by measures and systematic evaluation, additional
 considerations are covered in *Assessment and Metrics*.
 
 Jump to: [top](#toc)
+
+<a name="references"></a>
+<h1>References</h1>
