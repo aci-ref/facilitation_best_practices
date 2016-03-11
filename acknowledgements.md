@@ -12,10 +12,10 @@ We would like to thank the National Science Foundation for its sponsorship of th
 this documentation by Facilitators from the below institutions:
 
 <table width="100%"><tr>
-<td width="16%"><img src="../img/clemson.png" alt="Clemson University" height="120px"></td>
-<td width="16%"><img src="../img/harvard.png" alt="Harvard University" height="120px"></td>
-<td width="16%"><img src="../img/hawaii.png" alt="University of Hawai'i" height="120px"></td>
-<td width="16%"><img src="../img/usc.jpg" alt="University of Southern California" height="120px"></td>
-<td width="16%"><img src="../img/utah.png" alt="University of Utah" height="120px"></td>
-<td width="16%"><img src="../img/wisconsin.png" alt="University of Wisconsin" height="120px"></td>
+<td width="16%"><img src="../img/clemson.png" alt="Clemson University"></td>
+<td width="16%"><img src="../img/harvard.png" alt="Harvard University"></td>
+<td width="16%"><img src="../img/hawaii.png" alt="University of Hawai'i"></td>
+<td width="16%"><img src="../img/usc.jpg" alt="University of Southern California"></td>
+<td width="16%"><img src="../img/utah.png" alt="University of Utah"></td>
+<td width="16%"><img src="../img/wisconsin.png" alt="University of Wisconsin"></td>
 </tr></table>
