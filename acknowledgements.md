@@ -13,9 +13,9 @@ this documentation by Facilitators from the below institutions:
 
 <table width="100%"><tr>
 <td width="16%"><img src="../img/clemson.png" alt="Clemson University"></td>
-<td width="16%"><img src="../img/harvard.png" alt="Harvard University"></td>
-<td width="16%"><img src="../img/hawaii.png" alt="University of Hawai'i"></td>
+<td width="16%"><img src="../img/harvard.png" alt="Harvard University" width="60%"></td>
+<td width="16%"><img src="../img/hawaii.png" alt="University of Hawai'i" width="60%"></td>
 <td width="16%"><img src="../img/usc.jpg" alt="University of Southern California"></td>
-<td width="16%"><img src="../img/utah.png" alt="University of Utah"></td>
-<td width="16%"><img src="../img/wisconsin.png" alt="University of Wisconsin"></td>
+<td width="16%"><img src="../img/utah.png" alt="University of Utah" width="75%"></td>
+<td width="16%"><img src="../img/wisconsin.png" alt="University of Wisconsin" width="80%"></td>
 </tr></table>
