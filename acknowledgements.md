@@ -5,7 +5,8 @@ title: Acknowledgements
 ---
 
 <center><img width="100px" src="../img/nsf1.gif" alt="NSF Logo"></center>
-</br>
+
+
 We would like to thank the National Science Foundation for its sponsorship of the 
 <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1341935">ACI-REF project 
 (Award #1341935)</a>, including funding for the contributions to 
