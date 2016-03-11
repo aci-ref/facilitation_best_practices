@@ -25,7 +25,6 @@ title: Assisting Researchers in the Use of ACI Resources
 7. [Reflection on Assistance Experiences](#reflection)
 8. [References](#references)
 
-
 <a name="introduction"></a>
 <h1> Introduction</h1>
 
@@ -736,3 +735,17 @@ Jump to: [top](#toc)
 
 <a name="references"></a>
 <h1>References</h1>
+
+Ambrose, Susan A. *How Learning Works: Seven Research-based Principles for Smart Teaching.* San Francisco, CA: Jossey-Bass, 2010. Print.
+
+Crouch, Catherine H., and Eric Mazur. "Peer Instruction: Ten Years of Experience and Results." *Am. J. Phys. American Journal of Physics* 69.9 (2001): 970. Print.
+
+Dreyfus, Stuart E. "The Five-Stage Model of Adult Skill Acquisition." *Bull Sci Technol Soc Bulletin of Science, Technology and Society* 24.3 (2004): 177-81. Print.
+
+Kirschner, Paul A., John Sweller, and Richard E. Clark. "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching." *Educational Psychologist* 41.2 (2006): 75-86. Print.
+
+Mayer, Richard E., and Roxana Moreno. "Nine Ways to Reduce Cognitive Load in Multimedia Learning." *Educational Psychologist* 38.1 (2003): 43-52. Print.
+
+Porter, Leo, Mark Guzdial, Charlie Mcdowell, and Beth Simon. "Success in Introductory Programming." *Communications of the ACM Commun.* ACM 56.8 (2013): 34. Print.
+
+*Software Carpentry*. Place of Publication Not Identified: Book On Demand, 2013. Print.
