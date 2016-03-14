@@ -329,28 +329,6 @@ understanding and set of terminology (see [^4] and
 for more discussion on this topic).
 
 Other specific guidelines for clear wording in any communication context are:
-<ul>
-<li>Describe concepts succinctly and in the simplest terms possible. It’s 
-often useful to re-read and consolidate or shorten written information before sending.</li>
-<li>Use specific nouns to identify relevant items and concepts (e.g. “the submit file”, 
-“your software”, “the file transfer rate”), and avoid less-specific pronouns as much 
-as possible (e.g. “it”, “they”, “them”).</li>
-<li>Avoid jargon specific to an expert understanding and strive to find terminology 
-that is familiar to the researcher. For example, use “program” or “software” if 
-the word “executable” is less familiar.</li>
-<li>Avoid overwhelming the researcher with too much new information at once. 
-Please see *Educating and Training Researchers* in the Use of ACI, [^6],
- [^7], and [^8] for more 
- discussion on concept/cognitive overload.</li>
-<li>When introducing new terminology and ideas, as necessary define terms and 
-provide distinction from other concepts. For example, “the submit file, 
-which will be separate from the BLAST alignment program you wish to run 
-within each job ...”.</li>
-<li>Minimize the use of acronyms by limiting these to terms that are: (1)
- already familiar to the researcher, and/or (2) have been sufficiently defined 
- and used previously in non-acronym forms.</li>
-</ul>
-
 
 * Describe concepts succinctly and in the simplest terms possible. It’s 
 often useful to re-read and consolidate or shorten written information before sending.
@@ -371,7 +349,6 @@ within each job ...”.
 * Minimize the use of acronyms by limiting these to terms that are: (1)
  already familiar to the researcher, and/or (2) have been sufficiently defined 
  and used previously in non-acronym forms.
-
 
 Facilitators may benefit from a plethora of existing literature and
 professional development opportunities to develop excellent
