@@ -9,18 +9,20 @@ title: Assisting Researchers in the Use of ACI Resources
 2. [Establishing Communication Routes for Providing Assistance](#routes)
 
     2.1 [Common Assistance Routes](#routes-common)
+    
     2.2 [Promoting Awareness of Assistance Routes](#routes-awareness)
 
 3. [Effective Communication in Assistance Interactions](#communication)
-
     3.1 [Professionalism and Empathy in Assistance Communication](#communication-professional)
+    
     3.2 [Achieving Clarity in Complex Assistance Discussions](#communication-clarity)
+    
     3.3 [Assistance Strategies that Advance Researcher Capabilities](#communication-advance)
-
 4. [Addressing User-Reported Issues](#issues)
-
     4.1 [Clarify the User's Problem](#issues-clarify)
+    
     4.2 [Identify Issue(s) and Appropriate Solution(s)](#issues-identify)
+    
     4.3 [Communicate Next Steps to the User](#issues-communicate)
 
 5. [Assistance for Non-Issue Support Requests](#non-issue)
