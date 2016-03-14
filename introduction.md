@@ -132,6 +132,8 @@ researchers based upon common research goals and/or uses of cyberinfrastructure<
 sharing of expertise</li>
 </ul>
 
+</br>
+
 <h4>Facilitation is NOT...</h4>
 
 Though the above activities are within the defined scope of Facilitation
