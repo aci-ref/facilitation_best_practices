@@ -339,8 +339,8 @@ as possible (e.g. “it”, “they”, “them”).</li>
 that is familiar to the researcher. For example, use “program” or “software” if 
 the word “executable” is less familiar.</li>
 <li>Avoid overwhelming the researcher with too much new information at once. 
-Please see *Educating and Training Researchers* in the Use of ACI, [^7],
- [^8], and [^9] for more 
+Please see *Educating and Training Researchers* in the Use of ACI, [^6],
+ [^7], and [^8] for more 
  discussion on concept/cognitive overload.</li>
 <li>When introducing new terminology and ideas, as necessary define terms and 
 provide distinction from other concepts. For example, “the submit file, 
@@ -372,7 +372,7 @@ should strive to identify and recommend solutions that enable
 researchers to accomplish more and to imagine greater research
 possibilities, in the long term. The communication of solutions should
 be presented, as much as possible, as a form of guided
-instruction.[^6]
+instruction.[^9]
 
 To achieve the proper balance and to assist researchers in deciding for
 themselves which solutions to pursue in various cases, there are a
@@ -756,17 +756,17 @@ Jump to: [top](#toc)
 <h1>References</h1>
 
 [^4]: Ambrose, Susan A. *How Learning Works: Seven Research-based Principles for Smart Teaching.* San Francisco, CA: Jossey-Bass, 2010. Print.
-[^7]: 
+[^6]: Ambrose, Susan A. *How Learning Works: Seven Research-based Principles for Smart Teaching.* San Francisco, CA: Jossey-Bass, 2010. Print.
 
 [^2]: Crouch, Catherine H., and Eric Mazur. "Peer Instruction: Ten Years of Experience and Results." *Am. J. Phys. American Journal of Physics* 69.9 (2001): 970. Print.
 
 [^5]: Dreyfus, Stuart E. "The Five-Stage Model of Adult Skill Acquisition." *Bull Sci Technol Soc Bulletin of Science, Technology and Society* 24.3 (2004): 177-81. Print.
 
-[^6]: Kirschner, Paul A., John Sweller, and Richard E. Clark. "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching." *Educational Psychologist* 41.2 (2006): 75-86. Print.
+[^9]: Kirschner, Paul A., John Sweller, and Richard E. Clark. "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching." *Educational Psychologist* 41.2 (2006): 75-86. Print.
 
-[^8]: Mayer, Richard E., and Roxana Moreno. "Nine Ways to Reduce Cognitive Load in Multimedia Learning." *Educational Psychologist* 38.1 (2003): 43-52. Print.
+[^7]: Mayer, Richard E., and Roxana Moreno. "Nine Ways to Reduce Cognitive Load in Multimedia Learning." *Educational Psychologist* 38.1 (2003): 43-52. Print.
 
 [^1]: Porter, Leo, Mark Guzdial, Charlie Mcdowell, and Beth Simon. "Success in Introductory Programming." *Communications of the ACM Commun.* ACM 56.8 (2013): 34. Print.
 [^3]: Porter, Leo, Mark Guzdial, Charlie Mcdowell, and Beth Simon. "Success in Introductory Programming." *Communications of the ACM Commun.* ACM 56.8 (2013): 34. Print.
 
-[^9]: *Software Carpentry*. Place of Publication Not Identified: Book On Demand, 2013. Print.
+[^8]: *Software Carpentry*. Place of Publication Not Identified: Book On Demand, 2013. Print.
