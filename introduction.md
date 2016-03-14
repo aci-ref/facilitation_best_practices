@@ -129,9 +129,9 @@ to anticipate and advocate for necessary technology and human resources in the l
 researchers based upon common research goals and/or uses of cyberinfrastructure</li>
 <li>Researching and understanding new ACI resources and capabilities</li>
 <li>Partnering with staff at other institutions and organizations to promote the 
-sharing of expertise.</li>
+sharing of expertise</li>
 </ul>
-</br>
+
 <h4>Facilitation is NOT...</h4>
 
 Though the above activities are within the defined scope of Facilitation
