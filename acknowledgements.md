@@ -9,8 +9,8 @@ title: Acknowledgements
 
 We would like to thank the National Science Foundation for its sponsorship of the 
 <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1341935">ACI-REF project 
-(Award #1341935)</a>, including funding for the contributions to 
-this documentation by Facilitators from the below institutions:
+(Award #1341935)</a>, including funding for Facilitators from the below institutions, 
+who have contributed to the initial content and ongoing maintenance of this documentation:
 
 <table width="100%"><tr>
 <td width="16%" align="center"><img src="../img/clemson.png" alt="Clemson University"></td>

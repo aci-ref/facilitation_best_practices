@@ -6,7 +6,7 @@ title: Introduction and Major Ideas
 
 <a name="toc"></a>
 
-1. [Goals, Motivation, and Approach for Establishing Facilitation Best Practices](#goals)
+1. [Goals, Motivation, and Approach for Facilitation Best Practices Documentation](#goals)
 2. [What is Facilitation?](#whatis)    
 	2.1 [Philosophically](#whatis-philosophy)    
 	2.2 [In Practice (defining the Major Activities of Facilitation)](#whatis-practice)    
@@ -17,72 +17,78 @@ title: Introduction and Major Ideas
 <a name="goals"></a>
 <h2>Goals, Motivation, and Approach for Establishing Facilitation Best Practices</h2>
 
-With a focus on truly accelerating scientific discovery, the NSF-funded
+With a focus on truly accelerating scientific discovery, the
 <a href="http://aci-ref.org">ACI-REF (Advanced Cyberinfrastructure - Research and Education
-Facilitators) project</a> is changing the way that campuses approach
-cyberinfrastructure solutions and support for scholarship. ACI-REF
-facilitators (“ACI-REFs”) possessing significant interpersonal skills
-and cyberinfrastructure-dependent research experience provide proactive
-and personalized consulting to help researchers identify the greatest
-potential impacts to their projects. Rather than possessing significant
-depth of expertise in computation themselves, ACI-REFs leverage a
-network of IT staff and their expertise to translate technical
-information regarding a range of cyberinfrastructure solutions for
-researchers via various engagement, teaching, and relationship-building
-activities. Through a ‘teach-to-fish’ approach, dedicated ACI-REFs have
-<a href="https://aciref.rc.fas.harvard.edu/category/impact/">enabled significant 
-and previously unimagined scholarship outcomes</a>
-across a variety of research domains.
+Facilitators) project</a> is changing the way that campuses approach cyberinfrastructure 
+solutions and support for scholarship. ACI-REF facilitators (“ACI-REFs”) possessing 
+significant interpersonal skills and cyberinfrastructure-dependent research experience 
+provide proactive and personalized consulting to help researchers identify the greatest 
+potential impacts to their projects. Rather than requiring significant depth of expertise 
+in computing or IT, themselves, ACI-REFs leverage a network of IT staff and their expertise 
+to translate technical and procedural information into ACI solutions for researchers via 
+various engagement, teaching, and relationship-building activities. Through a 
+‘teach-to-fish’ approach, dedicated ACI-REFs have enabled
+<a href="https://aciref.rc.fas.harvard.edu/category/impact/">significant 
+and previously unimagined scholarship outcomes</a> across a variety of research domains.
 
-As a project, ACI-REF hopes to bring the successful practices of
-“facilitation” to other academic institutions and interested entities,
-and across many types of cyberinfrastructure, by documenting the best
-practices of ACI facilitation in this online website. For simplicity,
-and because we hope that these best practices will generalize beyond the
-institutions within the ACI-REF project, we refer to “Facilitators”
-rather than “ACI-REFs” throughout the remaining *Facilitation Best
-Practices* content.
+As a project, ACI-REF hopes to bring the successful practices of “facilitation” 
+to other academic institutions and interested entities, and across many types 
+of cyberinfrastructure, by documenting the best practices of ACI facilitation, 
+herein. For simplicity, and because we hope that these best practices will 
+generalize beyond the institutions within the ACI-REF project, we refer to 
+“Facilitators” rather than “ACI-REFs” throughout the remaining *Facilitation 
+Best Practices* content.
 
 In particular, we hope that the documentation herein will achieve the
-following to enhance the impact of ACI services for scholarship: 
+following goals and enhance the impact of ACI services for scholarship: 
 
 <ul>
-<li>demonstrate the mechanisms by which effective facilitation leads to 
+<li>describe the mechanisms by which effective facilitation leads to 
 positive impacts on scholarship</li>
-<li>assist supervisors in integrating, hiring for, and evaluating the Facilitator role</li>
 <li>inform the professional development of Facilitators</li>
+<li>assist supervisors in integrating, hiring for, and evaluating the Facilitator role</li>
 <li>refine the activities of other staff whose roles require aspects of facilitation</li>
 </ul>
 
 In the following portions of the *Introduction*, we define facilitation
-and Facilitators to establish goals of impact for Facilitators as
+and establish goals of impact for Facilitators as
 compared to other traditional ACI staffing roles. Based upon this
 philosophical description, we establish the major categories of
-facilitation practices, referred to as Major Activities of Facilitation,
+facilitation practices, referred to as *Major Activities of Facilitation*,
 and discuss implications for the necessary skills and background of
 effective Facilitators. Thus, the majority of the *Facilitation Best
 Practices* documentation is presented as chapters (1-10) describing
 specific considerations and approaches for each activity. The entire set
-of documentation is also accompanied by *Definitions* of key terms and an
+of documentation is also accompanied by *Key Terms and Definitions* of key terms and an
 *Appendix* with supplementary materials that are referred to within the
 chapters.
 
 Importantly, the best practices established in this documentation are
-meant to be continually revised, leveraging perspectives not only from
-the ACI-REF project but also from an increasing number of institutions
-which implement facilitation practices. We also acknowledge that many
+meant to be continually revised, leveraging perspectives not only from 
+the institutions contributing to the ACI-REF project but also from the 
+increasing number of institutions implementing facilitation practices. 
+We also acknowledge that many
 institutions may implement Facilitator roles within a variety of
 contexts. For example, some Facilitators may assist a variety of
 researchers with the use of a specific ACI resource, such as an
 institutional, large-scale (“HPC”) computing center, centralized network
 infrastructure, or data management service. Other Facilitators may be
-more closely associated with a specific subset of researchers needing an
-ACI resource, perhaps for a specific department, college, or research
+more closely associated with a specific subset of researchers, perhaps 
+for a specific department, college, or research
 domain, and will more generally consult on the use of a variety of ACI
-resource types. Across such a palette of facilitators and
-specialization, we acknowledge that some of the various *Major Activities*
+resource types for methods *specific* to the research domain. Across 
+such a palette of facilitators and
+specialization, we acknowledge that the *Major Activities*
 described herein will contribute in varying degrees to any single
 Facilitator’s specific goals and practices.
+
+There are a number of other specific interpretations of the “facilitator” 
+term with accompanying documentation of best practices. Some of these 
+refer more generally to the facilitation of group efforts in professional 
+environments and other contexts. The documentation, has significant 
+overlaps with other literature on "facilitators", and Facilitators of ACI 
+resources for research might also benefit from considering these 
+additional resources.
 
 Jump to [top](#toc)
 
@@ -93,11 +99,11 @@ Jump to [top](#toc)
 <a name="whatis-philosophy"></a>
 <h3>Philosophically</h3>
 
-<h4>Facilitation is ...</h4>
+<h4><i>Facilitation is ...</i></h4>
 
 While many Facilitators spend their time on a variety of tasks that are
 essential to providing ACI resources to research communities, the
-activities of Facilitation are best represented in the below items.
+activities of Facilitation are best represented in the below goals.
 Versus other ACI-related roles, a key component of Facilitation is to
 assist researchers in leveraging ACI resources for themselves, rather
 than performing research tasks on ACI systems for or as a contributor to
@@ -111,26 +117,30 @@ and beyond</li>
 <li>Consulting with researchers on the integration of ACI resources for 
 the greatest impact to their scholarship, including the personalized 
 selection of approaches, processes, and tools</li>
-<li>Help researchers to identify</li>
+<li>Helping researchers to select from various analytical methods and 
+third-party tools, considering validity, ease-of-use, and scalability</li>
 <li>Training and assisting researchers to help them optimally leverage ACI 
 capabilities into the future</li>
 <li>Representing the user perspective to ACI service providers to 
 inform short-term responsive changes and improvements to ACI resources</li>
 <li>Understanding the evolving ACI needs of the research community, in order 
-to anticipate and advocate for necessary technology advancements in the long-term.</li>
+to anticipate and advocate for necessary technology and human resources in the long-term</li>
 <li>Identifying and matchmaking potential collaborations between 
-researchers based upon common research goals and/or uses of cyberinfrastructure.</li>
+researchers based upon common research goals and/or uses of cyberinfrastructure</li>
 <li>Researching and understanding new ACI resources and capabilities</li>
-<li>Partnering with staff at other institutions/organizations to promote the 
-sharing of expertise.</li>
+<li>Partnering with staff at other institutions and organizations to promote the 
+sharing of expertise</li>
 </ul>
-</br>
-<h4>Facilitation is NOT...</h4>
+
+Many of the above goals are enabled by the *Major Activities of Facilitation*, defined 
+further below under *In Practice*.
+
+<h4><i>Facilitation is NOT...</i></h4>
 
 Though the above activities are within the defined scope of Facilitation
-throughout the handbook, many Facilitators may spend time on additional
+throughout this documentation, many Facilitators may spend time on additional
 activities that are *not* within the defined scope of Facilitation and
-that are not described within the handbook. Examples of such activities
+that are not described . Examples of such activities
 include, but are certainly not limited to:
 
 <ul>
@@ -150,7 +160,8 @@ testing/validating recommendations (better defined as Researcher,
 <a name="whatis-practice"></a>
 <h3>In Practice</h3>
 
-*(Further Elaborated in “Major Activities”)*
+The bulk of the documenation of best practices lies within chapters for 
+each of the below *Major Activities of Facilitation*.
 
 <h4>Getting Established</h4>
 <i>Defining one’s role, including expectations of institutional support 
@@ -213,10 +224,9 @@ and groups, changes in user demographics over time, etc.</i>
 <h3>What Traits and Professional Background Should Facilitators Possess?</h3>
 
 Based upon the major activities described above, there are a variety of
-skills, traits, and experiences important to serving as a Facilitator.
+specific skills, traits, and experiences important for serving as a Facilitator.
 Thus, individuals acting as Facilitators will be most effective if they
-already possess as many of the below skills, experiences, and qualities
-as possible. Importantly, some of the important knowledge pertaining to
+already possess the qualities listed below. However, some of the knowledge pertaining to
 the below qualities can also be picked up as a new Facilitator comes
 into their role.	
 
