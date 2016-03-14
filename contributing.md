@@ -23,7 +23,7 @@ All html pages are generated from plain-text Markdown (.md) files for easy editi
 contribution of suggested changes via pull requests. You can:
 
 * Open a "[New Issue](https://help.github.com/articles/creating-an-issue/)", to describe your suggestion or question. 
-* [Fork](https://help.github.com/articles/fork-a-repo/) the "[facilitation-best-practices](https://github.com/aci-ref/facilitation_best_practices)" repository to your own GitHub account, make edits, and then submit a new [New Pull Request](https://github.com/aci-ref/facilitation_best_practices/pulls)
+* [Fork](https://help.github.com/articles/fork-a-repo/) the "[facilitation-best-practices](https://github.com/aci-ref/facilitation_best_practices)" repository to your own GitHub account, make edits, and then submit a new "[New Pull Request](https://github.com/aci-ref/facilitation_best_practices/pulls)"
 
 <h4><i>For those less familiar with GitHub</i></h4>
 Please send an email to ACIREF-OUTREACH@lists.clemson.edu to discuss your 
