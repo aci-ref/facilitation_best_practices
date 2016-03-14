@@ -103,7 +103,7 @@ Jump to [top](#toc)
 
 While many Facilitators spend their time on a variety of tasks that are
 essential to providing ACI resources to research communities, the
-activities of Facilitation are best represented in the below items.
+activities of Facilitation are best represented in the below goals.
 Versus other ACI-related roles, a key component of Facilitation is to
 assist researchers in leveraging ACI resources for themselves, rather
 than performing research tasks on ACI systems for or as a contributor to
@@ -131,7 +131,10 @@ researchers based upon common research goals and/or uses of cyberinfrastructure<
 <li>Partnering with staff at other institutions and organizations to promote the 
 sharing of expertise</li>
 </ul>
-<br />
+
+Many of the above goals are enabled by the *Major Activities of Facilitation*, defined 
+further below under *In Practice*.
+
 <h4>Facilitation is NOT...</h4>
 
 Though the above activities are within the defined scope of Facilitation
