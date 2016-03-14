@@ -93,7 +93,7 @@ additional resources.
 Jump to [top](#toc)
 
 <a name="whatis"></a>
-<h2>What is Facilitation?</h2>
+<h2><i>What is Facilitation?</i></h2>
 
 
 <a name="whatis-philosophy"></a>
@@ -135,7 +135,7 @@ sharing of expertise</li>
 Many of the above goals are enabled by the *Major Activities of Facilitation*, defined 
 further below under *In Practice*.
 
-*<h4>Facilitation is NOT...</h4>*
+<h4><i>Facilitation is NOT...</i></h4>
 
 Though the above activities are within the defined scope of Facilitation
 throughout this documentation, many Facilitators may spend time on additional
