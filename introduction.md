@@ -99,7 +99,7 @@ Jump to [top](#toc)
 <a name="whatis-philosophy"></a>
 <h3>Philosophically</h3>
 
-<i><h4>Facilitation is ...</h4></i>
+*<h4>Facilitation is ...</h4>*
 
 While many Facilitators spend their time on a variety of tasks that are
 essential to providing ACI resources to research communities, the
