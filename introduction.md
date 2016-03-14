@@ -82,6 +82,14 @@ specialization, we acknowledge that the *Major Activities*
 described herein will contribute in varying degrees to any single
 Facilitator’s specific goals and practices.
 
+There are a number of other specific interpretations of the “facilitator” 
+term with accompanying documentation of best practices. Some of these 
+refer more generally to the facilitation of group efforts in professional 
+environments and other contexts. The documentation, has significant 
+overlaps with other literature on "facilitators", and Facilitators of ACI 
+resources for research might also benefit from considering these 
+additional resources.
+
 Jump to [top](#toc)
 
 <a name="whatis"></a>
