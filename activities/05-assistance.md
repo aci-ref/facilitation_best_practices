@@ -6,13 +6,9 @@ title: Assisting Researchers in the Use of ACI Resources
 <a name="toc"></a>
 
 1. [Introduction](#introduction)
-
-2. [Establishing Communication Routes for Providing Assistance](#routes)
-
-    2.1 [Common Assistance Routes](#routes-common)
-    
-    2.2 [Promoting Awareness of Assistance Routes](#routes-awareness)
-
+2. [Establishing Communication Routes for Providing Assistance](#routes) ^
+    2.1 [Common Assistance Routes](#routes-common) ^
+    2.2 [Promoting Awareness of Assistance Routes](#routes-awareness) ^
 3. [Effective Communication in Assistance Interactions](#communication)
 
     3.1 [Professionalism and Empathy in Assistance Communication](#communication-professional)
