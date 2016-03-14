@@ -130,10 +130,8 @@ researchers based upon common research goals and/or uses of cyberinfrastructure<
 <li>Researching and understanding new ACI resources and capabilities</li>
 <li>Partnering with staff at other institutions and organizations to promote the 
 sharing of expertise</li>
-</ul>   
-
+</ul>
 <br />
-
 <h4>Facilitation is NOT...</h4>
 
 Though the above activities are within the defined scope of Facilitation
