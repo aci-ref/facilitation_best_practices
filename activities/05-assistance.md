@@ -153,7 +153,7 @@ themselves, rather than only demonstrating the solution while the
 researcher watches. Assistance meetings (and office hours, below) have
 an added benefit over email communication in that they allow
 Facilitators a unique look into the regular practices and hiccups of ACI
-users when working side-by-side (see [Porter et al., 2013](#references), for more on
+users when working side-by-side (see [^1], for more on
 pair programming benefits). Furthermore, in-person contact provides many
 more communication context clues, with the visual recognition of facial
 expressions and body language. However, scheduled video and telephone
@@ -755,6 +755,6 @@ Kirschner, Paul A., John Sweller, and Richard E. Clark. "Why Minimal Guidance Du
 
 Mayer, Richard E., and Roxana Moreno. "Nine Ways to Reduce Cognitive Load in Multimedia Learning." *Educational Psychologist* 38.1 (2003): 43-52. Print.
 
-Porter, Leo, Mark Guzdial, Charlie Mcdowell, and Beth Simon. "Success in Introductory Programming." *Communications of the ACM Commun.* ACM 56.8 (2013): 34. Print.
+[^1]: Porter, Leo, Mark Guzdial, Charlie Mcdowell, and Beth Simon. "Success in Introductory Programming." *Communications of the ACM Commun.* ACM 56.8 (2013): 34. Print.
 
 *Software Carpentry*. Place of Publication Not Identified: Book On Demand, 2013. Print.
