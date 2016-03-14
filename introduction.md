@@ -249,8 +249,3 @@ Jump to: [top](#toc)
 Learn more about [Contributing](../contributing).
 
 Jump to: [top](#toc)
-
-<a name="acknowledgements"></a>
-<h2>Acknowledgements</h2>
-
-Jump to: [top](#toc)
