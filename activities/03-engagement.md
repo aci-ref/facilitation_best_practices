@@ -13,7 +13,7 @@ Record-keeping of engagements and following up.*
     2.1 [Preparing for the Meeting](#prepare)    
     2.2 [During the Meeting](#during)    
     2.3 [Concluding the Meeting](#conclude)   
-3. [Finding Engagements](#finding) 
+3. [Finding Engagement Opportunities](#finding) 
 4. [Record Keeping of User Interactions](#records)    
     4.1 [Establishing Processes and Procedures](#records-procedures)    
     4.2 [Implementation](#records-implement)    
@@ -73,9 +73,10 @@ resources is a good idea, as it serves as an introduction of the
 Facilitator and the role of facilitation to the researcher.
 
 The remaining sections will address best practices for successful
-engagements. *Overview of an Engagement Meeting* describes how to
+engagements. [Overview of an Engagement Meeting](#overview) describes how to
 prepare for a meeting, what to consider during the meeting, and how to
-conclude a meeting. *Tracking Interactions* focuses on the procedures,
+conclude a meeting. [Record Keeping of User Interactions](#records) 
+focuses on the procedures,
 policies and tools needed to effectively manage engagements, and
 includes guidelines on documenting user interactions and measuring the
 engagement process. 
@@ -96,13 +97,9 @@ The impetus of initial engagements vary between institutions, and even
 between departments within an institution, but commonly they arise from:
 
 * requests for access to ACI resources
-
 * training workshop follow-ups
-
 * new faculty on-boarding sessions
-
 * as assistance for an issue related to use of a ACI resource
-
 * referrals from other IT personnel, departments, or other researchers
 
 The product of this meeting should be an course of action -- an ACI plan
@@ -154,25 +151,35 @@ in Figure 1.
 
 <table>
   <tr>
-    <td>What are your current research projects?
-What are the timelines of the projects?
-What hardware resources are you currently using for computation? 
-Do these meet your computational needs? 
-Are there things you can’t do with your current resource that you would like to? 
-(E.g., can you evaluate all the data you want to at the scale you want?)
-Are you interested in using other resources? 
-(E.g., our local cluster or national resources.)
-What software programs, packages, etc. are you using for your research?
-Are there existing issues/limitations with the current software?
-Is there software you would like to use? Is there a reason you are not currently using it?
-What resource are you using for storage?
-How much storage are you using?
-How much storage will you need?
-Are there any roadblocks to the use of computation resources in your current research?
-Network issues?
-Knowledge/expertise?
-Hardware?
-Where do you see your research going in the future?</td>
+    <td>
+<ol>
+<li>What are your current research projects?
+<ol>
+  <li>What are the timelines of the projects?</li>  </ol></li>
+<li> What hardware resources are you currently using for computation? 
+<ol>
+  <li>Do these meet your computational needs? </li>
+  <li>Are there things you can’t do with your current resource that you would like to? 
+(E.g., can you evaluate all the data you want to at the scale you want?)</li>
+  <li>Are you interested in using other resources? 
+(E.g., our local cluster or national resources.)</li>  </ol></li>
+<li> What software programs, packages, etc. are you using for your research?
+<ol>
+  <li>Are there existing issues/limitations with the current software?</li>
+  <li>Is there software you would like to use? Is there a reason you are not currently using it?</li>
+  </ol></li>
+<li>What resource are you using for storage?
+<ol>
+  <li>How much storage are you using?</li>
+  <li>How much storage will you need?</li> </ol></li>
+<li>Are there any roadblocks to the use of computation resources in your current research?
+<ol>
+  <li>Network issues?</li>
+  <li>Knowledge/expertise?</li>
+  <li>Hardware?</li>  </ol></li>
+<li>Where do you see your research going in the future?</li>
+</ol>
+	</td>
   </tr>
 </table>
 
@@ -255,7 +262,7 @@ are not familiar to almost anyone else, and be proactive about
 explaining these terms as you use them. Jargon changes over time and can
 mean different things within different disciplines.
 
-9. **_Research first, ACI second. _**It is easy to get carried away when
+9. **_Research first, ACI second_**. It is easy to get carried away when
 describing all your awesome ACI resources. Keep this urge in check while
 you focus on determining the research objectives and goals. 
 
