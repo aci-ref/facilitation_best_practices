@@ -21,6 +21,7 @@ Record-keeping of engagements and following up.*
 
 
 <a name="introduction"></a>
+
 # Introduction
 
 One of the main duties of a Facilitator is meeting with researchers in
@@ -80,6 +81,7 @@ includes guidelines on documenting user interactions and measuring the
 engagement process. 
 
 <a name="overview"></a>
+
 # Overview of an Engagement Meeting
 
 A Facilitator is charged with broadening the usage of ACI resources as
@@ -116,6 +118,7 @@ conversations as part of the official record (see [Record Keeping of
 User Interactions](#records)). 
 
 <a name="prepare"></a>
+
 ## Preparing for the Meeting
 
 The initial meeting is an opportunity for the Facilitator to make a good
@@ -207,6 +210,7 @@ work at a large resource-providing institution, it is to the benefit of
 researchers to be made aware of all existing ACI resources available.
 
 <a name="during"></a>
+
 ## During the Meeting
 
 One cannot underestimate the importance of the first face-to-face
@@ -263,6 +267,7 @@ your Facilitators network such as ACI-REF and Campus Champions when you
 have questions that cannot be addressed within your team.
 
 <a name="conclude"></a>
+
 ## Concluding the Meeting
 
 By the end of the meeting the Facilitator should have good comprehension
@@ -302,6 +307,7 @@ way that allows you to organize and scale the team’s facilitation
 activities.
 
 <a name="finding"></a>
+
 # Finding Engagement Opportunities
 
 Engagements are rarely initiated by the researchers as typically they are looking for assistance.  Therefore, Facilitators are the ones to identify potential engagements and initialize meetings.  There are several places to look at for making engagement conversions:
@@ -332,6 +338,7 @@ seek out engagements should be apart of the Facilitators weekly tasks.
 
 
 <a name="records"></a>
+
 # Record Keeping of User Interactions
 
 Documentation is one of the cornerstones of solid organization; being
@@ -356,6 +363,7 @@ documentation/tracking procedures to aid in organizing facilitation
 engagements.
 
 <a name="records-procedures"></a>
+
 ## Establishing Processes and Procedures
 
 As mentioned, having a solid plan for how engagement interactions and
