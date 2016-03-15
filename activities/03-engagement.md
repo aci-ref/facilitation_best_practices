@@ -149,7 +149,7 @@ questions. A list of basic initial engagement questions as well as some
 questions specifically geared toward compute center resources is shown
 in Figure 1. 
 
-<table>
+<table style="border: 1px;">
   <tr>
     <td>
 <ol>
