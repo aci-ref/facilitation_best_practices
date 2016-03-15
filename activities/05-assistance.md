@@ -272,7 +272,7 @@ their own abilities and in the Facilitator. Empathy for the difficulty a
 researcher may face in learning ACI skills is one of the arguments for
 Facilitators themselves to possess experience with implementing ACI
 resources for research projects (see more about peer instruction in
-[^2] and [^3]). Rather than discouraging
+[^2] and [^1]). Rather than discouraging
 the researcher from asking questions that they might believe to be
 naive, assistance practices should encourage researchers to seek more
 answers in a combination approach of learning for themselves and being
@@ -739,7 +739,6 @@ Jump to: [top](#toc)
 <h1>References</h1>
 
 [^4]: Ambrose, Susan A. *How Learning Works: Seven Research-based Principles for Smart Teaching.* San Francisco, CA: Jossey-Bass, 2010. Print.
-[^6]: Ambrose, Susan A. *How Learning Works: Seven Research-based Principles for Smart Teaching.* San Francisco, CA: Jossey-Bass, 2010. Print.
 
 [^2]: Crouch, Catherine H., and Eric Mazur. "Peer Instruction: Ten Years of Experience and Results." *Am. J. Phys. American Journal of Physics* 69.9 (2001): 970. Print.
 
@@ -750,6 +749,5 @@ Jump to: [top](#toc)
 [^7]: Mayer, Richard E., and Roxana Moreno. "Nine Ways to Reduce Cognitive Load in Multimedia Learning." *Educational Psychologist* 38.1 (2003): 43-52. Print.
 
 [^1]: Porter, Leo, Mark Guzdial, Charlie Mcdowell, and Beth Simon. "Success in Introductory Programming." *Communications of the ACM Commun.* ACM 56.8 (2013): 34. Print.
-[^3]: Porter, Leo, Mark Guzdial, Charlie Mcdowell, and Beth Simon. "Success in Introductory Programming." *Communications of the ACM Commun.* ACM 56.8 (2013): 34. Print.
 
 [^8]: *Software Carpentry*. Place of Publication Not Identified: Book On Demand, 2013. Print.
