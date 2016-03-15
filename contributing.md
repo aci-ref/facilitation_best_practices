@@ -25,6 +25,8 @@ contribution of suggested changes via pull requests. You can:
 * Open a "[New Issue](https://help.github.com/articles/creating-an-issue/)", to describe your suggestion or question. 
 * [Fork](https://help.github.com/articles/fork-a-repo/) the "[facilitation-best-practices](https://github.com/aci-ref/facilitation_best_practices)" repository to your own GitHub account, make edits, and then submit a "[New Pull Request](https://github.com/aci-ref/facilitation_best_practices/pulls)"
 
+<br />
+
 <h4><i>For those less familiar with GitHub</i></h4>
 Please send an email to ACIREF-OUTREACH@lists.clemson.edu to discuss your 
 desired contribution.
