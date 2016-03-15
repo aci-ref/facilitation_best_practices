@@ -133,8 +133,8 @@ the material might  be made preferable for more researchers by pursuing
 an additional format. In some instances, especially for information that
 is generally relevant in a wide range of contexts (beyond the context of
 any one specific ACI resource), Facilitators can simply point
-researchers to existing, external documentation (see "Leverage Existing
-Materials", below). For additions of in-house materials, we later
+researchers to existing, external documentation (see [Leverage Existing
+Materials](#existing), below). For additions of in-house materials, we later
 describe the importance of defining learning modules to specifically
 satisfy pre-defined learning outcomes to fill known gaps (see also
 [^2]).
