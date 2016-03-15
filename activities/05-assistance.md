@@ -6,21 +6,21 @@ title: Assisting Researchers in the Use of ACI Resources
 <a name="toc"></a>
 
 1. [Introduction](#introduction)
-2. [Establishing Communication Routes for Providing Assistance](#routes)
-    2.1 [Common Assistance Routes](#routes-common)
-    2.2 [Promoting Awareness of Assistance Routes](#routes-awareness)
-3. [Effective Communication in Assistance Interactions](#communication)
-    3.1 [Professionalism and Empathy in Assistance Communication](#communication-professional)
-    3.2 [Achieving Clarity in Complex Assistance Discussions](#communication-clarity)
-    3.3 [Assistance Strategies that Advance Researcher Capabilities](#communication-advance)
-4. [Addressing User-Reported Issues](#issues)
-    4.1 [Clarify the User's Problem](#issues-clarify)
-    4.2 [Identify Issue(s) and Appropriate Solution(s)](#issues-identify)
-    4.3 [Communicate Next Steps to the User](#issues-communicate)
-5. [Assistance for Non-Issue Support Requests](#non-issue)
-    5.1 [Understand the User's Most Immediate Question(s)](#non-understand)
-    5.2 [Anticipate the Real and Next Questions](#non-anticipate)
-    5.3 [Empower the User to Find Her/His Own Answers](#non-empower)
+2. [Establishing Communication Routes for Providing Assistance](#routes)    
+    2.1 [Common Assistance Routes](#routes-common)    
+    2.2 [Promoting Awareness of Assistance Routes](#routes-awareness)    
+3. [Effective Communication in Assistance Interactions](#communication)    
+    3.1 [Professionalism and Empathy in Assistance Communication](#communication-professional)    
+    3.2 [Achieving Clarity in Complex Assistance Discussions](#communication-clarity)    
+    3.3 [Assistance Strategies that Advance Researcher Capabilities](#communication-advance)    
+4. [Addressing User-Reported Issues](#issues)    
+    4.1 [Clarify the User's Problem](#issues-clarify)    
+    4.2 [Identify Issue(s) and Appropriate Solution(s)](#issues-identify)    
+    4.3 [Communicate Next Steps to the User](#issues-communicate)    
+5. [Assistance for Non-Issue Support Requests](#non-issue)    
+    5.1 [Understand the User's Most Immediate Question(s)](#non-understand)    
+    5.2 [Anticipate the Real and Next Questions](#non-anticipate)    
+    5.3 [Empower the User to Find Her/His Own Answers](#non-empower)    
 6. [Proactive Support](#proactive)
 7. [Reflection on Assistance Experiences](#reflection)
 8. [References](#references)
@@ -145,7 +145,7 @@ themselves, rather than only demonstrating the solution while the
 researcher watches. Assistance meetings (and office hours, below) have
 an added benefit over email communication in that they allow
 Facilitators a unique look into the regular practices and hiccups of ACI
-users when working side-by-side (see [Porter et al., 2013](#references), for more on
+users when working side-by-side (see [^1], for more on
 pair programming benefits). Furthermore, in-person contact provides many
 more communication context clues, with the visual recognition of facial
 expressions and body language. However, scheduled video and telephone
@@ -270,7 +270,7 @@ their own abilities and in the Facilitator. Empathy for the difficulty a
 researcher may face in learning ACI skills is one of the arguments for
 Facilitators themselves to possess experience with implementing ACI
 resources for research projects (see more about peer instruction in
-[Crouch and Mazur 2001](#references) and [Porter et al 2013](#references)). Rather than discouraging
+[^2] and [^3]). Rather than discouraging
 the researcher from asking questions that they might believe to be
 naive, assistance practices should encourage researchers to seek more
 answers in a combination approach of learning for themselves and being
@@ -306,32 +306,31 @@ communication. As discussed more thoroughly in *Educating and Training
 Researchers*, education research indicates that non-experts are more
 effective in teaching concepts that are novel to learners, as teachers
 with greater expertise already possess a more sophisticated
-understanding and set of terminology (see [Ambrose 2010](#references) and 
-[Dreyfus 2004](#references)
+understanding and set of terminology (see [^4] and 
+[^5]
 for more discussion on this topic).
 
 Other specific guidelines for clear wording in any communication context are:
-<ul>
-<li>Describe concepts succinctly and in the simplest terms possible. It’s 
-often useful to re-read and consolidate or shorten written information before sending.</li>
-<li>Use specific nouns to identify relevant items and concepts (e.g. “the submit file”, 
+
+* Describe concepts succinctly and in the simplest terms possible. It’s 
+often useful to re-read and consolidate or shorten written information before sending.
+* Use specific nouns to identify relevant items and concepts (e.g. “the submit file”, 
 “your software”, “the file transfer rate”), and avoid less-specific pronouns as much 
-as possible (e.g. “it”, “they”, “them”).</li>
-<li>Avoid jargon specific to an expert understanding and strive to find terminology 
+as possible (e.g. “it”, “they”, “them”).
+* Avoid jargon specific to an expert understanding and strive to find terminology 
 that is familiar to the researcher. For example, use “program” or “software” if 
-the word “executable” is less familiar.</li>
-<li>Avoid overwhelming the researcher with too much new information at once. 
-Please see *Educating and Training Researchers* in the Use of ACI, Ambrose 2010,
- Mayer and Moreno 2003, and Software Carpentry instructor training for more 
- discussion on concept/cognitive overload.</li>
-<li>When introducing new terminology and ideas, as necessary define terms and 
+the word “executable” is less familiar.
+* Avoid overwhelming the researcher with too much new information at once. 
+Please see *Educating and Training Researchers* in the Use of ACI, [^6],
+ [^7], and [^8] for more 
+ discussion on concept/cognitive overload.
+* When introducing new terminology and ideas, as necessary define terms and 
 provide distinction from other concepts. For example, “the submit file, 
 which will be separate from the BLAST alignment program you wish to run 
-within each job ...”.</li>
-<li>Minimize the use of acronyms by limiting these to terms that are: (1)
+within each job ...”.
+* Minimize the use of acronyms by limiting these to terms that are: (1)
  already familiar to the researcher, and/or (2) have been sufficiently defined 
- and used previously in non-acronym forms.</li>
-</ul>
+ and used previously in non-acronym forms.
 
 Facilitators may benefit from a plethora of existing literature and
 professional development opportunities to develop excellent
@@ -354,7 +353,7 @@ should strive to identify and recommend solutions that enable
 researchers to accomplish more and to imagine greater research
 possibilities, in the long term. The communication of solutions should
 be presented, as much as possible, as a form of guided
-instruction. ([Kirschner 2006](#references))
+instruction.[^9]
 
 To achieve the proper balance and to assist researchers in deciding for
 themselves which solutions to pursue in various cases, there are a
@@ -737,16 +736,18 @@ Jump to: [top](#toc)
 <a name="references"></a>
 <h1>References</h1>
 
-Ambrose, Susan A. *How Learning Works: Seven Research-based Principles for Smart Teaching.* San Francisco, CA: Jossey-Bass, 2010. Print.
+[^4]: Ambrose, Susan A. *How Learning Works: Seven Research-based Principles for Smart Teaching.* San Francisco, CA: Jossey-Bass, 2010. Print.
+[^6]: Ambrose, Susan A. *How Learning Works: Seven Research-based Principles for Smart Teaching.* San Francisco, CA: Jossey-Bass, 2010. Print.
 
-Crouch, Catherine H., and Eric Mazur. "Peer Instruction: Ten Years of Experience and Results." *Am. J. Phys. American Journal of Physics* 69.9 (2001): 970. Print.
+[^2]: Crouch, Catherine H., and Eric Mazur. "Peer Instruction: Ten Years of Experience and Results." *Am. J. Phys. American Journal of Physics* 69.9 (2001): 970. Print.
 
-Dreyfus, Stuart E. "The Five-Stage Model of Adult Skill Acquisition." *Bull Sci Technol Soc Bulletin of Science, Technology and Society* 24.3 (2004): 177-81. Print.
+[^5]: Dreyfus, Stuart E. "The Five-Stage Model of Adult Skill Acquisition." *Bull Sci Technol Soc Bulletin of Science, Technology and Society* 24.3 (2004): 177-81. Print.
 
-Kirschner, Paul A., John Sweller, and Richard E. Clark. "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching." *Educational Psychologist* 41.2 (2006): 75-86. Print.
+[^9]: Kirschner, Paul A., John Sweller, and Richard E. Clark. "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching." *Educational Psychologist* 41.2 (2006): 75-86. Print.
 
-Mayer, Richard E., and Roxana Moreno. "Nine Ways to Reduce Cognitive Load in Multimedia Learning." *Educational Psychologist* 38.1 (2003): 43-52. Print.
+[^7]: Mayer, Richard E., and Roxana Moreno. "Nine Ways to Reduce Cognitive Load in Multimedia Learning." *Educational Psychologist* 38.1 (2003): 43-52. Print.
 
-Porter, Leo, Mark Guzdial, Charlie Mcdowell, and Beth Simon. "Success in Introductory Programming." *Communications of the ACM Commun.* ACM 56.8 (2013): 34. Print.
+[^1]: Porter, Leo, Mark Guzdial, Charlie Mcdowell, and Beth Simon. "Success in Introductory Programming." *Communications of the ACM Commun.* ACM 56.8 (2013): 34. Print.
+[^3]: Porter, Leo, Mark Guzdial, Charlie Mcdowell, and Beth Simon. "Success in Introductory Programming." *Communications of the ACM Commun.* ACM 56.8 (2013): 34. Print.
 
-*Software Carpentry*. Place of Publication Not Identified: Book On Demand, 2013. Print.
+[^8]: *Software Carpentry*. Place of Publication Not Identified: Book On Demand, 2013. Print.
