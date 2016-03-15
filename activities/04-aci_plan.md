@@ -9,6 +9,8 @@ with researchers proceeding through a plan. Working with ACI resource
 providers for expertise and to accommodate necessary technical
 solutions.*
 
+<a name="toc"></a>
+
 1. [Introduction](#introduction)    
 2. [Goals & Organization of ACI Plans](#plans)    
     2.1 [Organizing the Approach](#plans-approach)    
@@ -49,17 +51,12 @@ researcher's workflow.  To this end, an ACI plan serves to:
 
 * Capture the requirements for a researcher’s utilization of ACI
 resources
-
 * Organize the approach that the ACI team and researcher will cooperate
 on for the project
-
 * Define the actionable tasks for both the ACI team and the researcher
-
 * Document the current state of an ongoing engagement with a researcher
 for a specific ACI-dependent project
-
 * Provide historical documentation of progress
-
 * Capture a timeline for major milestones
 
 ACI plans can be formal, in the form a defined document with multiple
@@ -108,10 +105,8 @@ of this are:
 
 * HPC/HTC training for setting up software and submitting jobs to local
 and national resources (XSEDE, OSG, NCAR, etc.)
-
 * Basic scripting or programming for automating analyses or creating
 pipelines (bash, Python, Perl etc)
-
 * Science Gateway usage.  Training users how to access and utilize
 online science gateway sites that perform computation and data
 dissemination, such as CyVerse and others
@@ -121,7 +116,7 @@ dissemination, such as CyVerse and others
 Additional ideas and training recommendation can be found in the
 **Education and Training** chapter.
 
-#### Identifying and Resolving Technical Roadblocks
+### Identifying and Resolving Technical Roadblocks
 
 Depending on the research needs and the institution, your team may run
 across more mundane obstacles in the completion of a research project. 
@@ -158,7 +153,7 @@ By keeping this in mind, the ACI team can create a list of viable
 solutions that can be leveraged to help the researchers with the influx
 of data, be they local or offsite.
 
-#### Access to external resources
+### Access to external resources
 
 Depending on your institution your ACI organization may or may not have
 a large number and variety of local resources available.  In either
@@ -175,7 +170,7 @@ aci-ref.org/someurl)).  Keep in mind that getting access to these
 resources is only half the solution as the other part is actually
 enabling the researcher to utilize them effectively.
 
-#### Partnering with others
+### Partnering with others
 
 As you identify ACI and research needs that go beyond the scope and
 expertise of the researcher and your team, you will often need to
