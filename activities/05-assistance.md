@@ -68,7 +68,9 @@ one to another. For example, assistance discussions lead to a
 redefinition of the ACI Plan and/or the need for another ACI resources
 is recognized. As described above, assistance routes are also an
 important avenue by which a researcher may request a new engagement
-meeting. Jump to: [top](#toc)
+meeting. 
+
+Jump to: [top](#toc)
 
 <a name="routes"></a>
 <h1>Establishing Communication Routes for Providing Assistance</h1>
@@ -321,7 +323,7 @@ as possible (e.g. “it”, “they”, “them”).
 that is familiar to the researcher. For example, use “program” or “software” if 
 the word “executable” is less familiar.
 * Avoid overwhelming the researcher with too much new information at once. 
-Please see *Educating and Training Researchers* in the Use of ACI, [^6],
+Please see *Educating and Training Researchers* in the Use of ACI, [^4],
  [^7], and [^8] for more 
  discussion on concept/cognitive overload.
 * When introducing new terminology and ideas, as necessary define terms and 

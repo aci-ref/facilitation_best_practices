@@ -80,6 +80,8 @@ policies and tools needed to effectively manage engagements, and
 includes guidelines on documenting user interactions and measuring the
 engagement process. 
 
+Jump to: [top](#toc)
+
 <a name="overview"></a>
 
 # Overview of an Engagement Meeting
@@ -312,6 +314,8 @@ management document that fits your group’s workflows and procedures in a
 way that allows you to organize and scale the team’s facilitation
 activities.
 
+Jump to: [top](#toc)
+
 <a name="finding"></a>
 
 # Finding Engagement Opportunities
@@ -497,4 +501,4 @@ assessment data and metrics in order to save time later (see the
 **Assesment & Metrics** chapter for recommended metrics to track and
 more in depth details).
 
-
+Jump to: [top](#toc)
