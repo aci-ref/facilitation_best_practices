@@ -45,9 +45,8 @@ utilization of resources
 * Consulting with a researcher on aspects of a project for which the
 Facilitator has domain expertise.
 
- As a rule, tasks done on behalf of a researcher without their direct
- involvement would not be considered engagement. Examples of these might
- be ….
+As a rule, tasks done on behalf of a researcher without their direct
+involvement would not be considered engagement. 
 
 Engagements can be both formal and informal. For example, an informal
 engagement might arise from a meeting to help resolve a straightforward
@@ -491,7 +490,7 @@ metrics to track include:
 
 * Researcher information. Department and research area
 * Total number of engagements in a set period (monthly, yearly etc)
-* Engag
+* Engagement conversions 
 
 Be aware of how you can integrate some of this information into your
 assessment data and metrics in order to save time later (see the
