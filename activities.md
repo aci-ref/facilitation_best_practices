@@ -1,13 +1,12 @@
 ---
 layout: page
 title: Executing Major Activities of Facilitation
-#subtitle: 
 ---
 
 1. Getting Established
 2. Outreach
 3. [Engagement with Researchers](03-engagement)
-4. Implementing an ACI Plan
+4. [Implementing a Researcher's ACI Plan](04-aci_plan)
 5. [Assisting Researchers in the Use of ACI Resources](05-assistance)
 6. Education and Training of Researchers
 7. Enhancing ACI Knowledge
