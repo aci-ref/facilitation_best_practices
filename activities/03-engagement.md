@@ -149,7 +149,7 @@ questions. A list of basic initial engagement questions as well as some
 questions specifically geared toward compute center resources is shown
 in Figure 1. 
 
-<table style="border: 1px;">
+<table style="1px solid black;">
   <tr>
     <td>
 <ol>
@@ -317,21 +317,20 @@ activities.
 
 # Finding Engagement Opportunities
 
-Engagements are rarely initiated by the researchers as typically they are looking for assistance.  Therefore, Facilitators are the ones to identify potential engagements and initialize meetings.  There are several places to look at for making engagement conversions:
+Engagements are rarely initiated by the researchers as typically they
+are looking for assistance.  Therefore, Facilitators are the ones to
+identify potential engagements and initialize meetings.  There are
+several places to look at for making engagement conversions:
 
 * Ticket reviews.  Browsing through assistance tickets can point to
 researchers that can benefit from a proactive engagement to discuss
 accelerating their research.
-
 * Email reviews.  Browsing your emails and team emails for previous
 assistance, introductions and 
-
 * Followups from training sessions.  Invitations to training attendees
 for face-to-face follow-ups can drum up engagement opportunities.
-
 * Survey responses.  Surveys about services and trainings can point to
 researchers that could benefit from an engagement.
-
 * Referrals from other ACI and IT staff.  Both solicited and unsolicited
 referrals can be useful in establishing researchers to contact about
 establishing an engagement.  Meetings between local service providers
@@ -382,34 +381,25 @@ keep in mind when developing these processes and procedures are:
 * Recognize how to reuse your solutions. Many times, the solutions for
 one researcher’s problem may be applicable for others so being able to
 locate, search and browse previous approaches is useful.
-
 * Think about how the documentation from your engagement meeting will
 transition to action items and future interactions. For example: 
-
     * Record any meeting notes into your system for review and historical reference. Others from your group will find the context useful and can look back at these notes to inform future interactions.
-
     * Create assignable action items that can be tracked for progress. Think of how effort from the Facilitator and other ACI staff will need to scale.
-
     * Schedule follow-up meeting, interactions, and communications.
-
 * Organize engagement documentation around a researcher and/or research
 group. However you are tracking interactions, you may want to group
 engagements and assistance with individual researchers in the context of
 the central PI or group. This allows everything to be surveyed at once
 in the future.
-
 * Keep email correspondence together, as part of the engagement
 documentation.
-
 * Establish methods by which you can ensure balance between the effort
 used in documentation and the efforts following implementation of an ACI
 plan, especially for complex use cases there can be a tendency to go
 overboard.   
-
 * Obtain management buy-in on record keeping procedures. If you have to
 devote a portion of time to documenting this information, ensure that
 you can justify the effort for your procedures.  
-
 * Ensure compliance with your institutional policies in regard to
 security and user information. Utilize your institution’s best practices
 on where information about researchers is stored and how it is accessed.
@@ -443,20 +433,16 @@ Some infrastructure features that should be considered in implementing a trackin
 * A system that has a shared, centralized repository of user
 information, including information about research goals, as well as any
 ACI Plan(s).
-
 * Flexible search capabilities. As more researcher information will
 populate the system -- being able to find relevant references to
 research activities easily is essential.
-
 * Integration with your existing email ticket system, if possible. Some
 help ticketing systems have additional features or an API integration
 point that could be useful. If currently there is not an email help
 ticket system in use, it is recommended that one is adopted.
-
 * Automated notification reminders to review client information at set
 intervals. This feature might prove useful as new ACI capabilities are
 released that can benefit a researcher.
-
 * Integration of assessment data. Most sites survey users before and
 after trainings, or at periodic times; being able to organize this
 information is helpful especially in the context of a user’s research
@@ -467,21 +453,17 @@ Some of the tools being used to track engagements by the current ACI-REF institu
 * REDCap ([http://project-redcap.org](http://project-redcap.org/)) – the
 Center or High Performance Computing at University of Utah has used this
 tool to track engagements and interactions with researchers.
-
 * Redmine ([http://redmine.org](http://redmine.org)) – the University of
 Hawaii’s CI team has made use of this software development/project
 management tool to organize and track ACI-REF projects and information.
-
 * Basecamp ([https://basecamp.com/](https://basecamp.com/)) -the Center
 or High Performance Computing University of Utah uses this for project
 management. In some case Basecamp is used to coordinate tasks for a
 portion of a researcher's ACI plan.
-
 * The University of Wisconsin has an in-house web app for account
 management, associating researchers with projects, and note-taking by
 Facilitators and other staff. The data, itself, is stored in a database,
 and integrates with campus NetIDs for usernames of researches on campus.
-
 * Service Now ([http://www.servicenow.com](http://www.servicenow.com)) -
 USC utilizes SNOW as a university-wide ticketing system. They also use
 USC-secure Google documentation to track more complex ACIREF engagements
@@ -508,9 +490,7 @@ the impact of these activities.  In regards to engagements examples of
 metrics to track include:
 
 * Researcher information. Department and research area
-
 * Total number of engagements in a set period (monthly, yearly etc)
-
 * Engag
 
 Be aware of how you can integrate some of this information into your
