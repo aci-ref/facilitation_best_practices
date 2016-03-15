@@ -31,7 +31,7 @@ contribution of suggested changes via pull requests. You can:
 Please send an email to ACIREF-OUTREACH@lists.clemson.edu to discuss your 
 desired contribution. 
 
-### Website Theme
+## Website Theme
 
 The website theme is a slightly modified version 
 of [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll), 
