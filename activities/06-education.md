@@ -762,55 +762,31 @@ Jump to: [top](#toc)
 
 # References
 
-[^1]: Ambrose, Susan A. *How Learning Works: Seven Research-based Principles
-for Smart Teaching*. San Francisco, CA: Jossey-Bass, 2010. Print.
+[^1]: Ambrose, Susan A. *How Learning Works: Seven Research-based Principles for Smart Teaching*. San Francisco, CA: Jossey-Bass, 2010. Print.
 
-[^2]: Baume, David. *Writing and Using Good Learning Outcomes*. Leeds: Leeds
-Metropolitan U, 2009. Print.
+[^2]: Baume, David. *Writing and Using Good Learning Outcomes*. Leeds: Leeds Metropolitan U, 2009. Print.
 
-[^3]: Bellamy, Laura, Michelle Carey, and Jenifer Schlotfeldt. *DITA Best
-Practices: A Roadmap for Writing, Editing, and Architecting in DITA*.
-Upper Saddle River, NJ: IBM, 2012. Print.
+[^3]: Bellamy, Laura, Michelle Carey, and Jenifer Schlotfeldt. *DITA Best Practices: A Roadmap for Writing, Editing, and Architecting in DITA*.  Upper Saddle River, NJ: IBM, 2012. Print.
 
-[^4]: Crouch, Catherine H., and Eric Mazur. "Peer Instruction: Ten Years of
-Experience and Results." *Am. J. Phys. American Journal of Physics* 69.9
-(2001): 970. Print.
+[^4]: Crouch, Catherine H., and Eric Mazur. "Peer Instruction: Ten Years of Experience and Results." *Am. J. Phys. American Journal of Physics* 69.9 (2001): 970. Print.
 
-[^5]: Guzdial, Mark. *Learner-centered Design of Computing Education*. San
-Rafael: Morgan & Claypool, 2015. Print.
+[^5]: Guzdial, Mark. *Learner-centered Design of Computing Education*. San Rafael: Morgan & Claypool, 2015. Print.
 
-[^6]: Hargis, Gretchen. *Developing Quality Technical Information: A Handbook
-for Writers and Editors*. Upper Saddle River, NJ: Prentice Hall
-Professional Technical Reference, 2004. Print.
+[^6]: Hargis, Gretchen. *Developing Quality Technical Information: A Handbook for Writers and Editors*. Upper Saddle River, NJ: Prentice Hall Professional Technical Reference, 2004. Print.
 
 [^7]: "How to Write Software Documentation." *WikiHow*. Web. 09 Feb. 2016.
 
-[^8]: Kirschner, Paul A., John Sweller, and Richard E. Clark. "Why Minimal
-Guidance During Instruction Does Not Work: An Analysis of the Failure of
-Constructivist, Discovery, Problem-Based, Experiential, and
-Inquiry-Based Teaching." *Educational Psychologist* 41.2 (2006): 75-86.
-Print.
+[^8]: Kirschner, Paul A., John Sweller, and Richard E. Clark. "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching." *Educational Psychologist* 41.2 (2006): 75-86. Print.
 
-[^9]: Lockee, Barbara B., P. De Bruyckere, P. A. Kirschner, and C. D. Hulshof.
-"Urban Myths about Learning and Education." *TechTrends TECHTRENDS TECH
-TRENDS* 59.6 (2015): 53-56. Print.
+[^9]: Lockee, Barbara B., P. De Bruyckere, P. A. Kirschner, and C. D. Hulshof. "Urban Myths about Learning and Education." *TechTrends TECHTRENDS TECH TRENDS* 59.6 (2015): 53-56. Print.
 
-[^10]: Mayer, Richard E., and Roxana Moreno. "Nine Ways to Reduce Cognitive
-Load in Multimedia Learning." *Educational Psychologist* 38.1 (2003):
-43-52. Print.
+[^10]: Mayer, Richard E., and Roxana Moreno. "Nine Ways to Reduce Cognitive Load in Multimedia Learning." *Educational Psychologist* 38.1 (2003): 43-52. Print.
 
-[^11]: Porter, Leo, Mark Guzdial, Charlie Mcdowell, and Beth Simon. "Success in
-Introductory Programming." *Communications of the ACM Commun. ACM* 56.8
-(2013): 34. Print.
+[^11]: Porter, Leo, Mark Guzdial, Charlie Mcdowell, and Beth Simon. "Success in Introductory Programming." *Communications of the ACM Commun. ACM* 56.8 (2013): 34. Print.
 
 [^12]: "User Guides." *Online Technical Writing:*. Web. 09 Feb. 2016.
 
-[^13]: Wilson, Greg, D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt
-Davis, Richard T. Guy, Steven H. D. Haddock, Kathryn D. Huff, Ian M.
-Mitchell, Mark D. Plumbley, Ben Waugh, Ethan P. White, and Paul Wilson.
-"Best Practices for Scientific Computing." *PLoS Biology PLoS Biol* 12.1
-(2014). Print.
+[^13]: Wilson, Greg, D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock, Kathryn D. Huff, Ian M. Mitchell, Mark D. Plumbley, Ben Waugh, Ethan P. White, and Paul Wilson. "Best Practices for Scientific Computing." *PLoS Biology PLoS Biol* 12.1 (2014). Print.
 
-[^14]: Wilson, Greg. "Software Carpentry: Lessons Learned." *F1000Research
-F1000Res* (2014). Print.
+[^14]: Wilson, Greg. "Software Carpentry: Lessons Learned." *F1000Research F1000Res* (2014). Print.
 
