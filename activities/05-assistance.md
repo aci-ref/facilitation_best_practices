@@ -5,6 +5,11 @@ title: Assisting Researchers in the Use of ACI Resources
 
 <a name="toc"></a>
 
+*Establishing proactive and reactive support routes for researchers who
+use ACI resources, including standards of response. Promoting learning
+and user empowerment in providing support for user-reported or observed
+issues. Leveraging external technical expertise.*
+
 1. [Introduction](#introduction)
 2. [Establishing Communication Routes for Providing Assistance](#routes)    
     2.1 [Common Assistance Routes](#routes-common)    

@@ -3,13 +3,13 @@ layout: page
 title: Implementing a Researcher's ACI Plan
 ---
 
+<a name="toc"></a>
+
 *Working with researchers to establish longer-term paths for the use of
 ACI capabilities for specific research projects, as needed. Following-up
 with researchers proceeding through a plan. Working with ACI resource
 providers for expertise and to accommodate necessary technical
 solutions.*
-
-<a name="toc"></a>
 
 1. [Introduction](#introduction)    
 2. [Goals & Organization of ACI Plans](#plans)    

@@ -5,6 +5,12 @@ title: Education and Training of Researchers
 
 <a name="toc"></a>
 
+*Identifying and leveraging existing learning resources for ACI topics
+and resources. Developing novel materials for in-person learning and
+self-directed learning, including both education (knowledge/awareness)
+and training (skills/practice). Leveraging established practices for
+effective teaching.*
+
 1. [Introduction](#introduction)    
 2. [Overall Considerations](#considerations)    
     2.1 [Identify Gaps](#gaps)    
