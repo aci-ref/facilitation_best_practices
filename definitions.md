@@ -127,7 +127,7 @@ assistance
 : support for users of ACI resources, provided via a variety of
 communication pathways (email, office hours, meetings, etc.) by
 Facilitators, though sometimes also by other ACI staff. (See *[Assisting
-Researchers in the Use of ACI Resources](../activities/assistance)* for more 
+Researchers in the Use of ACI Resources](../activities/05-assistance)* for more 
 details and examples.)
 
 education
