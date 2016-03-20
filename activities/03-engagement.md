@@ -52,7 +52,7 @@ involvement would not be considered engagement.
 
 Engagements can be both formal and informal. For example, an informal
 engagement might arise from a meeting to help resolve a straightforward
-issue (an example documented in [Assisting Researchers](../05-assistance)). This can
+issue (an example documented in *[Assisting Researchers](../05-assistance)*). This can
 turn into an engagement when the Facilitator realizes that a) she/he
 needs to know more about the individual or their research; b) the
 researcher was directed towards ACI resources without proper planning;
@@ -74,9 +74,9 @@ resources is a good idea, as it serves as an introduction of the
 Facilitator and the role of facilitation to the researcher.
 
 The remaining sections will address best practices for successful
-engagements. [Overview of an Engagement Meeting](#overview) describes how to
+engagements. "[Overview of an Engagement Meeting](#overview)" describes how to
 prepare for a meeting, what to consider during the meeting, and how to
-conclude a meeting. [Record Keeping of User Interactions](#records) 
+conclude a meeting. "[Record Keeping of User Interactions](#records)" 
 focuses on the procedures,
 policies and tools needed to effectively manage engagements, and
 includes guidelines on documenting user interactions and measuring the
@@ -114,8 +114,8 @@ For follow-on engagements the Facilitator may continue to meet in person
 or conduct subsequent meetings via web conferencing or by telephone.
 She/he will most likely be simultaneously corresponding via email and it
 may be important, depending on what is discussed, to track these
-conversations as part of the official record (see [Record Keeping of
-User Interactions](#records)). 
+conversations as part of the official record (see "[Record Keeping of
+User Interactions](#records)"). 
 
 <a name="prepare"></a>
 
@@ -185,6 +185,30 @@ in Figure 1.
 	</td>
   </tr>
 </table>
+
+|---------|
+| 
+| 1. What are your current research projects?
+|	1. What are the timelines of the projects?
+| 1. What hardware resources are you currently using for computation? 
+|	1. Do these meet your computational needs? 
+|	1. Are there things you can’t do with your current resource that you would like to? 
+|(E.g., can you evaluate all the data you want to at the scale you want?)
+|	1. Are you interested in using other resources? 
+|(E.g., our local cluster or national resources.)
+| 1. What software programs, packages, etc. are you using for your research?
+|	1. Are there existing issues/limitations with the current software?
+|	1. Is there software you would like to use? Is there a reason you are not currently using it?
+| 1. What resource are you using for storage?
+|	1. How much storage are you using?
+|	1. How much storage will you need?
+| 1. Are there any roadblocks to the use of computation resources in your current research?
+|	1. Network issues?
+|	1. Knowledge/expertise?
+|	1. Hardware?
+| 1. Where do you see your research going in the future?
+|
+|---------|
 
 Figure 1: Initial engagement questions
 
