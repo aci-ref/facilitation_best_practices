@@ -13,8 +13,8 @@ follows.
 Facilitator
 : an individual working directly with researchers and/or other scholars
 with a personalized approach to enhance their ACI capabilities for
-transformative impacts to scholarship. (See also, Introduction > What is
-Facilitation?). Throughout the Facilitation Best Practices
+transformative impacts to scholarship. (See also, *[Introduction > What is
+Facilitation?](../introduction/#whatis)*). Throughout the Facilitation Best Practices
 documentation, we use the capitalized form of the noun in order to
 distinguish our definition of Facilitator from more generic definitions
 of facilitator.
@@ -22,7 +22,7 @@ of facilitator.
 facilitation
 : the practice of enhancing a researcher’s own capabilities in using ACI
 for transformative impacts to scholarship products. (See also,
-Introduction > What is Facilitation?)
+*[Introduction > What is Facilitation?](../introduction/#whatis)*.)
 
 ACI-REF
 : *(Advanced Cyberinfrastructure - Research and Education Facilitators)*
@@ -58,88 +58,86 @@ described below
 	configuration, scheduling middleware, attached data storage, available
 	applications, administration, and human support.	
 
-ACI resource types or categories
+	ACI resource types or categories
+	: various natural or informal groupings of ACI resources, as they pertain
+	to specific types of cyberinfrastructure needs.  For example, the
+	following might each be thought of as ACI resource categories: research
+	computing services, networking and data transfer infrastructure, data
+	storage/sharing services (not directly associated with research
+	computation). Importantly, these and other types of ACI resources need
+	not be mutually exclusive.
 
-various natural or informal groupings of ACI resources, as they pertain
-to specific types of cyberinfrastructure needs.  For example, the
-following might each be thought of as ACI resource categories: research
-computing services, networking and data transfer infrastructure, data
-storage/sharing services (not directly associated with research
-computation). Importantly, these and other types of ACI resources need
-not be mutually exclusive.
+	ACI system
+	: a specific ACI resource consisting only of hardware and software
+	deliberately configured to meet specified user needs; for example, a
+	research computing cluster, a building network or campus network
+	backbone, a specific file system or archival data store, or a pool of
+	virtual servers
 
-ACI system
+	ACI organization or provider
+	: the entity responsible for providing a specific set of ACI resources or
+	services, which may pertain to a specific type or category (such as
+	“research computing”, see below) or to multiple categories of support
+	within the same entity
 
-a specific ACI resource consisting only of hardware and software
-deliberately configured to meet specified user needs; for example, a
-research computing cluster, a building network or campus network
-backbone, a specific file system or archival data store, or a pool of
-virtual servers
+	ACI staff or personnel
+	: the team of human support for a given ACI system, resource, or provider,
+	whose affiliation will be made clear with additional context
 
-ACI organization or provider
-
-the entity responsible for providing a specific set of ACI resources or
-services, which may pertain to a specific type or category (such as
-“research computing”, see below) or to multiple categories of support
-within the same entity
-
-ACI staff or personnel
-
-the team of human support for a given ACI system, resource, or provider,
-whose affiliation will be made clear with additional context
-
-research computing
-
-an ACI resource or group of coordinated resources available to meet the
-computational needs of researchers, usually in a “large-scale” approach
-to take advantage of additional CPU and memory capacities. Physical
-resources within research computing services often include server-based
-clusters and filesystems that are managed by a centralized service
-provider and team of staff. Because the ACI-REF program includes
-Facilitators who are most-closely associated with centralized research
-computing service providers, many of the examples in the Facilitation
-Best Practices documentation are explained within the context of common
-approaches for supporting research computing on campuses.
+	research computing
+	: an ACI resource or group of coordinated resources available to meet the
+	computational needs of researchers, usually in a “large-scale” approach
+	to take advantage of additional CPU and memory capacities. Physical
+	resources within research computing services often include server-based
+	clusters and filesystems that are managed by a centralized service
+	provider and team of staff. Because the ACI-REF program includes
+	Facilitators who are most-closely associated with centralized research
+	computing service providers, many of the examples in the Facilitation
+	Best Practices documentation are explained within the context of common
+	approaches for supporting research computing on campuses.
 
 
 outreach
 : activities that promote awareness of ACI resources, service providers,
-and/or systems to encourage interest in pursuing them. (See Outreach for
+and/or systems to encourage interest in pursuing them. (See *Outreach* for
 more details and examples.)
 
 engagement
 : meetings with one to several researchers to discuss ACI needs, recommend
 appropriate next steps in an ACI Plan, provide personalized orientation
 to any ACI resources, follow up and/or establish relevant opportunities
-for assistance and learning (See Engagement with Researchers for more
+for assistance and learning (See *[Engagement with 
+Researchers](../activities/03-engagement)* for more
 details and examples.)
 
 ACI plan
 : a set of recommendations from a Facilitator to establish the overall
 approach for leveraging relevant ACI resources, as well as the next
 immediate steps and contributions from ACI staff, following an
-engagement with a researcher(s). (See Education and Training of
-Researchers for more details and examples.)
+engagement with a researcher(s). (See *[Education and Training of
+Researchers](../activities/06-education)* for more details and examples.)
 
 on-boarding
 : the processes of orientation and initial ramp-up in abilities for either
 (1) researchers new to using an ACI resource or service, or (2) newly
-hired Facilitators. (See Getting Established for more details and
+hired Facilitators. (See *Getting Established* for more details and
 examples of the second case.)
 
 assistance
 : support for users of ACI resources, provided via a variety of
 communication pathways (email, office hours, meetings, etc.) by
-Facilitators, though sometimes also by other ACI staff. (See Assisting
-Researchers in the Use of ACI Resources  for more details and examples.)
+Facilitators, though sometimes also by other ACI staff. (See *[Assisting
+Researchers in the Use of ACI Resources](../activities/assistance)* for more 
+details and examples.)
 
 education
 : learning materials or events with the goal of providing information on
 concepts and capabilities regarding a particular topic, typically
-without the use of hands-on examples. (See Education and Training of
-Researchers for more details and examples.)
+without the use of hands-on examples. (See *[Education and Training of
+Researchers](../activities/06-education)* for more details and examples.)
 
 training
 : learning materials or events with the goal of teaching specific skills
 and practices, typically with workable, hands-on examples. (See
-Education and Training of Researchers for more details and examples.)
+*[Education and Training of Researchers](../activities/06-education)* for more 
+details and examples.)
