@@ -305,7 +305,7 @@ researcher, bringing in other members of the ACI team as necessary (see
 the *[Assisting Researchers in the Use of ACI Resources](../05-assistance)* chapter). In some
 of the engagements, it will become apparent that the researcher requires
 a course of action that is more complex. In these instances, it is ideal
-to create an ACI plan (see *Implementing an ACI Plan* for more
+to create an ACI plan (see *[Implementing an ACI Plan](../04-aci_plan)* for more
 details) to document and organize all the major steps as one of the
 engagement outcomes. This plan can be used to drive future assistance
 and engagement meetings and aide in keeping the team organized for
@@ -451,7 +451,7 @@ released that can benefit a researcher.
 * Integration of assessment data. Most sites survey users before and
 after trainings, or at periodic times; being able to organize this
 information is helpful especially in the context of a user’s research
-(see the **Assessment/Metrics** chapter for more details). 
+(see the *Assessment/Metrics* chapter for more details). 
 
 Some of the tools being used to track engagements by the current ACI-REF institutions are:
 
@@ -500,7 +500,7 @@ metrics to track include:
 
 Be aware of how you can integrate some of this information into your
 assessment data and metrics in order to save time later (see the
-**Assesment & Metrics** chapter for recommended metrics to track and
+*Assessment & Metrics* chapter for recommended metrics to track and
 more in depth details).
 
 Jump to: [top](#toc)

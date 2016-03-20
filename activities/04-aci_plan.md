@@ -114,7 +114,7 @@ dissemination, such as CyVerse and others
 -listing))
 
 Additional ideas and training recommendation can be found in the
-**Education and Training** chapter.
+*[Education and Training](../06-education)* chapter.
 
 ### Identifying and Resolving Technical Roadblocks
 
@@ -142,7 +142,7 @@ discussion with them should be a priority when dealing with these issues
 and could save you a lot of running around.
 
 Another issue that is cropping up more frequently is the management of
-data. .  A terabyte of data is no longer uncommon for intermediate and
+data.  A terabyte of data is no longer uncommon for intermediate and
 even end results of computer simulations and bioinformatic analyses. 
 The minutia of managing all this information can slow down researchers
 who just want to get their work done. However, they are the responsible
@@ -163,10 +163,9 @@ that you remain aware of other resources that are available, both those
 in other organizations at your institution as well as the national
 resources established specifically for this purpose by by granting
 organizations.  If you are not aware of many of the most frequently used
-option you can find a list in the** ACI Knowledge** chapter or on the
+option you can find a list in the *ACI Knowledge* chapter or on the
 ACI-REF website
-([http://aci-ref.org/](http://aci-ref.org/someurl)**[someur**l](http://
-aci-ref.org/someurl)).  Keep in mind that getting access to these
+([http://aci-ref.org/](http://aci-ref.org)).  Keep in mind that getting access to these
 resources is only half the solution as the other part is actually
 enabling the researcher to utilize them effectively.
 
@@ -179,7 +178,7 @@ adverse to this, as some areas of expertise take years to acquire; it is
 also another way to scale your interactions, if the partner is willing
 and able to assist in a way that contributes to the end solution.  A
 good set of pointers and ideas for collaborating with other groups is
-outlined in the **Connections** chapter.  For ACI plan purposes keep in
+outlined in the *Connections* chapter.  For ACI plan purposes keep in
 mind the groups that you might frequently need to work with work to
 establish and maintain those interactions/partnerships.
 

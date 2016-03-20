@@ -57,7 +57,7 @@ these two terms are not mutually exclusive, and many learning
 opportunities will include a combination of *education* and *training*.
 
 Furthermore, there are certainly overlaps between this chapter and that
-for **Outreach**, as some information delivered in outreach efforts
+for *Outreach*, as some information delivered in outreach efforts
 might certainly be thought of as educational. However, we distinguish
 *outreach* and *education*, for the purposes of defining best practices,
 by their intent: whereas, *outreach* was previously described as efforts
@@ -118,7 +118,8 @@ will enable Facilitators and other ACI staff to develop these materials
 for maximum effectiveness and production efficiency. In the following
 text, we list and describe many of these considerations, though many of
 them are also later discussed in the topics of "Composition Strategies",
-“Delivery and Teaching”, “Written Formats”, and “Verbal Formats”.
+“Delivery and Teaching”, “[Written Formats](#format-written)”, and 
+“[Verbal Formats](#format-verbal)”.
 
 <a name="gaps"></a>
 
@@ -131,7 +132,7 @@ learning materials. Informative interactions will not only include
 engagements and assistance with issues (including assistance tickets of
 other staff), but also researcher reflections in pro-active support and
 information obtained through assessment of user satisfaction with
-existing learning materials (see **Assessment and Metrics**). Some
+existing learning materials (see *Assessment and Metrics*). Some
 learning gaps may require simple updates to existing materials, while
 others require the creation of new materials. Another form of a gap in
 learning materials might be the lack of multiple formats, in which case
@@ -139,8 +140,8 @@ the material might  be made preferable for more researchers by pursuing
 an additional format. In some instances, especially for information that
 is generally relevant in a wide range of contexts (beyond the context of
 any one specific ACI resource), Facilitators can simply point
-researchers to existing, external documentation (see [Leverage Existing
-Materials](#existing), below). For additions of in-house materials, we later
+researchers to existing, external documentation (see "[Leverage Existing
+Materials](#existing)", below). For additions of in-house materials, we later
 describe the importance of defining learning modules to specifically
 satisfy pre-defined learning outcomes to fill known gaps (see also
 [^2]).
@@ -172,8 +173,8 @@ specific use-case(s), rather than examples. (See [^8] for
 more on guided instruction.) As a result, we suggest that Facilitators
 develop and promote multiple learning formats, (see "Written Formats"
 and “Verbal Formats”) and include avenues for obtaining one-to-one
-assistance described previously in [Assisting Researchers in the Use of
-ACI Resources](../05-assistance). Similar to the reason for providing assistance via
+assistance described previously in *[Assisting Researchers in the Use of
+ACI Resources](../05-assistance)*. Similar to the reason for providing assistance via
 multiple communication pathways to accommodate researcher schedules,
 in-person learning materials should also be available for independent
 learning by researchers who can’t attend a pre-scheduled event.
@@ -284,7 +285,7 @@ materials.
 
 In order to assess the clarity and effectiveness of any learning
 materials or in-person sessions, it is important to obtain feedback from
-learners. As discussed more fully in **Assessment and Metrics**, such
+learners. As discussed more fully in *Assessment and Metrics*, such
 information can and should be obtained in different manners depending on
 the format of the learning opportunity. For in-person training, it is
 important to incorporate real-time feedback between learning modules
@@ -402,7 +403,7 @@ this information will help researchers to determine which sessions are
 worth their time and effort. Furthermore, it is important to tie guided
 training of specific tasks into the higher-level goals and best
 practices of any in-person session (covered more below in
-[Format-Specific Considerations](#format)).
+"[Format-Specific Considerations](#format)").
 
 <a name="prereqs"></a>
 
@@ -689,8 +690,8 @@ available beyond their use at in-person learning events.
 Training in a one-to-one format with single or few researchers will
 typically resemble Assistance meetings and office hours, where practices
 of pair-programming and guided instruction (having researchers learn by
-doing) are most effective. See more discussion in *Assisting Researchers
-in the Use of ACI Resources.*
+doing) are most effective. See more discussion in *[Assisting Researchers
+in the Use of ACI Resources](../05-assistance)*.
 
 ### Videos
 
@@ -734,7 +735,7 @@ learning resource, not produced or maintained by the Facilitator or
 other ACI staff. Approaches for connecting researchers in order to
 promote knowledge exchange,often referred to in the context of CI as
 *technology exchange*, are more fully discussed in the chapter on
-**Facilitating Connections**, including examples of facilitating
+*Facilitating Connections*, including examples of facilitating
 researcher communities around specific ACI topics and research methods.
 Some ACI organizations and Facilitators even host repositories for
 researcher-produced (but Facilitator-vetted) documentation for very
