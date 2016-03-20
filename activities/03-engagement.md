@@ -52,7 +52,7 @@ involvement would not be considered engagement.
 
 Engagements can be both formal and informal. For example, an informal
 engagement might arise from a meeting to help resolve a straightforward
-issue (an example documented in **[Assisting Researchers](../05-assistance)**). This can
+issue (an example documented in *[Assisting Researchers](../05-assistance)*). This can
 turn into an engagement when the Facilitator realizes that a) she/he
 needs to know more about the individual or their research; b) the
 researcher was directed towards ACI resources without proper planning;
@@ -205,7 +205,7 @@ Another helpful item to have prepared in advance is a list of ACI
 resources available for her/his use. It is possible your ACI group has
 already compiled a list of the ACI tools and resources at your
 institution that can be leveraged;  if not, this is something a
-Facilitator should do, for which the chapter on **ACI Knowledge** can
+Facilitator should do, for which the chapter on *ACI Knowledge* can
 provide ideas. Researchers may not know or understand all the options
 that are immediately and locally available, and mentioning these can
 prompt additional discussion about their research and directions that
@@ -302,10 +302,10 @@ get started as soon as you’re ready."
 
 After the engagement, the Facilitator can proceed to assist the
 researcher, bringing in other members of the ACI team as necessary (see
-the **[Assisting Researchers in the Use of ACI Resources](../05-assistance)** chapter). In some
+the *[Assisting Researchers in the Use of ACI Resources](../05-assistance)* chapter). In some
 of the engagements, it will become apparent that the researcher requires
 a course of action that is more complex. In these instances, it is ideal
-to create an ACI plan (see **Implementing an ACI Plan** for more
+to create an ACI plan (see *Implementing an ACI Plan* for more
 details) to document and organize all the major steps as one of the
 engagement outcomes. This plan can be used to drive future assistance
 and engagement meetings and aide in keeping the team organized for
