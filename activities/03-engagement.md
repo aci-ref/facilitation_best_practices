@@ -52,7 +52,7 @@ involvement would not be considered engagement.
 
 Engagements can be both formal and informal. For example, an informal
 engagement might arise from a meeting to help resolve a straightforward
-issue (an example documented in *[Assisting Researchers](../05-assistance)*). This can
+issue (an example documented in **[Assisting Researchers](../05-assistance)**). This can
 turn into an engagement when the Facilitator realizes that a) she/he
 needs to know more about the individual or their research; b) the
 researcher was directed towards ACI resources without proper planning;
@@ -152,7 +152,7 @@ questions. A list of basic initial engagement questions as well as some
 questions specifically geared toward compute center resources is shown
 in Figure 1. 
 
-<table style="1px solid black;">
+<table style="border: 1px solid black;">
   <tr>
     <td>
 <ol>
@@ -185,30 +185,6 @@ in Figure 1.
 	</td>
   </tr>
 </table>
-
-|---------|
-| 
-| 1. What are your current research projects?
-|	1. What are the timelines of the projects?
-| 1. What hardware resources are you currently using for computation? 
-|	1. Do these meet your computational needs? 
-|	1. Are there things you can’t do with your current resource that you would like to? 
-|(E.g., can you evaluate all the data you want to at the scale you want?)
-|	1. Are you interested in using other resources? 
-|(E.g., our local cluster or national resources.)
-| 1. What software programs, packages, etc. are you using for your research?
-|	1. Are there existing issues/limitations with the current software?
-|	1. Is there software you would like to use? Is there a reason you are not currently using it?
-| 1. What resource are you using for storage?
-|	1. How much storage are you using?
-|	1. How much storage will you need?
-| 1. Are there any roadblocks to the use of computation resources in your current research?
-|	1. Network issues?
-|	1. Knowledge/expertise?
-|	1. Hardware?
-| 1. Where do you see your research going in the future?
-|
-|---------|
 
 Figure 1: Initial engagement questions
 
@@ -326,7 +302,7 @@ get started as soon as you’re ready."
 
 After the engagement, the Facilitator can proceed to assist the
 researcher, bringing in other members of the ACI team as necessary (see
-the [Assisting Researchers in the Use of ACI Resources](../05-assistance) chapter). In some
+the **[Assisting Researchers in the Use of ACI Resources](../05-assistance)** chapter). In some
 of the engagements, it will become apparent that the researcher requires
 a course of action that is more complex. In these instances, it is ideal
 to create an ACI plan (see **Implementing an ACI Plan** for more
