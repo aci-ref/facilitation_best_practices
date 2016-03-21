@@ -757,4 +757,4 @@ Jump to: [top](#toc)
 
 [^1]: Porter, Leo, Mark Guzdial, Charlie Mcdowell, and Beth Simon. "Success in Introductory Programming." *Communications of the ACM Commun.* ACM 56.8 (2013): 34. Print.
 
-[^8]: *Software Carpentry*. Place of Publication Not Identified: Book On Demand, 2013. Print.
+[^8]: Wilson, Greg (ed). "Software Carpentry: Instructor Training."  http://swcarpentry.github.io/instructor-training/. Web. 21 March 2016.  

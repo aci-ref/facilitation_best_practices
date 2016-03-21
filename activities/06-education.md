@@ -389,8 +389,7 @@ and other resources for more on these three styles.
 unit of learning material, taking care to avoid concept overload?[^10]
  For example, some established tips for in-person and
 self-help tutorials indicate a general goal of 30 minutes for a single
-uninterrupted unit of learning material, especially for beginner tasks
-(*Kaplan-Moss 2009*, *Software Carpentry "Instructor Training"*).
+uninterrupted unit of learning material, especially for beginner tasks. [^17] [^15]
 * Content should be evaluated against the goals for content and learning
 outcomes, both in the editing process and when designing assessments of
 learning.[^2]
@@ -446,7 +445,7 @@ Beyond the use of proper grammar, punctuation, and active voice, there
 are well-established tips for achieving clarity in paragraph and
 sentence structure within written materials on technical topics, and
 with implications for verbal delivery (many are well-summarized and
-exemplified in *Kelly 2006*) These tips are represented in the below
+exemplified in [^16]) These tips are represented in the below
 list:
 
 * Avoid jargon, seeking instead to find general terminology that will
@@ -616,8 +615,7 @@ Even with superbly-developed materials to guide verbal delivery, good
 teaching often comes down to the aspects that are unscripted, including
 two-way interactions between instructors and learners. Well established
 practices for live teaching and verbal communication exist in a variety
-of summative resources (including [^1] [^9] and
-*Software Carpentry "Instructor Training"*). Furthermore, Facilitators
+of summative resources (including [^1] [^9] [^15]). Furthermore, Facilitators
 can also leverage workshops and other training materials for developing
 good teaching skills.
 
@@ -626,8 +624,7 @@ teaching skills relies heavily on watching others teach and on repeated
 teaching experiences, with significant benefit from the implementation a
 few specific practices. For teaching skills relevant to ACI, teachers
 should implement proven practices for well-paced live examples so that
-learners can follow along.[^8] [^14] *Software
-Carpentry "Instructor Training"*) In class exercises and discussion
+learners can follow along.[^8] [^14] [^15] In class exercises and discussion
 should include opportunities for peer-learning and pair programming,
 perhaps by encouraging more advanced learners to assist others who may
 be struggling.[^11] [^14]
@@ -642,13 +639,12 @@ topics and is based upon their own experiences. To avoid demotivation of
 learners, instructors who have significant expertise over learners
 should leave out personal perceptions of ease and complexity, in order
 to avoid clashing with learner perceptions, and should avoid
-condescending language like the word "just".[^1], Software
-Carpentry “Instructor Training”
+condescending language like the word "just".[^1][^15]
 
 While instructor’s should establish trust in their expertise and
 recommendations, learners will ask more questions and seek help when
-instructors are frank about their own knowledge limitations.(*Software
-Carpentry "Instructor Training"*) Furthermore, instructor’s should
+instructors are frank about their own knowledge limitations.[^15] Furthermore, 
+instructors should
 revisit learner motivations and expectations for a particular learning
 opportunity by frequently tying specific concepts and tasks to desired
 goals, outcomes, and best practices for using ACI in real-world use
@@ -745,23 +741,6 @@ instruction and pair programming, see [^4], and [^11].)
 
 Jump to: [top](#toc)
 
-<a name="additional"></a>
-
-# Additional Resources
-
-Not in the below auto-generated Bibliography due to reference format
-issues that will be addressed later:
-
-Kelly, Nicole. "Sentence Structure of Technical Writing,"
-http://web.mit.edu/me-ugoffice/communication/technical-writing.pdf
-
-Software Carpentry. "Instructor Training,"
-[http://swcarpentry.github.io/instructor-training/](http://swcarpentry.
-github.io/instructor-training/)
-
-Kaplan-Moss, Jacob. "What to Write."
-[https://jacobian.org/writing/what-to-write/](https://jacobian.org/
-writing/what-to-write/), 2009.
 
 Jump to: [top](#toc)
 
@@ -793,7 +772,10 @@ Jump to: [top](#toc)
 
 [^12]: "User Guides." *Online Technical Writing:*. Web. 09 Feb. 2016.
 
-[^13]: Wilson, Greg, D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock, Kathryn D. Huff, Ian M. Mitchell, Mark D. Plumbley, Ben Waugh, Ethan P. White, and Paul Wilson. "Best Practices for Scientific Computing." *PLoS Biology PLoS Biol* 12.1 (2014). Print.
-
 [^14]: Wilson, Greg. "Software Carpentry: Lessons Learned." *F1000Research F1000Res* (2014). Print.
 
+[^15]: Wilson, Greg (ed). "Software Carpentry: Instructor Training."  http://swcarpentry.github.io/instructor-training/. Web. 21 March 2016.  
+
+[^16]: Kelly, Nicole. "Sentence Structure of Technical Writing."  http://web.mit.edu/me-ugoffice/communication/technical-writing.pdf. Web. 21 March 2016.  
+
+[^17]: Kaplan-Moss, Jacob. "What to Write."  https://jacobian.org/writing/what-to-write/ Web. 2009. 
