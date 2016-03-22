@@ -119,7 +119,7 @@ communications staff members can be used not only to inform the research
 community about resources available, but can also be used to highlight
 the role that ACI resources played in a any prominent publications. This
 can be done though the same methods discussed below in the section
-*Advertising the Event*.
+"[Advertising the Event](#advertising)".
 
 Facilitators should take every opportunity to cultivate advocates in
 different places at an institution. Good advocates are people who have
@@ -422,7 +422,7 @@ Jump to: [top](#toc)
 # Tracking Outreach and Measuring Effectiveness
 
 While the gathering of metrics and assessment data is discussed in more
-detail in the chapter on **Assessment and Metrics**, a few
+detail in the chapter on *Assessment and Metrics*, a few
 considerations specific to collecting data on outreach activities are
 presented in this section.
 
@@ -446,8 +446,8 @@ Along with recording the metrics of the event, it is also important to
 get as sense of the effectiveness of the event, in order to determine
 whether or not the outreach achieved the goal. There are a number of
 ways to measure the effectiveness, and these are not only applicable to
-outreach activities, but also to the similar **Education and Training
-**activities of a Facilitator. One approach, most valid when the
+outreach activities, but also to the similar *[Education and Training](../06-education)*
+activities of a Facilitator. One approach, most valid when the
 outreach activity is a presentation, is to give the attendees a short
 written survey. It is best for surveys of this type to be short and easy
 to complete in order to get the attendees to take the time to complete
