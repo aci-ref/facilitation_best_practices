@@ -30,8 +30,7 @@ effective teaching.*
     4.1 [Written Materials](#format-written)    
     4.2 [Verbal Formats](#format-verbal)    
 5. [Promoting Learning between Researchers](#peers)
-6. [Additional Resources](#additional)
-7. [References](#references)
+6. [References](#references)
 
 <a name="introduction"></a>
 
@@ -738,9 +737,6 @@ researcher-produced (but Facilitator-vetted) documentation for very
 specific tasks and workflows on ACI systems to serve as examples other
 researchers. (For more information on the significant benefits of peer
 instruction and pair programming, see [^4], and [^11].)
-
-Jump to: [top](#toc)
-
 
 Jump to: [top](#toc)
 

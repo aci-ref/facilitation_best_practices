@@ -278,7 +278,7 @@ organization and as such it is essential to make a good impression.
 Several points to keep in mind when preparing for the event and put
 together materials are:
 
-* **_Be prepared_****: **Arrive early to make sure all is set up
+* **_Be prepared_**: Arrive early to make sure all is set up
 properly, especially when using new devices and technologies, or reusing
 for the first time in a while. Anticipate questions that may come from
 the audience, and try to address the most important answers in the
