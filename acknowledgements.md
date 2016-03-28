@@ -24,7 +24,7 @@ who have contributed to the initial content and ongoing maintenance of this docu
 <br>
 <br>
 <center>
-<b>Original Best Practices Content Team:</b>
+<b>Original Best Practices Content Team:</b> <br>
 Sean Cleveland (University of Hawaii)<br>
 Bob Freeman (Harvard University)<br>
 Christina Koch (University of Wisconsin-Madison)<br>
