@@ -21,12 +21,14 @@ who have contributed to the initial content and ongoing maintenance of this docu
 <td width="16%" align="center"><img src="../img/wisconsin.png" alt="University of Wisconsin" width="80%"></td>
 </tr></table>
 
+<br>
+<br>
 <center>
 <b>Original Best Practices Content Team:</b>
-Sean Cleveland (University of Hawaii)</br>
-Bob Freeman (Harvard University)</br>
-Christina Koch (University of Wisconsin-Madison)</br>
-Lauren Michael (University of Wisconsin-Madison)</br>
-Anita Orendt (University of Utah)</br>
-Erin Shaw (University of Southern California)</br>
+Sean Cleveland (University of Hawaii)<br>
+Bob Freeman (Harvard University)<br>
+Christina Koch (University of Wisconsin-Madison)<br>
+Lauren Michael (University of Wisconsin-Madison)<br>
+Anita Orendt (University of Utah)<br>
+Erin Shaw (University of Southern California)<br>
 </center>
