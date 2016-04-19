@@ -3,12 +3,12 @@ layout: page
 title: Outreach
 ---
 
-<a name="toc"></a>
-
 *Promoting awareness and understanding of the facilitator role and of
 ACI resources to potential users of ACI resources and to various
 administrators, including entities who exist within and external to the
 institution. Effectively targeting key audiences.*
+
+<a name="toc"></a>
 
 1. [Introduction](#introduction)
 2. [Target Audiences](#target)
