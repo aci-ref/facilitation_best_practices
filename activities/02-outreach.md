@@ -14,16 +14,17 @@ institution. Effectively targeting key audiences.*
 2. [Target Audiences](#target)
 3. [Publicizing ACI Availability and Usage](#publicizing)
 4. [Partnering with Existing Events](#partnering)
-5. [Organizing an ACI Event](#organizing)
+5. [Organizing an ACI Event](#organizing)   
     5.1 [Advertising the Event](#advertising)
 6. [Appearing at Events](#appearing)
-7. [Construction of Reusable Materials](#materials)
+7. [Construction of Reusable Materials](#materials) 
     7.1 [Slide based presentations](#slides)
     7.2 [Posters](#posters)
     7.3 [Handouts](#handouts)
     7.4 [Use Case Stories](#use-case)
     7.5 [Newsletters](#newsletters)
 8. [Tracking Outreach and Measuring Effectiveness](#tracking)
+
 
 <a name="introduction"></a>
 
