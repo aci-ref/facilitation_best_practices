@@ -17,7 +17,7 @@ institution. Effectively targeting key audiences.*
 5. [Organizing an ACI Event](#organizing)   
     5.1 [Advertising the Event](#advertising)
 6. [Appearing at Events](#appearing)
-7. [Construction of Reusable Materials](#materials) 
+7. [Construction of Reusable Materials](#materials)    
     7.1 [Slide based presentations](#slides)    
     7.2 [Posters](#posters) 
     7.3 [Handouts](#handouts)   
