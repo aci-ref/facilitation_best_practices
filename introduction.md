@@ -203,7 +203,7 @@ effective teaching.  </i>
 <i>Proactively and reactively identifying available ACI resources.
 Gaining necessary knowledge and skills relevant to ACI resources.</i>
 
-<h4>Facilitating Connections</h4>
+<h4>Facilitating Researcher Connections</h4>
 <i>Promoting opportunities for peer-learning between researchers. Aiding in
 the formation of informal and formal collaborations. Liaising and
 matchmaking between users and ACI resource providers, where appropriate.</i>
