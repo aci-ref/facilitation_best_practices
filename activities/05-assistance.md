@@ -5,6 +5,11 @@ title: Assisting Researchers in the Use of ACI Resources
 
 <a name="toc"></a>
 
+*Establishing proactive and reactive support routes for researchers who
+use ACI resources, including standards of response. Promoting learning
+and user empowerment in providing support for user-reported or observed
+issues. Leveraging external technical expertise.*
+
 1. [Introduction](#introduction)
 2. [Establishing Communication Routes for Providing Assistance](#routes)    
     2.1 [Common Assistance Routes](#routes-common)    
@@ -52,7 +57,7 @@ strive to be as clear as possible, regardless of the assistance route,
 and present solutions that advance a researcher’s own future
 capabilities in using ACI resources. We also discuss the importance of
 translating assistance experiences into improvements to learning
-materials (see also *Education and Training of Researchers*) and into
+materials (see also *[Education and Training of Researchers](../06-education)*) and into
 optimization of ACI system capabilities to better meet researcher needs
 (covered in *Interfacing with ACI Resource Providers*).
 
@@ -205,7 +210,7 @@ Across the various communication pathways for providing assistance, and
 regardless of the purpose of the communication  – follow-up with user,
 resolving user issues, proactive support – there are a number of best
 practices for providing assistance that are covered further below in
-[Effective Communication in Assisting Researchers](#communication). 
+"[Effective Communication in Assisting Researchers](#communication)". 
 
 <a name="routes-awareness"></a>
 <h2>Promoting Awareness of Assistance Routes</h2>
@@ -216,7 +221,7 @@ also essential to adequately document and promote the ways that
 researchers can obtain assistance from Facilitators (and/or other ACI
 staff). Typically, this information can be listed alongside in-house
 learning materials and troubleshooting documentation on a website (see
-*Education and Training of Researchers*). For example, it may be effective
+*[Education and Training of Researchers](../06-education)*). For example, it may be effective
 to provide a dedicated web page discussing the routes via which
 assistance can be pursued, and to remind researchers of support
 mechanisms within *other* online documentation pages. Furthermore, the
@@ -241,8 +246,9 @@ solutions that will enhance each researcher’s capabilities in the use of
 ACI resources and empower the researcher to achieve more into the
 future. We discuss below these overall considerations, which apply to
 multiple assistance contexts covered below,
-including “Addressing User-reporting Issues”, “Assistance for Non-issue
-Support Requests”, and “Proactive Support”.
+including "[Addressing User-reporting Issues](#issues)", 
+"[Assistance for Non-issue Support Requests](#non-issue)", and 
+"[Proactive Support](#proactive)".
 
 As Facilitators will often rely on assistance participation or input
 from other ACI staff, it is crucial that they strive to ensure that
@@ -283,8 +289,9 @@ email communication for user support. It is therefore important to
 follow typical practices for professional email communication, including
 the use of greetings and introducing your name and role in the email
 body and/or closing signature. Good examples of this are shown below,
-under the topics of “Addressing User-Reported Issues” and “Assistance
-for Non-Issue Support Requests”. Even for messages sent via email-based
+under the topics of “[Addressing User-Reported Issues](#issues)” and 
+“[Assistancefor Non-Issue Support Requests](#non-issue)”. Even for messages 
+sent via email-based
 issue “ticket” systems, where there may be a tendency to leave out
 greetings and closing statements, it is important to treat communication
 with users with more formalism than the styles culturalized in email
@@ -304,13 +311,13 @@ researchers often benefit significantly by having a translator of
 complex concepts and terminology when learning to effectively utilize
 ACI resources. To this end, Facilitators must strive to find language
 that is already familiar to researchers, *especially* for assistance
-communication. As discussed more thoroughly in *Educating and Training
-Researchers*, education research indicates that non-experts are more
+communication. As discussed more thoroughly in 
+*[Educating and Training Researchers](../06-education)*, 
+education research indicates that non-experts are more
 effective in teaching concepts that are novel to learners, as teachers
 with greater expertise already possess a more sophisticated
 understanding and set of terminology (see [^4] and 
-[^5]
-for more discussion on this topic).
+[^5] for more discussion on this topic).
 
 Other specific guidelines for clear wording in any communication context are:
 
@@ -323,7 +330,7 @@ as possible (e.g. “it”, “they”, “them”).
 that is familiar to the researcher. For example, use “program” or “software” if 
 the word “executable” is less familiar.
 * Avoid overwhelming the researcher with too much new information at once. 
-Please see *Educating and Training Researchers* in the Use of ACI, [^4],
+Please see *[Educating and Training Researchers](../06-education)* in the Use of ACI, [^4],
  [^7], and [^8] for more 
  discussion on concept/cognitive overload.
 * When introducing new terminology and ideas, as necessary define terms and 
@@ -380,7 +387,7 @@ including in-house learning materials and information sources (online or
 elsewhere) deemed to be effective and trustworthy by the Facilitator and
 other staff. Additionally, Facilitators can check in proactively when
 issues or optimization opportunities are detected by various ACI staff
-from usage metrics (as described further in [Proactive Support](#proactive)).
+from usage metrics (as described further in "[Proactive Support](#proactive)").
 
 Jump to: [top](#toc)
 
@@ -519,7 +526,7 @@ issue resolution. Some non-issue questions may actually lead to a true
 engagement, where a more complex ACI plan can be discussed. However, the
 progression to deciding an engagement is necessary would still follow
 the first few steps below, and according to practices described in
-[Engaging Researchers](03-engagement). As a clear demonstration, we provide two simple
+*[Engaging Researchers](03-engagement)*. As a clear demonstration, we provide two simple
 examples of email communication for non-issue requests, though the same
 ideas would apply within the context of other assistance route(s).
 
@@ -750,4 +757,4 @@ Jump to: [top](#toc)
 
 [^1]: Porter, Leo, Mark Guzdial, Charlie Mcdowell, and Beth Simon. "Success in Introductory Programming." *Communications of the ACM Commun.* ACM 56.8 (2013): 34. Print.
 
-[^8]: *Software Carpentry*. Place of Publication Not Identified: Book On Demand, 2013. Print.
+[^8]: Wilson, Greg (ed). "Software Carpentry: Instructor Training."  http://swcarpentry.github.io/instructor-training/. Web. 21 March 2016.  

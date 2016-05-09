@@ -36,23 +36,23 @@ endeavors.  Activities defined as engagement may include:
 
 * Development of ACI Plans describing the overall strategies by which a
 researcher will proceed
-* Implementing one or more ACI resources for a project. 
+* Implementing one or more ACI resources for a project 
 * Attending initial and on-going meetings to discuss a researcher's
 projects, goals and roadmap
 * Collaborating with a researcher on a portion of their project related
 to ACI, to enable their use of a resource near-term
 * Transferring knowledge that leads to a researcher’s effective
 utilization of resources
-* Developing long term plans as part of a larger ACI plan, 
+* Developing long term plans as part of a larger ACI plan
 * Consulting with a researcher on aspects of a project for which the
-Facilitator has domain expertise.
+Facilitator has domain expertise
 
 As a rule, tasks done on behalf of a researcher without their direct
 involvement would not be considered engagement. 
 
 Engagements can be both formal and informal. For example, an informal
 engagement might arise from a meeting to help resolve a straightforward
-issue (an example documented in [Assisting Researchers](../05-assistance)). This can
+issue (an example documented in *[Assisting Researchers](../05-assistance)*). This can
 turn into an engagement when the Facilitator realizes that a) she/he
 needs to know more about the individual or their research; b) the
 researcher was directed towards ACI resources without proper planning;
@@ -74,9 +74,9 @@ resources is a good idea, as it serves as an introduction of the
 Facilitator and the role of facilitation to the researcher.
 
 The remaining sections will address best practices for successful
-engagements. [Overview of an Engagement Meeting](#overview) describes how to
+engagements. "[Overview of an Engagement Meeting](#overview)" describes how to
 prepare for a meeting, what to consider during the meeting, and how to
-conclude a meeting. [Record Keeping of User Interactions](#records) 
+conclude a meeting. "[Record Keeping of User Interactions](#records)" 
 focuses on the procedures,
 policies and tools needed to effectively manage engagements, and
 includes guidelines on documenting user interactions and measuring the
@@ -114,8 +114,8 @@ For follow-on engagements the Facilitator may continue to meet in person
 or conduct subsequent meetings via web conferencing or by telephone.
 She/he will most likely be simultaneously corresponding via email and it
 may be important, depending on what is discussed, to track these
-conversations as part of the official record (see [Record Keeping of
-User Interactions](#records)). 
+conversations as part of the official record (see "[Record Keeping of
+User Interactions](#records)"). 
 
 <a name="prepare"></a>
 
@@ -152,7 +152,7 @@ questions. A list of basic initial engagement questions as well as some
 questions specifically geared toward compute center resources is shown
 in Figure 1. 
 
-<table style="1px solid black;">
+<table style="border: 1px solid black;">
   <tr>
     <td>
 <ol>
@@ -205,7 +205,7 @@ Another helpful item to have prepared in advance is a list of ACI
 resources available for her/his use. It is possible your ACI group has
 already compiled a list of the ACI tools and resources at your
 institution that can be leveraged;  if not, this is something a
-Facilitator should do, for which the chapter on **ACI Knowledge** can
+Facilitator should do, for which the chapter on *ACI Knowledge* can
 provide ideas. Researchers may not know or understand all the options
 that are immediately and locally available, and mentioning these can
 prompt additional discussion about their research and directions that
@@ -232,7 +232,7 @@ end, there are eight key practices to keep in mind.
 
 1. **_Be interested and positive_**. You want the researcher to leave the meeting 
 feeling positive about the ACI Plan so they will be able to enact the plan for the 
-greatest research impact
+greatest research impact.
 
 2. **_Take notes_**. Good documentation allows this meeting to be
 referenced to in the future and will set the team up for success.  
@@ -302,10 +302,10 @@ get started as soon as you’re ready."
 
 After the engagement, the Facilitator can proceed to assist the
 researcher, bringing in other members of the ACI team as necessary (see
-the [Assisting Researchers in the Use of ACI Resources](../05-assistance) chapter). In some
+the *[Assisting Researchers in the Use of ACI Resources](../05-assistance)* chapter). In some
 of the engagements, it will become apparent that the researcher requires
 a course of action that is more complex. In these instances, it is ideal
-to create an ACI plan (see **Implementing an ACI Plan** for more
+to create an ACI plan (see *[Implementing an ACI Plan](../04-aci_plan)* for more
 details) to document and organize all the major steps as one of the
 engagement outcomes. This plan can be used to drive future assistance
 and engagement meetings and aide in keeping the team organized for
@@ -331,7 +331,7 @@ several places to look at for making engagement conversions:
 researchers that can benefit from a proactive engagement to discuss
 accelerating their research.
 * Email reviews.  Browsing your emails and team emails for previous
-assistance, introductions and 
+assistance, introductions and relevant information.
 * Followups from training sessions.  Invitations to training attendees
 for face-to-face follow-ups can drum up engagement opportunities.
 * Survey responses.  Surveys about services and trainings can point to
@@ -340,7 +340,7 @@ researchers that could benefit from an engagement.
 referrals can be useful in establishing researchers to contact about
 establishing an engagement.  Meetings between local service providers
 with focused requests about researchers seeking assistance or observed
-needing additional resources or help can often yield  new leads.
+needing additional resources or help can often yield new leads.
 
 To provide the best ROI Facilitators should be proactively seeking out
 engagements since researchers are focused on doing their science.  So
@@ -433,7 +433,7 @@ additional ideas and information). Also, recognize that some of these
 tools may be managed outside of your group, as is often common when
 research computing ACI teams are tightly coupled with central IT.
 
-Some infrastructure features that should be considered in implementing a tracking system:
+Some infrastructure features that should be considered when implementing a tracking system:
 
 * A system that has a shared, centralized repository of user
 information, including information about research goals, as well as any
@@ -451,18 +451,18 @@ released that can benefit a researcher.
 * Integration of assessment data. Most sites survey users before and
 after trainings, or at periodic times; being able to organize this
 information is helpful especially in the context of a user’s research
-(see the **Assessment/Metrics** chapter for more details). 
+(see the *Assessment/Metrics* chapter for more details). 
 
 Some of the tools being used to track engagements by the current ACI-REF institutions are:
 
 * REDCap ([http://project-redcap.org](http://project-redcap.org/)) – the
-Center or High Performance Computing at University of Utah has used this
+Center for High Performance Computing at University of Utah has used this
 tool to track engagements and interactions with researchers.
 * Redmine ([http://redmine.org](http://redmine.org)) – the University of
 Hawaii’s CI team has made use of this software development/project
 management tool to organize and track ACI-REF projects and information.
-* Basecamp ([https://basecamp.com/](https://basecamp.com/)) -the Center
-or High Performance Computing University of Utah uses this for project
+* Basecamp ([https://basecamp.com/](https://basecamp.com/)) – the Center
+for High Performance Computing University of Utah uses this for project
 management. In some case Basecamp is used to coordinate tasks for a
 portion of a researcher's ACI plan.
 * The University of Wisconsin has an in-house web app for account
@@ -471,7 +471,7 @@ Facilitators and other staff. The data, itself, is stored in a database,
 and integrates with campus NetIDs for usernames of researches on campus.
 * Service Now ([http://www.servicenow.com](http://www.servicenow.com)) -
 USC utilizes SNOW as a university-wide ticketing system. They also use
-USC-secure Google documentation to track more complex ACIREF engagements
+USC-secure Google documentation to track more complex ACIREF engagements.
 
 Regardless of the tools and procedures chosen to develop the tracking
 system and tracking ; it will prove useless if the facilitation team
@@ -494,13 +494,13 @@ that is useful to report on your facilitation activities as well as on
 the impact of these activities.  In regards to engagements examples of
 metrics to track include:
 
-* Researcher information. Department and research area
+* Researcher information within department and research area
 * Total number of engagements in a set period (monthly, yearly etc)
 * Engagement conversions 
 
 Be aware of how you can integrate some of this information into your
 assessment data and metrics in order to save time later (see the
-**Assesment & Metrics** chapter for recommended metrics to track and
+*Assessment & Metrics* chapter for recommended metrics to track and
 more in depth details).
 
 Jump to: [top](#toc)

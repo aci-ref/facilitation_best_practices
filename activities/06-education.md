@@ -1,9 +1,15 @@
---- 
+---
 layout: page 
 title: Education and Training of Researchers 
 ---
 
 <a name="toc"></a>
+
+*Identifying and leveraging existing learning resources for ACI topics
+and resources. Developing novel materials for in-person learning and
+self-directed learning, including both education (knowledge/awareness)
+and training (skills/practice). Leveraging established practices for
+effective teaching.*
 
 1. [Introduction](#introduction)    
 2. [Overall Considerations](#considerations)    
@@ -24,8 +30,7 @@ title: Education and Training of Researchers
     4.1 [Written Materials](#format-written)    
     4.2 [Verbal Formats](#format-verbal)    
 5. [Promoting Learning between Researchers](#peers)
-6. [Additional Resources](#additional)
-7. [References](#references)
+6. [References](#references)
 
 <a name="introduction"></a>
 
@@ -51,7 +56,7 @@ these two terms are not mutually exclusive, and many learning
 opportunities will include a combination of *education* and *training*.
 
 Furthermore, there are certainly overlaps between this chapter and that
-for **Outreach**, as some information delivered in outreach efforts
+for *Outreach*, as some information delivered in outreach efforts
 might certainly be thought of as educational. However, we distinguish
 *outreach* and *education*, for the purposes of defining best practices,
 by their intent: whereas, *outreach* was previously described as efforts
@@ -112,7 +117,8 @@ will enable Facilitators and other ACI staff to develop these materials
 for maximum effectiveness and production efficiency. In the following
 text, we list and describe many of these considerations, though many of
 them are also later discussed in the topics of "Composition Strategies",
-“Delivery and Teaching”, “Written Formats”, and “Verbal Formats”.
+“Delivery and Teaching”, “[Written Formats](#format-written)”, and 
+“[Verbal Formats](#format-verbal)”.
 
 <a name="gaps"></a>
 
@@ -125,7 +131,7 @@ learning materials. Informative interactions will not only include
 engagements and assistance with issues (including assistance tickets of
 other staff), but also researcher reflections in pro-active support and
 information obtained through assessment of user satisfaction with
-existing learning materials (see **Assessment and Metrics**). Some
+existing learning materials (see *Assessment and Metrics*). Some
 learning gaps may require simple updates to existing materials, while
 others require the creation of new materials. Another form of a gap in
 learning materials might be the lack of multiple formats, in which case
@@ -133,8 +139,8 @@ the material might  be made preferable for more researchers by pursuing
 an additional format. In some instances, especially for information that
 is generally relevant in a wide range of contexts (beyond the context of
 any one specific ACI resource), Facilitators can simply point
-researchers to existing, external documentation (see [Leverage Existing
-Materials](#existing), below). For additions of in-house materials, we later
+researchers to existing, external documentation (see "[Leverage Existing
+Materials](#existing)", below). For additions of in-house materials, we later
 describe the importance of defining learning modules to specifically
 satisfy pre-defined learning outcomes to fill known gaps (see also
 [^2]).
@@ -166,8 +172,8 @@ specific use-case(s), rather than examples. (See [^8] for
 more on guided instruction.) As a result, we suggest that Facilitators
 develop and promote multiple learning formats, (see "Written Formats"
 and “Verbal Formats”) and include avenues for obtaining one-to-one
-assistance described previously in [Assisting Researchers in the Use of
-ACI Resources](../05-assistance). Similar to the reason for providing assistance via
+assistance described previously in *[Assisting Researchers in the Use of
+ACI Resources](../05-assistance)*. Similar to the reason for providing assistance via
 multiple communication pathways to accommodate researcher schedules,
 in-person learning materials should also be available for independent
 learning by researchers who can’t attend a pre-scheduled event.
@@ -278,7 +284,7 @@ materials.
 
 In order to assess the clarity and effectiveness of any learning
 materials or in-person sessions, it is important to obtain feedback from
-learners. As discussed more fully in **Assessment and Metrics**, such
+learners. As discussed more fully in *Assessment and Metrics*, such
 information can and should be obtained in different manners depending on
 the format of the learning opportunity. For in-person training, it is
 important to incorporate real-time feedback between learning modules
@@ -382,8 +388,7 @@ and other resources for more on these three styles.
 unit of learning material, taking care to avoid concept overload?[^10]
  For example, some established tips for in-person and
 self-help tutorials indicate a general goal of 30 minutes for a single
-uninterrupted unit of learning material, especially for beginner tasks
-(*Kaplan-Moss 2009*, *Software Carpentry "Instructor Training"*).
+uninterrupted unit of learning material, especially for beginner tasks. [^17] [^15]
 * Content should be evaluated against the goals for content and learning
 outcomes, both in the editing process and when designing assessments of
 learning.[^2]
@@ -396,7 +401,7 @@ this information will help researchers to determine which sessions are
 worth their time and effort. Furthermore, it is important to tie guided
 training of specific tasks into the higher-level goals and best
 practices of any in-person session (covered more below in
-[Format-Specific Considerations](#format)).
+"[Format-Specific Considerations](#format)").
 
 <a name="prereqs"></a>
 
@@ -439,7 +444,7 @@ Beyond the use of proper grammar, punctuation, and active voice, there
 are well-established tips for achieving clarity in paragraph and
 sentence structure within written materials on technical topics, and
 with implications for verbal delivery (many are well-summarized and
-exemplified in *Kelly 2006*) These tips are represented in the below
+exemplified in [^16]) These tips are represented in the below
 list:
 
 * Avoid jargon, seeking instead to find general terminology that will
@@ -609,8 +614,7 @@ Even with superbly-developed materials to guide verbal delivery, good
 teaching often comes down to the aspects that are unscripted, including
 two-way interactions between instructors and learners. Well established
 practices for live teaching and verbal communication exist in a variety
-of summative resources (including [^1] [^9] and
-*Software Carpentry "Instructor Training"*). Furthermore, Facilitators
+of summative resources (including [^1] [^9] [^15]). Furthermore, Facilitators
 can also leverage workshops and other training materials for developing
 good teaching skills.
 
@@ -619,8 +623,7 @@ teaching skills relies heavily on watching others teach and on repeated
 teaching experiences, with significant benefit from the implementation a
 few specific practices. For teaching skills relevant to ACI, teachers
 should implement proven practices for well-paced live examples so that
-learners can follow along.[^8] [^14] *Software
-Carpentry "Instructor Training"*) In class exercises and discussion
+learners can follow along.[^8] [^14] [^15] In class exercises and discussion
 should include opportunities for peer-learning and pair programming,
 perhaps by encouraging more advanced learners to assist others who may
 be struggling.[^11] [^14]
@@ -635,13 +638,12 @@ topics and is based upon their own experiences. To avoid demotivation of
 learners, instructors who have significant expertise over learners
 should leave out personal perceptions of ease and complexity, in order
 to avoid clashing with learner perceptions, and should avoid
-condescending language like the word "just".[^1], Software
-Carpentry “Instructor Training”
+condescending language like the word "just".[^1][^15]
 
 While instructor’s should establish trust in their expertise and
 recommendations, learners will ask more questions and seek help when
-instructors are frank about their own knowledge limitations.(*Software
-Carpentry "Instructor Training"*) Furthermore, instructor’s should
+instructors are frank about their own knowledge limitations.[^15] Furthermore, 
+instructors should
 revisit learner motivations and expectations for a particular learning
 opportunity by frequently tying specific concepts and tasks to desired
 goals, outcomes, and best practices for using ACI in real-world use
@@ -683,8 +685,8 @@ available beyond their use at in-person learning events.
 Training in a one-to-one format with single or few researchers will
 typically resemble Assistance meetings and office hours, where practices
 of pair-programming and guided instruction (having researchers learn by
-doing) are most effective. See more discussion in *Assisting Researchers
-in the Use of ACI Resources.*
+doing) are most effective. See more discussion in *[Assisting Researchers
+in the Use of ACI Resources](../05-assistance)*.
 
 ### Videos
 
@@ -728,7 +730,7 @@ learning resource, not produced or maintained by the Facilitator or
 other ACI staff. Approaches for connecting researchers in order to
 promote knowledge exchange,often referred to in the context of CI as
 *technology exchange*, are more fully discussed in the chapter on
-**Facilitating Connections**, including examples of facilitating
+*Facilitating Connections*, including examples of facilitating
 researcher communities around specific ACI topics and research methods.
 Some ACI organizations and Facilitators even host repositories for
 researcher-produced (but Facilitator-vetted) documentation for very
@@ -738,79 +740,38 @@ instruction and pair programming, see [^4], and [^11].)
 
 Jump to: [top](#toc)
 
-<a name="additional"></a>
-
-# Additional Resources
-
-Not in the below auto-generated Bibliography due to reference format
-issues that will be addressed later:
-
-Kelly, Nicole. "Sentence Structure of Technical Writing,"
-http://web.mit.edu/me-ugoffice/communication/technical-writing.pdf
-
-Software Carpentry. "Instructor Training,"
-[http://swcarpentry.github.io/instructor-training/](http://swcarpentry.
-github.io/instructor-training/)
-
-Kaplan-Moss, Jacob. "What to Write."
-[https://jacobian.org/writing/what-to-write/](https://jacobian.org/
-writing/what-to-write/), 2009.
-
-Jump to: [top](#toc)
-
 <a name="references"></a>
 
 # References
 
-[^1]: Ambrose, Susan A. *How Learning Works: Seven Research-based Principles
-for Smart Teaching*. San Francisco, CA: Jossey-Bass, 2010. Print.
+[^1]: Ambrose, Susan A. *How Learning Works: Seven Research-based Principles for Smart Teaching*. San Francisco, CA: Jossey-Bass, 2010. Print.
 
-[^2]: Baume, David. *Writing and Using Good Learning Outcomes*. Leeds: Leeds
-Metropolitan U, 2009. Print.
+[^2]: Baume, David. *Writing and Using Good Learning Outcomes*. Leeds: Leeds Metropolitan U, 2009. Print.
 
-[^3]: Bellamy, Laura, Michelle Carey, and Jenifer Schlotfeldt. *DITA Best
-Practices: A Roadmap for Writing, Editing, and Architecting in DITA*.
-Upper Saddle River, NJ: IBM, 2012. Print.
+[^3]: Bellamy, Laura, Michelle Carey, and Jenifer Schlotfeldt. *DITA Best Practices: A Roadmap for Writing, Editing, and Architecting in DITA*.  Upper Saddle River, NJ: IBM, 2012. Print.
 
-[^4]: Crouch, Catherine H., and Eric Mazur. "Peer Instruction: Ten Years of
-Experience and Results." *Am. J. Phys. American Journal of Physics* 69.9
-(2001): 970. Print.
+[^4]: Crouch, Catherine H., and Eric Mazur. "Peer Instruction: Ten Years of Experience and Results." *Am. J. Phys. American Journal of Physics* 69.9 (2001): 970. Print.
 
-[^5]: Guzdial, Mark. *Learner-centered Design of Computing Education*. San
-Rafael: Morgan & Claypool, 2015. Print.
+[^5]: Guzdial, Mark. *Learner-centered Design of Computing Education*. San Rafael: Morgan & Claypool, 2015. Print.
 
-[^6]: Hargis, Gretchen. *Developing Quality Technical Information: A Handbook
-for Writers and Editors*. Upper Saddle River, NJ: Prentice Hall
-Professional Technical Reference, 2004. Print.
+[^6]: Hargis, Gretchen. *Developing Quality Technical Information: A Handbook for Writers and Editors*. Upper Saddle River, NJ: Prentice Hall Professional Technical Reference, 2004. Print.
 
 [^7]: "How to Write Software Documentation." *WikiHow*. Web. 09 Feb. 2016.
 
-[^8]: Kirschner, Paul A., John Sweller, and Richard E. Clark. "Why Minimal
-Guidance During Instruction Does Not Work: An Analysis of the Failure of
-Constructivist, Discovery, Problem-Based, Experiential, and
-Inquiry-Based Teaching." *Educational Psychologist* 41.2 (2006): 75-86.
-Print.
+[^8]: Kirschner, Paul A., John Sweller, and Richard E. Clark. "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching." *Educational Psychologist* 41.2 (2006): 75-86. Print.
 
-[^9]: Lockee, Barbara B., P. De Bruyckere, P. A. Kirschner, and C. D. Hulshof.
-"Urban Myths about Learning and Education." *TechTrends TECHTRENDS TECH
-TRENDS* 59.6 (2015): 53-56. Print.
+[^9]: Lockee, Barbara B., P. De Bruyckere, P. A. Kirschner, and C. D. Hulshof. "Urban Myths about Learning and Education." *TechTrends TECHTRENDS TECH TRENDS* 59.6 (2015): 53-56. Print.
 
-[^10]: Mayer, Richard E., and Roxana Moreno. "Nine Ways to Reduce Cognitive
-Load in Multimedia Learning." *Educational Psychologist* 38.1 (2003):
-43-52. Print.
+[^10]: Mayer, Richard E., and Roxana Moreno. "Nine Ways to Reduce Cognitive Load in Multimedia Learning." *Educational Psychologist* 38.1 (2003): 43-52. Print.
 
-[^11]: Porter, Leo, Mark Guzdial, Charlie Mcdowell, and Beth Simon. "Success in
-Introductory Programming." *Communications of the ACM Commun. ACM* 56.8
-(2013): 34. Print.
+[^11]: Porter, Leo, Mark Guzdial, Charlie Mcdowell, and Beth Simon. "Success in Introductory Programming." *Communications of the ACM Commun. ACM* 56.8 (2013): 34. Print.
 
 [^12]: "User Guides." *Online Technical Writing:*. Web. 09 Feb. 2016.
 
-[^13]: Wilson, Greg, D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt
-Davis, Richard T. Guy, Steven H. D. Haddock, Kathryn D. Huff, Ian M.
-Mitchell, Mark D. Plumbley, Ben Waugh, Ethan P. White, and Paul Wilson.
-"Best Practices for Scientific Computing." *PLoS Biology PLoS Biol* 12.1
-(2014). Print.
+[^14]: Wilson, Greg. "Software Carpentry: Lessons Learned." *F1000Research F1000Res* (2014). Print.
 
-[^14]: Wilson, Greg. "Software Carpentry: Lessons Learned." *F1000Research
-F1000Res* (2014). Print.
+[^15]: Wilson, Greg (ed). "Software Carpentry: Instructor Training."  http://swcarpentry.github.io/instructor-training/. Web. 21 March 2016.  
 
+[^16]: Kelly, Nicole. "Sentence Structure of Technical Writing."  http://web.mit.edu/me-ugoffice/communication/technical-writing.pdf. Web. 21 March 2016.  
+
+[^17]: Kaplan-Moss, Jacob. "What to Write."  https://jacobian.org/writing/what-to-write/ Web. 2009. 

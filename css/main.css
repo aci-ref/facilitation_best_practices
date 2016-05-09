@@ -10,14 +10,19 @@ body {
   position: relative;
   background: #FFF;
 }
-
+dt {
+  line-height: 200%;
+}
+dd{
+  margin-left: 50px;
+}
 p {
   line-height: 1.5;
   margin: 30px 0;
 }
 p a {
   /* text-decoration: underline */
-  color: #008AFF;
+  color: #0085a1;
 }
 h1,h2,h3,h4,h5,h6 {
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
@@ -25,11 +30,11 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: bold;
 }
 a {
-  color: #008AFF;
+  color: #0085a1;
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #008AFF;
 }
 blockquote {
   color: #808080;
@@ -46,7 +51,7 @@ hr.small {
 .main-content {
   padding-top: 80px;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1010px) {
   .main-content {
     padding-top: 130px;
   }
@@ -88,7 +93,7 @@ img {
   margin-top: 30px;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1010px) {
   .disqus-comments {
     margin-top: 40px;
   }
@@ -121,7 +126,7 @@ img {
   color: #0085a1;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1010px) {
   .navbar-custom {
     padding: 20px 0;
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -167,7 +172,7 @@ img {
   display: none;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1010px) {
   .navbar-custom .avatar-container {
     width: 100px;
     margin-top: -50px;
@@ -213,7 +218,7 @@ footer .theme-by {
   margin: 10px 0 0;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1010px) {
   footer {
     padding: 50px 0;
   }
@@ -232,7 +237,7 @@ footer .theme-by {
   border-bottom: 1px solid #eee;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1010px) {
   .post-preview {
     padding: 35px 0;
   }
@@ -276,7 +281,7 @@ footer .theme-by {
   font-weight: 800;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1010px) {
   .post-preview .post-title {
     font-size: 36px;
   }
@@ -316,13 +321,13 @@ header.header-post .post-heading .post-subheading {
   margin-bottom: 20px;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1010px) {
   header.header-post .post-heading h1 {
     font-size: 35px;
   }
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1010px) {
   header.header-page .page-heading h1 {
     font-size: 35px;
   }
@@ -352,7 +357,7 @@ header.header-post .post-heading .post-subheading {
   border-radius: 0;
   color: #404040;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1010px) {
   .pager li a {
     padding: 15px 25px;
   }
@@ -372,7 +377,7 @@ header.header-post .post-heading .post-subheading {
   margin-top: 0;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1010px) {
   .pager.blog-pager  {
     margin-top: 10px;
   }
