@@ -22,7 +22,7 @@ Please visit our
 All html pages are generated from plain-text Markdown (.md) files for easy editing and 
 contribution of suggested changes via pull requests. You can:
 
-* Open a "[New Issue](https://help.github.com/articles/creating-an-issue/)", to describe your suggestion or question. 
+* Open a "[New Issue For Facilitation Best Practices](https://github.com/aci-ref/facilitation_best_practices/issues/new)" - "([How To Create An Issue] https://help.github.com/articles/creating-an-issue/)", to describe your suggestion or question you will need a github account.  
 * [Fork](https://help.github.com/articles/fork-a-repo/) the "[facilitation-best-practices](https://github.com/aci-ref/facilitation_best_practices)" repository to your own GitHub account, make edits, and then submit a "[New Pull Request](https://github.com/aci-ref/facilitation_best_practices/pulls)"
 
 <h3><i>For those less familiar with GitHub</i></h3>
