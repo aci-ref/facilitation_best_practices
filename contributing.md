@@ -14,7 +14,7 @@ Before contributing, we recommend that
 you read the [Introduction](http://aci-ref.github.io/facilitation_best_practices/introduction) in 
 order to understand the purpose and method behind this documentation.  
 
-<h2>There are two primary ways to contribute:</h2> 
+<h2>There are two primary ways to contribute or comment:</h2> 
 
 <h3><i>For those familiar with GitHub</i></h3>
 Please visit our 
@@ -26,5 +26,5 @@ contribution of suggested changes via pull requests. You can do either of the fo
 * [Fork](https://help.github.com/articles/fork-a-repo/) the "[facilitation-best-practices](https://github.com/aci-ref/facilitation_best_practices)" repository to your own GitHub account, make edits, and then submit a "[New Pull Request](https://github.com/aci-ref/facilitation_best_practices/pulls)". The main chapters are in a top-level folder named "activities".
 
 <h3><i>For those less familiar with GitHub</i></h3>
-Please send an email to ACIREF-OUTREACH@lists.clemson.edu to discuss your 
-desired contribution.
+Please fill out our comments & contributions form
+at https://docs.google.com/forms/d/1PbOmG346WowBYh5JQS9POh55VGTbdSXEfaL1kL8Xy8g/viewform. 
