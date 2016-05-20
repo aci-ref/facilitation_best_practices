@@ -33,7 +33,7 @@ navbar-links:
   Major Activities: "activities"
   Definitions: "definitions"
   Appendix: "appendix"
-  ACI-REF: "http://www.aciref.org"
+  ACI-REF: "https://aciref.rc.fas.harvard.edu/"
   
 # --- Footer options --- #
 
