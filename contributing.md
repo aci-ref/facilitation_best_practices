@@ -14,8 +14,6 @@ Before contributing, we recommend that
 you read the [Introduction](http://aci-ref.github.io/facilitation_best_practices/introduction) in 
 order to understand the purpose and method behind this documentation.  
 
-<h2>To contribute or comment:</h2> 
-
 This website is hosted through [GitHub](https://github.com/aci-ref/facilitation_best_practices). 
 The main chapters are in the top-level folder named “activities”. The pages are generated from 
 plain-text Markdown (.md) files for easy editing. See GitHub's tutorial on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) for help with Markdown.
