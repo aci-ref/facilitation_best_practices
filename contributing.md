@@ -21,7 +21,7 @@ plain-text Markdown (.md) files for easy editing. See GitHub's tutorial on [Mast
 For those familiar with GitHub, we encourage you to [fork](https://help.github.com/articles/fork-a-repo/) 
 the "[facilitation-best-practices](https://github.com/aci-ref/facilitation_best_practices)" repository to your own GitHub account (required) and start writing. To merge your changes, submit a "[New pull request](https://help.github.com/articles/creating-a-pull-request/)".
 
-As an example, to edit the Chapter on Engagement in your GitHub account: 
+> As an example, to edit the Chapter on Engagement in your GitHub account: 
 * Select the folder named “activities” and then the page named “03-engagement.md”. 
 * Select the pen icon ('Edit this file') to convert the web page to an editable text file. 
 * Edit and preview your changes. When you are happy with the results, select “Commit changes” (bottom of page) to commit the changes directly to your default “gh-pages” branch. 
