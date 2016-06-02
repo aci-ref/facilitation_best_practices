@@ -130,6 +130,8 @@ These supporters can be used to spread the word about the availability
 of ACI resources and facilitation, and can be invited to outreach events
 to help promote ACI. They can also be used to point the Facilitator at
 
+# FIXME
+
 Facilitators should also be aware of other service providers on campus
 that either provide ACI resources or that make use of ACI resources in
 their service catalog, and check with them about outreach opportunities.
@@ -363,6 +365,8 @@ organization, especially when the location is one that is visited by the
 user base and any visitors to the organization. A Facilitator or any
 other ACI staff can use these as talking points when meeting with either
 established or
+
+# FIXME
 
 <a name="handouts"></a>
 
