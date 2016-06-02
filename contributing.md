@@ -21,7 +21,7 @@ The main chapters are in the top-level folder named “activities”. The pages 
 plain-text Markdown (.md) files for easy editing. See GitHub's tutorial on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) for help with Markdown.
 
 For those familiar with GitHub, we encourage you to [fork](https://help.github.com/articles/fork-a-repo/) 
-the "[facilitation-best-practices](https://github.com/aci-ref/facilitation_best_practices)" repository to your own GitHub account (required) and start writing. To merge your changes, submit a "[New pull request](https://github.com/aci-ref/facilitation_best_practices/pulls)".
+the "[facilitation-best-practices](https://github.com/aci-ref/facilitation_best_practices)" repository to your own GitHub account (required) and start writing. To merge your changes, submit a "[New pull request](https://help.github.com/articles/creating-a-pull-request/)".
 
 As an example, to edit the Chapter on Engagement in your GitHub account: 
 * Select the folder named “activities” and then the page named “03-engagement.md”. 
