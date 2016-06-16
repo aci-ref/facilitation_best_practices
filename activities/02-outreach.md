@@ -129,8 +129,7 @@ process; it helps if they have a specific use case on which to speak.
 These supporters can be used to spread the word about the availability
 of ACI resources and facilitation, and can be invited to outreach events
 to help promote ACI. They can also be used to point the Facilitator at
-
-# FIXME
+additional opportunities for outreach that may exist. 
 
 Facilitators should also be aware of other service providers on campus
 that either provide ACI resources or that make use of ACI resources in
