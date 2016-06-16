@@ -362,10 +362,8 @@ of use cases and informational materials. While often these are created
 for an external event, they can also be displayed at the ACI
 organization, especially when the location is one that is visited by the
 user base and any visitors to the organization. A Facilitator or any
-other ACI staff can use these as talking points when meeting with either
-established or
-
-# FIXME
+other ACI staff can use these as talking points on the ACI resource and its usage when meeting with either
+established or new users.
 
 <a name="handouts"></a>
 
