@@ -641,7 +641,7 @@ that other text editors have more options. Which text editor would you suggest?
 ------------------------
 Hi Zoe,
 My personal favorite for the command-line is the ‘vim’ text editor, which 
-is on just about Linux server. You can certainly find a number of online 
+is on just about any Linux server. You can certainly find a number of online 
 tutorials in various formats, by searching online for “vim text editor guide”. 
 You can also find many online comparisons of text editors beyond ‘vim’ by 
 searching for something like “which command line text editor is best?”. There 
