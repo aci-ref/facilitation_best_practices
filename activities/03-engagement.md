@@ -501,9 +501,9 @@ metrics to track include:
 * Category/type of engagement
 * Engagement conversions 
 
-Be aware of how you can integrate some of this information into your
-assessment data and metrics in order to save time later (see the
-*Assessment & Metrics* chapter for recommended metrics to track and
-more in depth details).
+Be aware of how you can integrate this information into your assessment 
+data and metrics in order to save time later  (see the
+*Assessment & Metrics* chapter for recommended metrics for tracking and
+other details).
 
 Jump to: [top](#toc)
