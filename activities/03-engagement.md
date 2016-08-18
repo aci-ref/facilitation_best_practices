@@ -483,7 +483,7 @@ researchers. Additionally, if you are tracking any metrics or
 information, a lack in consistency will result in unreliable results and
 will hinder your efforts. With multiple facilitators on your
 team, ensure that everyone is trained and understands the tracking
-procedures that are in place. 
+procedures that are in place. For an example of tracking and documenting an engagment see [Appendix 3.1](../../appendix/3.1-engagement-documentation)
 
 <a name="records-metrics"></a>
 
