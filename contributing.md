@@ -29,5 +29,5 @@ the "[facilitation-best-practices](https://github.com/aci-ref/facilitation_best_
 
 Alternatively, you can open a "[New issue](https://help.github.com/articles/creating-an-issue/)" and send your suggestion that way.  (Select the “issues” tab, leave a comment, and submit “Submit new issue”.)  A GitHub account is required to submit an issue.
 
-For those less familiar with GitHub, or who are hesitant to contribute to a public document, please send your suggestions to ACIREF-OUTREACH@lists.clemson.edu.
+For those less familiar with GitHub, or who are hesitant to contribute to a public document you can use this [form](https://goo.gl/KKEu5e) to discuss your desired contribution or  send your suggestions to ACIREF-OUTREACH@lists.clemson.edu.
 
