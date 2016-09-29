@@ -514,7 +514,8 @@ Other issues may still require examination on a case-by-case basis,
 but may need only minor “tweaks” for each user.
 It is important that the Facilitator identifies such recurring issues,
 and prepares a “template” communication that can be reused each time.
-Tools like Canned Responses may be very useful for this.
+Tools like [Canned Responses](https://gmail.googleblog.com/2008/10/new-in-labs-canned-responses.html)
+may be very useful for this.
 
 Jump to: [top](#toc)
 
