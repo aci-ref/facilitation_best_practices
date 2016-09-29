@@ -499,6 +499,23 @@ Research Computing Facilitator, CHTC
 ------------------------ 
 ~~~
 
+<a name="issues-communicate"></a>
+<h2>Record communication for re-use</h2>
+
+Some issues are reported more frequently than others.
+Solutions for these common issues must be
+recorded in an easily accessible location, for instance,
+in the “Frequently Asked Questions” (FAQ) section of the
+documentation for the ACI resource.
+It should be made clear to users that
+this location must be consulted before request for assistance,
+but these issues may be reported in assistance routes nevertheless.
+Other issues may still require examination on a case-by-case basis,
+but may need only minor “tweaks” for each user.
+It is important that the Facilitator identifies such recurring issues,
+and prepares a “template” communication that can be reused each time.
+Tools like Canned Responses may be very useful for this.
+
 Jump to: [top](#toc)
 
 <a name="non-issue"></a>
