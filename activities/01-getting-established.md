@@ -11,7 +11,7 @@ facilitators. Establishing initial connections with other staff.*
 
 1. [Introduction](#introduction)
 2. [Institutional Context](#context)   
-	2.1 [Administrative Expectations](#adminstration)   
+	2.1 [Administrative Expectations](#administration)   
 	2.2 [ACI Team Expectations](#team)   
 	2.3 [User Expectations](#users)   
 	2.4 [Physical Location](#location)

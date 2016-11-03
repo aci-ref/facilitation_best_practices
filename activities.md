@@ -3,7 +3,7 @@ layout: page
 title: Executing Major Activities of Facilitation
 ---
 
-1. Getting Established
+1. [Getting Established](01-getting-established)
 2. [Outreach](02-outreach)
 3. [Engagement with Researchers](03-engagement)
 4. [Implementing a Researcher's ACI Plan](04-aci_plan)
