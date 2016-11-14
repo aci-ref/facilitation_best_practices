@@ -194,7 +194,7 @@ practices across research units on a single campus. For example, the
 University of Wisconsin-Madison has successfully formed a group for
 research systems administrators, whose roles often require solutions
 that are heavily matched and integrated with research processes. In the
-chapter on **Interfacing with Other ACI Personnel**, we will discuss
+chapter on *[Interfacing with Other ACI Personnel](../09-interface)*, we will discuss
 additional strategies for networking with individuals in other ACI and
 IT positions to enhance the ability of all individuals to meet
 researcher needs, and to enhance the professional development of the
@@ -247,7 +247,7 @@ researchers are also from similar research domains or the same research
 group and, therefore, share a similar vocabulary, they’ll likely
 communicate and learn from each other even better than from the
 facilitator (see discussions and references on peer-learning in
-*[Education and Training of Researchers](06-education/)*). To some extent, knowledge
+*[Education and Training of Researchers](../06-education/)*). To some extent, knowledge
 exchange between peers can be a crucial component of the assistance and
 education of individual researchers, and in a way that scales beyond the
 facilitator’s own efforts.
@@ -434,7 +434,7 @@ facilitator does not directly represent. In the case of multiple
 facilitators at the same institution or ACI organization, this may mean
 that facilitators regularly communicate about researcher interests in
 order to share knowledge and identify collaboration opportunities. The
-next chapter on **Interfacing with Other ACI Personnel** covers the
+next chapter on *[Interfacing with Other ACI Personnel](../09-interface)* covers the
 importance of building a professional network of other staff, both
 intra- and inter-institutionally, to more holistically support
 researcher needs.

@@ -96,9 +96,9 @@ developing an overall researcher outreach and education/training
 program, including the development of specific pieces of documentation
 and other learning materials. For more details on inter-Facilitator
 collaboration for these various activities, see the chapters on
-*[Outreach](02-outreach)*, *[Engagement with Researchers](03-engagement)*, 
-*[Assisting Researchers in the Use of ACI Resources](05-assistance)*, 
-and *[Education and Training of Researchers](06-education)*.
+*[Outreach](../02-outreach)*, *[Engagement with Researchers](../03-engagement)*, 
+*[Assisting Researchers in the Use of ACI Resources](../05-assistance)*, 
+and *[Education and Training of Researchers](../06-education)*.
 
 Jump to: [top](#toc)
 
@@ -202,7 +202,7 @@ established regular meetings with representatives across ACI-related
 organizations, so that the various participants can coordinate their
 services and introduce researchers to one another. Practices for
 establishing these local groups on a campus are similar to those
-discussed in *[Facilitating Research Connections](08-connections)*, and later in this
+discussed in *[Facilitating Research Connections](../08-connections)*, and later in this
 chapter under “Liaising Connections between Other Personnel”. Overall,
 the Facilitator and individuals they connect with across their
 institution will likely have more collaborative relationships if they
@@ -214,7 +214,7 @@ Jump to: [top](#toc)
 
 ## Leveraging Contacts Outside Your Home Institution
 
-Drawing on the content in *[Enhancing ACI Knowledge](07-aci_knowledge)*, there are a number of
+Drawing on the content in *[Enhancing ACI Knowledge](../07-aci_knowledge)*, there are a number of
 researcher-facing resources that the Facilitator should be familiar with
 and for which a personal connection will benefit researchers with whom
 the Facilitator works with. For example, nationally-funded computing

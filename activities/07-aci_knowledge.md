@@ -204,8 +204,8 @@ grow on the http://aciref.org website.
 
 ### Listing of Training Resources: 
 
-* ACI-REF - [https://aciref.org/research-computing/learning-resources/][]
-* XSEDE - [https://portal.xsede.org/web/xup/online-training][]
+* ACI-REF - https://aciref.org/research-computing/learning-resources/
+* XSEDE - https://portal.xsede.org/web/xup/online-training
 
 ### On-Demand Tutorials:
 
@@ -376,7 +376,7 @@ understanding the institutional atmosphere.  In addition to these more
 formal networking opportunities, there may also be less formal intra- or
 inter-departmental events such as luncheon meetings with colleagues, and
 faculty or visiting researcher presentations. The next chapter on
-*[Facilitating Research Connections](08-connections)* takes a more in depth look at making
+*[Facilitating Research Connections](../08-connections)* takes a more in depth look at making
 connections and covers promoting opportunities for peer-learning between
 researchers, aiding in the formation of collaborations and liaising and
 matchmaking between users and ACI resource providers.
