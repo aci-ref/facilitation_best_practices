@@ -10,7 +10,7 @@ title: Executing Major Activities of Facilitation
 5. [Assisting Researchers in the Use of ACI Resources](05-assistance)
 6. [Education and Training of Researchers](06-education)
 7. Enhancing ACI Knowledge
-8. Facilitating Researcher Connections
+8. [Facilitating Researcher Connections](08-connections)
 9. Interfacing with Other ACI Resource Providers
 10. Self-Assessment and Utilizing User Metrics
 
