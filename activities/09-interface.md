@@ -11,12 +11,12 @@ inter-institutional connections. Translating user feedback to inform the
 enhancement and optimization of ACI Resources.*
 
 1. [Introduction](#introduction)
-2. [Collaborating with ACI Staff in Your Working Group](#working-group)	
-	2.1 [Coordinate with Other Facilitators](#facilitators)	
-	2.2 [Establish Working Relationships with Other Personnel](#other-personnel)	
+2. [Collaborating with ACI Staff in Your Working Group](#working-group)   
+	2.1 [Coordinate with Other Facilitators](#facilitators)   
+	2.2 [Establish Working Relationships with Other Personnel](#other-personnel)    
 	2.3 [Communicate via Consistent Practices](#consistency)
-3. [Building Connections beyond Your Direct Working Group](#beyond-working-group)	
-	3.1 [Networking with Other ACI Staff at Your Institution](#on-campus)	
+3. [Building Connections beyond Your Direct Working Group](#beyond-working-group)   
+	3.1 [Networking with Other ACI Staff at Your Institution](#on-campus)   
 	3.2 [Leveraging Contacts Outside Your Home Institution](#off-campus)
 4. [Toward Improving ACI Resources and Services](#improving)
 

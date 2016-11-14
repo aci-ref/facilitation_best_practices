@@ -1,5 +1,5 @@
 ---
-layout: chapter
+layout: page
 title: Facilitating Researcher Connections
 prev: 07-aci_knowledge
 next: 08-connections
