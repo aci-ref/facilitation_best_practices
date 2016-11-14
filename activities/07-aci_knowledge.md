@@ -12,9 +12,9 @@ necessary knowledge and skills relevant to ACI resources.*
 2. [Trainings and Professional Development](#training)    
 	2.1 [Vendors](#vendors)    
 	2.2 [Conferences](#conferences)
-3. [Online Resources](#online)
-	3.1 [Existing Documentation of Resource Providers](#documentation)
-	3.2 [Social Networks and Professional Organizations](#networking)
+3. [Online Resources](#online)    
+	3.1 [Existing Documentation of Resource Providers](#documentation)    
+	3.2 [Social Networks and Professional Organizations](#networking)    
 	3.3 [Journals, Blogs and Trade Magazines](#reading)
 4. [Using Connections With Other ACI Staff/Facilitators](#connections)
 
