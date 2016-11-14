@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Facilitating Researcher Connections
+prev: 07-aci_knowledge
+next: 08-connections
 ---
 
 <a name="toc"></a>
@@ -23,6 +25,7 @@ matchmaking between users and ACI resource providers, where appropriate.*
 6. [Utilize Relationships with Other ACI Staff](#other-staff)
 
 <a name="introduction"></a>
+
 # Introduction
 
 A facilitator is one of the few individuals with a broad awareness of
@@ -44,6 +47,7 @@ specific use of ACI resources.
 Jump to: [top](#toc)
 
 <a name="strategies"></a>
+
 # Overall Strategies 
 
 Generally, the facilitation activities discussed in
@@ -62,6 +66,7 @@ interaction types that are discussed later in the chapter.
 Jump to: [top](#toc)
 
 <a name="base"></a>
+
 ## Maintain Knowledge of the Researcher Base 
 
 While facilitators will generally have
@@ -99,6 +104,7 @@ researchers who might benefit from communicating with one another.
 Jump to: [top](#toc)
 
 <a name="topics"></a>
+
 ## Build Connections around Topics
 
 ### Research Domain 
@@ -202,6 +208,7 @@ knowledge exchange and collaboration.
 Jump to: [top](#toc)
 
 <a name="self-sustaining"></a>
+
 ## Encourage Self-Sustaining Connections 
 
 Overall, the goal of the facilitator should be to encourage
@@ -228,6 +235,7 @@ follow-ups, etc.).
 Jump to: [top](#toc)
 
 <a name="knowledge-exchange"></a>
+
 # Coordinate Knowledge Exchange Between Researchers
 
 Perhaps the most natural and frequently impactful connections are
@@ -274,6 +282,7 @@ ACI practices.
 Jump to: [top](#toc)
 
 <a name="communities"></a>
+
 # Promote the Formation of Communities 
 
 For some instances
@@ -303,6 +312,7 @@ below.
 Jump to: [top](#toc)
 
 <a name="interest"></a>
+
 ## Gauge Interest 
 
 To support the initial formation of a community or
@@ -321,6 +331,7 @@ addresses the next step.
 Jump to: [top](#toc)
 
 <a name="goals-format"></a>
+
 ## Establish Group Goals and Format 
 
 Once together,
@@ -339,6 +350,7 @@ email.
 Jump to: [top](#toc)
 
 <a name="participation"></a>
+
 ## Facilitator Participation
 
 The facilitator’s role and future
@@ -362,6 +374,7 @@ ACI-related opportunities and events, as mentioned in previous chapters.
 Jump to: [top](#toc)
 
 <a name="collaborations"></a>
+
 # Formal and Informal Collaborations 
 
 The most transformative impacts of
@@ -403,6 +416,7 @@ support of staff in the ACI-providing organization.
 Jump to: [top](#toc)
 
 <a name="other-staff"></a>
+
 # Utilize Relationships with Other ACI Staff 
 
 Especially for the purpose of
