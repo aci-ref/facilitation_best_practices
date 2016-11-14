@@ -3,14 +3,10 @@ layout: page
 title: Enhancing ACI Knowledge
 ---
 
-*Proactively and reactively identifying available ACI resources. Gaining
-necessary knowledge and skills relevant to ACI resources.*
-
 <a name="toc"></a>
 
-*Promoting opportunities for peer-learning between researchers. Aiding
-in the formation of informal and formal collaborations. Liaising and
-matchmaking between users and ACI resource providers, where appropriate.*
+*Proactively and reactively identifying available ACI resources. Gaining
+necessary knowledge and skills relevant to ACI resources.*
 
 1. [Introduction](#introduction)
 2. [Trainings and Professional Development](#training)    
