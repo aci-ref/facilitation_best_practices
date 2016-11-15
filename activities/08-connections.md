@@ -2,7 +2,7 @@
 layout: chapter
 title: Facilitating Researcher Connections
 prev: 07-aci_knowledge
-next: 08-connections
+next: 09-interface
 ---
 
 <a name="toc"></a>
