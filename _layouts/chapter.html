@@ -6,16 +6,7 @@ layout: default
 {% if page.title %}
 <header class="header-page">
 
-  <div class="row">
-   <div class="col-md-3">
-   	<a href="{{site.url}}/activities/{{page.prev}}">Previous</a>
-   </div>
-   <div class="col-md-6">
-   </div>
-   <div class="col-md-3" style="text-align: right;">
-    <a href="{{site.url}}/activities/{{page.next}}">Next</a>
-   </div>
-  </div>
+{% include prev_next.html %}
 
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -49,5 +40,8 @@ layout: default
    <div class="col-md-3" style="text-align: right;">
     <a href="{{site.url}}/activities/{{page.next}}">Next</a>
    </div>
+   
+   {% include prev_next.html %}
+
    
 </div>
