@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Getting Established
 prev: 
 next: 02-outreach

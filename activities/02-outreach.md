@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Outreach
 prev: 01-getting-established
 next: 03-engagement

@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: chapter 
 title: Education and Training of Researchers 
 prev: 05-assistance
 next: 07-aci_knowledge

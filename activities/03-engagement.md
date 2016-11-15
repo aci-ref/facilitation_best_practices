@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Engagement with Researchers
 prev: 02-outreach
 next: 04-aci_plan

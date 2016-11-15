@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Interfacing with ACI Resource Providers
 prev: 08-connections
 next: ./

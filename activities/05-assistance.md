@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 title: Assisting Researchers in the Use of ACI Resources
 prev: 04-aci_plan
 next: 06-education
