@@ -48,8 +48,8 @@ utilization of resources
 * Consulting with a researcher on aspects of a project for which the
 Facilitator has domain expertise
 
-As a rule, tasks done on behalf of a researcher without their direct
-involvement would not be considered an engagement. 
+As a rule, tasks done on behalf of a researcher their own hands-on involvement 
+are not engagement. 
 
 Engagements can be both formal and informal. For example, an informal
 engagement might arise from a meeting to help resolve a straightforward
