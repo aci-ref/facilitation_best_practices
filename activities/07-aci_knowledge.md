@@ -254,8 +254,8 @@ joining various sites such as LinkedIn or Researchgate, which are aimed
 at professional and research communications. Examples of LinkedIn groups
 include:
 
-* HPC - https://www.linkedin.com/topic/high-performance-computing
-* Cloud Computing - https://www.linkedin.com/groups/61513/profile
+* HPC - [https://www.linkedin.com/topic/high-performance-computing]()
+* Cloud Computing - [https://www.linkedin.com/groups/61513/profile]()
 * Women in HPC - https://www.linkedin.com/groups/8105215/profile
 * Multicore and Parallel Computing -
 https://www.linkedin.com/groups/1156517/profile
