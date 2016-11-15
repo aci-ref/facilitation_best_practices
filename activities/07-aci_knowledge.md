@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Enhancing ACI Knowledge
+prev: 06-education
+next: 08-connections
 ---
 
 <a name="toc"></a>

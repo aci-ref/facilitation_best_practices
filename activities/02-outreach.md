@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Outreach
+prev: 01-getting-established
+next: 03-engagement
 ---
 
 *Promoting awareness and understanding of the facilitator role and of

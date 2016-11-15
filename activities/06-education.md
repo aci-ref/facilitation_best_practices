@@ -1,6 +1,8 @@
 ---
 layout: page 
 title: Education and Training of Researchers 
+prev: 05-assistance
+next: 07-aci_knowledge
 ---
 
 <a name="toc"></a>

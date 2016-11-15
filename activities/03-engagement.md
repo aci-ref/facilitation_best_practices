@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Engagement with Researchers
+prev: 02-outreach
+next: 04-aci_plan
 ---
 
 *One-on-one and small-group meetings to understand researcher goals and
