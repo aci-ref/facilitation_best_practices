@@ -204,8 +204,8 @@ grow on the http://aciref.org website.
 
 ### Listing of Training Resources: 
 
-* ACI-REF - [https://aciref.org/research-computing/learning-resources/
-* XSEDE - [https://portal.xsede.org/web/xup/online-training
+* ACI-REF - [https://aciref.org/research-computing/learning-resources/]()
+* XSEDE - [https://portal.xsede.org/web/xup/online-training]()
 
 ### On-Demand Tutorials:
 
@@ -256,10 +256,10 @@ include:
 
 * HPC - [https://www.linkedin.com/topic/high-performance-computing]()
 * Cloud Computing - [https://www.linkedin.com/groups/61513/profile]()
-* Women in HPC - https://www.linkedin.com/groups/8105215/profile]()
+* Women in HPC - [https://www.linkedin.com/groups/8105215/profile]()
 * Multicore and Parallel Computing -
-https://www.linkedin.com/groups/1156517/profile]()
-* CUDA Developers - https://www.linkedin.com/groups/1956294]()
+[https://www.linkedin.com/groups/1156517/profile]()
+* CUDA Developers - [https://www.linkedin.com/groups/1956294]()
 
 Before social media, professional organizations commonly provided an
 outlet for networking with colleagues and learning of updates and the
@@ -318,8 +318,7 @@ Library - [http://www.sighpc.org/resources/dl]()
 ### Vendor blogs and publications
 
 * Cray Blog - [http://www.cray.com/blog/]()
-* Dell HPC Blog
-- [http://en.community.dell.com/techcenter/high-performance-computing/]()
+* Dell HPC Blog - [http://en.community.dell.com/techcenter/high-performance-computing/]()
 * Cisco HPC Blog - [http://blogs.cisco.com/tag/hpc]()
 * SGI Blog - [http://blog.sgi.com/]()
 * Puget Systems HPC Blog - [https://www.pugetsystems.com/all_hpc.php]()
