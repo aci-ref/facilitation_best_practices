@@ -292,10 +292,10 @@ services that researchers can easily transition between, while also
 optimizing the full spectrum of services and addressing potential
 redundancies. Because of their exposure to researcher struggles and
 practices across the various facilitation activities covered in these
-*[Best Practices](/)*, the perspectives of Facilitators and similar individuals
+*[Best Practices](../..)*, the perspectives of Facilitators and similar individuals
 at other organizations should be leveraged constantly when identifying
 opportunities to improve ACI resources. More detailed examination of
 using feedback *and* user behavior metrics to improve ACI resources is
-covered in the next chapter on **Assessment and Metrics**.
+covered in the next chapter on *Assessment and Metrics*.
 
 Jump to: [top](#toc)

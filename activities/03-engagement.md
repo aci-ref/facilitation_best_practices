@@ -361,8 +361,8 @@ this end, establishing a procedure to track/document researcher
 interactions is important, especially as demand for Facilitation and ACI
 resources increases. Many ACI groups have adopted a system
 for user management and ticketing systems to handle account requests,
-software installs, bugs etc. (see more in [Assisting Researchers in the
-Use of ACI Resources](../05-assistance). Documenting, tracking, and organizing your
+software installs, bugs etc. (see more in *[Assisting Researchers in the
+Use of ACI Resources](../05-assistance)*. Documenting, tracking, and organizing your
 interactions with users/researchers can be extensions of ticketing
 activities in most ways, and most of the existing ACI-REF institutions
 have integrated their email ticket systems into their engagement

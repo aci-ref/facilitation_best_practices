@@ -424,7 +424,7 @@ Jump to: [top](#toc)
 # Tracking Outreach and Measuring Effectiveness
 
 While the gathering of metrics and assessment data is discussed in more
-detail in the chapter on *Assessment and Metrics*, a few
+detail in the chapter on **Assessment and Metrics**, a few
 considerations specific to collecting data on outreach activities are
 presented in this section.
 

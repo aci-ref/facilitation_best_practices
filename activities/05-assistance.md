@@ -59,7 +59,7 @@ capabilities in using ACI resources. We also discuss the importance of
 translating assistance experiences into improvements to learning
 materials (see also *[Education and Training of Researchers](../06-education)*) and into
 optimization of ACI system capabilities to better meet researcher needs
-(covered in *Interfacing with ACI Resource Providers*).
+(covered in *[Interfacing with ACI Resource Providers](../09-interface)*).
 
 For the purpose of distinguishing the information in this chapter from
 that in Engaging Researchers, we define “assistance” as the one-to-one
@@ -216,7 +216,7 @@ practices for providing assistance that are covered further below in
 <h2>Promoting Awareness of Assistance Routes</h2>
 
 Just as it is important to promote awareness of ACI resources and
-facilitation services to researchers (as described in *Outreach*), it is
+facilitation services to researchers (as described in *[Outreach](../02-outreach)*), it is
 also essential to adequately document and promote the ways that
 researchers can obtain assistance from Facilitators (and/or other ACI
 staff). Typically, this information can be listed alongside in-house
@@ -753,8 +753,8 @@ compute scheduling efficiency, etc.)</li>
 Importantly, Facilitators need built-in communication pathways and
 working relationships by which feedback regarding the above areas can be
 readily communicated to ACI resource providers and technology
-specialists, as described further in the chapter on *Interfacing with ACI
-Resource Providers*. To the extent that the above ACI changes might be
+specialists, as described further in the chapter on *[Interfacing with ACI
+Resource Providers](../09-interface)*. To the extent that the above ACI changes might be
 informed by measures and systematic evaluation, additional
 considerations are covered in *Assessment and Metrics*.
 

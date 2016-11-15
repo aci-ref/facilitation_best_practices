@@ -217,8 +217,8 @@ across campus? Knowledge on how, and possibly reasons why, the ACI
 organization interacts, or does not interact, with other ACI and non-ACI
 services at the institution will directly impact the Facilitator role by
 defining the scope of the position and the potential for forming
-productive cross-organizational relationships (see **Interfacing with
-other ACI Personnel** for more detail). 
+productive cross-organizational relationships (see *[Interfacing with
+other ACI Personnel](../09-interface)* for more detail). 
 
 <a name="existing-resources"></a>
 
@@ -258,7 +258,7 @@ the ACI team to discuss how these special administrative permissions can
 be configured. Similarly, for general assistance, the Facilitators
 should know whom to contact for assistance with tasks beyond their
 expertise, and for tasks that require access beyond what they have. For
-much more on this topic, see the chapter on **Enhancing ACI Knowledge**.
+much more on this topic, see the chapter on *[Enhancing ACI Knowledge](../07-aci_knowledge)*.
 
 <a name="current"></a>
 
@@ -287,7 +287,7 @@ Training events Tools for managing users Account creation Usage tracking
 Engagement tracking Tools for assessment of facilitation efforts
 
 All of these are discussed in more detail in subsequent chapters of this
-*[Best Practices of Facilitation Guide](../..)*.
+*[Best Practices of Facilitation Guide](..)*.
 
 <a name="team-members"></a>
 
@@ -303,7 +303,8 @@ accomplishing specific tasks, such as finding answers to researcher
 questions, troubleshooting problems, and, most importantly, coordinating
 assistance contributions from other staff. See chapters on *[Assisting
 Researchers in the Use of ACI Resources](../05-assistance)*, *[Implementing 
-a Researcher’s ACI Plan](../04-aci_plan)*, and **Interfacing with Other ACI Personnel** for 
+a Researcher’s ACI Plan](../04-aci_plan)*, and 
+*[Interfacing with Other ACI Personnel](../09-interface)* for 
 more information on
 these Facilitation practices.
 
