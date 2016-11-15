@@ -5,7 +5,6 @@ layout: default
 
 {% if page.title %}
 <header class="header-page">
-
 {% include prev_next.html %}
 
   <div class="row">
@@ -31,17 +30,7 @@ layout: default
     </div>
 	{% endif %}
   </div>
-  
-     <div class="col-md-3">
-   	<a href="{{site.url}}/activities/{{page.prev}}">Previous</a>
-   </div>
-   <div class="col-md-6">
-   </div>
-   <div class="col-md-3" style="text-align: right;">
-    <a href="{{site.url}}/activities/{{page.next}}">Next</a>
-   </div>
    
-   {% include prev_next.html %}
+  {% include prev_next.html %}
 
-   
 </div>

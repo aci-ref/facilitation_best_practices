@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Getting Established
+prev: 
+next: 02-outreach
 ---
 
 *Defining one’s role, including expectations of institutional support
