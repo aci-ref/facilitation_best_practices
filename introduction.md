@@ -54,13 +54,13 @@ In the following portions of the *Introduction*, we define facilitation
 and establish goals of impact for Facilitators as
 compared to other traditional ACI staffing roles. Based upon this
 philosophical description, we establish the major categories of
-facilitation practices, referred to as *Major Activities of Facilitation*,
+facilitation practices, referred to as *[Major Activities of Facilitation](../activities)*,
 and discuss implications for the necessary skills and background of
 effective Facilitators. Thus, the majority of the *Facilitation Best
 Practices* documentation is presented as chapters (1-10) describing
 specific considerations and approaches for each activity. The entire set
-of documentation is also accompanied by *Key Terms and Definitions* of key terms and an
-*Appendix* with supplementary materials that are referred to within the
+of documentation is also accompanied by *[Key Terms and Definitions](../definitions)* of key terms and an
+*[Appendix](../appendix)* with supplementary materials that are referred to within the
 chapters.
 
 Importantly, the best practices established in this documentation are
@@ -78,7 +78,8 @@ for a specific department, college, or research
 domain, and will more generally consult on the use of a variety of ACI
 resource types for methods *specific* to the research domain. Across 
 such a palette of facilitators and
-specialization, we acknowledge that the *Major Activities*
+specialization, we acknowledge that the 
+*[Major Activities of Facilitation](../activities)*
 described herein will contribute in varying degrees to any single
 Facilitator’s specific goals and practices.
 
@@ -101,13 +102,13 @@ Jump to [top](#toc)
 
 <h4><i>Facilitation is ...</i></h4>
 
-While many Facilitators spend their time on a variety of tasks that are
-essential to providing ACI resources to research communities, the
-activities of Facilitation are best represented in the below goals.
 Versus other ACI-related roles, a key component of Facilitation is to
 assist researchers in leveraging ACI resources for themselves, rather
 than performing research tasks on ACI systems for or as a contributor to
-a specific research project.
+a specific research project. Thus, while many Facilitators spend their 
+time on a variety of tasks that are
+essential to providing ACI resources for research, the
+activities of Facilitation are best represented in the below goals.
 
 <ul>
 <li>Promoting awareness of ACI resources and their usefulness</li>
@@ -132,15 +133,15 @@ researchers based upon common research goals and/or uses of cyberinfrastructure<
 sharing of expertise</li>
 </ul>
 
-Many of the above goals are enabled by the *Major Activities of Facilitation*, defined 
-further below under *In Practice*.
+All of these goals are enabled by the *Major Activities of Facilitation*, defined 
+further below under *<a href=#whatis-practice>In Practice<a>*.
 
 <h4><i>Facilitation is NOT...</i></h4>
 
 Though the above activities are within the defined scope of Facilitation
 throughout this documentation, many Facilitators may spend time on additional
 activities that are *not* within the defined scope of Facilitation and
-that are not described . Examples of such activities
+that are not described. Examples of such activities
 include, but are certainly not limited to:
 
 <ul>
@@ -160,8 +161,8 @@ testing/validating recommendations (better defined as Researcher,
 <a name="whatis-practice"></a>
 <h3>In Practice</h3>
 
-The bulk of the documenation of best practices lies within chapters for 
-each of the below *Major Activities of Facilitation*.
+The bulk of the documentation of best practices lies within chapters for 
+each of the below *[Major Activities of Facilitation](../activities)*.
 
 <h4>Getting Established</h4>
 <i>Defining one’s role, including expectations of institutional support 
