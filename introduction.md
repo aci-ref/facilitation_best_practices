@@ -258,6 +258,6 @@ Jump to: [top](#toc)
 <a name="contribute"></a>
 <h2>Contributing</h2>
 
-Learn more about [Contributing](../contributing).
+Learn more about [Contributing](../contributing) to this Documentation. We want your input!
 
 Jump to: [top](#toc)
