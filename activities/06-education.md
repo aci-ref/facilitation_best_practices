@@ -1,6 +1,8 @@
 ---
-layout: page 
+layout: chapter 
 title: Education and Training of Researchers 
+prev: 05-assistance
+next: 07-aci_knowledge
 ---
 
 <a name="toc"></a>
@@ -56,7 +58,7 @@ these two terms are not mutually exclusive, and many learning
 opportunities will include a combination of *education* and *training*.
 
 Furthermore, there are certainly overlaps between this chapter and that
-for *Outreach*, as some information delivered in outreach efforts
+for *[Outreach](../02-outreach)*, as some information delivered in outreach efforts
 might certainly be thought of as educational. However, we distinguish
 *outreach* and *education*, for the purposes of defining best practices,
 by their intent: whereas, *outreach* was previously described as efforts
