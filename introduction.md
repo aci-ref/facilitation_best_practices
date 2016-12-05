@@ -134,7 +134,7 @@ sharing of expertise</li>
 </ul>
 
 All of these goals are enabled by the *Major Activities of Facilitation*, defined 
-further below under *<a href=#whatis-practice>In Practice<a>*.
+further below under *[In Practice](#whatis-practice)*.
 
 <h4><i>Facilitation is NOT...</i></h4>
 
