@@ -139,8 +139,8 @@ sciences, statistics, geosciences, engineering, and beyond
 * solving partial differential equations (PDEs) - across the physical sciences
 * natural language processing (NLP) - observed in the humanities,
 sociology, psychology, geosciences, and computer sciences 
-* RNAseq analysis - observed across various life and medical sciences “
-* open research”/"open science” practices - observed across domains
+* RNAseq analysis - observed across various life and medical sciences 
+* “open research”/"open science” practices - observed across domains
 
 We will discuss the facilitation of multi-member communities, which have
 been most successful in the case of bringing somewhat disparate
