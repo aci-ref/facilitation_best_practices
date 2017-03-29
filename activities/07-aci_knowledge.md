@@ -301,7 +301,7 @@ this section and on the ACI-REF website.
 
 ### Journals and magazines
 
-* The Jornal of Supercomputing -
+* The Journal of Supercomputing -
 [http://www.springer.com/computer/swe/journal/11227]()
 * Go Parallel - [http://goparallel.sourceforge.net/]()
 * ACM Special Interest Group on High Performance Computing: Digital
