@@ -362,9 +362,9 @@ but also able to be constructively critical
 Some professional networks that meet the above criteria and are related
 to ACI are:
 
-* Campus champions
-* Internet 2
-* ACI-REF
+* Campus champions - https://www.xsede.org/campus-champions
+* Internet 2 - http://www.internet2.edu/communities-groups/members/
+* ACI-REF - http://aciref.org
 
 
 Not to overlook the local resources at a facilitator's disposal,
