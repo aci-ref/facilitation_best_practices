@@ -206,36 +206,36 @@ grow on the http://aciref.org website.
 
 ### Listing of Training Resources: 
 
-* ACI-REF - [https://aciref.org/research-computing/learning-resources/]()
-* XSEDE - [https://portal.xsede.org/web/xup/online-training]()
+* ACI-REF - [https://aciref.org/research-computing/learning-resources/](https://aciref.org/research-computing/learning-resources/)
+* XSEDE - [https://portal.xsede.org/web/xup/online-training](https://portal.xsede.org/web/xup/online-training)
 
 ### On-Demand Tutorials:
 
-* Open Science Grid User School - [http://opensciencegrid.org/UserSchool]()
-* OSG Connect Helpdesk - [https://support.opensciencegrid.org/support/home]()
-* NCSA Cyberinfrastructure Tutor - [https://www.citutor.org/browse.php]()
-* Cornell Virtual Workshop - [https://cvw.cac.cornell.edu/topics]()
+* Open Science Grid User School - [http://opensciencegrid.org/UserSchool](http://opensciencegrid.org/UserSchool)
+* OSG Connect Helpdesk - [https://support.opensciencegrid.org/support/home](https://support.opensciencegrid.org/support/home)
+* NCSA Cyberinfrastructure Tutor - [https://www.citutor.org/browse.php](https://www.citutor.org/browse.php)
+* Cornell Virtual Workshop - [https://cvw.cac.cornell.edu/topics](https://cvw.cac.cornell.edu/topics)
 * Virtual School of Computational Science and Engineering -
-[http://www.vscse.org/]()
-* HPC University - [http://hpcuniversity.org/trainingMaterials/]()
+[http://www.vscse.org/](http://www.vscse.org/)
+* HPC University - [http://hpcuniversity.org/trainingMaterials/](http://hpcuniversity.org/trainingMaterials/)
 * ARCHER Virtual Tutorials -
-[https://www.archer.ac.uk/training/virtual/index.php]()
+[https://www.archer.ac.uk/training/virtual/index.php](https://www.archer.ac.uk/training/virtual/index.php)
 * Wolfram Training: HPC Courses -
-[https://www.wolfram.com/training/courses/hpc/]()
-* PRACE Tutorials - [http://www.training.prace-ri.eu/tutorials/index.html]()
-* LLNL HPC Trainings - [https://computing.llnl.gov/?set=training&page=index]()
-* NCI Trainings - [http://nci.org.au/user-support/training/]()
-* SCAI Online Training - [http://www.hpc.cineca.it/content/online-training]()
+[https://www.wolfram.com/training/courses/hpc/](https://www.wolfram.com/training/courses/hpc/)
+* PRACE Tutorials - [http://www.training.prace-ri.eu/tutorials/index.html](http://www.training.prace-ri.eu/tutorials/index.html)
+* LLNL HPC Trainings - [https://computing.llnl.gov/?set=training&page=index](https://computing.llnl.gov/?set=training&page=index)
+* NCI Trainings - [http://nci.org.au/user-support/training/](http://nci.org.au/user-support/training/)
+* SCAI Online Training - [http://www.hpc.cineca.it/content/online-training](http://www.hpc.cineca.it/content/online-training)
 * Georgia Tech HPC Course -
-[https://www.udacity.com/course/high-performance-computing--ud281]()
+[https://www.udacity.com/course/high-performance-computing--ud281](https://www.udacity.com/course/high-performance-computing--ud281)
 * HLRS HPC Online Workshops -
-[https://fs.hlrs.de//projects/par/par_prog_ws/]()
+[https://fs.hlrs.de//projects/par/par_prog_ws/](https://fs.hlrs.de//projects/par/par_prog_ws/)
 * ACM SIG HPC - [http://sighpceducation.acm.org/resources.html]()
 * University of Washington HPC Course - 
-[http://faculty.washington.edu/rjl/uwhpsc-coursera/]()
-* NVIDIA Courses - [https://developer.nvidia.com/educators/existing-courses]()
-* Software Carpentry - [http://software-carpentry.org/]()
-* Data Carpentry - [http://www.datacarpentry.org/]()
+[http://faculty.washington.edu/rjl/uwhpsc-coursera/](http://faculty.washington.edu/rjl/uwhpsc-coursera/)
+* NVIDIA Courses - [https://developer.nvidia.com/educators/existing-courses](https://developer.nvidia.com/educators/existing-courses)
+* Software Carpentry - [http://software-carpentry.org/](http://software-carpentry.org/)
+* Data Carpentry - [http://www.datacarpentry.org/](http://www.datacarpentry.org/)
 
 The examples provided for existing documentation resources providers not
 exhaustive. They are intended to provide concrete examples of
@@ -273,13 +273,13 @@ opportunities for participating in committees and governance groups.
 Some examples of professional organizations that current ACI
 facilitators find useful are listed below:
 
-* ACM SIG HPC - [http://sighpceducation.acm.org/]()
-* XSEDE Campus Champions - [https://www.xsede.org/campus-champions]()
-* HPC Society - [http://www.hpcsociety.org/]()
-* IEEE - [http://www.ieee.org]()
-* SIAM - [http://www.siam.org/]()
-* Software Carpentry Contributors - [http://software-carpentry.org/about/]()
-* Data Carpentry Contributors - [http://www.datacarpentry.org/involved/]()
+* ACM SIG HPC - [http://sighpceducation.acm.org/](http://sighpceducation.acm.org/)
+* XSEDE Campus Champions - [https://www.xsede.org/campus-champions](https://www.xsede.org/campus-champions)
+* HPC Society - [http://www.hpcsociety.org/](http://www.hpcsociety.org/)
+* IEEE - [http://www.ieee.org]([http://www.ieee.org)
+* SIAM - [http://www.siam.org/](http://www.siam.org/)
+* Software Carpentry Contributors - [http://software-carpentry.org/about/](http://software-carpentry.org/about/)
+* Data Carpentry Contributors - [http://www.datacarpentry.org/involved/](http://www.datacarpentry.org/involved/)
 
 The examples provided for social media and organizations are not
 exhaustive. They are intended to provide concrete examples that can be
@@ -301,31 +301,31 @@ this section and on the ACI-REF website.
 
 ### Journals and magazines
 
-* The Jornal of Supercomputing -
-[http://www.springer.com/computer/swe/journal/11227]()
-* Go Parallel - [http://goparallel.sourceforge.net/]()
+* The Journal of Supercomputing -
+[http://www.springer.com/computer/swe/journal/11227](http://www.springer.com/computer/swe/journal/11227)
+* Go Parallel - [http://goparallel.sourceforge.net/](http://goparallel.sourceforge.net/)
 * ACM Special Interest Group on High Performance Computing: Digital
-Library - [http://www.sighpc.org/resources/dl]()
+Library - [http://www.sighpc.org/resources/dl](http://www.sighpc.org/resources/dl)
 
 ### Blogs
 
-* HPC Wire - [http://hpcwire.com]()
-* Inside HPC - [http://insidehpc.com/]()
+* HPC Wire - [http://hpcwire.com](http://hpcwire.com)
+* Inside HPC - [http://insidehpc.com/](http://insidehpc.com/)
 * The Register, Data Center : HPC  -
-[http://www.theregister.co.uk/data_centre/hpc/]()
-* HPC Notes - [http://www.hpcnotes.com/]()
+[http://www.theregister.co.uk/data_centre/hpc/](http://www.theregister.co.uk/data_centre/hpc/)
+* HPC Notes - [http://www.hpcnotes.com/](http://www.hpcnotes.com/)
 * ACM Special Interest Group on High Performance Computing -
-[http://www.sighpc.org/]()
+[http://www.sighpc.org/](http://www.sighpc.org/)
 
 ### Vendor blogs and publications
 
-* Cray Blog - [http://www.cray.com/blog/]()
-* Dell HPC Blog - [http://en.community.dell.com/techcenter/high-performance-computing/]()
-* Cisco HPC Blog - [http://blogs.cisco.com/tag/hpc]()
-* SGI Blog - [http://blog.sgi.com/]()
-* Puget Systems HPC Blog - [https://www.pugetsystems.com/all_hpc.php]()
-* Mellanox HPC Blog - [http://www.mellanox.com/blog/category/hpc/]()
-* Microsoft HPC Blog - [https://blogs.technet.microsoft.com/windowshpc/]()
+* Cray Blog - [http://www.cray.com/blog/](http://www.cray.com/blog/)
+* Dell HPC Blog - [http://en.community.dell.com/techcenter/high-performance-computing/](http://en.community.dell.com/techcenter/high-performance-computing/)
+* Cisco HPC Blog - [http://blogs.cisco.com/tag/hpc](http://blogs.cisco.com/tag/hpc)
+* SGI Blog - [http://blog.sgi.com/](http://blog.sgi.com/)
+* Puget Systems HPC Blog - [https://www.pugetsystems.com/all_hpc.php](https://www.pugetsystems.com/all_hpc.php)
+* Mellanox HPC Blog - [http://www.mellanox.com/blog/category/hpc/](http://www.mellanox.com/blog/category/hpc/)
+* Microsoft HPC Blog - [https://blogs.technet.microsoft.com/windowshpc/](https://blogs.technet.microsoft.com/windowshpc/)
 
 The examples provided for journals, blogs and magazines are not
 exhaustive. They are intended to provide concrete examples of materials
