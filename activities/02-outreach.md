@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: chapter
 title: Outreach
+prev: 01-getting-established
+next: 03-engagement
 ---
 
 *Promoting awareness and understanding of the facilitator role and of
@@ -129,6 +131,7 @@ process; it helps if they have a specific use case on which to speak.
 These supporters can be used to spread the word about the availability
 of ACI resources and facilitation, and can be invited to outreach events
 to help promote ACI. They can also be used to point the Facilitator at
+additional opportunities for outreach that may exist. 
 
 Facilitators should also be aware of other service providers on campus
 that either provide ACI resources or that make use of ACI resources in
@@ -361,8 +364,8 @@ of use cases and informational materials. While often these are created
 for an external event, they can also be displayed at the ACI
 organization, especially when the location is one that is visited by the
 user base and any visitors to the organization. A Facilitator or any
-other ACI staff can use these as talking points when meeting with either
-established or
+other ACI staff can use these as talking points on the ACI resource and its usage when meeting with either
+established or new users.
 
 <a name="handouts"></a>
 
@@ -423,7 +426,7 @@ Jump to: [top](#toc)
 # Tracking Outreach and Measuring Effectiveness
 
 While the gathering of metrics and assessment data is discussed in more
-detail in the chapter on *Assessment and Metrics*, a few
+detail in the chapter on **Assessment and Metrics**, a few
 considerations specific to collecting data on outreach activities are
 presented in this section.
 

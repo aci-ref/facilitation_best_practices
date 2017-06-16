@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: chapter
 title: Assisting Researchers in the Use of ACI Resources
+prev: 04-aci_plan
+next: 06-education
 ---
 
 <a name="toc"></a>
@@ -59,7 +61,7 @@ capabilities in using ACI resources. We also discuss the importance of
 translating assistance experiences into improvements to learning
 materials (see also *[Education and Training of Researchers](../06-education)*) and into
 optimization of ACI system capabilities to better meet researcher needs
-(covered in *Interfacing with ACI Resource Providers*).
+(covered in *[Interfacing with ACI Resource Providers](../09-interface)*).
 
 For the purpose of distinguishing the information in this chapter from
 that in Engaging Researchers, we define “assistance” as the one-to-one
@@ -216,7 +218,7 @@ practices for providing assistance that are covered further below in
 <h2>Promoting Awareness of Assistance Routes</h2>
 
 Just as it is important to promote awareness of ACI resources and
-facilitation services to researchers (as described in *Outreach*), it is
+facilitation services to researchers (as described in *[Outreach](../02-outreach)*), it is
 also essential to adequately document and promote the ways that
 researchers can obtain assistance from Facilitators (and/or other ACI
 staff). Typically, this information can be listed alongside in-house
@@ -499,6 +501,24 @@ Research Computing Facilitator, CHTC
 ------------------------ 
 ~~~
 
+<a name="issues-communicate"></a>
+<h2>Record communication for re-use</h2>
+
+Some issues are reported more frequently than others.
+Solutions for these common issues must be
+recorded in an easily accessible location, for instance,
+in the “Frequently Asked Questions” (FAQ) section of the
+documentation for the ACI resource.
+It should be made clear to users that
+this location must be consulted before request for assistance,
+but these issues may be reported in assistance routes nevertheless.
+Other issues may still require examination on a case-by-case basis,
+but may need only minor “tweaks” for each user.
+It is important that the Facilitator identifies such recurring issues,
+and prepares a “template” communication that can be reused each time.
+Tools like [Canned Responses](https://gmail.googleblog.com/2008/10/new-in-labs-canned-responses.html)
+may be very useful for this.
+
 Jump to: [top](#toc)
 
 <a name="non-issue"></a>
@@ -641,7 +661,7 @@ that other text editors have more options. Which text editor would you suggest?
 ------------------------
 Hi Zoe,
 My personal favorite for the command-line is the ‘vim’ text editor, which 
-is on just about Linux server. You can certainly find a number of online 
+is on just about any Linux server. You can certainly find a number of online 
 tutorials in various formats, by searching online for “vim text editor guide”. 
 You can also find many online comparisons of text editors beyond ‘vim’ by 
 searching for something like “which command line text editor is best?”. There 
@@ -735,8 +755,8 @@ compute scheduling efficiency, etc.)</li>
 Importantly, Facilitators need built-in communication pathways and
 working relationships by which feedback regarding the above areas can be
 readily communicated to ACI resource providers and technology
-specialists, as described further in the chapter on *Interfacing with ACI
-Resource Providers*. To the extent that the above ACI changes might be
+specialists, as described further in the chapter on *[Interfacing with ACI
+Resource Providers](../09-interface)*. To the extent that the above ACI changes might be
 informed by measures and systematic evaluation, additional
 considerations are covered in *Assessment and Metrics*.
 

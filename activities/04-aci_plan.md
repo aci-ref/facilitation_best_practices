@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: chapter
 title: Implementing a Researcher's ACI Plan
+prev: 03-engagement
+next: 05-assistance
 ---
 
 <a name="toc"></a>
@@ -308,7 +310,7 @@ from others and to depend on their expertise when you are trying to
 identify appropriate solutions: You, the Facilitator, are not expected
 to know everything. When you run into those situation be sure to utilize
 your network of contacts from various fields and ACI resource centers. 
-The **Interfacing with ACI Providers** chapter has some pointers on
+The *[Interfacing with ACI Providers](../09-interface)* chapter has some pointers on
 how to establish contacts and initiate collaborations.  Just keep in
 mind that your team is not alone in devising solutions, just as you are
 not responsible for providing all ACI services or resources.
