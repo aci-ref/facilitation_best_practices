@@ -70,12 +70,13 @@ organization would have considered a number of things to ensure success
 for all stakeholders. To guide the hiring process and help define the
 position, they may have addressed the following questions:
 
-| ------------- |
+---
 * What gaps exist in the expertise of the existing team members? 
 * What are most important tasks/responsibilities of the new position? 
 * What is the required skill set necessary to perform these tasks? 
 * What educational background and experience are important?
 * Is there specific domain expertise that will be important for this facilitator?
+---
 
 The answers to these questions would have helped prioritize expectations
 for the new position and helped guide the hiring process, including how
