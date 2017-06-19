@@ -76,6 +76,21 @@ position, they may have addressed the following questions:
 >* What educational background and experience are important?
 >* Is there specific domain expertise that will be important for this facilitator?
 
+ 
+<table>
+<tr>
+    <td>What gaps exist in the expertise of the existing team members</td>
+   
+</tr>
+<tr>
+    <td>What are most important tasks/responsibilities of the new position</td>
+    
+</tr>
+</table>
+What is the required skill set necessary to perform these tasks
+What educational background and experience are important
+Is there specific domain expertise that will be important for this facilitator
+ 
 The answers to these questions would have helped prioritize expectations
 for the new position and helped guide the hiring process, including how
 to reach an appropriate candidate pool.
