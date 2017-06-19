@@ -76,10 +76,6 @@ position, they may have addressed the following questions:
 >* What educational background and experience are important?
 >* Is there specific domain expertise that will be important for this facilitator?
 
-```diff
-+ this text is highlighted in green
-- this text is highlighted in red
-```
 The answers to these questions would have helped prioritize expectations
 for the new position and helped guide the hiring process, including how
 to reach an appropriate candidate pool.
