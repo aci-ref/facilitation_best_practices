@@ -159,7 +159,6 @@ includes:
 * What services are provided 
 * Existing policies and procedures for use of the resources 
 * Tools being used for user provisioning and tracking usage
-
 ```
 
 For more on this topic, see the chapter on *[Assisting Researchers in the
