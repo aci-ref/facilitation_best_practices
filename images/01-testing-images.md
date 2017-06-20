@@ -104,19 +104,21 @@ position, they may have addressed the following questions:
 
 <table>
 <tr>
-<td> x </td>
+<td>  </td>
 </tr>
 <tr>
+<td>
 <ul>
           <li>What gaps exist in the expertise of the existing team members?</li>
           <li>What are most important tasks/responsibilities of the new position?</li>
 	  <li>What is the required skill set necessary to perform these tasks?</li>
           <li>What educational background and experience are important?</li>
 	  <li>Is there specific domain expertise that will be important for this facilitator?</li>
-        </ul>
-	</tr>
+</ul>
+</td>
+</tr>
 <tr>
-<td> x </td>
+<td>  </td>
 </tr>
 </table>
  
