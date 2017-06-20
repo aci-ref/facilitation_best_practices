@@ -218,6 +218,7 @@ following:
 <li>giving a seminar to users</li> 
 <li>sending an announcement to a mailing lists</li> 
 <li>posting an announcement on the institution’s website</li>
+</ul>
 </td>
 </tr>
 </table>
