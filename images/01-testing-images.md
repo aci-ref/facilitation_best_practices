@@ -79,19 +79,19 @@ position, they may have addressed the following questions:
  
 <table>
 <tr>
-    <td>What gaps exist in the expertise of the existing team members<</td>
+    <td> * What gaps exist in the expertise of the existing team members?</td>
    
 </tr>
 <tr>
-    <td>What are most important tasks/responsibilities of the new position<</td>
+    <td>What are most important tasks/responsibilities of the new position?</td>
     
 </tr>
 <tr>
-    <td>What is the required skill set necessary to perform these tasks<</td>
+    <td>What is the required skill set necessary to perform these tasks?</td>
     
 </tr>
 <tr>
-    <td>What educational background and experience are important<</td>
+    <td>What educational background and experience are important?</td>
     
 </tr>
 <tr>
