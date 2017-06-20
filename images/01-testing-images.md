@@ -76,15 +76,7 @@ position, they may have addressed the following questions:
 >* What educational background and experience are important?
 >* Is there specific domain expertise that will be important for this facilitator?
 
-```
 
-         What gaps exist in the expertise of the existing team members?
-         What are most important tasks/responsibilities of the new position?
-	 What is the required skill set necessary to perform these tasks?
-         What educational background and experience are important?
-	 Is there specific domain expertise that will be important for this facilitator?
-
-```
 <table style="background-color:#EBF5FB">
 <tr>
 <td>
@@ -172,6 +164,18 @@ ACI organization, as well as knowing how to use these resources in order
 to be able to effectively provide assistance.  Specific knowledge
 includes:
 
+>*Details about the compute hardware
+	<ul style="list-style-type:circle">
+	<li>what compute resources are available</li>
+	<li>what file systems exist </li>
+	<li>what is the networking infrastructure </li>
+	<li>what operating system(s) are supported</li>
+	</ul>
+>*Details on the batch scheduler and batch policies that are being used
+>*What services are provided
+>*Existing policies and procedures for use of the resources 
+>*Tools being used for user provisioning and tracking usage
+
 <table style="background-color:#EBF5FB">
 <tr>
 <td>
@@ -207,6 +211,13 @@ community of the existence and role of the new Facilitator. A first step
 is to prepare materials to introduce the Facilitator and enable them to
 start to engage with the user base. This might include doing the
 following:
+>*requisitioning business cards
+>*developing an online presence (on the ACI website/social media stream)
+>*introducing yourself in a newsletter article
+>*giving a presentation to administrators/staff
+>*giving a seminar to users
+>*sending an announcement to a mailing lists
+>*posting an announcement on the institution’s website
 <table style="background-color:#EBF5FB">
 <tr>
 <td>
