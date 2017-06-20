@@ -79,7 +79,7 @@ position, they may have addressed the following questions:
  
 <table>
 <tr>
-    <td> \>\* What gaps exist in the expertise of the existing team members?</td>
+    <td>  What gaps exist in the expertise of the existing team members?</td>
    
 </tr>
 <tr>
@@ -97,6 +97,18 @@ position, they may have addressed the following questions:
 <tr>
     <td>Is there specific domain expertise that will be important for this facilitator?</td>
 </tr>
+</table>
+
+<table>
+<tr>
+<ul>
+          <li>What gaps exist in the expertise of the existing team members?</li>
+          <li>What are most important tasks/responsibilities of the new position?</li>
+	  <li>What is the required skill set necessary to perform these tasks?</li>
+          <li>What educational background and experience are important?</li>
+	  <li>Is there specific domain expertise that will be important for this facilitator?</li>
+        </ul>
+	</tr>
 </table>
  
 The answers to these questions would have helped prioritize expectations
