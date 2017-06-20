@@ -86,11 +86,10 @@ position, they may have addressed the following questions:
 
 ```
 
-<table style="background-color:#EBF5FB" "border-spacing: 10px">
+<table style="background-color:#EBF5FB">
 <tr>
-<td>
-</td>
-<td>
+
+<td padding: 6px>
 <ul style="list-style-type:square">
           <li>What gaps exist in the expertise of the existing team members?</li>
           <li>What are most important tasks/responsibilities of the new position?</li>
