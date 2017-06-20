@@ -86,7 +86,7 @@ position, they may have addressed the following questions:
 
 ```
 
-<table style="background-color:#EBF5FB" border-spacing: 10px>
+<table style="background-color:#EBF5FB" "border-spacing: 10px">
 <tr>
 <td>
 </td>
