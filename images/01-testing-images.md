@@ -79,7 +79,7 @@ position, they may have addressed the following questions:
  
 <table>
 <tr>
-    <td> >* What gaps exist in the expertise of the existing team members?</td>
+    <td> \>\* What gaps exist in the expertise of the existing team members?</td>
    
 </tr>
 <tr>
