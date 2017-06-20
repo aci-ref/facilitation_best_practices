@@ -79,7 +79,7 @@ position, they may have addressed the following questions:
 
 
 
-<table style="background-color:#EBF5FB",cellpadding="10">
+<table style="background-color:#EBF5FB">
 <tr>
 <td>
 </td>
