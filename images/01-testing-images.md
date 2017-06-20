@@ -77,6 +77,7 @@ position, they may have addressed the following questions:
 >* Is there specific domain expertise that will be important for this facilitator?
 
  
+ 
 <table>
 <tr>
     <td>  What gaps exist in the expertise of the existing team members?</td>
@@ -99,9 +100,11 @@ position, they may have addressed the following questions:
 </tr>
 </table>
 
+
+
 <table>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <ul>
@@ -113,7 +116,7 @@ position, they may have addressed the following questions:
         </ul>
 	</tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 </table>
  
