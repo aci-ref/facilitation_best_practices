@@ -207,15 +207,20 @@ community of the existence and role of the new Facilitator. A first step
 is to prepare materials to introduce the Facilitator and enable them to
 start to engage with the user base. This might include doing the
 following:
-<span style=“background-color:red;”> 
-* requisitioning business cards 
-* developing an online presence (on the ACI website/social media stream) 
-* introducing yourself in a newsletter article 
-* giving a presentation to administrators/staff 
-* giving a seminar to users 
-* sending an announcement to a mailing lists 
-* posting an announcement on the institution’s website
-</span>
+<table style="background-color:#EBF5FB">
+<tr>
+<td>
+<ul style="list-style-type:square">
+<li>requisitioning business cards</li> 
+<li>developing an online presence (on the ACI website/social media stream)</li> 
+<li>introducing yourself in a newsletter article </li>
+<li>giving a presentation to administrators/staff</li> 
+<li>giving a seminar to users</li> 
+<li>sending an announcement to a mailing lists</li> 
+<li>posting an announcement on the institution’s website</li>
+</td>
+</tr>
+</table>
 Some of these activities may require preparing new materials or
 modifying existing ones in collaboration with the ACI team or
 communications staff. Once the presence of the new Facilitator has been
