@@ -104,7 +104,7 @@ position, they may have addressed the following questions:
 
 <table>
 <tr>
-<td> </td>
+<td> x </td>
 </tr>
 <tr>
 <ul>
@@ -116,7 +116,7 @@ position, they may have addressed the following questions:
         </ul>
 	</tr>
 <tr>
-<td> </td>
+<td> x </td>
 </tr>
 </table>
  
