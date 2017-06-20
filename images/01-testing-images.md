@@ -91,7 +91,7 @@ position, they may have addressed the following questions:
 <td>
 </td>
 <td>
-<ul>
+<ul style="list-style-type:square">
           <li>What gaps exist in the expertise of the existing team members?</li>
           <li>What are most important tasks/responsibilities of the new position?</li>
 	  <li>What is the required skill set necessary to perform these tasks?</li>
