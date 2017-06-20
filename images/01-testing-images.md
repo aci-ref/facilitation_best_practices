@@ -210,13 +210,13 @@ is to prepare materials to introduce the Facilitator and enable them to
 start to engage with the user base. This might include doing the
 following:
 
->* Requisitioning business cards.  
->* Developing an online presence (on the ACI website/social media stream).  
->* Introducing yourself in a newsletter article. 
->* Giving a presentation to administrators/staff.  
->* Giving a seminar to users.
->* Sending an announcement to a mailing lists. 
->* Posting an announcement on the institution’s website.  
+>* Requisitioning business cards
+>* Developing an online presence (on the ACI website/social media stream)
+>* Introducing yourself in a newsletter article
+>* Giving a presentation to administrators/staff
+>* Giving a seminar to users
+>* Sending an announcement to a mailing lists
+>* Posting an announcement on the institution’s website
 
 <table style="background-color:#EBF5FB">
 <tr>
