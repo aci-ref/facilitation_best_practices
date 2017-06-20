@@ -85,9 +85,9 @@ position, they may have addressed the following questions:
 	 Is there specific domain expertise that will be important for this facilitator?
 
 ```
-<table style="background-color:#EBF5FB">
+<table style="background-color:#EBF5FB" border-spacing: 10px>
 <tr>
-<td style="cellpadding:10px">
+<td>
 <ul style="list-style-type:square">
           <li>What gaps exist in the expertise of the existing team members?</li>
           <li>What are most important tasks/responsibilities of the new position?</li>
