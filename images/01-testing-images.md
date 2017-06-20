@@ -77,12 +77,6 @@ position, they may have addressed the following questions:
 >* Is there specific domain expertise that will be important for this facilitator?
 
 
-> <ul>
-          <li>What gaps exist in the expertise of the existing team members? </li></ul>
-> What are most important tasks/responsibilities of the new position? 
-> What is the required skill set necessary to perform these tasks? 
-> What educational background and experience are important?
-> Is there specific domain expertise that will be important for this facilitator?
 
 
 <table>
