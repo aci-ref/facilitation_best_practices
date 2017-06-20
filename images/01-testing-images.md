@@ -79,10 +79,11 @@ position, they may have addressed the following questions:
 
 
 
-<table style="background-color:#EBF5FB">
+<table style="background-color:#EBF5FB",cellpadding="10">
 <tr>
 <td>
-</td></tr><tr><td>
+</td>
+<td>
 <ul>
           <li>What gaps exist in the expertise of the existing team members?</li>
           <li>What are most important tasks/responsibilities of the new position?</li>
