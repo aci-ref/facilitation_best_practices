@@ -79,7 +79,7 @@ position, they may have addressed the following questions:
 
 
 
-<table style="background-color:red">
+<table style="background-color:#D6EAF8">
 <tr>
 <td>
 <ul>
