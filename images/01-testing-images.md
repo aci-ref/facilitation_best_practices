@@ -212,18 +212,12 @@ start to engage with the user base. This might include doing the
 following:
 
 >*requisitioning business cards 
-
 >*developing an online presence (on the ACI website/social media stream) 
-
 >*introducing yourself in a newsletter article 
-
->*giving a presentation to administrators/staff
-
->*giving a seminar to users 
-
->*sending an announcement to a mailing lists
-
->*posting an announcement on the institution’s website 
+>*giving a presentation to administrators/staff 
+>*giving a seminar to users  
+>*sending an announcement to a mailing lists 
+>*posting an announcement on the institution’s website  
 
 
 <table style="background-color:#EBF5FB">
