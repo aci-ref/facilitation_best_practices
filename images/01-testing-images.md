@@ -85,7 +85,10 @@ position, they may have addressed the following questions:
 	 Is there specific domain expertise that will be important for this facilitator?
 
 ```
-
+.col {
+    display: table-cell;
+    padding: 10px;
+}
 <table style="background-color:#EBF5FB">
 <tr>
 <td>
