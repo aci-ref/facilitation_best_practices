@@ -69,11 +69,7 @@ making the decision to hire a Facilitator, the leadership of the ACI
 organization would have considered a number of things to ensure success
 for all stakeholders. To guide the hiring process and help define the
 position, they may have addressed the following questions:
-<style>
-span.highlight {
-    background-color: yellow;
-}
-</style>
+
 <span class="highlight">
 >* What gaps exist in the expertise of the existing team members? 
 >* What are most important tasks/responsibilities of the new position? 
