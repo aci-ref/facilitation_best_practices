@@ -80,23 +80,33 @@ position, they may have addressed the following questions:
  
 <table>
 <tr>
-    <td>  What gaps exist in the expertise of the existing team members?</td>
+    <td>  <ul>
+          <li>What gaps exist in the expertise of the existing team members?</li>
+</ul></td>
    
 </tr>
 <tr>
-    <td>What are most important tasks/responsibilities of the new position?</td>
+    <td><ul>
+          <li>What are most important tasks/responsibilities of the new position?</li>
+</ul></td>
     
 </tr>
 <tr>
-    <td>What is the required skill set necessary to perform these tasks?</td>
+    <td><ul>
+          <li>What is the required skill set necessary to perform these tasks?</li>
+</ul></td>
     
 </tr>
 <tr>
-    <td>What educational background and experience are important?</td>
+    <td><ul>
+          <li>What educational background and experience are important?</li>
+</ul></td>
     
 </tr>
 <tr>
-    <td>Is there specific domain expertise that will be important for this facilitator?</td>
+    <td><ul>
+          <li>Is there specific domain expertise that will be important for this facilitator?</li>
+</ul></td>
 </tr>
 </table>
 
