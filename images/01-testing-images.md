@@ -89,11 +89,11 @@ position, they may have addressed the following questions:
 <tr>
 <td>
 <ul style="list-style-type:square">
-          <li>What gaps exist in the expertise of the existing team members?  </li>
-          <li>What are most important tasks/responsibilities of the new position?  </li>
-	  <li>What is the required skill set necessary to perform these tasks?  </li>
-          <li>What educational background and experience are important?  </li>
-	  <li>Is there specific domain expertise that will be important for this facilitator?  </li>
+          <li>What gaps exist in the expertise of the existing team members?</li>
+          <li>What are most important tasks/responsibilities of the new position?</li>
+	  <li>What is the required skill set necessary to perform these tasks?</li>
+          <li>What educational background and experience are important?</li>
+	  <li>Is there specific domain expertise that will be important for this facilitator?</li>
 </ul>
 </td>
 </tr>
@@ -172,17 +172,25 @@ ACI organization, as well as knowing how to use these resources in order
 to be able to effectively provide assistance.  Specific knowledge
 includes:
 
-
-* Details about the compute hardware 
-	* what compute resources are available
-	* what file systems exist 
-	* what is the networking infrastructure 
-	* what operating system(s) are supported
-* Details on the batch scheduler and batch policies that are being used 
-* What services are provided 
-* Existing policies and procedures for use of the resources 
-* Tools being used for user provisioning and tracking usage
-
+<table style="background-color:#EBF5FB">
+<tr>
+<td>
+<ul style="list-style-type:square">
+<li>Details about the compute hardware</li>
+	<ul style="list-style-type:circle">
+	<li>what compute resources are available</li>
+	<li>what file systems exist </li>
+	<li>what is the networking infrastructure </li>
+	<li>what operating system(s) are supported</li>
+	</ul>
+<li>Details on the batch scheduler and batch policies that are being used </li>
+<li>What services are provided </li>
+<li>Existing policies and procedures for use of the resources</li> 
+<li>Tools being used for user provisioning and tracking usage</li>
+</ul>
+</td>
+</tr>
+</table>
 
 For more on this topic, see the chapter on *[Assisting Researchers in the
 Use of ACI Resources](../05-assistance)*.
