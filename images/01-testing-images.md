@@ -86,7 +86,7 @@ position, they may have addressed the following questions:
 
 ```
 
-<table style="background-color:#EBF5FB">
+<table style="background-color:#EBF5FB"; cellpadding="10">
 <tr>
 <td>
 </td>
