@@ -101,6 +101,7 @@ position, they may have addressed the following questions:
 
 <table>
 <tr>
+</tr><tr>
 <ul>
           <li>What gaps exist in the expertise of the existing team members?</li>
           <li>What are most important tasks/responsibilities of the new position?</li>
@@ -109,6 +110,7 @@ position, they may have addressed the following questions:
 	  <li>Is there specific domain expertise that will be important for this facilitator?</li>
         </ul>
 	</tr>
+<tr></tr>
 </table>
  
 The answers to these questions would have helped prioritize expectations
