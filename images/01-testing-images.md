@@ -164,11 +164,11 @@ to be able to effectively provide assistance.  Specific knowledge
 includes:
 
 >* Details about the compute hardware   
-	>>* what compute resources are available  
-	>>* what compute resources are available  
-	>>* what file systems exist  
-	>>* what is the networking infrastructure  
-	>>* what operating system(s) are supported   
+	>* what compute resources are available?  
+	>* what compute resources are available?
+	>* what file systems exist?
+	>* what is the networking infrastructure?  
+	>* what operating system(s) are supported?  
 >* Details on the batch scheduler and batch policies that are being used    
 >* What services are provided   
 >* Existing policies and procedures for use of the resources  
