@@ -164,11 +164,11 @@ to be able to effectively provide assistance.  Specific knowledge
 includes:
 
 >* Details about the compute hardware   
-	> >* what compute resources are available  
-	> >* what compute resources are available  
-	> >* what file systems exist  
-	> >* what is the networking infrastructure  
-	> >* what operating system(s) are supported   
+	>>* what compute resources are available  
+	>>* what compute resources are available  
+	>>* what file systems exist  
+	>>* what is the networking infrastructure  
+	>>* what operating system(s) are supported   
 >* Details on the batch scheduler and batch policies that are being used    
 >* What services are provided   
 >* Existing policies and procedures for use of the resources  
@@ -210,14 +210,13 @@ is to prepare materials to introduce the Facilitator and enable them to
 start to engage with the user base. This might include doing the
 following:
 
->* requisitioning business cards  
->* developing an online presence (on the ACI website/social media stream)  
->* introducing yourself in a newsletter article 
->* giving a presentation to administrators/staff  
->* giving a seminar to users   
->* sending an announcement to a mailing lists  
->* posting an announcement on the institution’s website  
-
+>* Requisitioning business cards.  
+>* Developing an online presence (on the ACI website/social media stream).  
+>* Introducing yourself in a newsletter article. 
+>* Giving a presentation to administrators/staff.  
+>* Giving a seminar to users.
+>* Sending an announcement to a mailing lists. 
+>* Posting an announcement on the institution’s website.  
 
 <table style="background-color:#EBF5FB">
 <tr>
