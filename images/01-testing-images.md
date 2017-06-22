@@ -175,7 +175,7 @@ includes:
 >* Existing policies and procedures for use of the resources  
 >* Tools being used for user provisioning and tracking usage  
 
-<table style="background-color:#EBF5FB">
+<table style="background-color:#EBF5FB;margin-left: 40px;">
 <tr>
 <td>
 <ul style="list-style-type:square">
@@ -192,6 +192,7 @@ includes:
 <li>Tools being used for user provisioning and tracking usage</li>
 </ul>
 </td>
+<td>&nbsp;&nbsp;&nbsp;</td>
 </tr>
 </table>
 
@@ -219,7 +220,7 @@ following:
 >* Sending an announcement to a mailing lists
 >* Posting an announcement on the institution’s website
 
-<table style="background-color:#EBF5FB">
+<table style="background-color:#EBF5FB;margin-left: 40px;">
 <tr>
 <td>
 <ul style="list-style-type:square">
@@ -231,7 +232,7 @@ following:
 <li>sending an announcement to a mailing lists</li> 
 <li>posting an announcement on the institution’s website</li>
 </ul>
-</td>
+</td><td>&nbsp;&nbsp;&nbsp;</td>
 </tr>
 </table>
 Some of these activities may require preparing new materials or
