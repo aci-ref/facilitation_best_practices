@@ -79,8 +79,8 @@ position, they may have addressed the following questions:
 <table style="background-color:#EBF5FB">
 <tr>
 <td>
-&nbsp;
 <ul style="list-style-type:square">
+	&nbsp;
           <li>What gaps exist in the expertise of the existing team members?</li>
           <li>What are most important tasks/responsibilities of the new position?</li>
 	  <li>What is the required skill set necessary to perform these tasks?</li>
