@@ -86,6 +86,7 @@ position, they may have addressed the following questions:
 	  <li>What is the required skill set necessary to perform these tasks?</li>
           <li>What educational background and experience are important?</li>
 	  <li>Is there specific domain expertise that will be important for this facilitator?</li>
+	  &nbsp;<br>
 </ul>
 </td>
 </tr>
