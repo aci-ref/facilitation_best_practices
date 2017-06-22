@@ -87,7 +87,7 @@ position, they may have addressed the following questions:
 	  <li>Is there specific domain expertise that will be important for this facilitator?</li>
 </ul>
 </td>
-<td>&nbsp;</td>
+<td>&nbsp;&nbsp;&nbsp;</td>
 </tr>
 </table>
  
