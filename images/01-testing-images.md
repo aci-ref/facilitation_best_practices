@@ -70,30 +70,11 @@ organization would have considered a number of things to ensure success
 for all stakeholders. To guide the hiring process and help define the
 position, they may have addressed the following questions:
 
->* What gaps exist in the expertise of the existing team members? 
->* What are most important tasks/responsibilities of the new position? 
->* What is the required skill set necessary to perform these tasks? 
->* What educational background and experience are important?
->* Is there specific domain expertise that will be important for this facilitator?
-
 
 <div style="background-color:#EBF5FB; text-align:left; vertical-align: middle; padding:20px 0; margin-top:30px"> <ul style="list-style-type:square;">          <li>What gaps exist in the expertise of the existing team members?</li>          <li>What are most important tasks/responsibilities of the new position?</li>	  <li>What is the required skill set necessary to perform these tasks?</li>          <li>What educational background and experience are important?</li>	  <li>Is there specific domain expertise that will be important for this facilitator?</li></ul> </div>
 
 
-<table style="background-color:#EBF5FB;margin-left: 40px;">
-<tr>
-<td style="padding: 10px;">
-<ul style="list-style-type:square;">
-          <li>What gaps exist in the expertise of the existing team members?</li>
-          <li>What are most important tasks/responsibilities of the new position?</li>
-	  <li>What is the required skill set necessary to perform these tasks?</li>
-          <li>What educational background and experience are important?</li>
-	  <li>Is there specific domain expertise that will be important for this facilitator?</li>
-</ul>
-</td>
-<td>&nbsp;&nbsp;&nbsp;</td>
-</tr>
-</table>
+
  
 The answers to these questions would have helped prioritize expectations
 for the new position and helped guide the hiring process, including how
@@ -168,21 +149,10 @@ ACI organization, as well as knowing how to use these resources in order
 to be able to effectively provide assistance.  Specific knowledge
 includes:
 
->* Details about the compute hardware   
-	>* what compute resources are available?  
-	>* what compute resources are available?
-	>* what file systems exist?
-	>* what is the networking infrastructure?  
-	>* what operating system(s) are supported?  
->* Details on the batch scheduler and batch policies that are being used    
->* What services are provided   
->* Existing policies and procedures for use of the resources  
->* Tools being used for user provisioning and tracking usage  
 
-<table style="background-color:#EBF5FB;margin-left: 40px;">
-<tr>
-<td style="padding: 10px;">
-<ul style="list-style-type:square">
+
+<div style="background-color:#EBF5FB; text-align:left; vertical-align: middle; padding:20px 0; margin-top:30px"> 
+<ul style="list-style-type:square;">         
 <li>Details about the compute hardware</li>
 	<ul style="list-style-type:circle">
 	<li>what compute resources are available</li>
@@ -195,10 +165,7 @@ includes:
 <li>Existing policies and procedures for use of the resources</li> 
 <li>Tools being used for user provisioning and tracking usage</li>
 </ul>
-</td>
-<td>&nbsp;&nbsp;&nbsp;</td>
-</tr>
-</table>
+</div>
 
 For more on this topic, see the chapter on *[Assisting Researchers in the
 Use of ACI Resources](../05-assistance)*.
@@ -216,18 +183,10 @@ is to prepare materials to introduce the Facilitator and enable them to
 start to engage with the user base. This might include doing the
 following:
 
->* Requisitioning business cards
->* Developing an online presence (on the ACI website/social media stream)
->* Introducing yourself in a newsletter article
->* Giving a presentation to administrators/staff
->* Giving a seminar to users
->* Sending an announcement to a mailing lists
->* Posting an announcement on the institution’s website
 
-<table style="background-color:#EBF5FB;margin-left: 40px;">
-<tr>
-<td style="padding: 10px;">
-<ul style="list-style-type:square">
+
+<div style="background-color:#EBF5FB; text-align:left; vertical-align: middle; padding:20px 0; margin-top:30px"> 
+<ul style="list-style-type:square;">         
 <li>requisitioning business cards</li> 
 <li>developing an online presence (on the ACI website/social media stream)</li> 
 <li>introducing yourself in a newsletter article </li>
@@ -236,9 +195,8 @@ following:
 <li>sending an announcement to a mailing lists</li> 
 <li>posting an announcement on the institution’s website</li>
 </ul>
-</td><td>&nbsp;&nbsp;&nbsp;</td>
-</tr>
-</table>
+</div>
+
 Some of these activities may require preparing new materials or
 modifying existing ones in collaboration with the ACI team or
 communications staff. Once the presence of the new Facilitator has been
