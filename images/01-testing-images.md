@@ -177,7 +177,7 @@ includes:
 
 <table style="background-color:#EBF5FB;margin-left: 40px;">
 <tr>
-<td>
+<td style="padding: 10px;">
 <ul style="list-style-type:square">
 <li>Details about the compute hardware</li>
 	<ul style="list-style-type:circle">
@@ -222,7 +222,7 @@ following:
 
 <table style="background-color:#EBF5FB;margin-left: 40px;">
 <tr>
-<td>
+<td style="padding: 10px;">
 <ul style="list-style-type:square">
 <li>requisitioning business cards</li> 
 <li>developing an online presence (on the ACI website/social media stream)</li> 
