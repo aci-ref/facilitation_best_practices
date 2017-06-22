@@ -77,7 +77,8 @@ position, they may have addressed the following questions:
 >* Is there specific domain expertise that will be important for this facilitator?
 
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:20px 0; margin-top:30px"> <ul style="list-style-type:square;">          <li>What gaps exist in the expertise of the existing team members?</li>          <li>What are most important tasks/responsibilities of the new position?</li>	  <li>What is the required skill set necessary to perform these tasks?</li>          <li>What educational background and experience are important?</li>	  <li>Is there specific domain expertise that will be important for this facilitator?</li></ul> </div>
+<div style="background-color:#EBF5FB; text-align:left; vertical-align: middle; padding:20px 0; margin-top:30px"> <ul style="list-style-type:square;">          <li>What gaps exist in the expertise of the existing team members?</li>          <li>What are most important tasks/responsibilities of the new position?</li>	  <li>What is the required skill set necessary to perform these tasks?</li>          <li>What educational background and experience are important?</li>	  <li>Is there specific domain expertise that will be important for this facilitator?</li></ul> </div>
+
 
 <table style="background-color:#EBF5FB;margin-left: 40px;">
 <tr>
