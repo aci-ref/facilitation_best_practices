@@ -48,17 +48,12 @@ organizational structure, computational resources, the ACI team, the
 user base, and current state of facilitation. 
 
 
-<a name="context"></a>
-
-# Institutional Context
-
-
+# Institutional Context <a name="context"></a>
 
 <div class="visual-right-wrapped2">
 <a href="https://scholar.harvard.edu/bobfreeman" target="_blank"><img class="visual-right-wrapped" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching2"></a>
 A REF leading an HPC Intro class
-</div>
-*floating image as clickable link*<br>Whether the Facilitator is a new hire or is transitioning into the role
+</div>Whether the Facilitator is a new hire or is transitioning into the role
 from a related position, they will benefit from an understanding of the
 considerations that were important to the ACI organization as they made
 the decision to hire an ACI Facilitator. For example, was the value of
