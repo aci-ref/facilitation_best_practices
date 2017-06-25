@@ -3,6 +3,7 @@ layout: chapter
 title: Testing Image Formats
 prev: 
 next: 
+icon: Ch1.png
 ---
 
 *Defining one’s role, including expectations of institutional support
