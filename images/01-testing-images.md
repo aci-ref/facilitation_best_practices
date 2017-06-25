@@ -41,7 +41,8 @@ user base, and current state of facilitation.
 
 # Institutional Context
 
-Whether the Facilitator is a new hire or is transitioning into the role
+*floating image as clickable link*
+[<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching2"/>](https://scholar.harvard.edu/bobfreeman){target="_blank"}Whether the Facilitator is a new hire or is transitioning into the role
 from a related position, they will benefit from an understanding of the
 considerations that were important to the ACI organization as they made
 the decision to hire an ACI Facilitator. For example, was the value of
