@@ -457,7 +457,7 @@ img.visual-right-wrapped {
   margin: 5px 10px 5px 10px;
 }
 
-img.visual-right-wrapped2 {
+.visual-right-wrapped2 div {
   //float: right;
   //max-width: 200px;
   //max-height: 200px;
