@@ -37,7 +37,6 @@ the on-boarding process that are specific to ACI facilitation, including
 organizational structure, computational resources, the ACI team, the
 user base, and current state of facilitation. 
 
-Jump to: [top](#toc)
 
 <a name="context"></a>
 
@@ -110,7 +109,6 @@ time to assist a new Facilitator in learning about its resources, is a
 tremendous asset to a new Facilitator. Therefore it is crucial that the
 ACI team be involved in the hiring process.
 
-Jump to: [top](#toc)
 
 <a name="understanding-role"></a>
 
@@ -180,7 +178,6 @@ includes:
 For more on this topic, see the chapter on *[Assisting Researchers in the
 Use of ACI Resources](../05-assistance)*.
 
-Jump to: [top](#toc)
 
 <a name="owning-role"></a>
 
@@ -206,5 +203,4 @@ modifying existing ones in collaboration with the ACI team or
 communications staff. Once the presence of the new Facilitator has been
 established, it is time to begin to engage with the user base. 
 
-Jump to: [top](#toc)
 
