@@ -439,9 +439,8 @@ header.header-post .post-heading .post-subheading {
 }
 img.visual-right-wrapped {
   float: right;
-  width: 200px;
-  height: 200px;
-  background: red;
+  max-width: 200px;
+  max-height: 200px;
 }
 
 /* ----- Other styling ------- */
