@@ -10,7 +10,9 @@ layout: default
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 	  <div class="page-heading">
-	    <h1 style="font-size:120%;"><img class="chapter-icon" src="{{site.baseurl}}/images/{{ page.icon }}" style="width:85px;height:85px;" />{{ page.title }}</h1>
+	    <h1 style="font-size:120%;">
+	      <img class="chapter-icon" src="{{site.baseurl}}/images/{{ page.icon }}" style="width:85px;height:85px;" />{{ page.title }}
+	    </h1>
 	    {% if page.subtitle %}
 	    <hr class="small">
 	    <span class="page-subheading">{{ page.subtitle }}</span>
@@ -34,3 +36,5 @@ layout: default
   {% include prev_next.html %}
 
 </div>
+
+<h1 style="color:blue;">
