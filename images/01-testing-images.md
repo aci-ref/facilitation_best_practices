@@ -71,6 +71,22 @@ organization would have considered a number of things to ensure success
 for all stakeholders. To guide the hiring process and help define the
 position, they may have addressed the following questions:
 
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+* What gaps exist in the expertise of the existing team members? 
+* What are most important tasks/responsibilities of the new position? 
+* What is the required skill set necessary to perform these tasks? 
+* What educational background and experience are important? 
+* Is there specific domain expertise that will be important for this facilitator?
+        <ul class="bullet-list-circle">
+            <li>secondary list item 1</li>
+            <li>secondary list item 2</li>
+        </ul>	 
+        <li>bullet pt 3</li>          
+    </ul> 
+</div>
+
+
 * What gaps exist in the expertise of the existing team members? 
 * What are most important tasks/responsibilities of the new position? 
 * What is the required skill set necessary to perform these tasks? 
