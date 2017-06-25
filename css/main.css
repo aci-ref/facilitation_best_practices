@@ -441,7 +441,7 @@ img.visual-right-wrapped {
   float: right;
   max-width: 200px;
   max-height: 200px;
-  // padding will give us space all around
+  // padding will give us space all around;
   padding: 10px;
 }
 
