@@ -54,11 +54,9 @@ user base, and current state of facilitation.
 
 
 *floating image as clickable link*<br>
-<div style="float:right;max-width:300px;max-height:300px;">
-  <a href="https://scholar.harvard.edu/bobfreeman" target="_blank">
-    <img class="visual-right-wrapped" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching2" /> 
-  </a>
-  *A REF leading an HPC Intro class*
+<div class="visual-right-wrapped2">
+<a href="https://scholar.harvard.edu/bobfreeman" target="_blank"><img src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching2"></a>
+*A REF leading an HPC Intro class*
 </div>
 Whether the Facilitator is a new hire or is transitioning into the role
 from a related position, they will benefit from an understanding of the
