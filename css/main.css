@@ -457,7 +457,24 @@ img.visual-right-wrapped {
   margin: 5px 10px 5px 10px;
 }
 
-.visual-right-wrapped2 div {
+img.visual-right-wrapped2 {
+  //float: right;
+  //max-width: 200px;
+  //max-height: 200px;
+  // margin will give us space all around;
+  //margin: 5px 10px 5px 10px;
+  float: right;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+div.visual-right-wrapped2 {
   //float: right;
   //max-width: 200px;
   //max-height: 200px;
