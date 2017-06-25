@@ -419,4 +419,25 @@ header.header-post .post-heading .post-subheading {
   margin-bottom: 0;
 }
 
-/* -----Custom additions for images ------- */
+/* -----Custom additions for images & other visuals ------- */
+.bullet-box {
+  background-color: #EBF5FB;
+  text-align: left;
+  vertical-align: middle;
+  padding: 20px 0;
+  margin-top: 30px"
+}
+.bullet-list-square {
+  list-style-type: square;
+}
+.bullet-list-circle {
+  list-style-type: circle;
+}
+.chapter-icon {
+  width: 200px
+  height: 200px
+}
+
+/* ----- Other styling ------- */
+
+
