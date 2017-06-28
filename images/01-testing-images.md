@@ -3,6 +3,7 @@ layout: chapter
 title: Testing Image Formats
 prev: 
 next: 
+icon: Ch1.png
 ---
 
 *Defining one’s role, including expectations of institutional support
@@ -28,19 +29,31 @@ This chapter is written primarily for newly hired Facilitators,
 especially those without prior experience with ACI facilitation and/or
 working as part of an ACI team. It is meant to assist new Facilitators
 as they start with the task of defining their role. The first section on
-institutional context views the role of facilitation and the hiring of a
+<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"/>institutional context views the role of facilitation and the hiring of a
 Facilitator through an institutional lens. Subsequent sections are on
 understanding and owning the facilitator role, and examining aspects of
 the on-boarding process that are specific to ACI facilitation, including
 organizational structure, computational resources, the ACI team, the
 user base, and current state of facilitation. 
 
-Jump to: [top](#toc)
+*with modified img visual-right-wrappeds class*<br>
+This chapter is written primarily for newly hired Facilitators,
+especially those without prior experience with ACI facilitation and/or
+working as part of an ACI team. It is meant to assist new Facilitators
+as they start with the task of defining their role. The first section on<img class="visual-right-wrapped2" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching">institutional context views the role of facilitation and the hiring of a
+Facilitator through an institutional lens. Subsequent sections are on
+understanding and owning the facilitator role, and examining aspects of
+the on-boarding process that are specific to ACI facilitation, including
+organizational structure, computational resources, the ACI team, the
+user base, and current state of facilitation. 
 
-<a name="context"></a>
 
-# Institutional Context
+# Institutional Context <a name="context"></a>
 
+<div class="visual-right-wrapped2">
+<a href="https://scholar.harvard.edu/bobfreeman" target="_blank"><img class="visual-right-wrapped" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching2"></a>
+A REF leading an HPC Intro class
+</div>
 Whether the Facilitator is a new hire or is transitioning into the role
 from a related position, they will benefit from an understanding of the
 considerations that were important to the ACI organization as they made
@@ -70,6 +83,22 @@ organization would have considered a number of things to ensure success
 for all stakeholders. To guide the hiring process and help define the
 position, they may have addressed the following questions:
 
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+<li>What gaps exist in the expertise of the existing team members?</li>
+<li>What are most important tasks/responsibilities of the new position?</li>
+<li>What is the required skill set necessary to perform these tasks?</li>
+<li>What educational background and experience are important?</li>
+<li>Is there specific domain expertise that will be important for this facilitator?</li>
+        <ul class="bullet-list-circle">
+            <li>secondary list item 1</li>
+            <li>secondary list item 2</li>
+        </ul>	 
+        <li>bullet pt 3</li>          
+    </ul> 
+</div>
+
+
 * What gaps exist in the expertise of the existing team members? 
 * What are most important tasks/responsibilities of the new position? 
 * What is the required skill set necessary to perform these tasks? 
@@ -92,7 +121,6 @@ time to assist a new Facilitator in learning about its resources, is a
 tremendous asset to a new Facilitator. Therefore it is crucial that the
 ACI team be involved in the hiring process.
 
-Jump to: [top](#toc)
 
 <a name="understanding-role"></a>
 
@@ -162,7 +190,6 @@ includes:
 For more on this topic, see the chapter on *[Assisting Researchers in the
 Use of ACI Resources](../05-assistance)*.
 
-Jump to: [top](#toc)
 
 <a name="owning-role"></a>
 
@@ -188,5 +215,4 @@ modifying existing ones in collaboration with the ACI team or
 communications staff. Once the presence of the new Facilitator has been
 established, it is time to begin to engage with the user base. 
 
-Jump to: [top](#toc)
 
