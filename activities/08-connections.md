@@ -139,8 +139,8 @@ sciences, statistics, geosciences, engineering, and beyond
 * solving partial differential equations (PDEs) - across the physical sciences
 * natural language processing (NLP) - observed in the humanities,
 sociology, psychology, geosciences, and computer sciences 
-* RNAseq analysis - observed across various life and medical sciences “
-* open research”/"open science” practices - observed across domains
+* RNAseq analysis - observed across various life and medical sciences 
+* “open research”/"open science” practices - observed across domains
 
 We will discuss the facilitation of multi-member communities, which have
 been most successful in the case of bringing somewhat disparate
@@ -180,7 +180,7 @@ media (e.g. Twitter). Similar opportunities may exist across research
 domains that rely on global information systems (GIS) data, such they
 they will benefit from sharing access, analysis, and visualization
 practices. Facilitators might even help to coordinate the support of a
-single, shared repository of large datasets,perhaps on an ACI resource
+single, shared repository of large datasets, perhaps on an ACI resource
 with which  the facilitator is associated, so that researchers do not
 have to maintain separate, redundant copies for themselves. 
 

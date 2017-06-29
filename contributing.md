@@ -22,13 +22,14 @@ For those familiar with GitHub, we encourage you to [fork](https://help.github.c
 the "[facilitation-best-practices](https://github.com/aci-ref/facilitation_best_practices)" repository to your own GitHub account (required) and start writing. To merge your changes, submit a "[New pull request](https://help.github.com/articles/creating-a-pull-request/)".
 
 > As an example, to edit the Chapter on Engagement in your GitHub account: 
-* Select the folder named “activities” and then the page named “03-engagement.md”. 
-* Select the pen icon ('Edit this file') to convert the web page to an editable text file. 
-* Edit and preview your changes. When you are happy with the results, select “Commit changes” (bottom of page) to commit the changes directly to your default “gh-pages” branch. 
-* Select “New pull request” and review the differences. When you are ready to merge your changes, select “Create pull request”, add a comment about the changes you made, and submit a final “Create pull request”. 
+> 
+> * Select the folder named “activities” and then the page named “03-engagement.md”. 
+> * Select the pen icon ('Edit this file') to convert the web page to an editable text file. 
+> * Edit and preview your changes. When you are happy with the results, select “Commit changes” (bottom of page) to commit the changes directly to your default “gh-pages” branch. 
+> * Select “New pull request” and review the differences. When you are ready to merge your changes, select “Create pull request”, add a comment about the changes you made, and submit a final “Create pull request”. 
 
 Alternatively, you can open a "[New issue](https://help.github.com/articles/creating-an-issue/)" and send your suggestion that way.  (Select the “issues” tab, leave a comment, and submit “Submit new issue”.)  A GitHub account is required to submit an issue.
 
-For those less familiar with GitHub, or who are hesitant to contribute to a public document you can use the form below to discuss your desired contribution or send your suggestions to ACIREF-OUTREACH@lists.clemson.edu.
+For those less familiar with GitHub, or who are hesitant to contribute to a public document you can use the form below to discuss your desired contribution.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeQZV2ESXuvG8lOvsmdw-XBCQIk4Ci1M189-xkd_gbfNhYH2A/viewform?embedded=true" width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
