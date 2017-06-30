@@ -1,10 +1,30 @@
-ACI-REF Facilitation Best Practices, Chapter 10: 
+---
+layout: chapter
+title:Metrics and Assessment
+prev: 09-interface
+---
 
-** Metrics**** and Assessment**
 
 *Continuous assessment of the effectiveness of facilitation practices, including the evaluation of facilitation impact as tied to user feedback, as well as evaluating changes in the patterns of ACI utilization by different users and groups, changes in user demographics over time, etc., to improve and remodel facilitation efforts and to assess overall impact*
 
-[[TOC]]
+<a name="toc"></a>
+
+1. [Introduction](#introduction)
+    2.1 [Definitions](#definitions)    
+    2.2 [Assessment Planning](#assessment)    
+2. [Use of Metrics and Assessments](#use)    
+    2.1 [Program Evaluation](#programeval)    
+    2.2 [Facilitator Evaluation](#facilitatoreval)    
+    2.3 [ROI or Impact Evaluation](#roieval)   
+    2.4 [Training Evaluation](#trainingeval) 
+3. [Finding Engagement Opportunities](#finding) 
+4. [Record Keeping of User Interactions](#records)    
+    4.1 [Establishing Processes and Procedures](#records-procedures)    
+    4.2 [Implementation](#records-implement)    
+    4.3 [Metrics For Engagement Tracking](#records-metrics)
+
+
+<a name="introduction"></a>
 
 # Introduction
 
