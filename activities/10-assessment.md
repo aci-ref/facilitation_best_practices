@@ -154,7 +154,7 @@ The metrics discussed below include the metrics that the schools report monthly 
 
 ### **ACI user base metrics**  
 
-User base data includes the number and types of users. Users can be categorized by their research groups, departments and/or colleges. It may be useful to also track the users by their field of study, as well as whether they are a member of a "traditional" or â€œnon-traditionalâ€ ACI user field, noting that this distinction is dependent on the institution. The specific categories will also depend on the institution and the ACI organization. This data needs to be periodically recorded in order to track growth metrics.
+User base data includes the number and types of users. Users can be categorized by their research groups, departments and/or colleges. It may be useful to also track the users by their field of study, as well as whether they are a member of a "traditional" or "non-traditional" ACI user field, noting that this distinction is dependent on the institution. The specific categories will also depend on the institution and the ACI organization. This data needs to be periodically recorded in order to track growth metrics.
 
 <a name="usagemetrics"></a>
 
@@ -162,7 +162,7 @@ User base data includes the number and types of users. Users can be categorized 
 
 Resource usage metrics will vary for different ACI systems and services, but may include the number of core hours used, the number of jobs run, and the number of users leveraging the resources over different time periods. The usage can also be further divided into the usage based on research groups, departments, colleges, as well as traditional/non-traditional users, provided the users of the resources can be categorized into these groups. An example is shown in Table 1.
 
-*Table 1. A typical example taken from an ACI-REF monthly report on ACI user/project base and resource usage metrics, by category and department type *
+<i><b>Table 1.</b> A typical example taken from an ACI-REF monthly report on ACI user/project base and resource usage metrics, by category and department type</i>
 
 <table>
   <tr>
@@ -217,7 +217,7 @@ Compute Metrics</td>
 
 It is important to quantify the facilitation efforts of both the Facilitator as well as other members of the ACI staff. This includes tracking the number events held and the number of attendees at these events. An example is shown in Table 2. Different types of facilitation interactions such as education, training, outreach, and engagements should be tracked separately. The results of surveys and other activity assessments, discussed in the next section, are an additional metrics that can be used to measure facilitation efforts. 
 
-*Table 2. **A typical example taken from an ACI-REF monthly report on **ACI Facilitation metrics, by type, number, assistances and department type *
+<i><b>Table 2.</b>A typical example taken from an ACI-REF monthly report on ACI Facilitation metrics, by type, number, assistances and department type </i>
 
 <table>
   <tr>
@@ -305,11 +305,11 @@ Based on the experience and knowledge of ACI-REF Facilitators, we have composed 
 
  
 
-1. The *Entrance Survey * is designed to be given at account creation or introductory training (if required for resource use) to all users of the ACI resource to gather demographics and previous experience upon entrance. It also can be used to gather information on the user's researching computing needs.
-
-2. The *Engagement Evaluation* can be used in multiple ways. It can be used as a tool to track specific users in a standardized manner, but is not necessarily designed to be used for each engagement. It can be used as a mechanism to measure the impact of facilitation, as well as to obtain feedback to provide the Facilitator so that they can improve future engagements.  
-
-3. The *Exit Survey* is designed to measure the effectiveness of the ACI organization offerings on a per user basis and again is designed to be given to all users of the ACI resource who had one or more significant engagements with a Facilitator. We acknowledge that not all ACI resources or institutions may be notified when a user leaves the institution or no longer needs access to resources due to completion of a project. Therefore this survey can be utilized on a yearly or other periodic basis.  
+<ol>
+<li>The *Entrance Survey * is designed to be given at account creation or introductory training (if required for resource use) to all users of the ACI resource to gather demographics and previous experience upon entrance. It also can be used to gather information on the user's researching computing needs.</li>
+<li>The *Engagement Evaluation* can be used in multiple ways. It can be used as a tool to track specific users in a standardized manner, but is not necessarily designed to be used for each engagement. It can be used as a mechanism to measure the impact of facilitation, as well as to obtain feedback to provide the Facilitator so that they can improve future engagements. </li>
+<li>The *Exit Survey* is designed to measure the effectiveness of the ACI organization offerings on a per user basis and again is designed to be given to all users of the ACI resource who had one or more significant engagements with a Facilitator. We acknowledge that not all ACI resources or institutions may be notified when a user leaves the institution or no longer needs access to resources due to completion of a project. Therefore this survey can be utilized on a yearly or other periodic basis.  </li>
+</ol>
 
 The results of these three surveys can be used to identify and assess a user population, measure progress for the purpose of reporting and self-assessment, guide improvements to ACI resources, and to guide Facilitator engagements and priorities. It is important to state that these surveys were not scientifically constructed, but rather represent our best understanding of the data and metrics surrounding ACI resources and their use that are most valuable to capture. We have tried to keep the surveys brief, capturing only necessary information, in order to hopefully obtain a high response rate, to increase the likelihood that their results will be meaningful. The surveys also include open-ended questions, to obtain more detailed information, in addition to the typical yes/no or ranking-type questions. By comparing the responses between the entrance and exit surveys, a measure of the self-assessment of users and the development of their ACI skills can be obtained. In the next section, tools that will more readily allow for this type of tracking of responses will be discussed.
 
@@ -334,10 +334,6 @@ Testing is a traditional way to assess learner knowledge, and self-quizzes are a
 Quizzes can be used to determine if a student has an accurate working knowledge of a specific set of concepts. They are typically multiple choice, criterion-referenced (i.e., they employ a cutoff score to indicate whether or not a student has a sufficient understanding of the subject), and may include "distractor" answers based on commonly held misconceptions -- similar in design to a Concept Inventory ([Wikipedia](https://en.wikipedia.org/wiki/Concept_inventory)), although those are by definition more rigorously and scientifically developed. As mentioned above, the use of testing is typically the method of choice to measure the extent to which training participants learned the material that was presented during a training session.
 
 An example of two questions that were used to assess ACI usersâ€™ understanding of ACI policy are shown in Figure 2; the results can be used to provide feedback to the facilitator on the effectiveness of the information that new ACI users are given. For enhancing learning, feedback can be provided when an incorrect answer is selected.
-
-![image alt text](image_0.png)![image alt text](image_1.png)
-
-*Figure 2. Example of assessment questions from a workshop quiz used by one of the ACI-REF institutions.*
 
 <a name="observations"></a>
 
@@ -365,7 +361,7 @@ While a focus group has many of the same features as an interview, the dynamics 
 
 *Research lab or department level meetings*: A facilitation engagement with users from a specific lab or department is another type of focus group at which a Facilitator can learn more about particular research goals and needs, in order to determine steps that can assist the research group or department in taking their computational research to the next level. These meetings target multiple users with the same or similar needs and computational requirements and can be used to offer specialized training sessions aligned with the specific use cases of the group. In this manner, these visits often lead to deeper and more involved engagements and can help build a closer relationship with the group. 
 
-<a name="toolss"></a>
+<a name="tools"></a>
 
 # Tools for Collecting and Analyzing Data 
 
@@ -389,13 +385,10 @@ Demographic knowledge of new ACI users can facilitate the development of appropr
 
 Tools for gathering resource usage metrics are often provided by the specific scheduler used to manage access to the resource, or are self-built scripts that mine data from the scheduler or system logs. There are also tools such as the National Science Foundation funded, open source, Open XDMod ([open.xdmod.org](http://open.xdmod.org/)) that have been developed to be run with different resource managers in order to provide a wide range of metrics, including resource utilization and resource performance. Open XDMod is currently being expanded to collect data on the impact on scholarship and research. The usage metrics can be combined with user based metrics and categorized by user, group, department, college.
 
-![image alt text](image_2.jpg)
-
-*Figure 3. An example of one way to present monthly ACI resource usage hours by domain and across resource types at an ACI-REF campus *(Kock, 2016).
 
 Facilitators can use resource usage metrics to provide input from a userâ€™s perspective, in the decision making process about need for additional and/or different resources, and perhaps when to retire older resources. Metrics that include information about the type of resources used can help guide decisions about purchasing, for example, a longer wait time for jobs requesting the GPU nodes may indicate that it would be better to purchase additional GPU nodes, as opposed to additional CPU nodes. The metrics can also be used by individual groups to determine whether or not they are in need of adding additional owner nodes in a condominium model, or to determine the size of an allocation request. An in-depth analysis of usage may show that there is inefficient utilization of ACI resources and can be used to motivate targeted outreach and training to improve utilization. When combined with user base metrics, resource usage metrics can be analyzed to show usage distribution across research groups and departments, which can be used to identify individual professors, department chairs, and deans when looking for support for the ACI organization. The example shown in Figure 3 was produced using software that was created for ACI-REF reporting  (Kock, 2016)
 
-<a name=tools-facmetrics"></a>
+<a name="tools-facmetrics"></a>
 
 ## Facilitation metrics
 
@@ -403,7 +396,7 @@ Facilitation metrics are more complex due to the varied nature of facilitation e
 
 *User Issues and Assistance*: Ticketing system tools such as Jira and ServiceNow, and open source alternatives such as Redmine, bugzilla, trac, and Mantis, are often used by ACI-REF organizations to track user issues and questions. They usually include built-in search and reporting utilities. Ticketing metrics include the number of questions answered, the type of questions asked, and information about the inquirer such as how many questions they asked and the department or project group to which they belong. Outside of ticketing systems, user assistance is often provided during office hours, with tracking via sign in sheets,  such as google sheets, or other one-on-one meetings, which can be tracked in a calendar type application. An example of a table used to track user-related issues and assistances in show in Table 3. 
 
-*Table 3. **An example of using a bable to track **user-related issues and assistance.*
+<i><b>Table 3.</b> An example of using a bable to track user-related issues and assistance</i>
 
 <table>
   <tr>
@@ -479,7 +472,7 @@ An analysis of these can be used to identify common questions and complex issues
 
 *Education and training (and outreach**)*: The collection of metrics such as the number of events and the number of participants per event can be tracked using a simple spreadsheet.  Any method should include information as to the date and the exact nature of the event. The number of participants can be collected at the event through the use of electronic registration, or just sign-in sheets or as a simple count that the Facilitator makes at the activity. Using registration or sign-in sheets allow for the collection of data beyond the number of attendees such as names, departments, and email addresses for post workshop surveys.  Alternatively, even if just names of the attendees are obtained, these metrics can be enhanced by looking up additional information such as their department or project group. An annotated record of monthly workshops in shown in Table 4.
 
-*Table 4. **A typical example** on documenting of Facilitation event metrics.*
+<i><b>Table 4.</b> A typical example on documenting of Facilitation event metrics.,/i>
 
 <table>
   <tr>
@@ -528,13 +521,13 @@ Survey tools like SurveyMonkey ([www.surveymonkey.com](http://www.surveymonkey.c
 
 An analysis of participant feedback, as well as the results of learning assessments can be used to determine if the training being offered is meeting the needs of the user base and can determine gaps in training,  In addition, the effectiveness of the delivery method (for example, presentation versus hands on) chosen can be evaluated, as can the content and level of the material presented. 
 
-<a name="tools-roimetrics"></a>
+<a name="tools-roi"></a>
 
 ## Return on investment (ROI) metrics
 
 For ROI metrics, institutions may have repositories or databases that can be mined to obtain information on publications and funding at a research-group level. Alternatively, individual departments or offices on campus may be of assistance in providing this information. For example, a department, college or university may gather annual activity reports that include publications and funding information from their faculty members, or a contracts and grants officer may ask PIs who submit grant proposals if the proposed project will need access to research computing resources, providing a flag so that these projects can be readily aggregated by the ACI organization. Funding and publication information can also be gathered directly from the PIs or individual group members at regular intervals. Utah has implemented an Annual PI survey to obtain this information, as well as other feedback on the use of the ACI resources offered. Funding information can also be obtained through sponsoring agency reporting tools, such as the NIH reporter, or through the NSF awards search engine. 
 
-*Table 5. **A typical example taken from an ACI-REF monthly report on **metrics relating to return on investment, facilitation and resource usage.*
+<i><b>Table 5.</b> A typical example taken from an ACI-REF monthly report on metrics relating to return on investment, facilitation and resource usage.</i>
 
 <table>
   <tr>
@@ -627,10 +620,6 @@ User metric demographics can also be used to demonstrate the different areas of 
 # Summary
 
 The metrics and assessments described in this document have been critical in the evaluation of the ACI-REF project, to compellingly demonstrate to its stakeholders (e.g., NSF, ACI organizations, campuses, community, etc.) that the project is meeting its stated goals. Per the projectâ€™s reporting requirements, agreed upon assessments and metrics were be gathered and recorded for monthly reports. Monthly reports were then aggregated and submitted as part of a summative yearly funding report. An example of how these data were aggregated to show consultation and non-traditional user trends is shown in Figure 4.The six universities agreed upon a set of specific metrics to be collected to facilitate the collation of the results and enable trends to be identified across sites. These metrics, and they ways in which they were collected and analyzed, improved over the course of the grant through discussions, working groups, and surveys. 
-
-![image alt text](image_3.png)![image alt text](image_4.png)
-
-*Figure 4. Bar charts showing aggregated facilitation and user base metrics from ACI-REF project schools (ACI-REF NSF Annual Report, 2016).***_ _**
 
 <a name="references"></a>
 
