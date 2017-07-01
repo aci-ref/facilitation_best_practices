@@ -1,9 +1,9 @@
 ---
 layout: chapter
-title:Metrics and Assessment
+title: Metrics and Assessment
 prev: 09-interface
+next: 
 ---
-
 
 *Continuous assessment of the effectiveness of facilitation practices, including the evaluation of facilitation impact as tied to user feedback, as well as evaluating changes in the patterns of ACI utilization by different users and groups, changes in user demographics over time, etc., to improve and remodel facilitation efforts and to assess overall impact*
 
@@ -17,11 +17,26 @@ prev: 09-interface
     2.2 [Facilitator Evaluation](#facilitatoreval)    
     2.3 [ROI or Impact Evaluation](#roieval)   
     2.4 [Training Evaluation](#trainingeval) 
-3. [Finding Engagement Opportunities](#finding) 
-4. [Record Keeping of User Interactions](#records)    
-    4.1 [Establishing Processes and Procedures](#records-procedures)    
-    4.2 [Implementation](#records-implement)    
-    4.3 [Metrics For Engagement Tracking](#records-metrics)
+3. [Types of Metrics and Assessment](#metricsassess)    
+    3.1 [Metrics](#metrics)    
+        3.1.1 [ACI user base metrics](#usermetrics)
+        3.1.2 [Resource usage metrics](#usagemetrics) 
+        3.1.3 [Facilitator metrics](#facilitatormetrics) 
+        3.1.4 [Return on investment (ROI) metrics](#roimetrics) 
+    3.2 [Assessments](#assessment)
+        3.2.1 [Surveys](#surveys)
+        3.2.2 [Tests](#utests) 
+        3.2.3 [Observations](#observations) 
+        3.2.4 [Interviews](#interviews)
+        3.2.5 [Focus groups](#focusgroups) 
+4. [Tools for Collecting and Analyzing Data](#tools)    
+    4.1 [User base metrics](#tools-usermetrics)    
+    4.2 [Resource usage metrics](#tools-usagemetrics)    
+    4.3 [Facilitation metrics](#tools-facmetrics)
+    4.4 [Facilitation Assessments](#tools-facassess)    
+    4.5 [Return on investment (ROI) metrics](#tools-roi)
+5. [Summary](#summary) 
+6. [REferences](#references) 
 
 
 <a name="introduction"></a>
