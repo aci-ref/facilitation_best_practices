@@ -114,29 +114,31 @@ Before discussing specific metrics and assessments types, we will cover the sali
 <ol>
 <li> *Reaction:* The response or perception of the participants to the training, including the content, the instructor, and the learning environment</li>
 <ul>
-    <li>Did they feel it was a valuable experience? <l/i>
+    <li>Did they feel it was a valuable experience? </li>
    <li>Did they find the training engaging and relevant? </li>
 </ul>
 <li>*Learning:*  The degree to which participants acquired the intended knowledge or skills</li>
-   <li> Did the knowledge or skill level of the participants on the subject increase<?/li>
+<ul>
+   <li> Did the knowledge or skill level of the participants on the subject increase?</li>
     <li>Did the training change the attitude of the participants to the subject?</li>
 </ul>
 <li>*Behavior:* The ability of the participants to apply the knowledge gained</li>
+<ul>
     <li>Did the participants use the knowledge gained?</li>
    <li> Did the participants change their behavior?</li>
  </ul>
 <li>*Results:* The tangible outcomes that occurred as a result of the training</li>
+<ul>
     <li>Were the participants of training shown to have better performance?</li>
     <li>What is the return on the investment (ROI) made in training?</li>
  </ul>
-</ul>
 </ol>
 
 These four levels are often represented as a pyramid, as shown in Figure 1, emphasising the manner in which the higher levels are built upon the foundation established by the previous levels -- and thereby emphasizing the importance of the quality of the training sessions. 
 
 While measuring the effectiveness of training on these multiple levels is possible, it can be difficult and time consuming. It is relatively easy to generate and give a simple survey which addresses the first two of these four levels and which will provide valuable feedback on the material and the presentation (see survey section below). However, moving beyond a Level 1 reaction evaluation requires that the training participants be tested, interviewed, surveyed, or observed, possibly before the training event and certainly after the event, and perhaps at several selected intervals afterwards. Moreover, to be able to truly conclude that changes in outcomes, i.e., changes in behavior or results, were influenced by a training program, it is usually necessary to design and implement the training as part of a rigorous study.  Of course, one must weigh the potential outcomes with the time and cost of the doing the evaluation. Furthermore, learner feedback and observations of their experiences can be obtained more informally, in the form of real-time discussion during the training, semi-anonymous input (i.e. the Software Carpentry model of periodic feedback on post-its), and later discussions that the Facilitator may have with researchers who attended a past learning experience.
 
-<a name="metrics-asses"></a>
+<a name="metrics-assess"></a>
 
 # Types of Metrics and Assessment
 
