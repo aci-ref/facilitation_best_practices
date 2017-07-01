@@ -507,9 +507,7 @@ Simple statistics that combine user base metrics and facilitation metrics can be
 
 <h2>Facilitation Assessments</h2>
 
-Survey tools like SurveyMonkey ([www.surveymonkey.com](http://www.surveymonkey.com)), REDCap ([www.project-redcap.](http://www.project-redcap.org)
-
-[org](http://www.project-redcap.org)) and Qualtrics ([www.qualtrics.com](http://www.qualtrics.com)) can be used to obtain feedback about training and outreach events as well as user engagements, and polling tools like Poll Everywhere ([www.pollev.com](http://www.pollev.com)) can be used to obtain real time feedback of participants during the events. Tests to determine learning outcomes as the result of a training can be completed with an assessment tool such as quiz-maker ClassMarker ([www.classmarker.com](http://www.classmarker.com)), or alternately with the use of generic applications such as google forms or a web form that can readily be adapted for completing a learning assessment.
+Survey tools like SurveyMonkey ([www.surveymonkey.com](http://www.surveymonkey.com)), REDCap ([www.project-redcap.org](http://www.project-redcap.org)) and Qualtrics ([www.qualtrics.com](http://www.qualtrics.com)) can be used to obtain feedback about training and outreach events as well as user engagements, and polling tools like Poll Everywhere ([www.pollev.com](http://www.pollev.com)) can be used to obtain real time feedback of participants during the events. Tests to determine learning outcomes as the result of a training can be completed with an assessment tool such as quiz-maker ClassMarker ([www.classmarker.com](http://www.classmarker.com)), or alternately with the use of generic applications such as google forms or a web form that can readily be adapted for completing a learning assessment.
 
 An analysis of participant feedback, as well as the results of learning assessments can be used to determine if the training being offered is meeting the needs of the user base and can determine gaps in training,  In addition, the effectiveness of the delivery method (for example, presentation versus hands on) chosen can be evaluated, as can the content and level of the material presented. 
 
