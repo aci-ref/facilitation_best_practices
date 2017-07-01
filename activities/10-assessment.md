@@ -9,7 +9,7 @@ next:
 
 <a name="toc"></a>
 
-1. [Introduction](#introduction)
+1. [Introduction](#introduction) 
     1.1 [Definitions](#definitions)    
     1.2 [Assessment Planning](#assessment-plan)    
 2. [Use of Metrics and Assessments](#use)    
@@ -19,16 +19,16 @@ next:
     2.4 [Training Evaluation](#trainingeval) 
 3. [Types of Metrics and Assessment](#metrics-assess)    
     3.1 [Metrics](#metrics)    
-        3.1.1 [ACI user base metrics](#usermetrics)
+        3.1.1 [ACI user base metrics](#usermetrics) 
         3.1.2 [Resource usage metrics](#usagemetrics) 
         3.1.3 [Facilitator metrics](#facilitatormetrics) 
         3.1.4 [Return on investment (ROI) metrics](#roimetrics) 
-    3.2 [Assessments](#assessment)
-        3.2.1 [Surveys](#surveys)
-        3.2.2 [Tests](#utests) 
-        3.2.3 [Observations](#observations) 
-        3.2.4 [Interviews](#interviews)
-        3.2.5 [Focus groups](#focusgroups) 
+    3.2 [Assessments](#assessment) 
+        3.2.1 [Surveys](#surveys) 
+        3.2.2 [Tests](#tests)  
+        3.2.3 [Observations](#observations)  
+        3.2.4 [Interviews](#interviews)  
+        3.2.5 [Focus groups](#focusgroups)  
 4. [Tools for Collecting and Analyzing Data](#tools)    
     4.1 [User base metrics](#tools-usermetrics)    
     4.2 [Resource usage metrics](#tools-usagemetrics)    
@@ -36,7 +36,7 @@ next:
     4.4 [Facilitation Assessments](#tools-facassess)    
     4.5 [Return on investment (ROI) metrics](#tools-roi)
 5. [Summary](#summary) 
-6. [REferences](#references) 
+6. [References](#references) 
 
 
 <a name="introduction"></a>
@@ -292,7 +292,7 @@ Return on investment or ROI metrics are data that can be used to show the impact
 
 Analyses of these metrics can provide valuable, concrete measures of the impact of the facilitation efforts to the various stakeholders, such as the administration of the ACI organization and larger institution, and the projectâ€™s sponsoring agency, if relevant. User base metrics can be analyzed to show the evolution of a user community. Resource use metrics can be analyzed to evaluate different aspects of an ACI resource, justifying the funding of the ACI organization and supporting its growth. Independent of the exact metrics data an institution chooses to collect, it is best to collect the data at some periodic interval, such as an academic year, to be able to determine trends in the data. Consistency is also necessary for a meaningful assessment and evaluation of the program. Finally, it is important to periodically review the metrics collected in order to determine if changes, improvements or additional foci are needed. 
 
-<a name="assessments"></a>
+<a name="assessment"></a>
 
 ## Assessments
 
@@ -330,6 +330,8 @@ Polling an audience in real time during an event or training is yet another way 
 
 However, while surveys are a valuable and widely used assessment tool, it is important that their disadvantages and limitations be understood. In some cases, surveys may lack the necessary depth as a result of supporting only limited responses (i.e. true/false, multiple choice, etc.), or having only a small number of options to make it easier to both complete and analyze. Another consideration is the response rate: if only a small percentage of participants complete a survey, the responses collected may not be an accurate reflection of the entire population, compromising the strength of the results. Larger sample sizes can sometimes be obtained by requiring responses, by sending reminders, or by providing rewards, depending on how important the responses are. The validity of the results can also be questioned if there is no way to know the truthfulness of the responses. Finally, when developing survey questions, care should be taken to frame questions in a manner that does not introduce bias or includes questions might be interpreted in more than one way. 
 
+<a name="tests"></a>
+
 ### Tests
 
 Testing is a traditional way to assess learner knowledge, and self-quizzes are a popular way to perform formative assessments for new ACI users. Testing can be used with the Kirkpatrick model, discussed earlier, particularly in Levels 2 and 4, for the assessment of training. Self-quizzes are fairly easy to create and administer, and are more reflective and less intimidating than a marked quiz or test. During a self-quiz, users receive immediate feedback and are able to eventually obtain the correct answer. Quizzes can be administered at different times, for example, after new users receive accounts, as a pre-assessment, or after a training session. Results can be kept for student records, and at one school, digital badges are given as a result of successfully completing a training and  taking an assessment.
@@ -342,15 +344,21 @@ An example of two questions that were used to assess ACI usersâ€™ understan
 
 *Figure 2. Example of assessment questions from a workshop quiz used by one of the ACI-REF institutions.*
 
+<a name="observations"></a>
+
 ### Observations 
 
 Observing, recording and otherwise documenting what happens during facilitation meetings enables Facilitators to recall, reflect on, and improve the facilitation they perform. Most Facilitators use informal and unstructured observation techniques, but keeping in mind a simple list of things to look for can be useful during meetings with new users and groups. For example, it may be possible through observation to assess if users are aware of your organizationâ€™s policies and resources, and if they have read your documentation (or perhaps misunderstand the documentation). Observations can also occur naturally at different levels; for example, a Facilitator may notice that multiple members of a specific group are all setting the same incorrect value when they request resources, and then proceed to contact them to discuss. 
 
 Observation recordings will have to be shared among Facilitators and other interested staff. Keeping an easily accessed list of recordings will help with accessing and referencing. This is discussed in more detail in the Implementation section of the **Engagements with Researchers** chapter.
 
+<a name="interviews"></a>
+
 ### Interviews
 
 Interviews with individual ACI users or groups of users can be used to obtain detailed and individualized information on the impact of the ACI resources and facilitation efforts on their research, and can supplement the information obtained through a survey. Interviews can be conducted at a meeting specifically scheduled for the purpose of obtaining feedback, or it can be part of the other interactions Facilitators regularly have with users, such as a follow-up to an engagement. Whether structured, semi-structured, or informal, an in-person interview can result in an engaging, personal, and in-depth exchange of information that is not possible through an email correspondence or survey. In a structured interview, a set of standardized questions and their order are strictly adhered to, yielding a high degree of uniformity in the response set, and enabling responses to be more easily compared. Semi-structured interviews start with a set of questions but allow for deeper inquiry depending on the responses of the person being interviewed. Unstructured interviews are usually thematic, and new questions are based on previous responses (Stuckey, 2013; Harvard, undated). The results of an interview can be used to develop case studies and success stories which are a powerful way to showcase the impact of ACI resources. 
+
+<a name="focusgroups"></a>
 
 ### Focus Groups* *
 
@@ -362,6 +370,8 @@ While a focus group has many of the same features as an interview, the dynamics 
 
 *Research lab or department level meetings*: A facilitation engagement with users from a specific lab or department is another type of focus group at which a Facilitator can learn more about particular research goals and needs, in order to determine steps that can assist the research group or department in taking their computational research to the next level. These meetings target multiple users with the same or similar needs and computational requirements and can be used to offer specialized training sessions aligned with the specific use cases of the group. In this manner, these visits often lead to deeper and more involved engagements and can help build a closer relationship with the group. 
 
+<a name="toolss"></a>
+
 # Tools for Collecting and Analyzing Data 
 
 Once specific metrics and assessment data have been identified, the ACI organization can begin to look at how these can be collected and analyzed. There are many types of tools that can be used to accomplish this, and due to the variety of data to be collected, multiple tools are typically required. There may be institutional or ACI organization-level mandates on the applications used to collect data (e.g., the use of a specific ticketing system), or the Facilitator may decide on which tools to use. Independent of the tools used, it is crucial that the collection of metric and assessment data be performed in a manner that allows for easy aggregation and analysis in a consistent and reproducible manner, to ensure that any conclusions drawn in the future will be comparable. No matter how much data is collected, the true measure of the worth of the data is in what is learned from its analysis. 
@@ -370,11 +380,15 @@ In many cases, the tools used to collect metrics will also include functions to 
 
 The tools for collecting and analyzing data that are specifically named in this section are those that have been used by ACI-REF project teams. They are not recommendations and are not intended to be exhaustive. The collection and analysis examples 	follow the types of metrics and assessments that were defined in the Metrics and Assessments section above. 
 
+<a name="tools-usermetrics"></a>
+
 ## User base metrics
 
 Most ACI organizations have their own practices for managing and organizing their user base that are often tied to their account creation mechanism. These metrics are typically collected within self-built databases that have been developed for collecting information about users who register for new ACI accounts, and may include scripts to query the databases. In order to allow for meaningful analysis, in addition to user identity, an institutionâ€™s user base metrics should include the userâ€™s department and college affiliation, their role at the institution, i.e., whether they are faculty, staff or a student, and possibly information about their project. In many cases the additional information can be pulled directly from institutional level sources such as campus directories. 
 
 Demographic knowledge of new ACI users can facilitate the development of appropriate training and education strategies, whereas knowledge of the entire user base can be used to identify the departments with large numbers of users, and therefore the applications and training sessions that may be of interest. Finally, knowing which departments are underrepresented with respect to ACI use enables Facilitators to focus their outreach efforts to increase awareness of the ACI resources. 
+
+<a name="tools-usagemetrics"></a>
 
 ## Resource usage metrics
 
@@ -385,6 +399,8 @@ Tools for gathering resource usage metrics are often provided by the specific sc
 *Figure 3. An example of one way to present monthly ACI resource usage hours by domain and across resource types at an ACI-REF campus *(Kock, 2016).
 
 Facilitators can use resource usage metrics to provide input from a userâ€™s perspective, in the decision making process about need for additional and/or different resources, and perhaps when to retire older resources. Metrics that include information about the type of resources used can help guide decisions about purchasing, for example, a longer wait time for jobs requesting the GPU nodes may indicate that it would be better to purchase additional GPU nodes, as opposed to additional CPU nodes. The metrics can also be used by individual groups to determine whether or not they are in need of adding additional owner nodes in a condominium model, or to determine the size of an allocation request. An in-depth analysis of usage may show that there is inefficient utilization of ACI resources and can be used to motivate targeted outreach and training to improve utilization. When combined with user base metrics, resource usage metrics can be analyzed to show usage distribution across research groups and departments, which can be used to identify individual professors, department chairs, and deans when looking for support for the ACI organization. The example shown in Figure 3 was produced using software that was created for ACI-REF reporting  (Kock, 2016)
+
+<a name=tools-facmetrics"></a>
 
 ## Facilitation metrics
 
@@ -507,6 +523,8 @@ An analysis of these can be used to identify common questions and complex issues
 
 Simple statistics that combine user base metrics and facilitation metrics can be used to answer questions such as *What percent of new ACI users have we engaged?* and *What percent of users have attended a training event?* The results can be further broken down by school and department to provide a measure of the distribution of engagement and training participants across an institution. Plotting dates and attendance rates of events will result in trends over an academic year, allowing for the determination of the interest level in specific training events, and assisting in the planning of future training offerings, both in terms of what to offer and when. 
 
+<a name="tools-facassess"></a>
+
 ## Facilitation Assessments
 
 Survey tools like SurveyMonkey ([www.surveymonkey.com](http://www.surveymonkey.com)), REDCap ([www.project-redcap.](http://www.project-redcap.org)
@@ -514,6 +532,8 @@ Survey tools like SurveyMonkey ([www.surveymonkey.com](http://www.surveymonkey.c
 [org](http://www.project-redcap.org)) and Qualtrics ([www.qualtrics.com](http://www.qualtrics.com)) can be used to obtain feedback about training and outreach events as well as user engagements, and polling tools like Poll Everywhere ([www.pollev.com](http://www.pollev.com)) can be used to obtain real time feedback of participants during the events. Tests to determine learning outcomes as the result of a training can be completed with an assessment tool such as quiz-maker ClassMarker ([www.classmarker.com](http://www.classmarker.com)), or alternately with the use of generic applications such as google forms or a web form that can readily be adapted for completing a learning assessment.
 
 An analysis of participant feedback, as well as the results of learning assessments can be used to determine if the training being offered is meeting the needs of the user base and can determine gaps in training,  In addition, the effectiveness of the delivery method (for example, presentation versus hands on) chosen can be evaluated, as can the content and level of the material presented. 
+
+<a name="tools-roimetrics"></a>
 
 ## Return on investment (ROI) metrics
 
@@ -607,6 +627,8 @@ For ROI metrics, institutions may have repositories or databases that can be min
 
 User metric demographics can also be used to demonstrate the different areas of research across campus which are impacted by the availability of ACI resources, and can be used to identify supporters or champions from new areas. An example of how this information can be reported is shown in Table 5. Finally, the use of reports from individuals highlighting how the use of ACI resources and/or facilitation was critical for accomplishing a specific research effort can be invaluable in showing impact. 
 
+<a name="summary"></a>
+
 # Summary
 
 The metrics and assessments described in this document have been critical in the evaluation of the ACI-REF project, to compellingly demonstrate to its stakeholders (e.g., NSF, ACI organizations, campuses, community, etc.) that the project is meeting its stated goals. Per the projectâ€™s reporting requirements, agreed upon assessments and metrics were be gathered and recorded for monthly reports. Monthly reports were then aggregated and submitted as part of a summative yearly funding report. An example of how these data were aggregated to show consultation and non-traditional user trends is shown in Figure 4.The six universities agreed upon a set of specific metrics to be collected to facilitate the collation of the results and enable trends to be identified across sites. These metrics, and they ways in which they were collected and analyzed, improved over the course of the grant through discussions, working groups, and surveys. 
@@ -614,6 +636,8 @@ The metrics and assessments described in this document have been critical in the
 ![image alt text](image_3.png)![image alt text](image_4.png)
 
 *Figure 4. Bar charts showing aggregated facilitation and user base metrics from ACI-REF project schools (ACI-REF NSF Annual Report, 2016).***_ _**
+
+<a name="references"></a>
 
 # References
 
