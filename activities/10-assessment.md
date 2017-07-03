@@ -3,7 +3,7 @@ layout: chapter
 title: Metrics and Assessment
 prev: 09-interface
 next: 
-icon: Ch10.png
+icon: {{ site.baseurl }}/img/Ch10.png
 ---
 
 
@@ -142,9 +142,9 @@ Before discussing specific metrics and assessments types, we will cover the sali
 
 <div class="visual-right-wrapped2">
 <img class="visual-right-wrapped" src="{{ site.baseurl }}/img/kirkpatrick-final.png" alt="kirkpatrick-model">
-Levels of training evaluation in the Kirkpatrick model[^4]
+Levels of training evaluation in the Kirkpatrick model
 </div>
-These four levels are often represented as a pyramid, as shown in the figure to the left, emphasising the manner in which the higher levels are built upon the foundation established by the previous levels -- and thereby emphasizing the importance of the quality of the training sessions. 
+These four levels are often represented as a pyramid, as shown in the figure[^4] to the right, emphasising the manner in which the higher levels are built upon the foundation established by the previous levels -- and thereby emphasizing the importance of the quality of the training sessions. 
 
 
 While measuring the effectiveness of training on these multiple levels is possible, it can be difficult and time consuming. It is relatively easy to generate and give a simple survey which addresses the first two of these four levels and which will provide valuable feedback on the material and the presentation (see [survey section](#surveys) below). However, moving beyond a Level 1 reaction evaluation requires that the training participants be tested, interviewed, surveyed, or observed, possibly before the training event and certainly after the event, and perhaps at several selected intervals afterwards. Moreover, to be able to truly conclude that changes in outcomes, i.e., changes in behavior or results, were influenced by a training program, it is usually necessary to design and implement the training as part of a rigorous study.  Of course, one must weigh the potential outcomes with the time and cost of the doing the evaluation. Furthermore, learner feedback and observations of their experiences can be obtained more informally, in the form of real-time discussion during the training, semi-anonymous input (i.e., the Software Carpentry model of periodic feedback on post-its), and later discussions that the Facilitator may have with researchers who attended a past learning experience.
@@ -175,6 +175,14 @@ Resource usage metrics will vary for different ACI systems and services, but may
 
 <i><b>Table 1.</b> A typical example taken from an ACI-REF monthly report on ACI user/project base and resource usage metrics, by category and department type</i>
 
+|Compute Metrics, June 2016|Compute Metrics|Traditional|Non-Traditional|
+| --- | --- | --- | --- |
+|ACI Users on Campus|338|219|73|
+|ACI Depts on Campus|38|18|19|
+|New HPC Projects|5|0|5|
+|New UPC Users|11|5|6|
+|Jobs Run|89904|63784|18104|
+|Core Hours|904681|682597| 217084|
 <table>
   <tr>
     <td>June 2016
@@ -643,5 +651,5 @@ Jump to: [top](#toc)
 
 [^7]: Harvard (undated) Strategies for Qualitative Interviews. Department of Sociology. Online at http://sociology.fas.harvard.edu/files/sociology/files/interview_strategies.pdf.
 
-[^8]: Kock, C.L. (2016) Facilitation Reports. GitHub, https://github.com/ChristinaLK/facilitation_reports.)
+[^8]: Koch, C.L. (2016) Facilitation Reports. GitHub, https://github.com/ChristinaLK/facilitation_reports.)
 
