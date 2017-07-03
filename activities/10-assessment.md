@@ -175,14 +175,6 @@ Resource usage metrics will vary for different ACI systems and services, but may
 
 <i><b>Table 1.</b> A typical example taken from an ACI-REF monthly report on ACI user/project base and resource usage metrics, by category and department type</i>
 
-|Compute Metrics, June 2016|Compute Metrics|Traditional|Non-Traditional|
-| --- | --- | --- | --- |
-|ACI Users on Campus|338|219|73|
-|ACI Depts on Campus|38|18|19|
-|New HPC Projects|5|0|5|
-|New UPC Users|11|5|6|
-|Jobs Run|89904|63784|18104|
-|Core Hours|904681|682597| 217084|
 <style>
 table {
     width:100%;
@@ -190,19 +182,6 @@ table {
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
-}
-th, td {
-    padding: 5px;
-    text-align: left;
-}
-table#t01 tr:nth-child(even) {
-    background-color: #eee;
-}
-table#t01 tr:nth-child(odd) {
-   background-color:#fff;
-}
-table#t01 th {
-    background-color: #A9E2F3;
 }
 </style>
 <table>
