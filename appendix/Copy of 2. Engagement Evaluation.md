@@ -1,0 +1,80 @@
+The Engagement Evaluation is an informal survey/assessment, designed to be used after meetings or engagements with users, but not necessarily after each engagement. There are two pieces to the evaluation below: 
+
+* general information, which could mostly be provided by the facilitator
+
+* a series of interview questions, which could be administered to the researcher in person or via a survey tool.  
+
+Depending on the goal of this evaluation, these pieces can be mixed and matched in order to: 
+
+* track specific users and/or projects in a standardized manner
+
+* obtain feedback on facilitation interactions in order to adjust and improve future interactions. 
+
+* understand the impact of ACI-REF interactions
+
+Engagement Evaluation
+
+Engagement Information
+
+1. Name/UserID
+
+2. Dept
+
+3. PI/group
+
+4. Facilitator
+
+5. Date (range) of Interaction
+
+6. Reason for contact 
+
+    1. _____	Help with grant proposal
+
+    2. _____	Help via ticketing system (for items not listed here)
+
+    3. _____	Have ACI-REF speak at lab/group meeting (or research gathering)
+
+    4. _____	Discuss storage options
+
+    5. _____	Discuss compute options
+
+    6. _____	Use an high-performance or high-throughput system (cluster)
+
+    7. _____	Use one or more software packages
+
+    8. _____	Install software
+
+    9. _____	Scale a functioning program to HPC/HTC
+
+    10. _____	Optimize/troubleshoot a workflow
+
+    11. _____	Develop or adopt a workflow
+
+    12. _____	Other ______________________________________________________________
+
+7. Rate engagement (1-5 scale)
+
+Engagement Interview
+
+Give a 3 sentence description of your research
+
+Describe how ACI resources are a critical component of your research
+
+What progress have you made?
+
+What roadblocks have you had?
+
+Describe what would or would not have been possible without the help of an ACI-REF (e.g. save XX amount of time, started a new line of research, etc).:
+
+Please list any publications that were accelerated or improved from the help of an ACI-REF:
+
+Did you use the skills & expertise you gained from the ACI-REF to assist or train others?
+
+Other grad students?						_____ Yes	_____ No
+
+Other post-docs?						_____ Yes	_____ No
+
+Other faculty?							_____ Yes	_____ No
+
+Any suggestions for how we can improve our interactions/(relationship)/collaboration?
+

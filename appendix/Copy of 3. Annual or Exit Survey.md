@@ -1,0 +1,176 @@
+An Annual or Exit Survey is designed to be given 1) once a year, either to all or selected resource users, or 2) to users who are closing their accounts. This survey has the following purposes: 
+
+* Measure impact of ACI-REF assistance using metrics of experience, time saved, publications and other research outcomes
+
+* Gather feedback from users on how to improve
+
+This document contains a suggested introduction and a variety of possible questions.  Not all questions included here would be necessary; facilitators should choose questions that are relevant to the information they want to gather. 
+
+Annual or Exit Survey
+
+Introduction
+
+Thank you for taking the time to complete this survey. Your responses here on the use of Advanced Cyberinfrastructure (ACI) resources (e.g. cluster or cloud computing, high speed/software-defined networks, large storage arrays) will be used to gauge the impact of the ACI-REF program, both locally and nationally. We appreciate your honesty and answering to the best of your ability. Again, we appreciate your time and thank you for your cooperation.
+
+Suggested Questions
+
+Name or LoginID
+
+Demographic info (Skip these questions if this data already on file or collected in a previous survey)
+
+Campus ID/username
+
+Email address	
+
+Lab/PI	
+
+Department	
+
+First consultation date
+
+Please indicate your current familiarity with the following computing concepts or methodologies: 
+
+<table>
+  <tr>
+    <td></td>
+    <td>Never heard of it</td>
+    <td>Heard of it but never tried it</td>
+    <td>Novice</td>
+    <td>Use regularly</td>
+    <td>Fluent and experienced</td>
+  </tr>
+  <tr>
+    <td>Unix command line</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Installing/compiling software in unix</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Writing scripts</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>HPC/HTC/Cluster systems</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Use of a batch/scheduling system</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cloud computing</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Large disk arrays</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Software defined (on-demand) networks</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
+For which aspects of your work did you consult an ACI-REF (select all that apply):
+
+_____	Help with grant proposal
+
+_____	Help via ticketing system (for items not listed here)
+
+_____	Have ACI-REF speak at lab/group meeting (or research gathering)
+
+_____	Discuss storage options
+
+_____	Discuss compute options
+
+_____	Use an high-performance or high-throughput system (cluster)
+
+_____	Use one or more software packages
+
+_____	Install software
+
+_____	Scale a functioning program to HPC/HTC
+
+_____	Optimize/troubleshoot a workflow
+
+_____	Develop or adopt a workflow
+
+_____	Other ______________________________________________________________
+
+Describe how ACI resources are a critical component of your research
+
+Please tell us about your research outcomes that were made possible by your ACI-REF interactions. Or, if more appropriate, what may not have been possible.
+
+Please tell us about additional outcomes made possible from ACI-REF assistance:
+
+1. Papers
+
+2. Funding
+
+3. Awards, distinctions, and positions
+
+4. Collaborations
+
+As best to your ability, please estimate the approximate time that you saved by working with an ACI-REF, if applicable (please check one):
+
+	___ Hours ___ Days ___ Weeks ___ Months ___ N/A
+
+Did you use the skills & expertise you gained from the ACI-REF to assist others?
+
+Other grad students?						_____ Yes	_____ No
+
+Other post-docs?						_____ Yes	_____ No
+
+Other faculty?							_____ Yes	_____ No
+
+*Have you used these skills in other communication methods not related to scholarly articles? (e.g. blog posts, tweets?)					_____ Yes	_____ No
+
+Did you use any other alternatives to accomplish your goals?
+
+_____	ACI-REF documentation	_____	Other documentation	_____	On-campus persons
+
+_____	ACI-REF training	_____	Other training	_____	Off-campus persons
+
+Are there any other persons that we should contact who could use our assistance?
+
+Do you have any suggestion/comments/for improvements?
+
+Might we use some of this information for our web site?		_____ Yes	_____ No
+
+If so, do you wish to be anonymized?				_____ Yes	_____ No
+
