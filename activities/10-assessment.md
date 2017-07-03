@@ -75,11 +75,13 @@ An analysis of the assessments and metrics can be used to evaluate an institutio
 
 An evaluation of an organization's facilitation program should first of all provide answers to practical and immediate questions, such as how well the Facilitation program is meeting the needs of its user population. The evaluation can be focused on identifying gaps in the facilitation services provided, including the ACI resources available, and the ways that these gaps can be addressed. For example, an annual evaluation of services, before or after a new academic year, enables the ACI organization to better plan for the coming year. Alternately, if you have been doing continuous evaluations, taking a step back to reflect on the results over the course of a year is recommended.  In addition to helping to identify what is working well and where there are needs for improvement, the process can 
 
-<ul>
+<div class="bullet-box">
+    <ul class="bullet-list-square">
 <li>help identify clear areas of growth opportunities for the organization</li>
 <li>allow for the setting of specific goals, for improvement in the future</li>
 <li>guide the setting of priorities, especially when choices must be made between resources and/or services to be offered</li>
 </ul>
+</div>
 
 This process should involve identifying specific steps that can be made to improve the ACI organization as a whole, including the facilitation efforts. As an example, the results of a training evaluation can be used to identify training that may need to be updated and/or modified due to changes in resources or procedures, be adapted to new training requirements, or is no longer of value.
 
@@ -89,11 +91,13 @@ This process should involve identifying specific steps that can be made to impro
 
 Metrics and assessments can also be used to evaluate a Facilitator's performance. The evaluation might take the form of a self-evaluation, a discussion with the team or a supervisor, or have the formal structure of an employer evaluation. Evaluations can be made based on the contributions made by the Facilitator, such as on the: 
 
-<ul>
+<div class="bullet-box">
+    <ul class="bullet-list-square">
 <li>success of a given training session, especially if there were surveys with questions that specifically addressed the Facilitator</li>
 <li>success of an outreach event that may have led to an increase in new users, especially from non-traditional departments</li>
 <li>number of engagements with researchers and the quality of assistance</li>
 </ul>
+</div>
 
 They can also be made based on the impact of those contributions on the success of facilitation or the overall success of the ACI organization. This evaluation can also be used as an opportunity to review the process surrounding facilitation tasks, and perhaps identify tasks that can be automated.
 
@@ -119,10 +123,10 @@ Before discussing specific metrics and assessments types, we will cover the sali
    <li>Did they find the training engaging and relevant? </li>
 </ul>
 <li><i>Learning</i>: The degree to which participants acquired the intended knowledge or skills</li>
-<ul>
+<ul class="bullet-list-circle">
    <li> Did the knowledge or skill level of the participants on the subject increase?</li>
     <li>Did the training change the attitude of the participants to the subject?</li>
-<ul class="bullet-list-circle">
+</ul>
 <li><i>Behavior</i>: The ability of the participants to apply the knowledge gained</li>
 <ul class="bullet-list-circle">
     <li>Did the participants use the knowledge gained?</li>
@@ -138,7 +142,7 @@ Before discussing specific metrics and assessments types, we will cover the sali
 
 These four levels are often represented as a pyramid, as shown in the figure to the left, emphasising the manner in which the higher levels are built upon the foundation established by the previous levels -- and thereby emphasizing the importance of the quality of the training sessions. 
 <div class="visual-right-wrapped2">
-<a href="https://scholar.harvard.edu/bobfreeman" target="_blank"><img class="visual-right-wrapped" src="{{ site.baseurl }}/img/kirkpatrick-final.jpg" alt="kirkpatrick-model"></a>
+<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/kirkpatrick-final.jpg" alt="kirkpatrick-model"></a>
 Levels of training evaluation in the Kirkpatrick model[^8]
 </div>
 
