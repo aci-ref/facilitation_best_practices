@@ -140,11 +140,12 @@ Before discussing specific metrics and assessments types, we will cover the sali
 </ol>
 </div>
 
-These four levels are often represented as a pyramid, as shown in the figure to the left, emphasising the manner in which the higher levels are built upon the foundation established by the previous levels -- and thereby emphasizing the importance of the quality of the training sessions. 
 <div class="visual-right-wrapped2">
-<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/kirkpatrick-final.jpg" alt="kirkpatrick-model"></a>
-Levels of training evaluation in the Kirkpatrick model[^8]
+<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/kirkpatrick-final.png" alt="kirkpatrick-model">
+Levels of training evaluation in the Kirkpatrick model[^4]
 </div>
+These four levels are often represented as a pyramid, as shown in the figure to the left, emphasising the manner in which the higher levels are built upon the foundation established by the previous levels -- and thereby emphasizing the importance of the quality of the training sessions. 
+
 
 While measuring the effectiveness of training on these multiple levels is possible, it can be difficult and time consuming. It is relatively easy to generate and give a simple survey which addresses the first two of these four levels and which will provide valuable feedback on the material and the presentation (see [survey section](#surveys) below). However, moving beyond a Level 1 reaction evaluation requires that the training participants be tested, interviewed, surveyed, or observed, possibly before the training event and certainly after the event, and perhaps at several selected intervals afterwards. Moreover, to be able to truly conclude that changes in outcomes, i.e., changes in behavior or results, were influenced by a training program, it is usually necessary to design and implement the training as part of a rigorous study.  Of course, one must weigh the potential outcomes with the time and cost of the doing the evaluation. Furthermore, learner feedback and observations of their experiences can be obtained more informally, in the form of real-time discussion during the training, semi-anonymous input (i.e., the Software Carpentry model of periodic feedback on post-its), and later discussions that the Facilitator may have with researchers who attended a past learning experience.
 
@@ -309,14 +310,14 @@ In this section we cover several assessment methodologies that can be used to me
 Surveys can be used to solicit invaluable user-reported information and feedback, to assess the impact of facilitation efforts and the satisfaction of the user base. It is good approach when there is a need to reach a large number of participants as well as when a set of clearly defined questions can be devised to gain the desired evaluation goal. Surveys are generally easy to generate and to administer, and can result in quantifiable assessments.
 
 Based on the experience and knowledge of ACI-REF Facilitators, we have composed a set of three surveys that can be used to gather information on the user base and their reflections on of ACI resources at key stages of interacting them. Below is a brief description of the intent of these three surveys.
-
  
-
+<div class="bullet-box">
 <ol>
 <li>The <i>Entrance Survey</i> is designed to be given at account creation or introductory training (if required for resource use) to all users of the ACI resource to gather demographics and previous experience upon entrance. It also can be used to gather information on the user's researching computing needs.</li>
 <li>The <i>Engagement Evaluation</i> can be used in multiple ways. It can be used as a tool to track specific users in a standardized manner, but is not necessarily designed to be used for each engagement. It can be used as a mechanism to measure the impact of facilitation, as well as to obtain feedback to provide the Facilitator so that they can improve future engagements. </li>
 <li>The <i>Exit Survey</i> is designed to measure the effectiveness of the ACI organization offerings on a per user basis and again is designed to be given to all users of the ACI resource who had one or more significant engagements with a Facilitator. We acknowledge that not all ACI resources or institutions may be notified when a user leaves the institution or no longer needs access to resources due to completion of a project. Therefore this survey can be utilized on a yearly or other periodic basis.  </li>
 </ol>
+</div>
 
 The results of these three surveys can be used to identify and assess a user population, measure progress for the purpose of reporting and self-assessment, guide improvements to ACI resources, and to guide Facilitator engagements and priorities. It is important to state that these surveys were not scientifically constructed, but rather represent our best understanding of the data and metrics surrounding ACI resources and their use that are most valuable to capture. We have tried to keep the surveys brief, capturing only necessary information, in order to hopefully obtain a high response rate, to increase the likelihood that their results will be meaningful. The surveys also include open-ended questions, to obtain more detailed information, in addition to the typical yes/no or ranking-type questions. By comparing the responses between the entrance and exit surveys, a measure of the self-assessment of users and the development of their ACI skills can be obtained. In the next section, tools that will more readily allow for this type of tracking of responses will be discussed.
 
@@ -336,7 +337,7 @@ However, while surveys are a valuable and widely used assessment tool, it is imp
 
 Testing is a traditional way to assess learner knowledge, and self-quizzes are a popular way to perform formative assessments for new ACI users. Testing can be used with the Kirkpatrick model, discussed earlier, particularly in Levels 2 and 4, for the assessment of training. Self-quizzes are fairly easy to create and administer, and are more reflective and less intimidating than a marked quiz or test. During a self-quiz, users receive immediate feedback and are able to eventually obtain the correct answer. Quizzes can be administered at different times, for example, after new users receive accounts, as a pre-assessment, or after a training session. Results can be kept for student records, and at one school, digital badges are given as a result of successfully completing a training and  taking an assessment.
 
-Quizzes can be used to determine if a student has an accurate working knowledge of a specific set of concepts. They are typically multiple choice, criterion-referenced (i.e., they employ a cutoff score to indicate whether or not a student has a sufficient understanding of the subject), and may include "distractor" answers based on commonly held misconceptions -- similar in design to a Concept Inventory[^4], although those are by definition more rigorously and scientifically developed. As mentioned above, the use of testing is typically the method of choice to measure the extent to which training participants learned the material that was presented during a training session.
+Quizzes can be used to determine if a student has an accurate working knowledge of a specific set of concepts. They are typically multiple choice, criterion-referenced (i.e., they employ a cutoff score to indicate whether or not a student has a sufficient understanding of the subject), and may include "distractor" answers based on commonly held misconceptions -- similar in design to a Concept Inventory[^5], although those are by definition more rigorously and scientifically developed. As mentioned above, the use of testing is typically the method of choice to measure the extent to which training participants learned the material that was presented during a training session.
 
 An example of two questions that were used to assess ACI users' understanding of ACI policy are shown in Figure 2; the results can be used to provide feedback to the facilitator on the effectiveness of the information that new ACI users are given. For enhancing learning, feedback can be provided when an incorrect answer is selected.
 
@@ -350,7 +351,7 @@ Observation recordings will have to be shared among Facilitators and other inter
 
 <h3>Interviews</h3>
 
-Interviews with individual ACI users or groups of users can be used to obtain detailed and individualized information on the impact of the ACI resources and facilitation efforts on their research, and can supplement the information obtained through a survey. Interviews can be conducted at a meeting specifically scheduled for the purpose of obtaining feedback, or it can be part of the other interactions Facilitators regularly have with users, such as a follow-up to an engagement. Whether structured, semi-structured, or informal, an in-person interview can result in an engaging, personal, and in-depth exchange of information that is not possible through an email correspondence or survey. In a structured interview, a set of standardized questions and their order are strictly adhered to, yielding a high degree of uniformity in the response set, and enabling responses to be more easily compared. Semi-structured interviews start with a set of questions but allow for deeper inquiry depending on the responses of the person being interviewed. Unstructured interviews are usually thematic, and new questions are based on previous responses[^5],<sup>,</sup>[^6]. The results of an interview can be used to develop case studies and success stories which are a powerful way to showcase the impact of ACI resources. 
+Interviews with individual ACI users or groups of users can be used to obtain detailed and individualized information on the impact of the ACI resources and facilitation efforts on their research, and can supplement the information obtained through a survey. Interviews can be conducted at a meeting specifically scheduled for the purpose of obtaining feedback, or it can be part of the other interactions Facilitators regularly have with users, such as a follow-up to an engagement. Whether structured, semi-structured, or informal, an in-person interview can result in an engaging, personal, and in-depth exchange of information that is not possible through an email correspondence or survey. In a structured interview, a set of standardized questions and their order are strictly adhered to, yielding a high degree of uniformity in the response set, and enabling responses to be more easily compared. Semi-structured interviews start with a set of questions but allow for deeper inquiry depending on the responses of the person being interviewed. Unstructured interviews are usually thematic, and new questions are based on previous responses[^6],<sup>,</sup>[^7]. The results of an interview can be used to develop case studies and success stories which are a powerful way to showcase the impact of ACI resources. 
 
 
 <h3>Focus Groups</h3>
@@ -389,7 +390,7 @@ Demographic knowledge of new ACI users can facilitate the development of appropr
 Tools for gathering resource usage metrics are often provided by the specific scheduler used to manage access to the resource, or are self-built scripts that mine data from the scheduler or system logs. There are also tools such as the National Science Foundation funded, open source, Open XDMod ([open.xdmod.org](http://open.xdmod.org/)) that have been developed to be run with different resource managers in order to provide a wide range of metrics, including resource utilization and resource performance. Open XDMod is currently being expanded to collect data on the impact on scholarship and research. The usage metrics can be combined with user based metrics and categorized by user, group, department, college.
 
 
-Facilitators can use resource usage metrics to provide input from a user's perspective, in the decision making process about need for additional and/or different resources, and perhaps when to retire older resources. Metrics that include information about the type of resources used can help guide decisions about purchasing, for example, a longer wait time for jobs requesting the GPU nodes may indicate that it would be better to purchase additional GPU nodes, as opposed to additional CPU nodes. The metrics can also be used by individual groups to determine whether or not they are in need of adding additional owner nodes in a condominium model, or to determine the size of an allocation request. An in-depth analysis of usage may show that there is inefficient utilization of ACI resources and can be used to motivate targeted outreach and training to improve utilization. When combined with user base metrics, resource usage metrics can be analyzed to show usage distribution across research groups and departments, which can be used to identify individual professors, department chairs, and deans when looking for support for the ACI organization. The example shown in Figure 3 was produced using software that was created for ACI-REF reporting[^7].
+Facilitators can use resource usage metrics to provide input from a user's perspective, in the decision making process about need for additional and/or different resources, and perhaps when to retire older resources. Metrics that include information about the type of resources used can help guide decisions about purchasing, for example, a longer wait time for jobs requesting the GPU nodes may indicate that it would be better to purchase additional GPU nodes, as opposed to additional CPU nodes. The metrics can also be used by individual groups to determine whether or not they are in need of adding additional owner nodes in a condominium model, or to determine the size of an allocation request. An in-depth analysis of usage may show that there is inefficient utilization of ACI resources and can be used to motivate targeted outreach and training to improve utilization. When combined with user base metrics, resource usage metrics can be analyzed to show usage distribution across research groups and departments, which can be used to identify individual professors, department chairs, and deans when looking for support for the ACI organization. The example shown in Figure 3 was produced using software that was created for ACI-REF reporting[^8].
 
 <a name="tools-facmetrics"></a>
 
@@ -628,24 +629,19 @@ Jump to: [top](#toc)
 
 <h1>References</h1>
 
-[^1]: Frechtling, J. (2010). The 2010 User-friendly Handbook of Project Evaluation, Volume 2, Issue 57 of NSF 
+[^1]: Frechtling, J. (2010). The 2010 User-friendly Handbook of Project Evaluation, Volume 2, Issue 57 of NSF (Series), National Science Foundation (U.S.). National Science Foundation, Directorate for Education and Human Resources, Division of Research and Learning in Formal and Informal Settings.
 
 [^2]: Vanderbilt (2017) Online at [http://virg.vanderbilt.edu/AssessmentPlans/Plan/Designing_an_Assessment](http://virg.vanderbilt.edu/AssessmentPlans/Plan/Designing_an_Assessment_Plan_Steps.aspx)
 
 [^3]: Kirkpatrick, J.D. & Kirkpatrick, W.K. (2017). Online at [http://www.kirkpatrickpartners.com/OurPhilosophy/ ](http://www.kirkpatrickpartners.com/OurPhilosophy/TheKirkpatrickModel)
 
-[^4]: Wikipedia (2017) Online at [https://en.wikipedia.org/wiki/Concept_inventory](https://en.wikipedia.org/wiki/Concept_inventory)
+[^4]: Figure from https://learningservicesucsd.wordpress.com/2014/12/03/kirkpatrick-levels-3-4-they-know-it-but-are-they-doing-it/
 
-[^5]: Stuckey, H. L. (2013) Three types of interviews: Qualitative research methods in social health. Methodological Issues in Social Health and Diabetes Research 1(2)(56-59). Online at [http://www.joshd.net/article.asp?issn=2321-0656;year=2013;volume=1;issue=2;spage=56;epage=59;aulast=Stuckey](http://www.joshd.net/article.asp?issn=2321-0656;year=2013;volume=1;issue=2;spage=56;epage=59;aulast=Stuckey).Turnbow, D. (2014). Assessment by design. Online at :[https://learningservicesucsd.wordpress.com/2014/12/03/kirkpatrick-levels-3-4-they-know-it-but-are-they-doing-it/](https://learningservicesucsd.wordpress.com/2014/12/03/kirkpatrick-levels-3-4-they-know-it-but-are-they-doing-it/)
+[^5]: Wikipedia (2017) Online at [https://en.wikipedia.org/wiki/Concept_inventory](https://en.wikipedia.org/wiki/Concept_inventory)
 
-[^6]: Harvard (undated) Strategies for Qualitative Interviews. Department of Sociology. Online at http://sociology.fas.harvard.edu/files/sociology/files/interview_strategies.pdf.
+[^6]: Stuckey, H. L. (2013) Three types of interviews: Qualitative research methods in social health. Methodological Issues in Social Health and Diabetes Research 1(2)(56-59). Online at [http://www.joshd.net/article.asp?issn=2321-0656;year=2013;volume=1;issue=2;spage=56;epage=59;aulast=Stuckey](http://www.joshd.net/article.asp?issn=2321-0656;year=2013;volume=1;issue=2;spage=56;epage=59;aulast=Stuckey).Turnbow, D. (2014). Assessment by design. Online at :[https://learningservicesucsd.wordpress.com/2014/12/03/kirkpatrick-levels-3-4-they-know-it-but-are-they-doing-it/](https://learningservicesucsd.wordpress.com/2014/12/03/kirkpatrick-levels-3-4-they-know-it-but-are-they-doing-it/)
 
-[^7]: Kock, C.L. (2016) Facilitation Reports. GitHub, https://github.com/ChristinaLK/facilitation_reports.)
+[^7]: Harvard (undated) Strategies for Qualitative Interviews. Department of Sociology. Online at http://sociology.fas.harvard.edu/files/sociology/files/interview_strategies.pdf.
 
-(Series), National Science Foundation (U.S.). National Science Foundation, Directorate for Education and Human Resources, Division of Research and Learning in Formal and Informal Settings.
-
-[TheKirkpatrickModel](http://www.kirkpatrickpartners.com/OurPhilosophy/TheKirkpatrickModel).
-
-[_Plan_Steps.aspx](http://virg.vanderbilt.edu/AssessmentPlans/Plan/Designing_an_Assessment_Plan_Steps.aspx)
-
+[^8]: Kock, C.L. (2016) Facilitation Reports. GitHub, https://github.com/ChristinaLK/facilitation_reports.)
 
