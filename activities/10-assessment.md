@@ -3,6 +3,7 @@ layout: chapter
 title: Metrics and Assessment
 prev: 09-interface
 next: 
+icon: Ch10.png
 ---
 
 
@@ -110,9 +111,10 @@ Lastly, an evaluation of the impact, or the ROI, of the ACI organization is an i
 
 Before discussing specific metrics and assessments types, we will cover the salient features of the Kirkpatrick Model, developed in 1959 and considered to be the standard for training evaluation[^3]. This model defines four levels of assessment, as a hierarchical approach to understand the impact of training.
 
-<ol>
+<div class="bullet-box">
+    <ol>
 <li> <i>Reaction</i>: The response or perception of the participants to the training, including the content, the instructor, and the learning environment</li>
-<ul>
+<ul class="bullet-list-circle">
     <li>Did they feel it was a valuable experience? </li>
    <li>Did they find the training engaging and relevant? </li>
 </ul>
@@ -120,20 +122,25 @@ Before discussing specific metrics and assessments types, we will cover the sali
 <ul>
    <li> Did the knowledge or skill level of the participants on the subject increase?</li>
     <li>Did the training change the attitude of the participants to the subject?</li>
-</ul>
+<ul class="bullet-list-circle">
 <li><i>Behavior</i>: The ability of the participants to apply the knowledge gained</li>
-<ul>
+<ul class="bullet-list-circle">
     <li>Did the participants use the knowledge gained?</li>
    <li> Did the participants change their behavior?</li>
  </ul>
 <li><i>Results</i>: The tangible outcomes that occurred as a result of the training</li>
-<ul>
+<ul class="bullet-list-circle">
     <li>Were the participants of training shown to have better performance?</li>
     <li>What is the return on the investment (ROI) made in training?</li>
  </ul>
 </ol>
+</div>
 
-These four levels are often represented as a pyramid, as shown in Figure 1, emphasising the manner in which the higher levels are built upon the foundation established by the previous levels -- and thereby emphasizing the importance of the quality of the training sessions. 
+These four levels are often represented as a pyramid, as shown in the figure to the left, emphasising the manner in which the higher levels are built upon the foundation established by the previous levels -- and thereby emphasizing the importance of the quality of the training sessions. 
+<div class="visual-right-wrapped2">
+<a href="https://scholar.harvard.edu/bobfreeman" target="_blank"><img class="visual-right-wrapped" src="{{ site.baseurl }}/img/kirkpatrick-final.jpg" alt="kirkpatrick-model"></a>
+Levels of training evaluation in the Kirkpatrick model[^8]
+</div>
 
 While measuring the effectiveness of training on these multiple levels is possible, it can be difficult and time consuming. It is relatively easy to generate and give a simple survey which addresses the first two of these four levels and which will provide valuable feedback on the material and the presentation (see [survey section](#surveys) below). However, moving beyond a Level 1 reaction evaluation requires that the training participants be tested, interviewed, surveyed, or observed, possibly before the training event and certainly after the event, and perhaps at several selected intervals afterwards. Moreover, to be able to truly conclude that changes in outcomes, i.e., changes in behavior or results, were influenced by a training program, it is usually necessary to design and implement the training as part of a rigorous study.  Of course, one must weigh the potential outcomes with the time and cost of the doing the evaluation. Furthermore, learner feedback and observations of their experiences can be obtained more informally, in the form of real-time discussion during the training, semi-anonymous input (i.e., the Software Carpentry model of periodic feedback on post-its), and later discussions that the Facilitator may have with researchers who attended a past learning experience.
 
