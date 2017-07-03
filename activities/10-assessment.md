@@ -3,7 +3,7 @@ layout: chapter
 title: Metrics and Assessment
 prev: 09-interface
 next: 
-icon: {{ site.baseurl }}/img/Ch10.png
+icon: Ch10.png
 ---
 
 
@@ -183,6 +183,28 @@ Resource usage metrics will vary for different ACI systems and services, but may
 |New UPC Users|11|5|6|
 |Jobs Run|89904|63784|18104|
 |Core Hours|904681|682597| 217084|
+<style>
+table {
+    width:100%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+   background-color:#fff;
+}
+table#t01 th {
+    background-color: #A9E2F3;
+}
+</style>
 <table>
   <tr>
     <td>June 2016
