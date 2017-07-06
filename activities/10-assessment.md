@@ -350,7 +350,7 @@ Quizzes can be used to determine if a student has an accurate working knowledge 
 
 <div class="visual-right-wrapped2">
 <img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-02.png" alt="questions">
-Figure 2. Example of assessment questions from a workshop quiz used by one of the ACI-REF instututions
+Figure 2. Example of assessment questions from a workshop quiz used by one of the ACI-REF institutions
 </div>
 An example of two questions that were used to assess ACI users' understanding of ACI policy are shown in Figure 2; the results can be used to provide feedback to the facilitator on the effectiveness of the information that new ACI users are given. For enhancing learning, feedback can be provided when an incorrect answer is selected.
 
@@ -386,7 +386,7 @@ Once specific metrics and assessment data have been identified, the ACI organiza
 
 In many cases, the tools used to collect metrics will also include functions to statistically analyze and prepare reports; if not, the data may have to be imported into a different application for analysis. Any analysis should include trends in the data, which may be valuable when making decisions about the future direction of facilitation efforts, such as anticipating when certain facilitation activities are most needed. In addition, metrics on usage are valuable to aid in demonstrating the value of ACI resources to the institution.
 
-The tools for collecting and analyzing data that are specifically named in this section are those that have been used by ACI-REF project teams. They are not recommendations and are not intended to be exhaustive. The collection and analysis examples 	follow the types of metrics and assessments that were defined in the *[Types of Metrics and Assessments](#metrics-assess)* sections above. 
+The tools for collecting and analyzing data that are specifically named in this section are those that have been used by ACI-REF project teams. They are not recommendations and are not intended to be exhaustive. The collection and analysis examples follow the types of metrics and assessments that were defined in the *[Types of Metrics and Assessments](#metrics-assess)* sections above. 
 
 <a name="tools-usermetrics"></a>
 
