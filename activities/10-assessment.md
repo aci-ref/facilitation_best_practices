@@ -141,10 +141,10 @@ Before discussing specific metrics and assessments types, we will cover the sali
 </div>
 
 <div class="visual-right-wrapped2">
-<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/kirkpatrick-final.png" alt="kirkpatrick-model">
-Levels of training evaluation in the Kirkpatrick model
+<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-01.png" alt="kirkpatrick-model">
+Figure 1. Levels of training evaluation in the Kirkpatrick model
 </div>
-These four levels are often represented as a pyramid, as shown in the figure[^4] to the right, emphasising the manner in which the higher levels are built upon the foundation established by the previous levels -- and thereby emphasizing the importance of the quality of the training sessions. 
+These four levels are often represented as a pyramid, as shown in Figure 1[^4], emphasising the manner in which the higher levels are built upon the foundation established by the previous levels -- and thereby emphasizing the importance of the quality of the training sessions. 
 
 
 While measuring the effectiveness of training on these multiple levels is possible, it can be difficult and time consuming. It is relatively easy to generate and give a simple survey which addresses the first two of these four levels and which will provide valuable feedback on the material and the presentation (see [survey section](#surveys) below). However, moving beyond a Level 1 reaction evaluation requires that the training participants be tested, interviewed, surveyed, or observed, possibly before the training event and certainly after the event, and perhaps at several selected intervals afterwards. Moreover, to be able to truly conclude that changes in outcomes, i.e., changes in behavior or results, were influenced by a training program, it is usually necessary to design and implement the training as part of a rigorous study.  Of course, one must weigh the potential outcomes with the time and cost of the doing the evaluation. Furthermore, learner feedback and observations of their experiences can be obtained more informally, in the form of real-time discussion during the training, semi-anonymous input (i.e., the Software Carpentry model of periodic feedback on post-its), and later discussions that the Facilitator may have with researchers who attended a past learning experience.
@@ -322,9 +322,9 @@ Based on the experience and knowledge of ACI-REF Facilitators, we have composed 
  
 <div class="bullet-box">
 <ol>
-<li>The <i>Entrance Survey</i> is designed to be given at account creation or introductory training (if required for resource use) to all users of the ACI resource to gather demographics and previous experience upon entrance. It also can be used to gather information on the user's researching computing needs.</li>
-<li>The <i>Engagement Evaluation</i> can be used in multiple ways. It can be used as a tool to track specific users in a standardized manner, but is not necessarily designed to be used for each engagement. It can be used as a mechanism to measure the impact of facilitation, as well as to obtain feedback to provide the Facilitator so that they can improve future engagements. </li>
-<li>The <i>Exit Survey</i> is designed to measure the effectiveness of the ACI organization offerings on a per user basis and again is designed to be given to all users of the ACI resource who had one or more significant engagements with a Facilitator. We acknowledge that not all ACI resources or institutions may be notified when a user leaves the institution or no longer needs access to resources due to completion of a project. Therefore this survey can be utilized on a yearly or other periodic basis.  </li>
+<li>The *[Entrance Survey](../appendices/10.1-Entrance Survey)*  is designed to be given at account creation or introductory training (if required for resource use) to all users of the ACI resource to gather demographics and previous experience upon entrance. It also can be used to gather information on the user's researching computing needs.</li>
+<li>The *[Engagement Evaluation](../appendices/10.2-Engagement Evaluation)*  can be used in multiple ways. It can be used as a tool to track specific users in a standardized manner, but is not necessarily designed to be used for each engagement. It can be used as a mechanism to measure the impact of facilitation, as well as to obtain feedback to provide the Facilitator so that they can improve future engagements. </li>
+<li>The *[Engagement Evaluation](../appendices/10.2-Annual or Exit Survey)* is designed to measure the effectiveness of the ACI organization offerings on a per user basis and again is designed to be given to all users of the ACI resource who had one or more significant engagements with a Facilitator. We acknowledge that not all ACI resources or institutions may be notified when a user leaves the institution or no longer needs access to resources due to completion of a project. Therefore this survey can be utilized on a yearly or other periodic basis.  </li>
 </ol>
 </div>
 
@@ -398,7 +398,10 @@ Demographic knowledge of new ACI users can facilitate the development of appropr
 
 Tools for gathering resource usage metrics are often provided by the specific scheduler used to manage access to the resource, or are self-built scripts that mine data from the scheduler or system logs. There are also tools such as the National Science Foundation funded, open source, Open XDMod ([open.xdmod.org](http://open.xdmod.org/)) that have been developed to be run with different resource managers in order to provide a wide range of metrics, including resource utilization and resource performance. Open XDMod is currently being expanded to collect data on the impact on scholarship and research. The usage metrics can be combined with user based metrics and categorized by user, group, department, college.
 
-
+<div class="visual-right-wrapped2">
+<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-03.png" alt="resoource-usage">
+Figure 3. An example of one way to present ACI researce usage hours
+</div>
 Facilitators can use resource usage metrics to provide input from a user's perspective, in the decision making process about need for additional and/or different resources, and perhaps when to retire older resources. Metrics that include information about the type of resources used can help guide decisions about purchasing, for example, a longer wait time for jobs requesting the GPU nodes may indicate that it would be better to purchase additional GPU nodes, as opposed to additional CPU nodes. The metrics can also be used by individual groups to determine whether or not they are in need of adding additional owner nodes in a condominium model, or to determine the size of an allocation request. An in-depth analysis of usage may show that there is inefficient utilization of ACI resources and can be used to motivate targeted outreach and training to improve utilization. When combined with user base metrics, resource usage metrics can be analyzed to show usage distribution across research groups and departments, which can be used to identify individual professors, department chairs, and deans when looking for support for the ACI organization. The example shown in Figure 3 was produced using software that was created for ACI-REF reporting[^8].
 
 <a name="tools-facmetrics"></a>
@@ -485,7 +488,7 @@ An analysis of these can be used to identify common questions and complex issues
 
 <i>Education and training (and outreach)</i>: The collection of metrics such as the number of events and the number of participants per event can be tracked using a simple spreadsheet.  Any method should include information as to the date and the exact nature of the event. The number of participants can be collected at the event through the use of electronic registration, or just sign-in sheets or as a simple count that the Facilitator makes at the activity. Using registration or sign-in sheets allow for the collection of data beyond the number of attendees such as names, departments, and email addresses for post workshop surveys.  Alternatively, even if just names of the attendees are obtained, these metrics can be enhanced by looking up additional information such as their department or project group. An annotated record of monthly workshops in shown in Table 4.
 
-<i><b>Table 4.</b> A typical example on documenting of Facilitation event metrics.,/i>
+<i><b>Table 4.</b> A typical example on documenting of Facilitation event metrics.</i>
 
 <table>
   <tr>
