@@ -50,17 +50,19 @@ discussed along with some implementation best practices.
 
 An ACI plan provides a framework to incorporate ACI resources into a
 researcher's workflow.  To this end, an ACI plan serves to:
-
-* Capture the requirements for a researcher’s utilization of ACI
-resources
-* Organize the approach that the ACI team and researcher will cooperate
-on for the project
-* Define the actionable tasks for both the ACI team and the researcher
-* Document the current state of an ongoing engagement with a researcher
-for a specific ACI-dependent project
-* Provide historical documentation of progress
-* Capture a timeline for major milestones
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+        <li>Capture the requirements for a researcher’s utilization of ACI
+resources</li>
+        <li>Organize the approach that the ACI team and researcher will cooperate
+on for the project</li>
+        <li>Define the actionable tasks for both the ACI team and the researcher</li>
+        <li>Document the current state of an ongoing engagement with a researcher
+for a specific ACI-dependent project</li>
+        <li>Provide historical documentation of progress</li>
+        <li>Capture a timeline for major milestones</li>
+   </ul>
+</div>
 ACI plans can be formal, in the form a defined document with multiple
 sections and details, or can be informal, as in many cases, involving
 only  email (perhaps ticket-based) correspondence to captures details
@@ -104,17 +106,19 @@ individual can be empowered with the ability to find the solution, new
 avenues of capability open up for the researcher; this may also free up
 human ACI resources to focus on more challenging tasks.  A few examples
 of this are:
-
-* HPC/HTC training for setting up software and submitting jobs to local
-and national resources (XSEDE, OSG, NCAR, etc.)
-* Basic scripting or programming for automating analyses or creating
-pipelines (bash, Python, Perl etc)
-* Science Gateway usage.  Training users how to access and utilize
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+<li>HPC/HTC training for setting up software and submitting jobs to local
+and national resources (XSEDE, OSG, NCAR, etc.)</li>
+<li>Basic scripting or programming for automating analyses or creating
+pipelines (bash, Python, Perl etc)</li>
+<li>Science Gateway usage.  Training users how to access and utilize
 online science gateway sites that perform computation and data
 dissemination, such as CyVerse and others
 ([https://www.xsede.org/gateways-listing](https://www.xsede.org/gateways
--listing))
-
+-listing))</li>
+</ul>
+</div>
 Additional ideas and training recommendation can be found in the
 *[Education and Training](../06-education)* chapter.
 
