@@ -221,8 +221,8 @@ grow on the http://aciref.org website.
     <ul class="bullet-list-square">
 	<li>Open Science Grid User School - <a href="http://opensciencegrid.org/UserSchool">http://opensciencegrid.org/UserSchool</a></li>
 	<li>OSG Connect Helpdesk - <a href="https://support.opensciencegrid.org/support/home">https://support.opensciencegrid.org/support/home</a></li>
-	<li>NCSA Cyberinfrastructure Tutor - <a href="https://www.citutor.org/browse.php>https://www.citutor.org/browse.php</a></li>
-	<li>Cornell Virtual Workshop - <a href="https://cvw.cac.cornell.edu/topics>https://cvw.cac.cornell.edu/topics</a></li>
+	<li>NCSA Cyberinfrastructure Tutor - <a href="https://www.citutor.org/browse.php">https://www.citutor.org/browse.php</a></li>
+	<li>Cornell Virtual Workshop - <a href="https://cvw.cac.cornell.edu/topics">https://cvw.cac.cornell.edu/topics</a></li>
 	<li>Virtual School of Computational Science and Engineering -
 	<a href="http://www.vscse.org/">http://www.vscse.org/</a></li>
 	<li>HPC University - <a href="http://hpcuniversity.org/trainingMaterials/">http://hpcuniversity.org/trainingMaterials/</a></li>
@@ -238,7 +238,7 @@ grow on the http://aciref.org website.
 <a href="https://www.udacity.com/course/high-performance-computing--ud281">https://www.udacity.com/course/high-performance-computing--ud281</a></li>
 	<li>HLRS HPC Online Workshops -
 <a href="https://fs.hlrs.de//projects/par/par_prog_ws/">https://fs.hlrs.de//projects/par/par_prog_ws/</a></li>
-<li>ACM SIG HPC - <a href="http://sighpceducation.acm.org/resources.html>http://sighpceducation.acm.org/resources.html</a></li>
+<li>ACM SIG HPC - <a href="http://sighpceducation.acm.org/resources.html">http://sighpceducation.acm.org/resources.html</a></li>
 	<li>University of Washington HPC Course -
 <a href="http://faculty.washington.edu/rjl/uwhpsc-coursera/">http://faculty.washington.edu/rjl/uwhpsc-coursera/</a></li>
 	<li>NVIDIA Courses - <a href="https://developer.nvidia.com/educators/existing-courses">https://developer.nvidia.com/educators/existing-courses</a></li>
@@ -266,7 +266,7 @@ at professional and research communications. Examples of LinkedIn groups
 include:
 <div class="bullet-box">
     <ul class="bullet-list-square">
-    <li>HPC - <a href="https://www.linkedin.com/topic/high-performance-computing>https://www.linkedin.com/topic/high-performance-computing</a></li>
+    <li>HPC - <a href="https://www.linkedin.com/topic/high-performance-computing">https://www.linkedin.com/topic/high-performance-computing</a></li>
     <li>Cloud Computing -  <a href="https://www.linkedin.com/groups/61513/profile">https://www.linkedin.com/groups/61513/profile</a></li>
     <li>Women in HPC - <a href="https://www.linkedin.com/groups/8105215/profile">https://www.linkedin.com/groups/8105215/profile</a></li>
 	<li>Multicore and Parallel Computing -
@@ -388,9 +388,9 @@ Some professional networks that meet the above criteria and are related
 to ACI are:
 <div class="bullet-box">
     <ul class="bullet-list-square">
-    <li>Campus champions - <a href="https://www.xsede.org/campus-champions">https://www.xsede.org/campus-champions</a></li>
-    <li>Internet 2 - <a href="http://www.internet2.edu/communities-groups/members/">http://www.internet2.edu/communities-groups/members/</a></li>
-	</li>ACI-REF - <a href="http://aciref.org">http://aciref.org</a></li>
+    	<li>Campus champions - <a href="https://www.xsede.org/campus-champions">https://www.xsede.org/campus-champions</a></li>
+    	<li>Internet 2 - <a href="http://www.internet2.edu/communities-groups/members/">http://www.internet2.edu/communities-groups/members/</a></li>
+    	<li>ACI-REF - <a href="http://aciref.org">http://aciref.org</a></li>
     </ul>
 </div>
 
