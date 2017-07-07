@@ -381,7 +381,7 @@ interactions</li>
 	<li>The network is positive in communications about the subject of interest
 but also able to be constructively critical</li>
 </ul>
-<div>
+</div>
 Some professional networks that meet the above criteria and are related
 to ACI are:
 <div class="bullet-box">
