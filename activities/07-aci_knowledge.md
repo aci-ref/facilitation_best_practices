@@ -211,39 +211,39 @@ grow on the http://aciref.org website.
 ### Listing of Training Resources: 
 <div class="bullet-box">
     <ul class="bullet-list-square">
-	<li>ACI-REF - [https://aciref.org/research-computing/learning-resources/](https://aciref.org/research-computing/learning-resources/)</li>
-	<li>XSEDE - [https://portal.xsede.org/web/xup/online-training](https://portal.xsede.org/web/xup/online-training)</li>
+	<li>ACI-REF -<a href="https://aciref.org/research-computing/learning-resources/">https://aciref.org/research-computing/learning-resources/</a></li>
+	<li>XSEDE - <a href="https://portal.xsede.org/web/xup/online-training">https://portal.xsede.org/web/xup/online-training</a></li>
   </ul>
 </div>
 
 ### On-Demand Tutorials:
 <div class="bullet-box">
     <ul class="bullet-list-square">
-	<li>Open Science Grid User School - [http://opensciencegrid.org/UserSchool](http://opensciencegrid.org/UserSchool)</li>
-	<li>OSG Connect Helpdesk - [https://support.opensciencegrid.org/support/home](https://support.opensciencegrid.org/support/home)</li>
-	<li>NCSA Cyberinfrastructure Tutor - [https://www.citutor.org/browse.php](https://www.citutor.org/browse.php)</li>
-	<li>Cornell Virtual Workshop - [https://cvw.cac.cornell.edu/topics](https://cvw.cac.cornell.edu/topics)</li>
+	<li>Open Science Grid User School - <a href="http://opensciencegrid.org/UserSchool">http://opensciencegrid.org/UserSchool</a></li>
+	<li>OSG Connect Helpdesk - <a href="https://support.opensciencegrid.org/support/home">https://support.opensciencegrid.org/support/home</a></li>
+	<li>NCSA Cyberinfrastructure Tutor - <a href="https://www.citutor.org/browse.php>https://www.citutor.org/browse.php</a></li>
+	<li>Cornell Virtual Workshop - <a href="https://cvw.cac.cornell.edu/topics>https://cvw.cac.cornell.edu/topics</a></li>
 	<li>Virtual School of Computational Science and Engineering -
-[http://www.vscse.org/](http://www.vscse.org/)</li>
-	<li>HPC University - [http://hpcuniversity.org/trainingMaterials/](http://hpcuniversity.org/trainingMaterials/)</li>
+	<a href="http://www.vscse.org/">http://www.vscse.org/</a></li>
+	<li>HPC University - <a href="http://hpcuniversity.org/trainingMaterials/">http://hpcuniversity.org/trainingMaterials/</a></li>
 	<li>ARCHER Virtual Tutorials -
-[https://www.archer.ac.uk/training/virtual/index.php](https://www.archer.ac.uk/training/virtual/index.php)</li>
+<a href="https://www.archer.ac.uk/training/virtual/index.php">https://www.archer.ac.uk/training/virtual/index.php</a></li>
 	<li>Wolfram Training: HPC Courses -
-[https://www.wolfram.com/training/courses/hpc/](https://www.wolfram.com/training/courses/hpc/)</li>
-	<li>PRACE Tutorials - [http://www.training.prace-ri.eu/tutorials/index.html](http://www.training.prace-ri.eu/tutorials/index.html)</li>
-	<li>LLNL HPC Trainings - [https://computing.llnl.gov/?set=training&page=index](https://computing.llnl.gov/?set=training&page=index)</li>
-	<li>NCI Trainings - [http://nci.org.au/user-support/training/](http://nci.org.au/user-support/training/)</li>
-	<li>SCAI Online Training - [http://www.hpc.cineca.it/content/online-training](http://www.hpc.cineca.it/content/online-training)</li>
+<a href="https://www.wolfram.com/training/courses/hpc/">https://www.wolfram.com/training/courses/hpc/</a></li>
+	<li>PRACE Tutorials - <a href="http://www.training.prace-ri.eu/tutorials/index.html">http://www.training.prace-ri.eu/tutorials/index.html</a></li>
+	<li>LLNL HPC Trainings - <a href="https://computing.llnl.gov/?set=training&page=index">https://computing.llnl.gov/?set=training&page=index</a></li>
+	<li>NCI Trainings - <a href="http://nci.org.au/user-support/training/">http://nci.org.au/user-support/training/</a></li>
+	<li>SCAI Online Training - <a href="http://www.hpc.cineca.it/content/online-training">http://www.hpc.cineca.it/content/online-training</a></li>
 	<li>Georgia Tech HPC Course -
-[https://www.udacity.com/course/high-performance-computing--ud281](https://www.udacity.com/course/high-performance-computing--ud281)</li>
+<a href="https://www.udacity.com/course/high-performance-computing--ud281">https://www.udacity.com/course/high-performance-computing--ud281</a></li>
 	<li>HLRS HPC Online Workshops -
-[https://fs.hlrs.de//projects/par/par_prog_ws/](https://fs.hlrs.de//projects/par/par_prog_ws/)</li>
-	<li>ACM SIG HPC - [http://sighpceducation.acm.org/resources.html]()</li>
-	<li>University of Washington HPC Course - </li>
-[http://faculty.washington.edu/rjl/uwhpsc-coursera/](http://faculty.washington.edu/rjl/uwhpsc-coursera/)</li>
-	<li>NVIDIA Courses - [https://developer.nvidia.com/educators/existing-courses](https://developer.nvidia.com/educators/existing-courses)</li>
-	<li>Software Carpentry - [http://software-carpentry.org/](http://software-carpentry.org/)</li>
-	<li>Data Carpentry - [http://www.datacarpentry.org/](http://www.datacarpentry.org/)</li>
+<a href="https://fs.hlrs.de//projects/par/par_prog_ws/">https://fs.hlrs.de//projects/par/par_prog_ws/</a></li>
+<li>ACM SIG HPC - <a href="http://sighpceducation.acm.org/resources.html>http://sighpceducation.acm.org/resources.html</a></li>
+	<li>University of Washington HPC Course -
+<a href="http://faculty.washington.edu/rjl/uwhpsc-coursera/">http://faculty.washington.edu/rjl/uwhpsc-coursera/</a></li>
+	<li>NVIDIA Courses - <a href="https://developer.nvidia.com/educators/existing-courses">https://developer.nvidia.com/educators/existing-courses</a></li>
+	<li>Software Carpentry - <a href="http://software-carpentry.org/">http://software-carpentry.org/</a></li>
+	<li>Data Carpentry - <a href="http://www.datacarpentry.org/">http://www.datacarpentry.org/</a></li>
    </ul>
 </div>
 The examples provided for existing documentation resources providers not
@@ -266,12 +266,12 @@ at professional and research communications. Examples of LinkedIn groups
 include:
 <div class="bullet-box">
     <ul class="bullet-list-square">
-	<li>HPC - [https://www.linkedin.com/topic/high-performance-computing]()</li>
-	<li>Cloud Computing - [https://www.linkedin.com/groups/61513/profile]()</li>
-	<li>Women in HPC - [https://www.linkedin.com/groups/8105215/profile]()</li>
+    <li>HPC - <a href="https://www.linkedin.com/topic/high-performance-computing>https://www.linkedin.com/topic/high-performance-computing</a></li>
+    <li>Cloud Computing -  <a href="https://www.linkedin.com/groups/61513/profile">https://www.linkedin.com/groups/61513/profile</a></li>
+    <li>Women in HPC - <a href="https://www.linkedin.com/groups/8105215/profile">https://www.linkedin.com/groups/8105215/profile</a></li>
 	<li>Multicore and Parallel Computing -
-[https://www.linkedin.com/groups/1156517/profile]()</li>
-	<li>CUDA Developers - [https://www.linkedin.com/groups/1956294]()</li>
+	<a href="https://www.linkedin.com/groups/1156517/profile">https://www.linkedin.com/groups/1156517/profile</a></li>
+	<li>CUDA Developers - <a href="https://www.linkedin.com/groups/1956294">https://www.linkedin.com/groups/1956294</a></li>
     </ul>
 </div>
 Before social media, professional organizations commonly provided an
@@ -286,13 +286,13 @@ facilitators find useful are listed below:
 
 <div class="bullet-box">
     <ul class="bullet-list-square">
-	<li>ACM SIG HPC - [http://sighpceducation.acm.org/](http://sighpceducation.acm.org/)</li>
-	<li>XSEDE Campus Champions - [https://www.xsede.org/campus-champions](https://www.xsede.org/campus-champions)</li>
-	<li>HPC Society - [http://www.hpcsociety.org/](http://www.hpcsociety.org/)</li>
-	<li>IEEE - [http://www.ieee.org]([http://www.ieee.org)</li>
-	<li>SIAM - [http://www.siam.org/](http://www.siam.org/)</li>
-	<li>Software Carpentry Contributors - [http://software-carpentry.org/about/](http://software-carpentry.org/about/)</li>
-	<li>Data Carpentry Contributors - [http://www.datacarpentry.org/involved/](http://www.datacarpentry.org/involved/)</li>
+    <li>ACM SIG HPC - <a href="http://sighpceducation.acm.org/">http://sighpceducation.acm.org/</a></li>
+	<li>XSEDE Campus Champions - <a href="https://www.xsede.org/campus-champions">https://www.xsede.org/campus-champions)</a></li>
+	<li>HPC Society - <a href="http://www.hpcsociety.org/">http://www.hpcsociety.org/</a></li>
+	<li>IEEE - <a href="http://www.ieee.org">http://www.ieee.org</a></li>
+	<li>SIAM - <a href="http://www.siam.org/">http://www.siam.org/</a></li>
+	<li>Software Carpentry Contributors - <a href="http://software-carpentry.org/about/">http://software-carpentry.org/about/</a></li>
+	<li>Data Carpentry Contributors - <a href="http://www.datacarpentry.org/involved/">http://www.datacarpentry.org/involved/</a></li>
     </ul>
 </div>
 The examples provided for social media and organizations are not
@@ -318,33 +318,35 @@ this section and on the ACI-REF website.
 <div class="bullet-box">
     <ul class="bullet-list-square">
 	<li>The Journal of Supercomputing -
-[http://www.springer.com/computer/swe/journal/11227](http://www.springer.com/computer/swe/journal/11227)</li>
-	<li>Go Parallel - [http://goparallel.sourceforge.net/](http://goparallel.sourceforge.net/)</li>
+<a href="http://www.springer.com/computer/swe/journal/11227">http://www.springer.com/computer/swe/journal/11227</a></li>
+	<li>Go Parallel - <a href="http://goparallel.sourceforge.net/">http://goparallel.sourceforge.net/)</a></li>
 	<li>ACM Special Interest Group on High Performance Computing: Digital
-Library - [http://www.sighpc.org/resources/dl](http://www.sighpc.org/resources/dl)</li>
+	Library - <a href="http://www.sighpc.org/resources/dl">http://www.sighpc.org/resources/dl</a></li>
     </ul>
 </div>
 ### Blogs
-
-* HPC Wire - [http://hpcwire.com](http://hpcwire.com)
-* Inside HPC - [http://insidehpc.com/](http://insidehpc.com/)
-* The Register, Data Center : HPC  -
-[http://www.theregister.co.uk/data_centre/hpc/](http://www.theregister.co.uk/data_centre/hpc/)
-* HPC Notes - [http://www.hpcnotes.com/](http://www.hpcnotes.com/)
-* ACM Special Interest Group on High Performance Computing -
-[http://www.sighpc.org/](http://www.sighpc.org/)
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+	<li>HPC Wire - <a href="http://hpcwire.com">http://hpcwire.com</a></li>
+	<li>Inside HPC - <a href="http://insidehpc.com/">http://insidehpc.com/</a></li>
+	<li>The Register, Data Center : HPC  -
+<a href="http://www.theregister.co.uk/data_centre/hpc/">http://www.theregister.co.uk/data_centre/hpc/</a></li>
+	<li>HPC Notes - <a href="http://www.hpcnotes.com/">http://www.hpcnotes.com/</a></li>
+	<li>ACM Special Interest Group on High Performance Computing -
+<a href="http://www.sighpc.org/">http://www.sighpc.org/</a></li>
+    </ul>
+</div>
 ### Vendor blogs and publications
 
 <div class="bullet-box">
     <ul class="bullet-list-square">
-	<li>Cray Blog - [http://www.cray.com/blog/](http://www.cray.com/blog/)</li>
-	<li>Dell HPC Blog - [http://en.community.dell.com/techcenter/high-performance-computing/](http://en.community.dell.com/techcenter/high-performance-computing/)</li>
-	<li>Cisco HPC Blog - [http://blogs.cisco.com/tag/hpc](http://blogs.cisco.com/tag/hpc)</li>
-	<li>SGI Blog - [http://blog.sgi.com/](http://blog.sgi.com/)</li>
-	<li>Puget Systems HPC Blog - [https://www.pugetsystems.com/all_hpc.php](https://www.pugetsystems.com/all_hpc.php)</li>
-	<li>Mellanox HPC Blog - [http://www.mellanox.com/blog/category/hpc/](http://www.mellanox.com/blog/category/hpc/)</li>
-	<li>Microsoft HPC Blog - [https://blogs.technet.microsoft.com/windowshpc/](https://blogs.technet.microsoft.com/windowshpc/)</li>
+    <li>Cray Blog - <a href="http://www.cray.com/blog/">http://www.cray.com/blog/</a></li>
+	<li>Dell HPC Blog - <a href="http://en.community.dell.com/techcenter/high-performance-computing/">http://en.community.dell.com/techcenter/high-performance-computing/</a></li>
+	<li>Cisco HPC Blog - <a href="http://blogs.cisco.com/tag/hpc">http://blogs.cisco.com/tag/hpc</a></li>
+	<li>SGI Blog - <a href="http://blog.sgi.com/">http://blog.sgi.com/</a></li>
+	<li>Puget Systems HPC Blog - <a href="https://www.pugetsystems.com/all_hpc.php">https://www.pugetsystems.com/all_hpc.php</a></li>
+	<li>Mellanox HPC Blog - <a href="http://www.mellanox.com/blog/category/hpc/">http://www.mellanox.com/blog/category/hpc/</a></li>
+	<li>Microsoft HPC Blog - <a href="https://blogs.technet.microsoft.com/windowshpc/">https://blogs.technet.microsoft.com/windowshpc/</a></li>
     </ul>
 </div>
 The examples provided for journals, blogs and magazines are not
@@ -381,14 +383,14 @@ interactions</li>
 	<li>The network is positive in communications about the subject of interest
 but also able to be constructively critical</li>
 </ul>
-<div>
+</div>
 Some professional networks that meet the above criteria and are related
 to ACI are:
 <div class="bullet-box">
     <ul class="bullet-list-square">
-	<li>Campus champions - https://www.xsede.org/campus-champions</li>
-	<li>Internet 2 - http://www.internet2.edu/communities-groups/members/</li>
-	</li>ACI-REF - http://aciref.org</li>
+    <li>Campus champions - <a href="https://www.xsede.org/campus-champions">https://www.xsede.org/campus-champions</a></li>
+    <li>Internet 2 - <a href="http://www.internet2.edu/communities-groups/members/">http://www.internet2.edu/communities-groups/members/</a></li>
+	</li>ACI-REF - <a href="http://aciref.org">http://aciref.org</a></li>
     </ul>
 </div>
 
