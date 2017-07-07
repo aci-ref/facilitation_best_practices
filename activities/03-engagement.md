@@ -34,19 +34,20 @@ appropriate resources and approaches. To that end, engagements, important for
 accelerating the adoption of ACI resources in support of research
 endeavors, play a crucial role in an ACI plan's development and in
 contributing to the plan's success. Activities defined as engagement may include:
-
-* Development of ACI Plans describing the overall strategies by which a
-researcher will proceed
-* Implementing the use of one or more ACI resources for a project 
-* Attending initial and on-going meetings to discuss a researcher's
-projects, goals, and roadmap
-* Collaborating with a researcher on a portion of their project related
-to ACI, to enable their use of a resource near-term
-* Transferring knowledge that leads to a researcher’s effective
-utilization of resources
-* Developing long-term plans as part of a larger ACI plan
-* Consulting with a researcher on aspects of a project for which the
-Facilitator has domain expertise
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+	<li>Development of ACI Plans describing the overall strategies by which a
+	researcher will proceed</li>
+	<li>Implementing the use of one or more ACI resources for a project</li>
+	<li>Attending initial and on-going meetings to discuss a researcher's
+projects, goals, and roadmap</li>
+	<li>Collaborating with a researcher on a portion of their project related
+to ACI, to enable their use of a resource near-term</li>
+	<li>Transferring knowledge that leads to a researcher’s effective
+utilization of resources</li>
+	<li>Developing long-term plans as part of a larger ACI plan</li>
+	<li>Consulting with a researcher on aspects of a project for which the
+Facilitator has domain expertise</li>
 
 As a rule, tasks done on behalf of a researcher their own hands-on involvement 
 are not engagement. 
