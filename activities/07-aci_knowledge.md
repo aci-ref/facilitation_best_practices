@@ -287,7 +287,7 @@ facilitators find useful are listed below:
 <div class="bullet-box">
     <ul class="bullet-list-square">
     <li>ACM SIG HPC - <a href="http://sighpceducation.acm.org/">http://sighpceducation.acm.org/</a></li>
-	<li>XSEDE Campus Champions - <a href="https://www.xsede.org/campus-champions">https://www.xsede.org/campus-champions)</a></li>
+	<li>XSEDE Campus Champions - <a href="https://www.xsede.org/campus-champions">https://www.xsede.org/campus-champions</a></li>
 	<li>HPC Society - <a href="http://www.hpcsociety.org/">http://www.hpcsociety.org/</a></li>
 	<li>IEEE - <a href="http://www.ieee.org">http://www.ieee.org</a></li>
 	<li>SIAM - <a href="http://www.siam.org/">http://www.siam.org/</a></li>
@@ -319,7 +319,7 @@ this section and on the ACI-REF website.
     <ul class="bullet-list-square">
 	<li>The Journal of Supercomputing -
 <a href="http://www.springer.com/computer/swe/journal/11227">http://www.springer.com/computer/swe/journal/11227</a></li>
-	<li>Go Parallel - <a href="http://goparallel.sourceforge.net/">http://goparallel.sourceforge.net/)</a></li>
+	<li>Go Parallel - <a href="http://goparallel.sourceforge.net/">http://goparallel.sourceforge.net/</a></li>
 	<li>ACM Special Interest Group on High Performance Computing: Digital
 	Library - <a href="http://www.sighpc.org/resources/dl">http://www.sighpc.org/resources/dl</a></li>
     </ul>
