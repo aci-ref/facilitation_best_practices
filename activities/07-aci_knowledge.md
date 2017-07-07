@@ -213,8 +213,9 @@ grow on the http://aciref.org website.
     <ul class="bullet-list-square">
 	<li>ACI-REF - [https://aciref.org/research-computing/learning-resources/](https://aciref.org/research-computing/learning-resources/)</li>
 	<li>XSEDE - [https://portal.xsede.org/web/xup/online-training](https://portal.xsede.org/web/xup/online-training)</li>
-</ul>
+  </ul>
 </div>
+
 ### On-Demand Tutorials:
 <div class="bullet-box">
     <ul class="bullet-list-square">
