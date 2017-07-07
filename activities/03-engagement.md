@@ -300,16 +300,18 @@ to be done by each party. The practice of reviewing is key, as
 individuals may otherwise leave a meeting with widely varying ideas and
 expectations about future outcomes. Furthermore, we recommend a pattern
 of discussing the tasks and a timeline. For example:
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+	<li>"I will email or call by the end of next week."</li>
 
-* "I will email or call by the end of next week."
+	<li>"The system administrator is going to setup an account on the cluster
+by Thursday and will email you the account login information."  </li>
 
-* "The system administrator is going to setup an account on the cluster
-by Thursday and will email you the account login information."  
-
-* "I’ll send you an email by the end of the day summarizing everything
+	<li>"I’ll send you an email by the end of the day summarizing everything
 we’ve discussed and links to the web pages we went over today so you can
-get started as soon as you’re ready."
-
+get started as soon as you’re ready."</li>
+</ul>
+</div>
 After the engagement, the Facilitator can continue to assist the
 researcher, bringing in other members of the ACI team as necessary (see
 the *[Assisting Researchers in the Use of ACI Resources](../05-assistance)* chapter). In some
@@ -400,7 +402,7 @@ keep in mind when developing these processes and procedures are:
 one researcher’s problem may be applicable for others. Being able to
 locate, search, and browse previous approaches is useful.
 <li>Envision how the documentation from your engagement meeting will
-transition to action items and future interactions. For example: 
+transition to action items and future interactions. For example: </li>
 	<ul class="bullet-list-circle">
     		<li>Record any meeting notes into your system for review and historical reference. Others from your group will find the context useful and can look back at these notes to inform future interactions.</li>
 		<li>Create assignable action items that can be tracked for progress. Consider how effort from the Facilitator and other ACI staff will need to scale.</li>
