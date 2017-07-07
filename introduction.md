@@ -215,11 +215,12 @@ exchange of expertise between ACI resource staff, including intra- and
 inter-institutional connections. Translating user feedback to inform the
 enhancement and optimization of ACI Resources. </i>
 
-<h4>Self Assessment and Using Metrics</h4>
-<i>Continuous evaluation of the effectiveness of facilitation practices,
-including the evaluation of facilitation impact as tied to user
-feedback, changes in the patterns of ACI utilization by different users
-and groups, changes in user demographics over time, etc.</i>
+<h4>Metrics and Assessment</h4>
+<i>Continuous assessment of the effectiveness of facilitation practices, 
+including the evaluation of facilitation impact as tied to user feedback, 
+as well as evaluating changes in the patterns of ACI utilization by 
+different users and groups, changes in user demographics over time, etc., 
+to improve and remodel facilitation efforts and to assess overall impact. </i>
 
 <a name="whatis-skills"></a>
 <h3>What Traits and Professional Background Should Facilitators Possess?</h3>
