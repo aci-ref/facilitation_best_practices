@@ -234,34 +234,34 @@ worked for the institutions involved in creating this document.
 
 <div class="bullet-box">
     <ul class="bullet-list-square">
-        <li>**Data Center Tours:** Tours of the ACI facility can serve as an
+        <li>**Data Center Tours:</b> Tours of the ACI facility can serve as an
 opportunity to demonstrate to researchers the level of service provided.</li>
 
-<li>**CI (Cyberinfrastructure) Days:** These events can have different
+<li><b>CI (Cyberinfrastructure) Days:</b> These events can have different
 focuses, but the general idea is to highlighting cyberinfrastructure and
 show the critical role it plays in computational research. At these
 events users can showcase their research A related option is to focus
 the day on a specific aspect of CI. As an example Clemson recently had a
 GIS day to promote GIS resources and GIS based research on campus.</li>
 
-<li>**Seminar Series:** This type of outreach can be used to highlight
+<li><b>Seminar Series:</b> This type of outreach can be used to highlight
 uses of ACI resources and perhaps also lead to the collaborations
 between research efforts. The ACI organization can sponsor periodic
 seminars that can focus on research outcomes obtained with the use of
 their resources.</li>
 
-<li>**Vendor presentation:** These can be used to promote the availability
+<li><b>Vendor presentation:</b> These can be used to promote the availability
 of a specific tool or resource that the ACI provider already has or may
 acquire. A number of the vendors such as NVidia, Mathworks, and Ansys
 offer to to hold such events on campuses.</li>
 
-<li>**ACI Resource Announcements**: An outreach session can be held in
+<li><b>ACI Resource Announcements:/<b> An outreach session can be held in
 conjunction with the announcement a new ACI resource or a change in
 usage and accompanying policy, in order to inform the user base of
 upcoming changes and provide information on the   The Facilitators can
 add additional outreach about pre-existing resources as well.</li>
 
-<li>**Annual User Meetings**: An annual meeting or open forum can be
+<li><b>Annual User Meetings:</b> An annual meeting or open forum can be
 scheduled to have a dialog with researchers on the status of the ACI
 organization and the resources and services provided.</li>
 </ul>
@@ -300,18 +300,18 @@ together materials are:
 
 <div class="bullet-box">
     <ul class="bullet-list-square">
-        <li>**_Be prepared_**: Arrive early to make sure all is set up
+        <li>**_Be prepared:</b></i>  Arrive early to make sure all is set up
 properly, especially when using new devices and technologies, or reusing
 for the first time in a while. Anticipate questions that may come from
 the audience, and try to address the most important answers in the
 materials.</li>
 
-<li>**_Know the audience:_** Research the details of the event and design
+<li><b><i>Know the audience:</b></i>  Research the details of the event and design
 materials accordingly. For events where there will be repeated one on
 one or one to a small group, such as when manning a booth or a table,
 prepare an initial "engagement speech" appropriate for the venue.</li>
 
-<li>**_Engage the audience:_** Think about ways to draw in the anticipated
+<li><b><i>Engage the audience:</b></i>  Think about ways to draw in the anticipated
 audience. It may be worth doing something 'atypical' to get people's
 attention. For example, when manning a booth or a table at a larger
 event, don't underestimate the value of swag! Depending on the venue,
@@ -319,7 +319,7 @@ visual materials might include handouts, slide shows of use cases, even
 live demonstrations using the resources. Be sure to have additional
 information readily available to address more in-depth questions.</li>
 
-<li>**_Provide Contact Information:_** In all outreach events, as well as
+<li><b><i>Provide Contact Information:</b></i> In all outreach events, as well as
 materials used in education and training, it is essential to include
 information on where to get more information and ways to contact the
 presenter and/or other members of the ACI organization.</li>
