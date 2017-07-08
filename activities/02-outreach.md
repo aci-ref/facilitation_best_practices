@@ -3,6 +3,7 @@ layout: chapter
 title: Outreach
 prev: 01-getting-established
 next: 03-engagement
+icon : Ch3.png
 ---
 
 *Promoting awareness and understanding of the facilitator role and of
@@ -42,15 +43,18 @@ established or a newly formed ACI organization, outreach will be crucial
 to the growth and long term success of the organization. Outreach goals
 might include:
 
-* Describe how researchers can obtain access to ACI
-* Increase awareness about ACI capabilities
-* Discuss the applicability of available ACI solutions to research
-projects
-* Promote the existence and importance of Facilitators
-* Demonstrate aspects of facilitation
-* Highlight outcomes from the use of the ACI resources
-* Demonstrate the return on the investment in ACI resources
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+        <li>Describe how researchers can obtain access to ACI</li>
+<li>Increase awareness about ACI capabilities</li>
+<li>Discuss the applicability of available ACI solutions to research
+projects</li>
+<li>Promote the existence and importance of Facilitators</li>
+<li>Demonstrate aspects of facilitation</li>
+<li>Highlight outcomes from the use of the ACI resources</li>
+<li>Demonstrate the return on the investment in ACI resources</li>
+</ul>
+</div>
 There are a variety of outreach avenues, and Facilitators should make
 themselves aware of the ones available at their institution as well as
 determining the way to best leverage each depending on the situation and
@@ -88,12 +92,16 @@ may include the Chief Information Officer, Vice President or Provost of
 Research, deans, department chairs, and even off-campus entities.
 Information to communicate will include:
 
-* Use cases that highlight research efforts, especially those that have
-a high visibility both at the institution and beyond
-* Updates on available ACI resources
-* Summary data on consultations and training sessions provided to the
-research community
-* Usage of ACI, including measurements of growth and new use cases
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+        <li>Use cases that highlight research efforts, especially those that have
+a high visibility both at the institution and beyond</li>
+<li>Updates on available ACI resources</li>
+<li>Summary data on consultations and training sessions provided to the
+research community</li>
+<li>Usage of ACI, including measurements of growth and new use cases</li>
+</ul>
+</div>
 
 Finally, there may be opportunities to highlight the research successes
 and use cases of the ACI organization beyond the institution, such as at
@@ -138,7 +146,9 @@ that either provide ACI resources or that make use of ACI resources in
 their service catalog, and check with them about outreach opportunities.
 Some examples include:
 
-* At the University of Utah, the USTAR Center for Genomic Discovery
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+        <li> At the University of Utah, the USTAR Center for Genomic Discovery
 (UCGD) is supported by the campus’s centralized research computing
 provider (CHPC). When the UCGD had a workshop for users of their
 analysis pipeline, CHPC staff were invited to attend in order to allow
@@ -146,25 +156,27 @@ the users to meet the provider of computational resources behind the
 pipeline. Facilitators at events like this one sometimes present
 information on their ACI organization, but a  presence, alone, at these
 events allows direct and indirect users of ACI resources to put a name
-and face to the ACI provider and staff.
+and face to the ACI provider and staff.</li>
 
-* At the University of Hawaii, a research group that heavily utilizes
+<li>At the University of Hawaii, a research group that heavily utilizes
 the UH ITS Cyberinfrastructure resources is working on mapping the ocean
 biome invited the Cyberinfrastructure team to attend a research
 coordination network meeting being held at UH and co-hosted with NSF
 Earth-Cube. The Facilitators were able to gather information and network
 with additional UH and collaborating researchers during the event. These
 connections resulted in a partnership between the community and the ACI
-team in future grant projects.
+team in future grant projects.</li>
 
-* At the University of Wisconsin, Facilitators have met with the campus
+<li>At the University of Wisconsin, Facilitators have met with the campus
 group of research grant administrators to inform them of campus ACI
 services, so that these individuals can help researchers to connect with
 appropriate ACI resources and Facilitators when applying for funding.
 Beyond outreach events that researchers already attend, Facilitator-like
 individuals across a variety of ACI and non-ACI campus services
 regularly meet with each other to stay abreast of resources and
-facilitate the hand-off of researchers between service providers.
+facilitate the hand-off of researchers between service providers.</li>
+</ul>
+</div>
 
 Jump to: [top](#toc)
 
@@ -220,36 +232,40 @@ choice of event type depends greatly on the ACI organization and local
 culture. In this section we will present a number of events that have
 worked for the institutions involved in creating this document.
 
-* **Data Center Tours:** Tours of the ACI facility can serve as an
-opportunity to demonstrate to researchers the level of service provided.
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+        <li><b>Data Center Tours:</b> Tours of the ACI facility can serve as an
+opportunity to demonstrate to researchers the level of service provided.</li>
 
-* **CI (Cyberinfrastructure) Days:** These events can have different
+<li><b>CI (Cyberinfrastructure) Days:</b> These events can have different
 focuses, but the general idea is to highlighting cyberinfrastructure and
 show the critical role it plays in computational research. At these
 events users can showcase their research A related option is to focus
 the day on a specific aspect of CI. As an example Clemson recently had a
-GIS day to promote GIS resources and GIS based research on campus.
+GIS day to promote GIS resources and GIS based research on campus.</li>
 
-* **Seminar Series:** This type of outreach can be used to highlight
+<li><b>Seminar Series:</b> This type of outreach can be used to highlight
 uses of ACI resources and perhaps also lead to the collaborations
 between research efforts. The ACI organization can sponsor periodic
 seminars that can focus on research outcomes obtained with the use of
-their resources.
+their resources.</li>
 
-* **Vendor presentation:** These can be used to promote the availability
+<li><b>Vendor presentation:</b> These can be used to promote the availability
 of a specific tool or resource that the ACI provider already has or may
 acquire. A number of the vendors such as NVidia, Mathworks, and Ansys
-offer to to hold such events on campuses.
+offer to to hold such events on campuses.</li>
 
-* **ACI Resource Announcements**: An outreach session can be held in
+<li><b>ACI Resource Announcements:</b> An outreach session can be held in
 conjunction with the announcement a new ACI resource or a change in
 usage and accompanying policy, in order to inform the user base of
 upcoming changes and provide information on the   The Facilitators can
-add additional outreach about pre-existing resources as well.
+add additional outreach about pre-existing resources as well.</li>
 
-* **Annual User Meetings**: An annual meeting or open forum can be
+<li><b>Annual User Meetings:</b> An annual meeting or open forum can be
 scheduled to have a dialog with researchers on the status of the ACI
-organization and the resources and services provided.
+organization and the resources and services provided.</li>
+</ul>
+</div>
 
 <a name="advertising"></a>
 
@@ -282,29 +298,33 @@ organization and as such it is essential to make a good impression.
 Several points to keep in mind when preparing for the event and put
 together materials are:
 
-* **_Be prepared_**: Arrive early to make sure all is set up
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+        <li><b><i>Be prepared:</i></b>  Arrive early to make sure all is set up
 properly, especially when using new devices and technologies, or reusing
 for the first time in a while. Anticipate questions that may come from
 the audience, and try to address the most important answers in the
-materials.
+materials.</li>
 
-* **_Know the audience:_** Research the details of the event and design
+<li><b><i>Know the audience:</i></b>   Research the details of the event and design
 materials accordingly. For events where there will be repeated one on
 one or one to a small group, such as when manning a booth or a table,
-prepare an initial "engagement speech" appropriate for the venue.
+prepare an initial "engagement speech" appropriate for the venue.</li>
 
-* **_Engage the audience:_** Think about ways to draw in the anticipated
+<li><b><i>Engage the audience:</i></b>  Think about ways to draw in the anticipated
 audience. It may be worth doing something 'atypical' to get people's
 attention. For example, when manning a booth or a table at a larger
 event, don't underestimate the value of swag! Depending on the venue,
 visual materials might include handouts, slide shows of use cases, even
 live demonstrations using the resources. Be sure to have additional
-information readily available to address more in-depth questions.
+information readily available to address more in-depth questions.</li>
 
-* **_Provide Contact Information:_** In all outreach events, as well as
+<li><b><i>Provide Contact Information:</i></b> In all outreach events, as well as
 materials used in education and training, it is essential to include
 information on where to get more information and ways to contact the
-presenter and/or other members of the ACI organization.
+presenter and/or other members of the ACI organization.</li>
+</ul>
+</div>
 
 Jump to: [top](#toc)
 
@@ -434,11 +454,16 @@ As with other aspects of the Facilitator role, it is important to
 carefully track various outreach efforts. This involves keeping detailed
 records of the event, including information such as:
 
-* Date of event
-* Location
-* Type of event
-* Target audience
-* Number of attendees
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+        <li>Date of event</li>
+<li>Location</li>
+<li>Type of event</li>
+<li>Target audience</li>
+<li>Number of attendees</li>
+</ul>
+</div>
+
 
 The above information can be used when deciding the value of holding the
 same or similar events in the future, as well as being a source of
@@ -473,9 +498,14 @@ Finally, it is essential that the Facilitator take time to reflect upon
 the outreach activity and record their own observations on the event.
 Some questions to consider when doing this are:
 
-* Was the outreach activity appropriate for the target audience?
-* What part of the outreach did or did not work?
-* What should be changed before doing a similar event?
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+        <li>Was the outreach activity appropriate for the target audience?</li>
+<li>What part of the outreach did or did not work?</li>
+<li>What should be changed before doing a similar event?</li>
+</ul>
+</div>
+
 
 Along with the observations made by the Facilitator themselves, it is
 also helpful to have a colleague attend the event and offer the same
