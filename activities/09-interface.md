@@ -2,7 +2,8 @@
 layout: chapter
 title: Interfacing with ACI Resource Providers
 prev: 08-connections
-next: ./
+next: 10-assessment
+icon: Ch9.png
 ---
 
 <a name="toc"></a>
@@ -43,13 +44,17 @@ Facilitator’s immediate working group. More specifically, Facilitators
 will frequently collaborate with other personnel when pursuing a variety
 of facilitation and related activities, including:
 
-* implementing an ACI Plan
-* troubleshooting user issues
-* sharing technical and non-technical knowledge or experiences
-* coordinating with partners for education/training efforts
-* contributing to discussions on enhancements to ACI services and
-resources
-* and many more, as appropriate
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+        <li>implementing an ACI Plan</li>
+<li>troubleshooting user issues</li>
+<li>sharing technical and non-technical knowledge or experiences</li>
+<li>coordinating with partners for education/training efforts</li>
+<li>contributing to discussions on enhancements to ACI services and
+resources</li>
+<li>and many more, as appropriate</li>
+    </ul> 
+</div>
 
 Furthermore, and as an indirect benefit of having a rich interpersonal
 network for performing their own responsibilities, Facilitators may
@@ -121,12 +126,16 @@ research projects. Developing productive relationships with these
 individuals will be especially important for a number of facilitation
 activities, including:
 
-* describing systems capabilities and how to take advantage of them when
-working with researchers
-* implementing any technical measures when supporting a researcher’s ACI
-Plan with necessary systems adjustments
-* troubleshooting when assisting a researcher with an issue
-* guiding overall improvements to ACI resources managed by the group
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+        <li>describing systems capabilities and how to take advantage of them when
+working with researchers</li>
+<li>implementing any technical measures when supporting a researcher’s ACI
+Plan with necessary systems adjustments</li>
+<li>troubleshooting when assisting a researcher with an issue</li>
+<li>guiding overall improvements to ACI resources managed by the group</li>
+    </ul> 
+</div>
 
 Additional activities not covered here may also depend on interactions
 with coworkers, especially for ACI services outside of the specific
