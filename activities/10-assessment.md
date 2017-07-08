@@ -319,6 +319,7 @@ In this section we cover several assessment methodologies that can be used to me
 Surveys can be used to solicit invaluable user-reported information and feedback, to assess the impact of facilitation efforts and the satisfaction of the user base. It is good approach when there is a need to reach a large number of participants as well as when a set of clearly defined questions can be devised to gain the desired evaluation goal. Surveys are generally easy to generate and to administer, and can result in quantifiable assessments.
 
 Based on the experience and knowledge of ACI-REF Facilitators, we have composed a set of three surveys that can be used to gather information on the user base and their reflections on of ACI resources at key stages of interacting them. Below is a brief description of the intent of these three surveys.
+test *[Entrance Survey](../../appendix/10.1-EntranceSurvey)*
  
 <div class="bullet-box">
 <ol>
