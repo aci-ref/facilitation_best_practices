@@ -255,7 +255,7 @@ of a specific tool or resource that the ACI provider already has or may
 acquire. A number of the vendors such as NVidia, Mathworks, and Ansys
 offer to to hold such events on campuses.</li>
 
-<li><b>ACI Resource Announcements:/<b> An outreach session can be held in
+<li><b>ACI Resource Announcements:</b> An outreach session can be held in
 conjunction with the announcement a new ACI resource or a change in
 usage and accompanying policy, in order to inform the user base of
 upcoming changes and provide information on the   The Facilitators can
