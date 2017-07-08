@@ -141,7 +141,7 @@ Before discussing specific metrics and assessments types, we will cover the sali
 </div>
 
 <div class="visual-right-wrapped2">
-<a href="../blob/gh-pages/img/10-01.png" target="_blank">
+<a href="../../img/10-01.png" target="_blank">
 <img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-01.png" alt="kirkpatrick-model"></a>
 Figure 1. Levels of training evaluation in the Kirkpatrick model
 </div>
@@ -313,7 +313,7 @@ Assessments usually fall into one of three categories: pre-assessments, formativ
 
 In this section we cover several assessment methodologies that can be used to measure the usefulness of the ACI resources provided and the effectiveness of ACI facilitation efforts. 
 
-<a name="metrics"></a>
+<a name="surveys"></a>
 
 <h3>Surveys</h3>
 
