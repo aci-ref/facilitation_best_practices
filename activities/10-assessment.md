@@ -350,7 +350,8 @@ Testing is a traditional way to assess learner knowledge, and self-quizzes are a
 Quizzes can be used to determine if a student has an accurate working knowledge of a specific set of concepts. They are typically multiple choice, criterion-referenced (i.e., they employ a cutoff score to indicate whether or not a student has a sufficient understanding of the subject), and may include "distractor" answers based on commonly held misconceptions -- similar in design to a Concept Inventory[^5], although those are by definition more rigorously and scientifically developed. As mentioned above, the use of testing is typically the method of choice to measure the extent to which training participants learned the material that was presented during a training session.
 
 <div class="visual-right-wrapped2">
-<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-02.png" alt="questions">
+<a href="../../img/10-02.png" target="_blank">
+<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-02.png" alt="questions"></a>
 Figure 2. Example of assessment questions from a workshop quiz used by one of the ACI-REF institutions
 </div>
 An example of two questions that were used to assess ACI users' understanding of ACI policy are shown in Figure 2; the results can be used to provide feedback to the facilitator on the effectiveness of the information that new ACI users are given. For enhancing learning, feedback can be provided when an incorrect answer is selected.
@@ -404,7 +405,8 @@ Demographic knowledge of new ACI users can facilitate the development of appropr
 Tools for gathering resource usage metrics are often provided by the specific scheduler used to manage access to the resource, or are self-built scripts that mine data from the scheduler or system logs. There are also tools such as the National Science Foundation funded, open source, Open XDMod ([open.xdmod.org](http://open.xdmod.org/)) that have been developed to be run with different resource managers in order to provide a wide range of metrics, including resource utilization and resource performance. Open XDMod is currently being expanded to collect data on the impact on scholarship and research. The usage metrics can be combined with user based metrics and categorized by user, group, department, college.
 
 <div class="visual-right-wrapped2">
-<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-03.jpg" alt="resoource-usage">
+<a href="../../img/10-03.jpg" target="_blank">
+<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-03.jpg" alt="resoource-usage></a>
 Figure 3. An example of one way to present ACI research usage hours
 </div>
 Facilitators can use resource usage metrics to provide input from a user's perspective, in the decision making process about need for additional and/or different resources, and perhaps when to retire older resources. Metrics that include information about the type of resources used can help guide decisions about purchasing, for example, a longer wait time for jobs requesting the GPU nodes may indicate that it would be better to purchase additional GPU nodes, as opposed to additional CPU nodes. The metrics can also be used by individual groups to determine whether or not they are in need of adding additional owner nodes in a condominium model, or to determine the size of an allocation request. An in-depth analysis of usage may show that there is inefficient utilization of ACI resources and can be used to motivate targeted outreach and training to improve utilization. When combined with user base metrics, resource usage metrics can be analyzed to show usage distribution across research groups and departments, which can be used to identify individual professors, department chairs, and deans when looking for support for the ACI organization. The example shown in Figure 3 was produced using software that was created for ACI-REF reporting[^8].
@@ -640,7 +642,8 @@ Jump to: [top](#toc)
 <h1>Summary</h1>
 
 <div class="visual-right-wrapped2">
-<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-04.png" alt="facilitation-impact">
+<a href="../../img/10-04.png" target="_blank">
+<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-04.png" alt="facilitation-impact"></a>
 Figure 4. Bar charts showing aggregated facilitation adn user base metrics from 2016 ACI-REF NSF Annual Report
 </div>
 The metrics and assessments described in this document have been critical in the evaluation of the ACI-REF project, to compellingly demonstrate to its stakeholders (e.g., NSF, ACI organizations, campuses, community, etc.) that the project is meeting its stated goals. Per the project's reporting requirements, agreed upon assessments and metrics were be gathered and recorded for monthly reports. Monthly reports were then aggregated and submitted as part of a summative yearly funding report. An example of how these data were aggregated to show consultation and non-traditional user trends is shown in Figure 4.The six universities agreed upon a set of specific metrics to be collected to facilitate the collation of the results and enable trends to be identified across sites. These metrics, and they ways in which they were collected and analyzed, improved over the course of the grant through discussions, working groups, and surveys. 
