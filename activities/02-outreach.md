@@ -3,7 +3,7 @@ layout: chapter
 title: Outreach
 prev: 01-getting-established
 next: 03-engagement
-icon : Ch03.png
+icon : Ch3.png
 ---
 
 *Promoting awareness and understanding of the facilitator role and of
