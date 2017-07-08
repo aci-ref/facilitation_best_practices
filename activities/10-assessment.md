@@ -406,7 +406,7 @@ Tools for gathering resource usage metrics are often provided by the specific sc
 
 <div class="visual-right-wrapped2">
 <a href="../../img/10-03.jpg" target="_blank">
-<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-03.jpg" alt="resoource-usage></a>
+<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-03.jpg" alt="resource-usage"></a>
 Figure 3. An example of one way to present ACI research usage hours
 </div>
 Facilitators can use resource usage metrics to provide input from a user's perspective, in the decision making process about need for additional and/or different resources, and perhaps when to retire older resources. Metrics that include information about the type of resources used can help guide decisions about purchasing, for example, a longer wait time for jobs requesting the GPU nodes may indicate that it would be better to purchase additional GPU nodes, as opposed to additional CPU nodes. The metrics can also be used by individual groups to determine whether or not they are in need of adding additional owner nodes in a condominium model, or to determine the size of an allocation request. An in-depth analysis of usage may show that there is inefficient utilization of ACI resources and can be used to motivate targeted outreach and training to improve utilization. When combined with user base metrics, resource usage metrics can be analyzed to show usage distribution across research groups and departments, which can be used to identify individual professors, department chairs, and deans when looking for support for the ACI organization. The example shown in Figure 3 was produced using software that was created for ACI-REF reporting[^8].
