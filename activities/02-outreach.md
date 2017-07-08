@@ -300,18 +300,18 @@ together materials are:
 
 <div class="bullet-box">
     <ul class="bullet-list-square">
-        <li><b><i>Be prepared:</b></i>  Arrive early to make sure all is set up
+        <li><b><i>Be prepared:</i></b>  Arrive early to make sure all is set up
 properly, especially when using new devices and technologies, or reusing
 for the first time in a while. Anticipate questions that may come from
 the audience, and try to address the most important answers in the
 materials.</li>
 
-<li><b><i>Know the audience:</b></i>  Research the details of the event and design
+<li><b><i>Know the audience:</i></b>   Research the details of the event and design
 materials accordingly. For events where there will be repeated one on
 one or one to a small group, such as when manning a booth or a table,
 prepare an initial "engagement speech" appropriate for the venue.</li>
 
-<li><b><i>Engage the audience:</b></i>  Think about ways to draw in the anticipated
+<li><b><i>Engage the audience:</i></b>  Think about ways to draw in the anticipated
 audience. It may be worth doing something 'atypical' to get people's
 attention. For example, when manning a booth or a table at a larger
 event, don't underestimate the value of swag! Depending on the venue,
@@ -319,7 +319,7 @@ visual materials might include handouts, slide shows of use cases, even
 live demonstrations using the resources. Be sure to have additional
 information readily available to address more in-depth questions.</li>
 
-<li><b><i>Provide Contact Information:</b></i> In all outreach events, as well as
+<li><b><i>Provide Contact Information:</i></b> In all outreach events, as well as
 materials used in education and training, it is essential to include
 information on where to get more information and ways to contact the
 presenter and/or other members of the ACI organization.</li>
