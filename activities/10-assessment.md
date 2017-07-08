@@ -141,6 +141,7 @@ Before discussing specific metrics and assessments types, we will cover the sali
 </div>
 
 <div class="visual-right-wrapped2">
+<a href="https://github.com/aci-ref/facilitation_best_practices/blob/gh-pages/img/10-01.png" target="_blank">
 <img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-01.png" alt="kirkpatrick-model">
 Figure 1. Levels of training evaluation in the Kirkpatrick model
 </div>
