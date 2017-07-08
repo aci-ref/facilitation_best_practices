@@ -97,7 +97,7 @@ Information to communicate will include:
         <li>Use cases that highlight research efforts, especially those that have
 a high visibility both at the institution and beyond</li>
 <li>Updates on available ACI resources</li>
-<li>Summary data on consultations and training sessions provided to the</li>
+<li>Summary data on consultations and training sessions provided to the
 research community</li>
 <li>Usage of ACI, including measurements of growth and new use cases</li>
 </ul>
@@ -234,7 +234,7 @@ worked for the institutions involved in creating this document.
 
 <div class="bullet-box">
     <ul class="bullet-list-square">
-        <li>**Data Center Tours:</b> Tours of the ACI facility can serve as an
+        <li><b>Data Center Tours:</b> Tours of the ACI facility can serve as an
 opportunity to demonstrate to researchers the level of service provided.</li>
 
 <li><b>CI (Cyberinfrastructure) Days:</b> These events can have different
@@ -300,7 +300,7 @@ together materials are:
 
 <div class="bullet-box">
     <ul class="bullet-list-square">
-        <li>**_Be prepared:</b></i>  Arrive early to make sure all is set up
+        <li><b><i>Be prepared:</b></i>  Arrive early to make sure all is set up
 properly, especially when using new devices and technologies, or reusing
 for the first time in a while. Anticipate questions that may come from
 the audience, and try to address the most important answers in the
