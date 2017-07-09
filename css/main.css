@@ -425,7 +425,7 @@ header.header-post .post-heading .post-subheading {
   text-align: left;
   vertical-align: middle;
   padding: 20px 0;
-  margin-top: 30px"
+  margin-top: 30px
 }
 .bullet-list-square {
   list-style-type: square;
@@ -433,10 +433,7 @@ header.header-post .post-heading .post-subheading {
 .bullet-list-circle {
   list-style-type: circle;
 }
-.chapter-icon {
-  width: 200px
-  height: 200px
-}
+1
 
 .figure {
   float: right;
@@ -482,6 +479,64 @@ div.visual-right-wrapped2 {
   //margin: 5px 10px 5px 10px;
   float: right;
   width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+div.visual-right-wrapped3 {
+  //float: right;
+  //max-width: 200px;
+  //max-height: 200px;
+  // margin will give us space all around;
+  //margin: 5px 10px 5px 10px;
+  float: right;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+
+img.visual-right-wrapped3 {
+  float: right;
+  max-width: 93%;
+  max-height: 300px;
+  // margin will give us space all around;
+  margin: 5px 10px 5px 10px;
+}
+
+div.visual-right-wrapped4 {
+  float: right;
+  width: 40%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+img.visual-right-wrapped4 {
+  float: right;
+  max-width: 93%;
+  max-height: 400px;
+  // margin will give us space all around;
+  margin: 5px 10px 5px 10px;
+}
+
+div.visual-right-wrapped5 {
+  float: right;
+  width: 50%;
   text-align: center;
   font-style: italic;
   font-size: smaller;
