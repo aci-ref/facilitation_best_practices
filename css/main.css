@@ -508,7 +508,7 @@ div.visual-right-wrapped3 {
 
 img.visual-right-wrapped3 {
   float: right;
-  max-width: 300px;
+  max-width: 37%;
   max-height: 300px;
   // margin will give us space all around;
   margin: 5px 10px 5px 10px;
