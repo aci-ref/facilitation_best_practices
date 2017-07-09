@@ -3,6 +3,7 @@ layout: chapter
 title: Implementing a Researcher's ACI Plan
 prev: 03-engagement
 next: 05-assistance
+icon: Ch4.png
 ---
 
 <a name="toc"></a>

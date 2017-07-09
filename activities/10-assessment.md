@@ -2,7 +2,7 @@
 layout: chapter
 title: Metrics and Assessment
 prev: 09-interface
-next: 
+next: /
 icon: Ch10.png
 ---
 
@@ -141,7 +141,8 @@ Before discussing specific metrics and assessments types, we will cover the sali
 </div>
 
 <div class="visual-right-wrapped2">
-<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-01.png" alt="kirkpatrick-model">
+<a href="../../img/10-01.png" target="_blank">
+<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-01.png" alt="kirkpatrick-model"></a>
 Figure 1. Levels of training evaluation in the Kirkpatrick model
 </div>
 These four levels are often represented as a pyramid, as shown in Figure 1[^4], emphasising the manner in which the higher levels are built upon the foundation established by the previous levels -- and thereby emphasizing the importance of the quality of the training sessions. 
@@ -312,19 +313,19 @@ Assessments usually fall into one of three categories: pre-assessments, formativ
 
 In this section we cover several assessment methodologies that can be used to measure the usefulness of the ACI resources provided and the effectiveness of ACI facilitation efforts. 
 
-<a name="metrics"></a>
+<a name="surveys"></a>
 
 <h3>Surveys</h3>
 
 Surveys can be used to solicit invaluable user-reported information and feedback, to assess the impact of facilitation efforts and the satisfaction of the user base. It is good approach when there is a need to reach a large number of participants as well as when a set of clearly defined questions can be devised to gain the desired evaluation goal. Surveys are generally easy to generate and to administer, and can result in quantifiable assessments.
 
-Based on the experience and knowledge of ACI-REF Facilitators, we have composed a set of three surveys that can be used to gather information on the user base and their reflections on of ACI resources at key stages of interacting them. Below is a brief description of the intent of these three surveys.
+Based on the experience and knowledge of ACI-REF Facilitators, we have composed a set of three surveys that can be used to gather information on the user base and their reflections on of ACI resources at key stages of interacting them. Threse three surveys, along with suggested questions are found in the appendix: *[Entrance Survey](../../appendix/10.1-EntranceSurvey)*, *[Engagement Evaluation](../../appendix/10.2-EngagementEvaluation)*, and *[Exit Survey](../../appendix/10.3-ExitSurvey)*. Below is a brief description of the intent of these three surveys: 
  
 <div class="bullet-box">
 <ol>
-<li>The *[Entrance Survey](../../appendix/10.1-EntranceSurvey)*  is designed to be given at account creation or introductory training (if required for resource use) to all users of the ACI resource to gather demographics and previous experience upon entrance. It also can be used to gather information on the user's researching computing needs.</li>
-<li>The *[Engagement Evaluation](../../appendix/10.2-EngagementEvaluation)*  can be used in multiple ways. It can be used as a tool to track specific users in a standardized manner, but is not necessarily designed to be used for each engagement. It can be used as a mechanism to measure the impact of facilitation, as well as to obtain feedback to provide the Facilitator so that they can improve future engagements. </li>
-<li>The *[Engagement Evaluation](../../appendix/10.2-ExitSurvey)* is designed to measure the effectiveness of the ACI organization offerings on a per user basis and again is designed to be given to all users of the ACI resource who had one or more significant engagements with a Facilitator. We acknowledge that not all ACI resources or institutions may be notified when a user leaves the institution or no longer needs access to resources due to completion of a project. Therefore this survey can be utilized on a yearly or other periodic basis.  </li>
+<li>The <i><b>Entrance Survey</b></i> is designed to be given at account creation or introductory training (if required for resource use) to all users of the ACI resource to gather demographics and previous experience upon entrance. It also can be used to gather information on the user's researching computing needs.</li>
+<li>The <i><b>Engagement Evaluation</b></i>  can be used in multiple ways. It can be used as a tool to track specific users in a standardized manner, but is not necessarily designed to be used for each engagement. It can be used as a mechanism to measure the impact of facilitation, as well as to obtain feedback to provide the Facilitator so that they can improve future engagements. </li>
+<li>The <i><b>Exit Survey</b></i> is designed to measure the effectiveness of the ACI organization offerings on a per user basis and again is designed to be given to all users of the ACI resource who had one or more significant engagements with a Facilitator. We acknowledge that not all ACI resources or institutions may be notified when a user leaves the institution or no longer needs access to resources due to completion of a project. Therefore this survey can be utilized on a yearly or other periodic basis.  </li>
 </ol>
 </div>
 
@@ -349,7 +350,8 @@ Testing is a traditional way to assess learner knowledge, and self-quizzes are a
 Quizzes can be used to determine if a student has an accurate working knowledge of a specific set of concepts. They are typically multiple choice, criterion-referenced (i.e., they employ a cutoff score to indicate whether or not a student has a sufficient understanding of the subject), and may include "distractor" answers based on commonly held misconceptions -- similar in design to a Concept Inventory[^5], although those are by definition more rigorously and scientifically developed. As mentioned above, the use of testing is typically the method of choice to measure the extent to which training participants learned the material that was presented during a training session.
 
 <div class="visual-right-wrapped2">
-<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-02.png" alt="questions">
+<a href="../../img/10-02.png" target="_blank">
+<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-02.png" alt="questions"></a>
 Figure 2. Example of assessment questions from a workshop quiz used by one of the ACI-REF institutions
 </div>
 An example of two questions that were used to assess ACI users' understanding of ACI policy are shown in Figure 2; the results can be used to provide feedback to the facilitator on the effectiveness of the information that new ACI users are given. For enhancing learning, feedback can be provided when an incorrect answer is selected.
@@ -403,7 +405,8 @@ Demographic knowledge of new ACI users can facilitate the development of appropr
 Tools for gathering resource usage metrics are often provided by the specific scheduler used to manage access to the resource, or are self-built scripts that mine data from the scheduler or system logs. There are also tools such as the National Science Foundation funded, open source, Open XDMod ([open.xdmod.org](http://open.xdmod.org/)) that have been developed to be run with different resource managers in order to provide a wide range of metrics, including resource utilization and resource performance. Open XDMod is currently being expanded to collect data on the impact on scholarship and research. The usage metrics can be combined with user based metrics and categorized by user, group, department, college.
 
 <div class="visual-right-wrapped2">
-<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-03.jpg" alt="resoource-usage">
+<a href="../../img/10-03.jpg" target="_blank">
+<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-03.jpg" alt="resource-usage"></a>
 Figure 3. An example of one way to present ACI research usage hours
 </div>
 Facilitators can use resource usage metrics to provide input from a user's perspective, in the decision making process about need for additional and/or different resources, and perhaps when to retire older resources. Metrics that include information about the type of resources used can help guide decisions about purchasing, for example, a longer wait time for jobs requesting the GPU nodes may indicate that it would be better to purchase additional GPU nodes, as opposed to additional CPU nodes. The metrics can also be used by individual groups to determine whether or not they are in need of adding additional owner nodes in a condominium model, or to determine the size of an allocation request. An in-depth analysis of usage may show that there is inefficient utilization of ACI resources and can be used to motivate targeted outreach and training to improve utilization. When combined with user base metrics, resource usage metrics can be analyzed to show usage distribution across research groups and departments, which can be used to identify individual professors, department chairs, and deans when looking for support for the ACI organization. The example shown in Figure 3 was produced using software that was created for ACI-REF reporting[^8].
@@ -639,7 +642,8 @@ Jump to: [top](#toc)
 <h1>Summary</h1>
 
 <div class="visual-right-wrapped2">
-<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-04.png" alt="facilitation-impact">
+<a href="../../img/10-04.png" target="_blank">
+<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-04.png" alt="facilitation-impact"></a>
 Figure 4. Bar charts showing aggregated facilitation adn user base metrics from 2016 ACI-REF NSF Annual Report
 </div>
 The metrics and assessments described in this document have been critical in the evaluation of the ACI-REF project, to compellingly demonstrate to its stakeholders (e.g., NSF, ACI organizations, campuses, community, etc.) that the project is meeting its stated goals. Per the project's reporting requirements, agreed upon assessments and metrics were be gathered and recorded for monthly reports. Monthly reports were then aggregated and submitted as part of a summative yearly funding report. An example of how these data were aggregated to show consultation and non-traditional user trends is shown in Figure 4.The six universities agreed upon a set of specific metrics to be collected to facilitate the collation of the results and enable trends to be identified across sites. These metrics, and they ways in which they were collected and analyzed, improved over the course of the grant through discussions, working groups, and surveys. 

@@ -3,6 +3,7 @@ layout: chapter
 title: Engagement with Researchers
 prev: 02-outreach
 next: 04-aci_plan
+icon: Ch3.png
 ---
 
 *One-on-one and small-group meetings to understand researcher goals and
@@ -434,7 +435,7 @@ institution (i.e. web accessible)? In some of the current ACI-REF
 institutions, this information is web accessible only with SSL
 encryption and role-based access in place. Consult with your campus IT
 or security team if you are unsure.</li>
-</ul>
+	</ul>
 </div>
 
 Remember, one of the overall goals of creating this tracking system is
