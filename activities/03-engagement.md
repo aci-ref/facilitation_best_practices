@@ -3,6 +3,7 @@ layout: chapter
 title: Engagement with Researchers
 prev: 02-outreach
 next: 04-aci_plan
+icon: Ch3.png
 ---
 
 *One-on-one and small-group meetings to understand researcher goals and
