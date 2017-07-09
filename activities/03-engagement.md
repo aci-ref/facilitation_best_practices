@@ -3,6 +3,7 @@ layout: chapter
 title: Engagement with Researchers
 prev: 02-outreach
 next: 04-aci_plan
+icon: Ch3.png
 ---
 
 *One-on-one and small-group meetings to understand researcher goals and
@@ -400,7 +401,7 @@ keep in mind when developing these processes and procedures are:
     <ul class="bullet-list-square">
 <li>Recognize how to reuse your solutions. Many times, the solutions for
 one researcher’s problem may be applicable for others. Being able to
-locate, search, and browse previous approaches is useful.
+locate, search, and browse previous approaches is useful.</li>
 <li>Envision how the documentation from your engagement meeting will
 transition to action items and future interactions. For example: </li>
 	<ul class="bullet-list-circle">
@@ -412,16 +413,16 @@ transition to action items and future interactions. For example: </li>
 group. However you are tracking interactions, you may want to group
 engagements and assistance with individual researchers in the context of
 the central PI or group. This allows everything to be surveyed at once
-in the future.
+in the future.</li>
 <li>Keep email correspondence together, as part of the engagement
-documentation.
+documentation.</li>
 <li>Establish methods by which you can ensure balance between the effort
 used in documentation and the efforts following implementation of an ACI
 plan. Especially for complex use cases, there can be a tendency to go
-overboard.   
+overboard.</li>   
 <li>Obtain management buy-in on record keeping procedures. If you have to
 devote a portion of time to documenting this information, ensure that
-you can justify the effort for your procedures.
+you can justify the effort for your procedures.</li>
 <li>Ensure compliance with your institutional policies in regard to
 security and user information. Utilize your institution’s best practices
 on where information about researchers is stored and how it is accessed.
@@ -429,7 +430,7 @@ For instance, can/should it be accessible from only within the
 institution (i.e. web accessible)? In some of the current ACI-REF
 institutions, this information is web accessible only with SSL
 encryption and role-based access in place. Consult with your campus IT
-or security team if you are unsure.
+or security team if you are unsure.</li>
 	</ul>
 </div>
 Remember, one of the overall goals of creating this tracking system is

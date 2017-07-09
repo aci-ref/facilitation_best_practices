@@ -3,6 +3,7 @@ layout: chapter
 title: Enhancing ACI Knowledge
 prev: 06-education
 next: 08-connections
+icon: Ch7.png
 ---
 
 <a name="toc"></a>
