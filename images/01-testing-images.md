@@ -140,7 +140,7 @@ ACI team be involved in the hiring process.
 # Understanding the Facilitator Role
 
 <div class="visual-right-wrapped4">
-<a href="https://scholar.harvard.edu/bobfreeman" target="_blank"><img class="visual-right-wrapped3" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching2"></a>A REF leading an HPC Intro class
+<a href="https://scholar.harvard.edu/bobfreeman" target="_blank"><img class="visual-right-wrapped3" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching2"></a><br>A REF leading an HPC Intro class
 </div>
 Once a person has been hired to serve as a Facilitator, a joint effort
 between the Facilitator and the hiring manager to start to define the
