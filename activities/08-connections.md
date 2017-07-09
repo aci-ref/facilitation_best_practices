@@ -3,6 +3,7 @@ layout: chapter
 title: Facilitating Researcher Connections
 prev: 07-aci_knowledge
 next: 09-interface
+icon: Ch8.png
 ---
 
 <a name="toc"></a>
@@ -134,14 +135,17 @@ are much less likely to already know about one another. Examples of
 methods that cross-cut across disciplines and that have been observed in
 disparate ACI-using groups include:
 
-* Markov-chain Monte Carlo (MCMC) simulations - observed in the social
-sciences, statistics, geosciences, engineering, and beyond 
-* solving partial differential equations (PDEs) - across the physical sciences
-* natural language processing (NLP) - observed in the humanities,
-sociology, psychology, geosciences, and computer sciences 
-* RNAseq analysis - observed across various life and medical sciences 
-* “open research”/"open science” practices - observed across domains
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+<li>Markov-chain Monte Carlo (MCMC) simulations - observed in the social
+sciences, statistics, geosciences, engineering, and beyond </li>
+<li>solving partial differential equations (PDEs) - across the physical sciences</li>
+<li>natural language processing (NLP) - observed in the humanities,
+sociology, psychology, geosciences, and computer sciences </li>
+<li>RNAseq analysis - observed across various life and medical sciences </li>
+<li>“open research”/"open science” practices - observed across domains</li>
+</ul>
+</div>
 We will discuss the facilitation of multi-member communities, which have
 been most successful in the case of bringing somewhat disparate
 researchers together around similar practices that reach across domains,
