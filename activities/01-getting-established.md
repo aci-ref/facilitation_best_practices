@@ -3,6 +3,7 @@ layout: chapter
 title: Getting Established
 prev: 
 next: 02-outreach
+icon: Ch1.png
 ---
 
 *Defining one’s role, including expectations of institutional support
@@ -76,12 +77,15 @@ organization would have considered a number of things to ensure success
 for all stakeholders. To guide the hiring process and help define the
 position, they may have addressed the following questions:
 
-* What gaps exist in the expertise of the existing team members? 
-* What are most important tasks/responsibilities of the new position? 
-* What is the required skill set necessary to perform these tasks? 
-* What educational background and experience are important? 
-* Is there specific domain expertise that will be important for this facilitator?
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+        <li>What gaps exist in the expertise of the existing team members? </li>
+<li>What are most important tasks/responsibilities of the new position? </li>
+<li>What is the required skill set necessary to perform these tasks? </li>
+<li>What educational background and experience are important? </li>
+<li>Is there specific domain expertise that will be important for this facilitator?</li>
+</ul>
+</div>
 The answers to these questions would have helped prioritize expectations
 for the new position and helped guide the hiring process, including how
 to reach an appropriate candidate pool.
@@ -106,17 +110,21 @@ Support from the user base is also critical. The ACI
 organization can begin to understand the climate of facilitation at
 their institution by asking the following questions:
 
-* Are users aware of facilitators and the facilitation services offered by
-the ACI organization? 
-* Do ACI users see the value of facilitation in
-their day-to-day use of the ACI infrastructure? 
-* What expectations might
-ACI users have in terms of the services provided by the ACI organization? 
-* Is there a culture of self-reliance – even if only
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+        <li>Are users aware of facilitators and the facilitation services offered by
+the ACI organization? </li>
+<li>Do ACI users see the value of facilitation in
+their day-to-day use of the ACI infrastructure? </li>
+<li>What expectations might
+ACI users have in terms of the services provided by the ACI organization? </li>
+<li>Is there a culture of self-reliance – even if only
 necessary due to lack of this type of support – that might preclude the
 user base from fully embracing the new Facilitator, or is there a
 collaborative culture in which researchers work with the ACI team to
-explore solutions to problems?
+explore solutions to problems?</li>
+</ul>
+</div>
 
 <a name="location"></a>
 
@@ -236,16 +244,21 @@ ACI organization, as well as knowing how to use these resources in order
 to be able to effectively provide assistance.  Specific knowledge
 includes:
 
-* Details about the compute hardware 
-	* what compute resources are available
-	* what file systems exist 
-	* what is the networking infrastructure 
-	* what operating system(s) are supported
-* Details on the batch scheduler and batch policies that are being used 
-* What services are provided 
-* Existing policies and procedures for use of the resources 
-* Tools being used for user provisioning and tracking usage
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+   <li>Details about the compute hardware </li>
+    <ul class="bullet-list-circle">
+	<li>what compute resources are available</li>
+	<li>what file systems exist </li>
+	<li>what is the networking infrastructure </li>
+	<li>what operating system(s) are supported</li>
+	</ul>
+<li>Details on the batch scheduler and batch policies that are being used </li>
+<li>What services are provided </li>
+<li>Existing policies and procedures for use of the resources </li>
+<li>Tools being used for user provisioning and tracking usage</li>
+</ul>
+</div>
 For more on this topic, see the chapter on *[Assisting Researchers in the
 Use of ACI Resources](../05-assistance)*.
 
@@ -332,13 +345,17 @@ is to prepare materials to introduce the Facilitator and enable them to
 start to engage with the user base. This might include doing the
 following:
 
-* requisitioning business cards 
-* developing an online presence (on the ACI website/social media stream) 
-* introducing yourself in a newsletter article 
-* giving a presentation to administrators/staff 
-* giving a seminar to users 
-* sending an announcement to a mailing lists 
-* posting an announcement on the institution’s website
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+        <li>requisitioning business cards </li>
+ <li>developing an online presence (on the ACI website/social media stream) </li>
+ <li>introducing yourself in a newsletter article </li>
+ <li>giving a presentation to administrators/staff </li>
+ <li>giving a seminar to users </li>
+ <li>sending an announcement to a mailing lists </li>
+ <li>posting an announcement on the institution’s website </li>
+</ul>
+</div>
 
 Some of these activities may require preparing new materials or
 modifying existing ones in collaboration with the ACI team or
