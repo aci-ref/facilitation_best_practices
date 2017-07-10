@@ -171,10 +171,13 @@ each of the below *[Major Activities of Facilitation](../activities)*.
 
 <table>
     <tr>
-        <td style="width:40%;">
-            <h4><a href="{{site.baseurl}}/activities/01-getting-established/"><img class="chapter-icon" src="{{site.baseurl}}/images/Ch1.png" style="width:85px;height:85px;" />Getting Established</a></h4>
+        <td style="width:15%;">
+            <img class="chapter-icon" src="{{site.baseurl}}/images/Ch1.png" style="width:85px;height:85px;" />
         </td>
-        <td style="width:60%;">
+        <td style="width:30%;">
+            <h4><a href="{{site.baseurl}}/activities/01-getting-established/">Getting Established</a></h4>
+        </td>
+        <td style="width:55%;">
             <i>Defining one’s role, including expectations of institutional support 
             required for effective facilitation. Training and education of new 
             facilitators. Establishing initial connections with other staff.</i>
@@ -266,6 +269,8 @@ each of the below *[Major Activities of Facilitation](../activities)*.
             enhancement and optimization of ACI Resources.</i>
         </td>
     </tr>
+    <tr>
+        <td>
         <h4><a href="{{site.baseurl}}/activities/10-assessment/"><img class="chapter-icon" src="{{site.baseurl}}/images/Ch10.png" style="width:85px;height:85px;" />Metrics and Assessment</a></h4>
         </td>
         <td>
