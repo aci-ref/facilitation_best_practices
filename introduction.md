@@ -171,10 +171,10 @@ each of the below *[Major Activities of Facilitation](../activities)*.
 
 <table>
     <tr>
-        <td style="width:15%;">
+        <td style="width:10%;">
             <img class="chapter-icon" src="{{site.baseurl}}/images/Ch1.png" style="width:85px;height:85px;" />
         </td>
-        <td style="width:30%;">
+        <td style="width:30%;text-align:left">
             <h4><a href="{{site.baseurl}}/activities/01-getting-established/">Getting Established</a></h4>
         </td>
         <td style="width:55%;">
@@ -183,6 +183,8 @@ each of the below *[Major Activities of Facilitation](../activities)*.
             facilitators. Establishing initial connections with other staff.</i>
         </td>
     </tr>
+</table>
+<table>
     <tr>
         <td>
             <h4><a href="{{site.baseurl}}/activities/02-outreach/"><img class="chapter-icon" src="{{site.baseurl}}/images/Ch2.png" style="width:85px;height:85px;" />Outreach</a></h4>
