@@ -741,7 +741,7 @@ researchers:
 <li>require the same specific features of an ACI resource (or its
 configuration)</li>
 </ul>
-</div?
+</div>
 Learning from peers can be thought of as simply another form of external
 learning resource, not produced or maintained by the Facilitator or
 other ACI staff. Approaches for connecting researchers in order to
