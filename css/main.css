@@ -420,6 +420,12 @@ header.header-post .post-heading .post-subheading {
 }
 
 /* -----Custom additions for images & other visuals ------- */
+
+.chapter-icon {
+  width: 85px
+  height: 85px
+}
+
 .bullet-box {
   background-color: #EBF5FB;
   text-align: left;
