@@ -210,10 +210,12 @@ each of the below *[Major Activities of Facilitation](../activities)*.
             <h4><a href="{{site.baseurl}}/activities/03-engagement/">Engagement with Researchers</a></h4>
         </td>
         <td style="width:55%;">
+            <br>
             <i>One-on-one and small-group meetings to understand researcher goals and
             practices, recommend appropriate ACI resources, identify potential
             knowledge gaps, and develop an overall plan for utilizing ACI resources.
             Record-keeping of engagements and following up.</i>
+            <br>
         </td>
     </tr>
     <tr>
