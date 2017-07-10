@@ -226,10 +226,12 @@ each of the below *[Major Activities of Facilitation](../activities)*.
             <h4><a href="{{site.baseurl}}/activities/04-aci_plan/">Implementing an ACI Plan</a></h4>
         </td>
         <td style="width:55%;">
+            <br>
             <i>Working with researchers to establish longer-term paths for the use of
             ACI capabilities for specific research projects, as needed. Following-up
             with researchers proceeding through a plan. Working with ACI resource
             providers for expertise and to accommodate necessary technical solutions.</i>
+            <br>
         </td>
     </tr>
     <tr>
@@ -240,10 +242,12 @@ each of the below *[Major Activities of Facilitation](../activities)*.
             <h4><a href="{{site.baseurl}}/activities/05-assistance/">Assisting Researchers in the Use of ACI Resources</a></h4>
         </td>
         <td style="width:55%;">
+            <br>
             <i>Establishing proactive and reactive support routes for researchers who
             use ACI resources, including standards of response. Promoting learning
             and user empowerment in providing support for user-reported or observed
             issues. Leveraging external technical expertise.</i>
+            <br>
         </td>
     </tr>
     <tr>
@@ -254,11 +258,13 @@ each of the below *[Major Activities of Facilitation](../activities)*.
             <h4><a href="{{site.baseurl}}/activities/06-education/">Education and Training of Researchers</a></h4>
         </td>
         <td style="width:55%;">
+            <br>
             <i>Identifying and leveraging existing learning resources for ACI topics
             and resources. Developing novel materials for in-person learning and
             self-directed learning, including both education (knowledge/awareness)
             and training (skills/practice). Leveraging established practices for
             effective teaching.  </i>
+            <br>
         </td>
     </tr>
     <tr>
@@ -269,8 +275,10 @@ each of the below *[Major Activities of Facilitation](../activities)*.
             <h4><a href="{{site.baseurl}}/activities/07-aci_knowledge/">Enhancing ACI Knowledge</a></h4>
         </td>
         <td style="width:55%;">
+            <br>
             <i>Proactively and reactively identifying available ACI resources.
             Gaining necessary knowledge and skills relevant to ACI resources.</i>
+            <br>
         </td>
     </tr>
     <tr>
@@ -281,9 +289,11 @@ each of the below *[Major Activities of Facilitation](../activities)*.
             <h4><a href="{{site.baseurl}}/activities/08-connections/">Facilitating Researcher Connections</a></h4>
         </td>
         <td style="width:55%;">
+            <br>
             <i>Promoting opportunities for peer-learning between researchers. Aiding in
             the formation of informal and formal collaborations. Liaising and
             matchmaking between users and ACI resource providers, where appropriate.</i>
+            <br>
         </td>
     </tr>
     <tr>
@@ -294,10 +304,12 @@ each of the below *[Major Activities of Facilitation](../activities)*.
             <h4><a href="{{site.baseurl}}/activities/09-interface/">Interfacing with ACI Resource Providers</a></h4>
         </td>
         <td style="width:55%;">
+            <br>
             <i>Building working relationships with other ACI staff. Liaising in the
             exchange of expertise between ACI resource staff, including intra- and
             inter-institutional connections. Translating user feedback to inform the
             enhancement and optimization of ACI Resources.</i>
+            <br>
         </td>
     </tr>
     <tr>
@@ -308,11 +320,13 @@ each of the below *[Major Activities of Facilitation](../activities)*.
             <h4><a href="{{site.baseurl}}/activities/10-assessment/">Metrics and Assessment</a></h4>
         </td>
         <td style="width:55%;">
+            <br>
             <i>Continuous assessment of the effectiveness of facilitation practices, 
             including the evaluation of facilitation impact as tied to user feedback, 
             as well as evaluating changes in the patterns of ACI utilization by 
             different users and groups, changes in user demographics over time, etc., 
             to improve and remodel facilitation efforts and to assess overall impact. </i>
+            <br>
         </td>
     </tr>    
 </table>
