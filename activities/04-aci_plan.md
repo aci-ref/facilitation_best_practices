@@ -51,6 +51,7 @@ discussed along with some implementation best practices.
 
 An ACI plan provides a framework to incorporate ACI resources into a
 researcher's workflow.  To this end, an ACI plan serves to:
+
 <div class="bullet-box">
     <ul class="bullet-list-square">
         <li>Capture the requirements for a researcher’s utilization of ACI
@@ -64,6 +65,7 @@ for a specific ACI-dependent project</li>
         <li>Capture a timeline for major milestones</li>
    </ul>
 </div>
+
 ACI plans can be formal, in the form a defined document with multiple
 sections and details, or can be informal, as in many cases, involving
 only  email (perhaps ticket-based) correspondence to captures details
