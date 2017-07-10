@@ -183,13 +183,15 @@ each of the below *[Major Activities of Facilitation](../activities)*.
             facilitators. Establishing initial connections with other staff.</i>
         </td>
     </tr>
-</table>
-<table>
+    
     <tr>
-        <td>
-            <h4><a href="{{site.baseurl}}/activities/02-outreach/"><img class="chapter-icon" src="{{site.baseurl}}/images/Ch2.png" style="width:85px;height:85px;" />Outreach</a></h4>
+        <td style="width:10%;">
+            <img class="chapter-icon" src="{{site.baseurl}}/images/Ch2.png" style="width:85px;height:85px;" />
         </td>
-        <td>
+        <td style="width:30%;text-align:left">
+            <h4><a href="{{site.baseurl}}/activities/02-outreach/">Outreach</a></h4>
+        </td>
+        <td style="width:55%;">
             <i>Promoting awareness and understanding of the facilitator role and of ACI
             resources to potential users of ACI resources and to various
             administrators, including entities who exist within and external to your
@@ -197,10 +199,13 @@ each of the below *[Major Activities of Facilitation](../activities)*.
         </td>
     </tr>
     <tr>
-        <td>
-            <h4><a href="{{site.baseurl}}/activities/03-engagement/"><img class="chapter-icon" src="{{site.baseurl}}/images/Ch3.png" style="width:85px;height:85px;" />Engagement with Researchers</a></h4>
+        <td style="width:10%;">
+            <img class="chapter-icon" src="{{site.baseurl}}/images/Ch3.png" style="width:85px;height:85px;" />
         </td>
-        <td>
+        <td style="width:30%;text-align:left">
+            <h4><a href="{{site.baseurl}}/activities/03-engagement/">Engagement with Researchers</a></h4>
+        </td>
+        <td style="width:55%;">
             <i>One-on-one and small-group meetings to understand researcher goals and
             practices, recommend appropriate ACI resources, identify potential
             knowledge gaps, and develop an overall plan for utilizing ACI resources.
@@ -208,10 +213,13 @@ each of the below *[Major Activities of Facilitation](../activities)*.
         </td>
     </tr>
     <tr>
-        <td>
-            <h4><a href="{{site.baseurl}}/activities/04-aci_plan/"><img class="chapter-icon" src="{{site.baseurl}}/images/Ch4.png" style="width:85px;height:85px;" />Implementing an ACI Plan</a></h4>
+        <td style="width:10%;">
+            <img class="chapter-icon" src="{{site.baseurl}}/images/Ch4.png" style="width:85px;height:85px;" />
         </td>
-        <td>
+        <td style="width:30%;text-align:left">
+            <h4><a href="{{site.baseurl}}/activities/04-aci_plan/">Implementing an ACI Plan</a></h4>
+        </td>
+        <td style="width:55%;">
             <i>Working with researchers to establish longer-term paths for the use of
             ACI capabilities for specific research projects, as needed. Following-up
             with researchers proceeding through a plan. Working with ACI resource
@@ -219,10 +227,13 @@ each of the below *[Major Activities of Facilitation](../activities)*.
         </td>
     </tr>
     <tr>
-        <td>
-            <h4><a href="{{site.baseurl}}/activities/05-assistance/"><img class="chapter-icon" src="{{site.baseurl}}/images/Ch5.png" style="width:85px;height:85px;" />Assisting Researchers in the Use of ACI Resources</a></h4>
+        <td style="width:10%;">
+            <img class="chapter-icon" src="{{site.baseurl}}/images/Ch5.png" style="width:85px;height:85px;" />
         </td>
-        <td>
+        <td style="width:30%;text-align:left">
+            <h4><a href="{{site.baseurl}}/activities/05-assistance/">Assisting Researchers in the Use of ACI Resources</a></h4>
+        </td>
+        <td style="width:55%;">
             <i>Establishing proactive and reactive support routes for researchers who
             use ACI resources, including standards of response. Promoting learning
             and user empowerment in providing support for user-reported or observed
@@ -230,10 +241,13 @@ each of the below *[Major Activities of Facilitation](../activities)*.
         </td>
     </tr>
     <tr>
-        <td>
-            <h4><a href="{{site.baseurl}}/activities/06-education/"><img class="chapter-icon" src="{{site.baseurl}}/images/Ch6.png" style="width:85px;height:85px;" />Education and Training of Researchers</a></h4>
+        <td style="width:10%;">
+            <img class="chapter-icon" src="{{site.baseurl}}/images/Ch6.png" style="width:85px;height:85px;" />
         </td>
-        <td>
+        <td style="width:30%;text-align:left">
+            <h4><a href="{{site.baseurl}}/activities/06-education/">Education and Training of Researchers</a></h4>
+        </td>
+        <td style="width:55%;">
             <i>Identifying and leveraging existing learning resources for ACI topics
             and resources. Developing novel materials for in-person learning and
             self-directed learning, including both education (knowledge/awareness)
@@ -242,29 +256,38 @@ each of the below *[Major Activities of Facilitation](../activities)*.
         </td>
     </tr>
     <tr>
-        <td>
-            <h4><a href="{{site.baseurl}}/activities/07-aci_knowledge/"><img class="chapter-icon" src="{{site.baseurl}}/images/Ch7.png" style="width:85px;height:85px;" />Enhancing ACI Knowledge</a></h4>
+        <td style="width:10%;">
+            <img class="chapter-icon" src="{{site.baseurl}}/images/Ch7.png" style="width:85px;height:85px;" />
         </td>
-        <td>
+        <td style="width:30%;text-align:left">
+            <h4><a href="{{site.baseurl}}/activities/07-aci_knowledge/">Enhancing ACI Knowledge</a></h4>
+        </td>
+        <td style="width:55%;">
             <i>Proactively and reactively identifying available ACI resources.
             Gaining necessary knowledge and skills relevant to ACI resources.</i>
         </td>
     </tr>
     <tr>
-        <td>
-            <h4><a href="{{site.baseurl}}/activities/08-connections/"><img class="chapter-icon" src="{{site.baseurl}}/images/Ch8.png" style="width:85px;height:85px;" />Facilitating Researcher Connections</a></h4>
+        <td style="width:10%;">
+            <img class="chapter-icon" src="{{site.baseurl}}/images/Ch8.png" style="width:85px;height:85px;" />
         </td>
-        <td>
+        <td style="width:30%;text-align:left">
+            <h4><a href="{{site.baseurl}}/activities/08-connections/">Facilitating Researcher Connections</a></h4>
+        </td>
+        <td style="width:55%;">
             <i>Promoting opportunities for peer-learning between researchers. Aiding in
             the formation of informal and formal collaborations. Liaising and
             matchmaking between users and ACI resource providers, where appropriate.</i>
         </td>
     </tr>
     <tr>
-        <td>
-            <h4><a href="{{site.baseurl}}/activities/09-interface/"><img class="chapter-icon" src="{{site.baseurl}}/images/Ch9.png" style="width:85px;height:85px;" />Interfacing with ACI Resource Providers</a></h4>
+        <td style="width:10%;">
+            <img class="chapter-icon" src="{{site.baseurl}}/images/Ch9.png" style="width:85px;height:85px;" />
         </td>
-        <td>
+        <td style="width:30%;text-align:left">
+            <h4><a href="{{site.baseurl}}/activities/09-interface/">Interfacing with ACI Resource Providers</a></h4>
+        </td>
+        <td style="width:55%;">
             <i>Building working relationships with other ACI staff. Liaising in the
             exchange of expertise between ACI resource staff, including intra- and
             inter-institutional connections. Translating user feedback to inform the
@@ -272,17 +295,20 @@ each of the below *[Major Activities of Facilitation](../activities)*.
         </td>
     </tr>
     <tr>
-        <td>
-        <h4><a href="{{site.baseurl}}/activities/10-assessment/"><img class="chapter-icon" src="{{site.baseurl}}/images/Ch10.png" style="width:85px;height:85px;" />Metrics and Assessment</a></h4>
+        <td style="width:10%;">
+            <img class="chapter-icon" src="{{site.baseurl}}/images/Ch10.png" style="width:85px;height:85px;" />
         </td>
-        <td>
+        <td style="width:30%;text-align:left">
+            <h4><a href="{{site.baseurl}}/activities/10-assessment/">Metrics and Assessment</a></h4>
+        </td>
+        <td style="width:55%;">
             <i>Continuous assessment of the effectiveness of facilitation practices, 
             including the evaluation of facilitation impact as tied to user feedback, 
             as well as evaluating changes in the patterns of ACI utilization by 
             different users and groups, changes in user demographics over time, etc., 
             to improve and remodel facilitation efforts and to assess overall impact. </i>
         </td>
-    </tr>
+    </tr>    
 </table>
 
 <a name="whatis-skills"></a>
