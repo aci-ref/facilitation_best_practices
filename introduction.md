@@ -178,9 +178,11 @@ each of the below *[Major Activities of Facilitation](../activities)*.
             <h4><a href="{{site.baseurl}}/activities/01-getting-established/">Getting Established</a></h4>
         </td>
         <td style="width:55%;">
+            <br>
             <i>Defining one’s role, including expectations of institutional support 
             required for effective facilitation. Training and education of new 
             facilitators. Establishing initial connections with other staff.</i>
+            <br>
         </td>
     </tr>
     
@@ -192,10 +194,12 @@ each of the below *[Major Activities of Facilitation](../activities)*.
             <h4><a href="{{site.baseurl}}/activities/02-outreach/">Outreach</a></h4>
         </td>
         <td style="width:55%;">
+            <br>
             <i>Promoting awareness and understanding of the facilitator role and of ACI
             resources to potential users of ACI resources and to various
             administrators, including entities who exist within and external to your
             institution. Effectively targeting key audiences.</i>
+            <br>
         </td>
     </tr>
     <tr>
