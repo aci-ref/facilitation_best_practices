@@ -77,15 +77,17 @@ described as *education* within this chapter.
 We thus provide the following examples of education and training efforts
 for users of ACI resources, which can and should be significantly
 contributed to by Facilitators:
-
-* online documentation of ACI system configuration (e.g. cluster
-partitions, etc.)
-* online FAQs for using ACI resources
-* step-by-step instructions for accomplishing specific tasks on ACI
-resources
-* one-to-many training for various skills in using an ACI resource
-* videos explaining aspects of using ACI resources
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+<li>online documentation of ACI system configuration (e.g. cluster
+partitions, etc.)</li>
+<li>online FAQs for using ACI resources</li>
+<li>step-by-step instructions for accomplishing specific tasks on ACI
+resources</li>
+<li>one-to-many training for various skills in using an ACI resource</li>
+<li>videos explaining aspects of using ACI resources</li>
+</ul>
+</div>
 Many of these different types of learning materials and opportunities
 are described later in this chapter, drawing on the "Overall
 Considerations" just below. We additionally cover general considerations
@@ -203,36 +205,40 @@ rather than simply stating that files should be tar’d and pointing to a
 different guide about the ‘tar’ program.
 
 Some examples of external learning materials are:
-
-* documentation for various open-source and proprietary third-party
-software (e.g., programming languages, queueing software, etc.)
-* online materials from national ACI resources (e.g., XSEDE, OSG, etc.)
-* open curriculum for live teaching via organizations like [Software
-Carpentry](http://software-carpentry.org/) and [Data
-Carpentry](http://www.datacarpentry.org/)
-* institutionally-supported proprietary training services, like
-Lynda.com
-* Wikipedia and other online information aggregators
-* books (where appropriate)
-* faculty-developed, university-sponsored, or professional society
-courses
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+<li>documentation for various open-source and proprietary third-party
+software (e.g., programming languages, queueing software, etc.)</li>
+<li>online materials from national ACI resources (e.g., XSEDE, OSG, etc.)</li>
+<li>open curriculum for live teaching via organizations like <a href="http://software-carpentry.org/">Software
+Carpentry</a> and <a href="http://www.datacarpentry.org/">Data
+Carpentry</a></li>
+<li>institutionally-supported proprietary training services, like
+Lynda.com</li>
+<li>Wikipedia and other online information aggregators</li>
+<li>books (where appropriate)</li>
+<li>faculty-developed, university-sponsored, or professional society
+courses</li>
+</ul>
+</div>
 Beyond pointing to external learning resources via in-house materials
 and one-to-one assistance, Facilitators can also encourage researchers
 to participate in external learning opportunities, including the
 examples listed below:
-
-* workshops by other local organizations
-* semester-long courses at the local institution, perhaps relevant to
-specific research domains
-* massively open online courses (MOOCs) on ACI-related topics
-* workshops hosted by the technology industry (e.g., proprietary
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+<li>workshops by other local organizations</li>
+<li>semester-long courses at the local institution, perhaps relevant to
+specific research domains</li>
+<li>massively open online courses (MOOCs) on ACI-related topics</li>
+<li>workshops hosted by the technology industry (e.g., proprietary
 software companies, specialized hardware manufacturers, etc.), in
-addition to their online documentation
-* materials, in-person courses, and webinars provided by national ACI
+addition to their online documentation</li>
+<li>materials, in-person courses, and webinars provided by national ACI
 resources (e.g., XSEDE workshops, annual Open Science Grid User School,
-etc.)
-
+etc.)</li>
+</ul>
+</div>
 Based upon assistance and engagement interactions, Facilitators and ACI
 resource providers can list suggested external learning opportunities on
 their website and/or share such information to user email lists, as
@@ -382,20 +388,22 @@ right materials for the information to be communicated, content
 developers should consider the following details in light of learning
 goals and best practices in curriculum development and technical
 documentation:
-
-* Which major style of informative material will be best?: *concept
-guide* (akin to our "education" definition), *tutorial* (“training”), or
-*reference* (akin to software manuals and indexes)? See [^3] 
-and other resources for more on these three styles.
-* Furthermore, what amount of information should be presented within a
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+<li>Which major style of informative material will be best?: <i>concept
+guide</i> (akin to our "education" definition), <i>tutorial</i> (“training”), or
+<i>reference</i> (akin to software manuals and indexes)? See [^3] 
+and other resources for more on these three styles.</li>
+<li>Furthermore, what amount of information should be presented within a
 unit of learning material, taking care to avoid concept overload?[^10]
  For example, some established tips for in-person and
 self-help tutorials indicate a general goal of 30 minutes for a single
-uninterrupted unit of learning material, especially for beginner tasks. [^17] [^15]
-* Content should be evaluated against the goals for content and learning
+uninterrupted unit of learning material, especially for beginner tasks. [^17] [^15]</li>
+<li>Content should be evaluated against the goals for content and learning
 outcomes, both in the editing process and when designing assessments of
-learning.[^2]
-
+learning.[^2]</li>
+</ul>
+</div>
 In addition to informing content development, the goals of any unit of
 learning material should be stated to learners in writing at the
 beginning of the unit, so that learners can determine the relevance for
@@ -449,26 +457,28 @@ sentence structure within written materials on technical topics, and
 with implications for verbal delivery (many are well-summarized and
 exemplified in [^16]) These tips are represented in the below
 list:
-
-* Avoid jargon, seeking instead to find general terminology that will
-already be familiar to the audience.
-* When introducing new, necessary terms, define them clearly and
-consider drawing visual attention with formatting.
-* Use words efficiently, paring language down to essential messages and
-avoiding redundancy. Write in short paragraphs.
-* Place key information and actions in the first clause of a sentence
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+<li>Avoid jargon, seeking instead to find general terminology that will
+already be familiar to the audience.</li>
+<li>When introducing new, necessary terms, define them clearly and
+consider drawing visual attention with formatting.</li>
+<li>Use words efficiently, paring language down to essential messages and
+avoiding redundancy. Write in short paragraphs.</li>
+<li>Place key information and actions in the first clause of a sentence
 and in the first sentence of paragraphs, especially for tutorials, where
-action by the learner is frequently requested.
-* Balance the focus on specific details with necessary context for
-interpretation and generalization.
-* Select simpler terms over more complex synonyms (e.g "use" over
-“utilization” and “individual” over “individualized”).
-* Identify potential ambiguity in wording, and use specific nouns over
-pronouns.
-* Use strong verbs to achieve active voice (i.e. "arranged" over “made
-arrangements for”).
-* Find a natural sound for active voice by reading passages out loud.
-
+action by the learner is frequently requested.</li>
+<li>Balance the focus on specific details with necessary context for
+interpretation and generalization.</li>
+<li>Select simpler terms over more complex synonyms (e.g "use" over
+“utilization” and “individual” over “individualized”).</li>
+<li>Identify potential ambiguity in wording, and use specific nouns over
+pronouns.</li>
+<li>Use strong verbs to achieve active voice (i.e. "arranged" over “made
+arrangements for”).</li>
+<li>Find a natural sound for active voice by reading passages out loud.</li>
+</ul>
+</div>
 Clarity and brevity are also achieved via clear planning of overall
 content structure and concept ordering, in addition to the above tips
 for wording and in-text structure. Some forms of documentation for
@@ -586,18 +596,20 @@ on a combination of those for other written formats. Because the FAQ is
 such a specific and pervasive format of documentation, numerous sources
 can be found on the web with common practices for generating effective
 FAQs, and therefore will not be cited here. Generally, FAQs should:
-
-* include questions that *are* frequently asked
-* be organized into groupings of similar concepts, in order to evoke
-high-level conceptual frameworks
-* include the most essential and simple questions first, before listing
-less common and more complex questions
-* directly answer the question, or at least point to additional
-information
-* be updated frequently
-* solicit new questions and communicate clear pathways for seeking
-answers and assistance
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+<li>include questions that *are* frequently asked</li>
+<li>be organized into groupings of similar concepts, in order to evoke
+high-level conceptual frameworks</li>
+<li>include the most essential and simple questions first, before listing
+less common and more complex questions</li>
+<li>directly answer the question, or at least point to additional
+information</li>
+<li>be updated frequently</li>
+<li>solicit new questions and communicate clear pathways for seeking
+answers and assistance</li>
+</ul>
+</div>
 Overall, FAQs should be treated with the same development and editing
 processes as for other forms of written learning materials, even though
 they are often perceived to be a simpler form of documentation.
@@ -721,13 +733,15 @@ otherwise aware of researcher needs and solutions via assistance
 practices, Facilitators can also connect researchers to each other.
 Contexts for such connections might include instances where multiple
 researchers:
-
-* work in the same research group, and one is newer to the ACI resource
-* are pursuing similar research methods
-* rely on the same software
-* require the same specific features of an ACI resource (or its
-configuration)
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+<li>work in the same research group, and one is newer to the ACI resource</li>
+<li>are pursuing similar research methods</li>
+<li>rely on the same software</li>
+<li>require the same specific features of an ACI resource (or its
+configuration)</li>
+</ul>
+</div>
 Learning from peers can be thought of as simply another form of external
 learning resource, not produced or maintained by the Facilitator or
 other ACI staff. Approaches for connecting researchers in order to
