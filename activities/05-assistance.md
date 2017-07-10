@@ -145,12 +145,14 @@ where a researcher isn’t sure how to start using an ACI resource or how
 to explain their problem, and even a researcher’s preference for
 in-person communication instead of email. Effective in-person meetings
 draw on many of the same practices as for engagements, including: 
-
-* selecting a meeting location that is accessible to the researcher
-* understanding the full problem or question from a researcher before beginning to pursue solutions
-* clearly communicating and explaining next steps 
-* making sure to follow-up with the researcher, as appropriate
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+<li>selecting a meeting location that is accessible to the researcher</li>
+<li>understanding the full problem or question from a researcher before beginning to pursue solutions</li>
+<li>clearly communicating and explaining next steps</li>
+<li>making sure to follow-up with the researcher, as appropriate</li>
+</ul>
+</div>
 Additionally, and distinct from practices typical to an engagement, it
 is most effective to have a researcher execute a solution for
 themselves, rather than only demonstrating the solution while the
