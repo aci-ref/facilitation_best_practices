@@ -169,10 +169,19 @@ include, but are certainly not limited to:
 The bulk of the documentation of best practices lies within chapters for 
 each of the below *[Major Activities of Facilitation](../activities)*.
 
+<table>
+<tr>
+<td style="width:40%;">
 <h4><a href="{{site.baseurl}}/activities/01-getting-established/"><img class="chapter-icon" src="{{site.baseurl}}/images/Ch1.png" style="width:85px;height:85px;" />Getting Established</a></h4>
+</td>
+<td style="width:60%;">
 <i>Defining one’s role, including expectations of institutional support 
 required for effective facilitation. Training and education of new 
 facilitators. Establishing initial connections with other staff.</i>
+</td>
+</tr>
+</table>
+
 
 <h4><a href="{{site.baseurl}}/activities/02-outreach/"><img class="chapter-icon" src="{{site.baseurl}}/images/Ch2.png" style="width:85px;height:85px;" />Outreach</a></h4>
 <i>Promoting awareness and understanding of the facilitator role and of ACI
