@@ -84,7 +84,7 @@ partitions, etc.)</li>
 <li>online FAQs for using ACI resources</li>
 <li>step-by-step instructions for accomplishing specific tasks on ACI
 resources</li>
-<li>one-to-many training for various skills in using an ACI resource
+<li>one-to-many training for various skills in using an ACI resource</li>
 <li>videos explaining aspects of using ACI resources</li>
 </ul>
 </div>
