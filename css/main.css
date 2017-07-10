@@ -333,6 +333,13 @@ header.header-post .post-heading .post-subheading {
   }
 }
 
+@media only screen and (max-width: 480px) {
+  header.header-page .page-heading h1 {
+    font-size: 35px;
+    margin-top: 25px;
+  }
+}
+
 .caption {
   text-align: center;
   font-size: 14px;
