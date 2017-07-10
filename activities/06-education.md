@@ -390,18 +390,18 @@ goals and best practices in curriculum development and technical
 documentation:
 <div class="bullet-box">
     <ul class="bullet-list-square">
-* Which major style of informative material will be best?: *concept
-guide* (akin to our "education" definition), *tutorial* (“training”), or
-*reference* (akin to software manuals and indexes)? See [^3] 
-and other resources for more on these three styles.
-* Furthermore, what amount of information should be presented within a
+<li>Which major style of informative material will be best?: <i>concept
+guide</i> (akin to our "education" definition), <i>tutorial</i> (“training”), or
+<i>reference</i> (akin to software manuals and indexes)? See [^3] 
+and other resources for more on these three styles.</li>
+<li>Furthermore, what amount of information should be presented within a
 unit of learning material, taking care to avoid concept overload?[^10]
  For example, some established tips for in-person and
 self-help tutorials indicate a general goal of 30 minutes for a single
-uninterrupted unit of learning material, especially for beginner tasks. [^17] [^15]
-* Content should be evaluated against the goals for content and learning
+uninterrupted unit of learning material, especially for beginner tasks. [^17] [^15]</li>
+<li>Content should be evaluated against the goals for content and learning
 outcomes, both in the editing process and when designing assessments of
-learning.[^2]
+learning.[^2]</li>
 </ul>
 </div>
 In addition to informing content development, the goals of any unit of
