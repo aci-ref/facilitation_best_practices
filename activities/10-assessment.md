@@ -141,24 +141,21 @@ Before discussing specific metrics and assessments types, we will cover the sali
 </div>
 
 <div class="visual-right-wrapped2">
-<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-01.png" alt="kirkpatrick-model" data-toggle="modal" data-target="#kirkpatrick-model-modal">
+<a href="" data-toggle="modal" data-target="#kirkpatrick-model-modal"><img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-01.png" alt="kirkpatrick-model" ></a>
 Figure 1. Levels of training evaluation in the Kirkpatrick model
 </div>
-<!-- Trigger the modal with a button -->
-<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button>
 
 <!-- Modal -->
 <div id="kirkpatrick-model-modal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
+  <div class="modal-dialog modal-lg">
     <!-- Modal content-->
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Figure 1</h4>
+        <h4 class="modal-title">Figure 1. Levels of training evaluation in the Kirkpatrick model</h4>
       </div>
       <div class="modal-body">
-        <p>Some text in the modal.</p>
-        <img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-01.png">
+        <img  src="{{ site.baseurl }}/img/10-01.png">
         Figure 1. Levels of training evaluation in the Kirkpatrick model
       </div>
       <div class="modal-footer">
