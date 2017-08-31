@@ -29,7 +29,7 @@ This chapter is written primarily for newly hired Facilitators,
 especially those without prior experience with ACI facilitation and/or
 working as part of an ACI team. It is meant to assist new Facilitators
 as they start with the task of defining their role. The first section on
-<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"/>institutional context views the role of facilitation and the hiring of a
+<img class="non-captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"/>institutional context views the role of facilitation and the hiring of a
 Facilitator through an institutional lens. Subsequent sections are on
 understanding and owning the facilitator role, and examining aspects of
 the on-boarding process that are specific to ACI facilitation, including
@@ -40,7 +40,7 @@ user base, and current state of facilitation.
 This chapter is written primarily for newly hired Facilitators,
 especially those without prior experience with ACI facilitation and/or
 working as part of an ACI team. It is meant to assist new Facilitators
-as they start with the task of defining their role. The first section on<img class="visual-right-wrapped2" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching">institutional context views the role of facilitation and the hiring of a
+as they start with the task of defining their role. The first section on<img class="non-captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching">institutional context views the role of facilitation and the hiring of a
 Facilitator through an institutional lens. Subsequent sections are on
 understanding and owning the facilitator role, and examining aspects of
 the on-boarding process that are specific to ACI facilitation, including
@@ -50,8 +50,8 @@ user base, and current state of facilitation.
 
 # Institutional Context <a name="context"></a>
 
-<div class="visual-right-wrapped2">
-<a href="https://scholar.harvard.edu/bobfreeman" target="_blank"><img class="visual-right-wrapped" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching2"></a>
+<div class="captioned">
+<a href="https://scholar.harvard.edu/bobfreeman" target="_blank"><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching2"></a>
 A REF leading an HPC Intro class
 </div>
 Whether the Facilitator is a new hire or is transitioning into the role
@@ -139,8 +139,8 @@ ACI team be involved in the hiring process.
 
 # Understanding the Facilitator Role
 
-<div class="visual-right-wrapped4">
-<a href="https://scholar.harvard.edu/bobfreeman" target="_blank"><img class="visual-right-wrapped3" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching2"></a><br>A REF leading an HPC Intro class
+<div class="captioned">
+<a href="https://scholar.harvard.edu/bobfreeman" target="_blank"><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching2"></a><br>A REF leading an HPC Intro class
 </div>
 Once a person has been hired to serve as a Facilitator, a joint effort
 between the Facilitator and the hiring manager to start to define the
