@@ -140,8 +140,8 @@ Before discussing specific metrics and assessments types, we will cover the sali
 </ol>
 </div>
 
-<div class="visual-right-wrapped2">
-<a href="" data-toggle="modal" data-target="#kirkpatrick-model-modal"><img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-01.png" alt="kirkpatrick-model" ></a>
+<div class="captioned">
+<a href="" data-toggle="modal" data-target="#kirkpatrick-model-modal"><img class="captioned size300" src="{{ site.baseurl }}/img/10-01.png" alt="kirkpatrick-model" ></a>
 Figure 1. Levels of training evaluation in the Kirkpatrick model
 </div>
 
