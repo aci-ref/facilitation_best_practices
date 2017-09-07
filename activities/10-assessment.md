@@ -165,6 +165,7 @@ Figure 1. Levels of training evaluation in the Kirkpatrick model
   </div>
 </div>
 
+{:style="margin-top:5px;"}
 These four levels are often represented as a pyramid, as shown in Figure 1[^4], emphasising the manner in which the higher levels are built upon the foundation established by the previous levels -- and thereby emphasizing the importance of the quality of the training sessions.
 
 
