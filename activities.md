@@ -2,6 +2,16 @@
 layout: page
 title: Executing Major Activities of Facilitation
 ---
+<table>
+    <tr>
+        <td style="width:30%;">
+            <img class="chapter-icon" src="{{site.baseurl}}/images/Ch1.png" style="width:40px;height:40px;" />
+        </td>
+        <td style="width:70%;text-align:left">
+            <h4><a href="{{site.baseurl}}/activities/01-getting-established/">Getting Established</a></h4>
+        </td>
+    </tr>
+<table>
 
 1. [Getting Established](01-getting-established)
 2. [Outreach](02-outreach)
