@@ -25,22 +25,12 @@ facilitators. Establishing initial connections with other staff.*
 
 # Introduction
 
-This chapter is written primarily for newly hired Facilitators,
-especially those without prior experience with ACI facilitation and/or
-working as part of an ACI team. It is meant to assist new Facilitators
-as they start with the task of defining their role. The first section on
-<img class="non-captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"/>institutional context views the role of facilitation and the hiring of a
-Facilitator through an institutional lens. Subsequent sections are on
-understanding and owning the facilitator role, and examining aspects of
-the on-boarding process that are specific to ACI facilitation, including
-organizational structure, computational resources, the ACI team, the
-user base, and current state of facilitation. 
-
 *with modified img visual-right-wrappeds class*<br>
 This chapter is written primarily for newly hired Facilitators,
 especially those without prior experience with ACI facilitation and/or
 working as part of an ACI team. It is meant to assist new Facilitators
-as they start with the task of defining their role. The first section on<img class="non-captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching">institutional context views the role of facilitation and the hiring of a
+as they start with the task of defining their role. The first section on
+<img class="non-captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching">institutional context views the role of facilitation and the hiring of a
 Facilitator through an institutional lens. Subsequent sections are on
 understanding and owning the facilitator role, and examining aspects of
 the on-boarding process that are specific to ACI facilitation, including
