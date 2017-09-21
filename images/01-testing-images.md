@@ -163,14 +163,7 @@ building up ACI resources and utilization.
 
 ## User base 
 
-<table>
-<tr><td>
-
-![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg)
-{:.non-captioned}
-
-</td></tr>
-</table>
+![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.non-captioned}
 
 It is crucial that a new Facilitator understand the 
 existing and prospective user base. A
