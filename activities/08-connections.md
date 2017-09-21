@@ -110,7 +110,6 @@ Jump to: [top](#toc)
 
 <div class="bullet-box">
     <ul class="bullet-list-square">
-        <li>implementing an ACI Plan</li>
 <li>by Research Domain</li>
 <li>by Computational Methods</li>
 <li>by Software</li>
