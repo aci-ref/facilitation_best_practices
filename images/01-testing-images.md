@@ -164,9 +164,6 @@ building up ACI resources and utilization.
 ## User base 
 
 ![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.non-captioned}{:style="float:none;margin:5px 0px 5px 0px;"}
-![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.non-captioned}{:style="float:none;margin:5px 0px 5px 0px;"}
-![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.non-captioned}{:style="float:none;margin:5px 0px 5px 0px;"}
-![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.non-captioned}{:style="float:none;margin:5px 0px 5px 0px;"}
 
 It is crucial that a new Facilitator understand the 
 existing and prospective user base. A
