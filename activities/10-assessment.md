@@ -140,8 +140,8 @@ Before discussing specific metrics and assessments types, we will cover the sali
 </ol>
 </div>
 
-<div class="visual-right-wrapped2">
-<a href="" data-toggle="modal" data-target="#kirkpatrick-model-modal"><img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-01.png" alt="kirkpatrick-model" ></a>
+<div class="captioned">
+<a href="" data-toggle="modal" data-target="#kirkpatrick-model-modal"><img class="captioned size300" src="{{ site.baseurl }}/img/10-01.png" alt="kirkpatrick-model" ></a>
 Figure 1. Levels of training evaluation in the Kirkpatrick model
 </div>
 
@@ -165,6 +165,7 @@ Figure 1. Levels of training evaluation in the Kirkpatrick model
   </div>
 </div>
 
+{:style="margin-top:5px;"}
 These four levels are often represented as a pyramid, as shown in Figure 1[^4], emphasising the manner in which the higher levels are built upon the foundation established by the previous levels -- and thereby emphasizing the importance of the quality of the training sessions.
 
 
