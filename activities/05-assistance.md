@@ -716,11 +716,16 @@ may not think to ask about.
 
 A few possible reasons to proactively contact a user are:
 
-1. Metrics indicate misuse of an ACI resource. 
-2. Metrics indicate that a user’s work may be better optimized. 
-3. A sudden increase in the user’s activity potentially indicates a new type of work with different resource needs to address. 
-4. The Facilitator believes a follow up to previous assistance may be helpful, perhaps after reviewing tickets.
-5. The Facilitator may simply want to check in with a long-time user who hasn’t written in with any issues in some time.
+
+<div class="bullet-box">
+<ol>
+<li> Metrics indicate misuse of an ACI resource. </li>
+<li> Metrics indicate that a user’s work may be better optimized.  </li>
+<li> A sudden increase in the user’s activity potentially indicates a new type of work with different resource needs to address.  </li>
+<li> The Facilitator believes a follow up to previous assistance may be helpful, perhaps after reviewing tickets. </li>
+<li> The Facilitator may simply want to check in with a long-time user who hasn’t written in with any issues in some time. </li>
+</ol>
+</div>
 
 If the reason for contacting the researcher is more akin to issue
 resolution or proposing enhancements to the researcher’s use of ACI, the
