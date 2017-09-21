@@ -463,8 +463,6 @@ stepwise progression for solving a complex issue.
 The following is an example of the above practices in an email
 communication with a researcher:
 
-Example 1: Email from researcher regarding file transfer
-
 ~~~
 ------------------------ 
 Hello, I tried to use ‘scp’ to copy data to my 
@@ -509,6 +507,9 @@ Michelle Facilitator
 Research Computing Facilitator, CHTC
 ------------------------ 
 ~~~
+<div class="caption">
+Example 1: Email from researcher regarding file transfer
+</div>
 
 <a name="issues-communicate"></a>
 <h2>Record communication for re-use</h2>
@@ -543,7 +544,6 @@ materials will be sufficient.
 
 Examples of non-issue requests can include: 
 
-
 <div class="bullet-box">
 <ol>
 <li> What is the best way to run software “X” on the compute system?  </li> 
@@ -571,8 +571,6 @@ to fully understand the researcher’s intent and the scope of information
 they’re seeking, within the context of what the Facilitator already
 knows about the researcher’s relevant ACI knowledge, as is demonstrated
 in the following exchange:
-
-Example 2: Email from Researcher regarding the use of research computing resources
 
 ~~~
 ------------------------
@@ -607,7 +605,9 @@ starting points (variation files).
 -Jane
 --------------------------
 ~~~ 
-(continued later...)
+<div class="caption">
+Example 2: Email from Researcher regarding the use of research computing resources (continued later...)
+</div>
 
 <a name="non-anticipate"></a>
 <h2>Anticipate the Real and Next Questions</h2>
@@ -621,8 +621,6 @@ able to anticipate and answer other questions in order to reduce the
 amount of back-and-forth communication. Inviting a transition to an
 in-person meeting – perhaps more similar to an engagement – may even be
 a more appropriate solution for assisting the researcher.
-
-Example 2: (continued)
 
 ~~~
 ------------------------
@@ -653,6 +651,9 @@ Let me know if you have any questions about the above information.
 Michelle
 --------------------------
 ~~~
+<div class="caption">
+Example 2: (continued)
+</div>
 
 <a name="non-empower"></a>
 <h2>Empower the User to Find Her/His Own Answers</h2>
@@ -663,8 +664,6 @@ researcher’s goals. This practice is not only important for providing
 next steps, but also demonstrates how one might find answers to such
 questions more quickly in the future, as was hinted in the prior
 example. Another example of these practices is provided below:
-
-Example 3:  Email from researcher regarding command-line text editors
 
 ~~~
 Hello,
@@ -688,6 +687,9 @@ Cheers,
 Michelle Facilitator
 -------------------------
 ~~~
+<div class="caption">
+Example 3:  Email from researcher regarding command-line text editors
+</div>
 
 While it should always be the goal of a Facilitator to enable
 researchers to do more for themselves, indicating how a researcher can
