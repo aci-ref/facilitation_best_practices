@@ -106,7 +106,18 @@ Jump to: [top](#toc)
 
 <a name="topics"></a>
 
-## Build Connections around Topics
+## Build Connections around Commonalities
+
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+        <li>implementing an ACI Plan</li>
+<li>by Research Domain</li>
+<li>by Computational Methods</li>
+<li>by Software</li>
+<li>by Data Types</li>
+<li>by Professional Roles and Practices</li>
+    </ul> 
+</div>
 
 ### Research Domain 
 
@@ -172,7 +183,7 @@ benefit not only from sharing software use practices for but also for
 sharing licenses (e.g. Comsol, which is used across a number of research
 domains for physical simulations). 
 
-### Data 
+### Data Types
 
 Researchers may also find
 commonalities and share practice around common data formats, methods for
