@@ -29,7 +29,7 @@ This chapter is written primarily for newly hired Facilitators,
 especially those without prior experience with ACI facilitation and/or
 working as part of an ACI team. It is meant to assist new Facilitators
 as they start with the task of defining their role. The first section on
-<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"/>institutional context views the role of facilitation and the hiring of a
+<img class="non-captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"/>institutional context views the role of facilitation and the hiring of a
 Facilitator through an institutional lens. Subsequent sections are on
 understanding and owning the facilitator role, and examining aspects of
 the on-boarding process that are specific to ACI facilitation, including
@@ -40,7 +40,7 @@ user base, and current state of facilitation.
 This chapter is written primarily for newly hired Facilitators,
 especially those without prior experience with ACI facilitation and/or
 working as part of an ACI team. It is meant to assist new Facilitators
-as they start with the task of defining their role. The first section on<img class="visual-right-wrapped2" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching">institutional context views the role of facilitation and the hiring of a
+as they start with the task of defining their role. The first section on<img class="non-captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching">institutional context views the role of facilitation and the hiring of a
 Facilitator through an institutional lens. Subsequent sections are on
 understanding and owning the facilitator role, and examining aspects of
 the on-boarding process that are specific to ACI facilitation, including
@@ -50,8 +50,8 @@ user base, and current state of facilitation.
 
 # Institutional Context <a name="context"></a>
 
-<div class="visual-right-wrapped2">
-<a href="https://scholar.harvard.edu/bobfreeman" target="_blank"><img class="visual-right-wrapped" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching2"></a>
+<div class="captioned">
+<a href="https://scholar.harvard.edu/bobfreeman" target="_blank"><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching2"></a>
 A REF leading an HPC Intro class
 </div>
 Whether the Facilitator is a new hire or is transitioning into the role
@@ -83,6 +83,7 @@ organization would have considered a number of things to ensure success
 for all stakeholders. To guide the hiring process and help define the
 position, they may have addressed the following questions:
 
+
 <div class="bullet-box">
     <ul class="bullet-list-square">
 <li>What gaps exist in the expertise of the existing team members?</li>
@@ -105,6 +106,18 @@ position, they may have addressed the following questions:
 * What educational background and experience are important? 
 * Is there specific domain expertise that will be important for this facilitator?
 
+
+<div style="background-color:#EBF5FB; text-align:left; vertical-align: middle; padding:20px 0; margin-top:30px"> 
+<ul style="list-style-type:square;">          
+<li>What gaps exist in the expertise of the existing team members?</li>          
+<li>What are most important tasks/responsibilities of the new position?</li>	 
+<li>What is the required skill set necessary to perform these tasks?</li>          
+<li>What educational background and experience are important?</li>	  
+<li>Is there specific domain expertise that will be important for this facilitator?</li>
+</ul> 
+</div>
+
+ 
 The answers to these questions would have helped prioritize expectations
 for the new position and helped guide the hiring process, including how
 to reach an appropriate candidate pool.
@@ -126,6 +139,9 @@ ACI team be involved in the hiring process.
 
 # Understanding the Facilitator Role
 
+<div class="captioned">
+<a href="https://scholar.harvard.edu/bobfreeman" target="_blank"><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching2"></a><br>A REF leading an HPC Intro class
+</div>
 Once a person has been hired to serve as a Facilitator, a joint effort
 between the Facilitator and the hiring manager to start to define the
 position is the next step. While some aspects of the position, such as
@@ -177,15 +193,23 @@ ACI organization, as well as knowing how to use these resources in order
 to be able to effectively provide assistance.  Specific knowledge
 includes:
 
-* Details about the compute hardware 
-	* what compute resources are available
-	* what file systems exist 
-	* what is the networking infrastructure 
-	* what operating system(s) are supported
-* Details on the batch scheduler and batch policies that are being used 
-* What services are provided 
-* Existing policies and procedures for use of the resources 
-* Tools being used for user provisioning and tracking usage
+
+
+<div style="background-color:#EBF5FB; text-align:left; vertical-align: middle; padding:20px 0; margin-top:30px"> 
+<ul style="list-style-type:square;">         
+<li>Details about the compute hardware</li>
+	<ul style="list-style-type:circle">
+	<li>what compute resources are available</li>
+	<li>what file systems exist </li>
+	<li>what is the networking infrastructure </li>
+	<li>what operating system(s) are supported</li>
+	</ul>
+<li>Details on the batch scheduler and batch policies that are being used </li>
+<li>What services are provided </li>
+<li>Existing policies and procedures for use of the resources</li> 
+<li>Tools being used for user provisioning and tracking usage</li>
+</ul>
+</div>
 
 For more on this topic, see the chapter on *[Assisting Researchers in the
 Use of ACI Resources](../05-assistance)*.
@@ -202,13 +226,19 @@ is to prepare materials to introduce the Facilitator and enable them to
 start to engage with the user base. This might include doing the
 following:
 
-* requisitioning business cards 
-* developing an online presence (on the ACI website/social media stream) 
-* introducing yourself in a newsletter article 
-* giving a presentation to administrators/staff 
-* giving a seminar to users 
-* sending an announcement to a mailing lists 
-* posting an announcement on the institution’s website
+
+
+<div style="background-color:#EBF5FB; text-align:left; vertical-align: middle; padding:20px 0; margin-top:30px"> 
+<ul style="list-style-type:square;">         
+<li>requisitioning business cards</li> 
+<li>developing an online presence (on the ACI website/social media stream)</li> 
+<li>introducing yourself in a newsletter article </li>
+<li>giving a presentation to administrators/staff</li> 
+<li>giving a seminar to users</li> 
+<li>sending an announcement to a mailing lists</li> 
+<li>posting an announcement on the institution’s website</li>
+</ul>
+</div>
 
 Some of these activities may require preparing new materials or
 modifying existing ones in collaboration with the ACI team or

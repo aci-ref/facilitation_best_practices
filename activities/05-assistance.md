@@ -3,6 +3,7 @@ layout: chapter
 title: Assisting Researchers in the Use of ACI Resources
 prev: 04-aci_plan
 next: 06-education
+icon: Ch5.png
 ---
 
 <a name="toc"></a>
@@ -43,13 +44,15 @@ have just gained access, they should be be able to easily obtain ongoing
 assistance from Facilitators and other ACI support staff with respect
 to:
 
-<ul>
-<li>questions about ACI capabilities and use </li>
-<li>requests for help with issues</li>
-<li>needs for learning materials </li>
-<li>requests for engagement consultations or other guidance for new ideas </li>
-<li>obtaining assistance for external ACI resources</li>
-</ul>
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+        <li>questions about ACI capabilities and use </li>
+        <li>requests for help with issues</li>
+        <li>needs for learning materials </li>
+        <li>requests for engagement consultations or other guidance for new ideas </li>
+        <li>obtaining assistance for external ACI resources</li>
+    </ul>
+</div>
 
 Therefore, an essential component of providing assistance is to
 establish consistent and accessible routes by which users can obtain
@@ -142,12 +145,14 @@ where a researcher isn’t sure how to start using an ACI resource or how
 to explain their problem, and even a researcher’s preference for
 in-person communication instead of email. Effective in-person meetings
 draw on many of the same practices as for engagements, including: 
-
-* selecting a meeting location that is accessible to the researcher
-* understanding the full problem or question from a researcher before beginning to pursue solutions
-* clearly communicating and explaining next steps 
-* making sure to follow-up with the researcher, as appropriate
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+<li>selecting a meeting location that is accessible to the researcher</li>
+<li>understanding the full problem or question from a researcher before beginning to pursue solutions</li>
+<li>clearly communicating and explaining next steps</li>
+<li>making sure to follow-up with the researcher, as appropriate</li>
+</ul>
+</div>
 Additionally, and distinct from practices typical to an engagement, it
 is most effective to have a researcher execute a solution for
 themselves, rather than only demonstrating the solution while the
@@ -323,25 +328,29 @@ understanding and set of terminology (see [^4] and
 
 Other specific guidelines for clear wording in any communication context are:
 
-* Describe concepts succinctly and in the simplest terms possible. It’s 
-often useful to re-read and consolidate or shorten written information before sending.
-* Use specific nouns to identify relevant items and concepts (e.g. “the submit file”, 
-“your software”, “the file transfer rate”), and avoid less-specific pronouns as much 
-as possible (e.g. “it”, “they”, “them”).
-* Avoid jargon specific to an expert understanding and strive to find terminology 
-that is familiar to the researcher. For example, use “program” or “software” if 
-the word “executable” is less familiar.
-* Avoid overwhelming the researcher with too much new information at once. 
-Please see *[Educating and Training Researchers](../06-education)* in the Use of ACI, [^4],
- [^7], and [^8] for more 
- discussion on concept/cognitive overload.
-* When introducing new terminology and ideas, as necessary define terms and 
-provide distinction from other concepts. For example, “the submit file, 
-which will be separate from the BLAST alignment program you wish to run 
-within each job ...”.
-* Minimize the use of acronyms by limiting these to terms that are: (1)
- already familiar to the researcher, and/or (2) have been sufficiently defined 
- and used previously in non-acronym forms.
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+        <li> Describe concepts succinctly and in the simplest terms possible. It’s 
+        often useful to re-read and consolidate or shorten written information before sending. </li>
+        <li> Use specific nouns to identify relevant items and concepts (e.g. “the submit file”, 
+        “your software”, “the file transfer rate”), and avoid less-specific pronouns as much 
+        as possible (e.g. “it”, “they”, “them”). </li>
+        <li> Avoid jargon specific to an expert understanding and strive to find terminology 
+        that is familiar to the researcher. For example, use “program” or “software” if 
+        the word “executable” is less familiar. </li>
+        <li> Avoid overwhelming the researcher with too much new information at once. 
+        Please see *[Educating and Training Researchers](../06-education)* in the Use of ACI, [^4],
+         [^7], and [^8] for more 
+         discussion on concept/cognitive overload. </li>
+        <li> When introducing new terminology and ideas, as necessary define terms and 
+        provide distinction from other concepts. For example, “the submit file, 
+        which will be separate from the BLAST alignment program you wish to run 
+        within each job ...”. </li>
+        <li> Minimize the use of acronyms by limiting these to terms that are: (1)
+         already familiar to the researcher, and/or (2) have been sufficiently defined 
+         and used previously in non-acronym forms. </li>
+    </ul>
+</div>
 
 Facilitators may benefit from a plethora of existing literature and
 professional development opportunities to develop excellent
@@ -737,20 +746,22 @@ ideally poised to understand and represent the evolving needs of the
 user community in order to inform future changes to support routes and
 ACI systems that may include:
 
-<ul>
-<li>Changes in practices relevant to engagement and assistance</li>
-<li>Improvements or additions to outreach and education/training approaches 
-and content</li>
-<li>Improvements to and selection of middleware and other mechanisms by which 
-users interact with ACI (e.g., user interfaces, selection of compute scheduling 
-middleware, etc.)</li>
-<li>Configuration adjustments to ACI systems/technology that enhance user 
-outcomes (e.g., enhancements to ACI system availability, optimizations to 
-compute scheduling efficiency, etc.)</li>
-<li>Enhancements to existing ACI resource capabilities and/or capacity</li>
-<li>Policies and cost models governing user access to ACI resources and capacity</li>
-<li>Addition of new ACI resources and capabilities</li>
-</ul>
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+        <li>Changes in practices relevant to engagement and assistance</li>
+        <li>Improvements or additions to outreach and education/training approaches 
+        and content</li>
+        <li>Improvements to and selection of middleware and other mechanisms by which 
+        users interact with ACI (e.g., user interfaces, selection of compute scheduling 
+        middleware, etc.)</li>
+        <li>Configuration adjustments to ACI systems/technology that enhance user 
+        outcomes (e.g., enhancements to ACI system availability, optimizations to 
+        compute scheduling efficiency, etc.)</li>
+        <li>Enhancements to existing ACI resource capabilities and/or capacity</li>
+        <li>Policies and cost models governing user access to ACI resources and capacity</li>
+        <li>Addition of new ACI resources and capabilities</li>
+    </ul>
+</div>
 
 Importantly, Facilitators need built-in communication pathways and
 working relationships by which feedback regarding the above areas can be

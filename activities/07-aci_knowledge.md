@@ -3,6 +3,7 @@ layout: chapter
 title: Enhancing ACI Knowledge
 prev: 06-education
 next: 08-connections
+icon: Ch7.png
 ---
 
 <a name="toc"></a>
@@ -63,26 +64,28 @@ combine learning and professional networking. Participation should focus
 on areas that are of interest to the facilitator and will also benefit
 the institution.  Ideas for areas to pursue professional development and
 training for ACI facilitators are:
-
-* Teaching: Facilitators should continue to update their skills in
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+	<li>Teaching: Facilitators should continue to update their skills in
 teaching and learn the current trends and best practices to make
-trainings more beneficial for researchers.
-* Public speaking and presenting: In line with teaching methods, improving
+trainings more beneficial for researchers.</li>
+	<li>Public speaking and presenting: In line with teaching methods, improving
 presentation skills provides benefits not just in training but at
-conferences and over venues where facilitators need to communicate.
-* Grant writing: Many facilitators work in research institutions where
+conferences and over venues where facilitators need to communicate.</li>
+	<li>Grant writing: Many facilitators work in research institutions where
 grant funding is common so learning or enhancing grant writing skills is
-important.
-* ACI Software: Enhancing skills with existing software tools at the
+important.</li>
+	<li>ACI Software: Enhancing skills with existing software tools at the
 institution or learning how to use new tools is important in supporting
-and serving the research community in their use of similar tools.
-* ACI Hardware: Some facilitators work with ACI hardware for compute,
+and serving the research community in their use of similar tools.</li>
+	<li>ACI Hardware: Some facilitators work with ACI hardware for compute,
 storage and visualization so it is important to keep those skills and
-certifications current.
-* ACI System Management: In keeping the ACI resources healthy and
+certifications current.</li>
+	<li>ACI System Management: In keeping the ACI resources healthy and
 functional there are a number of tools that are specific to making this
-more manageable and efficient.
-
+more manageable and efficient.</li>
+</ul>
+</div>
 Many of the in-person professional development available to facilitators
 are provided by vendors and through conferences and are discussed
 further in this section.
@@ -154,14 +157,16 @@ current topics with a wide-range of practitioners in the topic area.
 
 Some examples of ACI conferences that have been beneficial for current
 ACI facilitators are:
-
-* XSEDE annual conference
-* Advanced Research Computing Consortium (ARCC) meeting
-* HTCondor Week
-* Supercomputing (SC) conference
-* Open Science Grid All-Hands meeting
-* Internet2 conferences
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+	<li>XSEDE annual conference</li>
+	<li>Advanced Research Computing Consortium (ARCC) meeting</li>
+	<li>HTCondor Week</li>
+	<li>Supercomputing (SC) conference</li>
+	<li>Open Science Grid All-Hands meeting</li>
+	<li>Internet2 conferences</li>
+    </ul>
+</div>
 There are a variety of conference opportunities to choose from and all
 have the potential to be beneficial if relevant organizations, content
 and people are present.  Keep in mind the benefit of the conference as
@@ -205,38 +210,43 @@ be found in this chapter, in addition to a list that will continue to
 grow on the http://aciref.org website.
 
 ### Listing of Training Resources: 
-
-* ACI-REF - [https://aciref.org/research-computing/learning-resources/](https://aciref.org/research-computing/learning-resources/)
-* XSEDE - [https://portal.xsede.org/web/xup/online-training](https://portal.xsede.org/web/xup/online-training)
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+	<li>ACI-REF -<a href="https://aciref.org/research-computing/learning-resources/">https://aciref.org/research-computing/learning-resources/</a></li>
+	<li>XSEDE - <a href="https://portal.xsede.org/web/xup/online-training">https://portal.xsede.org/web/xup/online-training</a></li>
+  </ul>
+</div>
 
 ### On-Demand Tutorials:
-
-* Open Science Grid User School - [http://opensciencegrid.org/UserSchool](http://opensciencegrid.org/UserSchool)
-* OSG Connect Helpdesk - [https://support.opensciencegrid.org/support/home](https://support.opensciencegrid.org/support/home)
-* NCSA Cyberinfrastructure Tutor - [https://www.citutor.org/browse.php](https://www.citutor.org/browse.php)
-* Cornell Virtual Workshop - [https://cvw.cac.cornell.edu/topics](https://cvw.cac.cornell.edu/topics)
-* Virtual School of Computational Science and Engineering -
-[http://www.vscse.org/](http://www.vscse.org/)
-* HPC University - [http://hpcuniversity.org/trainingMaterials/](http://hpcuniversity.org/trainingMaterials/)
-* ARCHER Virtual Tutorials -
-[https://www.archer.ac.uk/training/virtual/index.php](https://www.archer.ac.uk/training/virtual/index.php)
-* Wolfram Training: HPC Courses -
-[https://www.wolfram.com/training/courses/hpc/](https://www.wolfram.com/training/courses/hpc/)
-* PRACE Tutorials - [http://www.training.prace-ri.eu/tutorials/index.html](http://www.training.prace-ri.eu/tutorials/index.html)
-* LLNL HPC Trainings - [https://computing.llnl.gov/?set=training&page=index](https://computing.llnl.gov/?set=training&page=index)
-* NCI Trainings - [http://nci.org.au/user-support/training/](http://nci.org.au/user-support/training/)
-* SCAI Online Training - [http://www.hpc.cineca.it/content/online-training](http://www.hpc.cineca.it/content/online-training)
-* Georgia Tech HPC Course -
-[https://www.udacity.com/course/high-performance-computing--ud281](https://www.udacity.com/course/high-performance-computing--ud281)
-* HLRS HPC Online Workshops -
-[https://fs.hlrs.de//projects/par/par_prog_ws/](https://fs.hlrs.de//projects/par/par_prog_ws/)
-* ACM SIG HPC - [http://sighpceducation.acm.org/resources.html]()
-* University of Washington HPC Course - 
-[http://faculty.washington.edu/rjl/uwhpsc-coursera/](http://faculty.washington.edu/rjl/uwhpsc-coursera/)
-* NVIDIA Courses - [https://developer.nvidia.com/educators/existing-courses](https://developer.nvidia.com/educators/existing-courses)
-* Software Carpentry - [http://software-carpentry.org/](http://software-carpentry.org/)
-* Data Carpentry - [http://www.datacarpentry.org/](http://www.datacarpentry.org/)
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+	<li>Open Science Grid User School - <a href="http://opensciencegrid.org/UserSchool">http://opensciencegrid.org/UserSchool</a></li>
+	<li>OSG Connect Helpdesk - <a href="https://support.opensciencegrid.org/support/home">https://support.opensciencegrid.org/support/home</a></li>
+	<li>NCSA Cyberinfrastructure Tutor - <a href="https://www.citutor.org/browse.php">https://www.citutor.org/browse.php</a></li>
+	<li>Cornell Virtual Workshop - <a href="https://cvw.cac.cornell.edu/topics">https://cvw.cac.cornell.edu/topics</a></li>
+	<li>Virtual School of Computational Science and Engineering -
+	<a href="http://www.vscse.org/">http://www.vscse.org/</a></li>
+	<li>HPC University - <a href="http://hpcuniversity.org/trainingMaterials/">http://hpcuniversity.org/trainingMaterials/</a></li>
+	<li>ARCHER Virtual Tutorials -
+<a href="https://www.archer.ac.uk/training/virtual/index.php">https://www.archer.ac.uk/training/virtual/index.php</a></li>
+	<li>Wolfram Training: HPC Courses -
+<a href="https://www.wolfram.com/training/courses/hpc/">https://www.wolfram.com/training/courses/hpc/</a></li>
+	<li>PRACE Tutorials - <a href="http://www.training.prace-ri.eu/tutorials/index.html">http://www.training.prace-ri.eu/tutorials/index.html</a></li>
+	<li>LLNL HPC Trainings - <a href="https://computing.llnl.gov/?set=training&page=index">https://computing.llnl.gov/?set=training&page=index</a></li>
+	<li>NCI Trainings - <a href="http://nci.org.au/user-support/training/">http://nci.org.au/user-support/training/</a></li>
+	<li>SCAI Online Training - <a href="http://www.hpc.cineca.it/content/online-training">http://www.hpc.cineca.it/content/online-training</a></li>
+	<li>Georgia Tech HPC Course -
+<a href="https://www.udacity.com/course/high-performance-computing--ud281">https://www.udacity.com/course/high-performance-computing--ud281</a></li>
+	<li>HLRS HPC Online Workshops -
+<a href="https://fs.hlrs.de//projects/par/par_prog_ws/">https://fs.hlrs.de//projects/par/par_prog_ws/</a></li>
+<li>ACM SIG HPC - <a href="http://sighpceducation.acm.org/resources.html">http://sighpceducation.acm.org/resources.html</a></li>
+	<li>University of Washington HPC Course -
+<a href="http://faculty.washington.edu/rjl/uwhpsc-coursera/">http://faculty.washington.edu/rjl/uwhpsc-coursera/</a></li>
+	<li>NVIDIA Courses - <a href="https://developer.nvidia.com/educators/existing-courses">https://developer.nvidia.com/educators/existing-courses</a></li>
+	<li>Software Carpentry - <a href="http://software-carpentry.org/">http://software-carpentry.org/</a></li>
+	<li>Data Carpentry - <a href="http://www.datacarpentry.org/">http://www.datacarpentry.org/</a></li>
+   </ul>
+</div>
 The examples provided for existing documentation resources providers not
 exhaustive. They are intended to provide concrete examples of
 documentation and training materials that current facilitators find
@@ -255,14 +265,16 @@ mind, facilitators can begin reaping the benefits of social networks by
 joining various sites such as LinkedIn or Researchgate, which are aimed
 at professional and research communications. Examples of LinkedIn groups
 include:
-
-* HPC - [https://www.linkedin.com/topic/high-performance-computing]()
-* Cloud Computing - [https://www.linkedin.com/groups/61513/profile]()
-* Women in HPC - [https://www.linkedin.com/groups/8105215/profile]()
-* Multicore and Parallel Computing -
-[https://www.linkedin.com/groups/1156517/profile]()
-* CUDA Developers - [https://www.linkedin.com/groups/1956294]()
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+    <li>HPC - <a href="https://www.linkedin.com/topic/high-performance-computing">https://www.linkedin.com/topic/high-performance-computing</a></li>
+    <li>Cloud Computing -  <a href="https://www.linkedin.com/groups/61513/profile">https://www.linkedin.com/groups/61513/profile</a></li>
+    <li>Women in HPC - <a href="https://www.linkedin.com/groups/8105215/profile">https://www.linkedin.com/groups/8105215/profile</a></li>
+	<li>Multicore and Parallel Computing -
+	<a href="https://www.linkedin.com/groups/1156517/profile">https://www.linkedin.com/groups/1156517/profile</a></li>
+	<li>CUDA Developers - <a href="https://www.linkedin.com/groups/1956294">https://www.linkedin.com/groups/1956294</a></li>
+    </ul>
+</div>
 Before social media, professional organizations commonly provided an
 outlet for networking with colleagues and learning of updates and the
 latest trends. Most organizations have transitioned to social media and
@@ -273,14 +285,17 @@ opportunities for participating in committees and governance groups.
 Some examples of professional organizations that current ACI
 facilitators find useful are listed below:
 
-* ACM SIG HPC - [http://sighpceducation.acm.org/](http://sighpceducation.acm.org/)
-* XSEDE Campus Champions - [https://www.xsede.org/campus-champions](https://www.xsede.org/campus-champions)
-* HPC Society - [http://www.hpcsociety.org/](http://www.hpcsociety.org/)
-* IEEE - [http://www.ieee.org]([http://www.ieee.org)
-* SIAM - [http://www.siam.org/](http://www.siam.org/)
-* Software Carpentry Contributors - [http://software-carpentry.org/about/](http://software-carpentry.org/about/)
-* Data Carpentry Contributors - [http://www.datacarpentry.org/involved/](http://www.datacarpentry.org/involved/)
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+    <li>ACM SIG HPC - <a href="http://sighpceducation.acm.org/">http://sighpceducation.acm.org/</a></li>
+	<li>XSEDE Campus Champions - <a href="https://www.xsede.org/campus-champions">https://www.xsede.org/campus-champions</a></li>
+	<li>HPC Society - <a href="http://www.hpcsociety.org/">http://www.hpcsociety.org/</a></li>
+	<li>IEEE - <a href="http://www.ieee.org">http://www.ieee.org</a></li>
+	<li>SIAM - <a href="http://www.siam.org/">http://www.siam.org/</a></li>
+	<li>Software Carpentry Contributors - <a href="http://software-carpentry.org/about/">http://software-carpentry.org/about/</a></li>
+	<li>Data Carpentry Contributors - <a href="http://www.datacarpentry.org/involved/">http://www.datacarpentry.org/involved/</a></li>
+    </ul>
+</div>
 The examples provided for social media and organizations are not
 exhaustive. They are intended to provide concrete examples that can be
 used to gauge the utility of further and future sites, as they arise or
@@ -301,32 +316,40 @@ this section and on the ACI-REF website.
 
 ### Journals and magazines
 
-* The Journal of Supercomputing -
-[http://www.springer.com/computer/swe/journal/11227](http://www.springer.com/computer/swe/journal/11227)
-* Go Parallel - [http://goparallel.sourceforge.net/](http://goparallel.sourceforge.net/)
-* ACM Special Interest Group on High Performance Computing: Digital
-Library - [http://www.sighpc.org/resources/dl](http://www.sighpc.org/resources/dl)
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+	<li>The Journal of Supercomputing -
+<a href="http://www.springer.com/computer/swe/journal/11227">http://www.springer.com/computer/swe/journal/11227</a></li>
+	<li>Go Parallel - <a href="http://goparallel.sourceforge.net/">http://goparallel.sourceforge.net/</a></li>
+	<li>ACM Special Interest Group on High Performance Computing: Digital
+	Library - <a href="http://www.sighpc.org/resources/dl">http://www.sighpc.org/resources/dl</a></li>
+    </ul>
+</div>
 ### Blogs
-
-* HPC Wire - [http://hpcwire.com](http://hpcwire.com)
-* Inside HPC - [http://insidehpc.com/](http://insidehpc.com/)
-* The Register, Data Center : HPC  -
-[http://www.theregister.co.uk/data_centre/hpc/](http://www.theregister.co.uk/data_centre/hpc/)
-* HPC Notes - [http://www.hpcnotes.com/](http://www.hpcnotes.com/)
-* ACM Special Interest Group on High Performance Computing -
-[http://www.sighpc.org/](http://www.sighpc.org/)
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+	<li>HPC Wire - <a href="http://hpcwire.com">http://hpcwire.com</a></li>
+	<li>Inside HPC - <a href="http://insidehpc.com/">http://insidehpc.com/</a></li>
+	<li>The Register, Data Center : HPC  -
+<a href="http://www.theregister.co.uk/data_centre/hpc/">http://www.theregister.co.uk/data_centre/hpc/</a></li>
+	<li>HPC Notes - <a href="http://www.hpcnotes.com/">http://www.hpcnotes.com/</a></li>
+	<li>ACM Special Interest Group on High Performance Computing -
+<a href="http://www.sighpc.org/">http://www.sighpc.org/</a></li>
+    </ul>
+</div>
 ### Vendor blogs and publications
 
-* Cray Blog - [http://www.cray.com/blog/](http://www.cray.com/blog/)
-* Dell HPC Blog - [http://en.community.dell.com/techcenter/high-performance-computing/](http://en.community.dell.com/techcenter/high-performance-computing/)
-* Cisco HPC Blog - [http://blogs.cisco.com/tag/hpc](http://blogs.cisco.com/tag/hpc)
-* SGI Blog - [http://blog.sgi.com/](http://blog.sgi.com/)
-* Puget Systems HPC Blog - [https://www.pugetsystems.com/all_hpc.php](https://www.pugetsystems.com/all_hpc.php)
-* Mellanox HPC Blog - [http://www.mellanox.com/blog/category/hpc/](http://www.mellanox.com/blog/category/hpc/)
-* Microsoft HPC Blog - [https://blogs.technet.microsoft.com/windowshpc/](https://blogs.technet.microsoft.com/windowshpc/)
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+    <li>Cray Blog - <a href="http://www.cray.com/blog/">http://www.cray.com/blog/</a></li>
+	<li>Dell HPC Blog - <a href="http://en.community.dell.com/techcenter/high-performance-computing/">http://en.community.dell.com/techcenter/high-performance-computing/</a></li>
+	<li>Cisco HPC Blog - <a href="http://blogs.cisco.com/tag/hpc">http://blogs.cisco.com/tag/hpc</a></li>
+	<li>SGI Blog - <a href="http://blog.sgi.com/">http://blog.sgi.com/</a></li>
+	<li>Puget Systems HPC Blog - <a href="https://www.pugetsystems.com/all_hpc.php">https://www.pugetsystems.com/all_hpc.php</a></li>
+	<li>Mellanox HPC Blog - <a href="http://www.mellanox.com/blog/category/hpc/">http://www.mellanox.com/blog/category/hpc/</a></li>
+	<li>Microsoft HPC Blog - <a href="https://blogs.technet.microsoft.com/windowshpc/">https://blogs.technet.microsoft.com/windowshpc/</a></li>
+    </ul>
+</div>
 The examples provided for journals, blogs and magazines are not
 exhaustive. They are intended to provide concrete examples of materials
 that current ACI-REFs find useful.
@@ -349,23 +372,28 @@ already have little to spare. Ideally, they will choose networks that
 provide the most benefit, and can do so by looking for networks that
 meet the following criteria:
 
-* The network has a common and defined interest/goal
-* The network is active via electronic communication (slack, email, forum
-etc)
-* The network follows a regular schedule for conference calls or virtual
-interactions
-* The network meets periodically at conferences for face-to-face
-interactions
-* The network is positive in communications about the subject of interest
-but also able to be constructively critical
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+	<li>The network has a common and defined interest/goal</li>
+	<li>The network is active via electronic communication (slack, email, forum
+etc)</li>
+	<li>The network follows a regular schedule for conference calls or virtual
+interactions</li>
+	<li>The network meets periodically at conferences for face-to-face
+interactions</li>
+	<li>The network is positive in communications about the subject of interest
+but also able to be constructively critical</li>
+</ul>
+</div>
 Some professional networks that meet the above criteria and are related
 to ACI are:
-
-* Campus champions - https://www.xsede.org/campus-champions
-* Internet 2 - http://www.internet2.edu/communities-groups/members/
-* ACI-REF - http://aciref.org
-
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+    	<li>Campus champions - <a href="https://www.xsede.org/campus-champions">https://www.xsede.org/campus-champions</a></li>
+    	<li>Internet 2 - <a href="http://www.internet2.edu/communities-groups/members/">http://www.internet2.edu/communities-groups/members/</a></li>
+    	<li>ACI-REF - <a href="http://aciref.org">http://aciref.org</a></li>
+    </ul>
+</div>
 
 Not to overlook the local resources at a facilitator's disposal,
 networks can also be internal to an institution and the facilitator

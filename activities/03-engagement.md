@@ -3,6 +3,7 @@ layout: chapter
 title: Engagement with Researchers
 prev: 02-outreach
 next: 04-aci_plan
+icon: Ch3.png
 ---
 
 *One-on-one and small-group meetings to understand researcher goals and
@@ -35,18 +36,22 @@ accelerating the adoption of ACI resources in support of research
 endeavors, play a crucial role in an ACI plan's development and in
 contributing to the plan's success. Activities defined as engagement may include:
 
-* Development of ACI Plans describing the overall strategies by which a
-researcher will proceed
-* Implementing the use of one or more ACI resources for a project 
-* Attending initial and on-going meetings to discuss a researcher's
-projects, goals, and roadmap
-* Collaborating with a researcher on a portion of their project related
-to ACI, to enable their use of a resource near-term
-* Transferring knowledge that leads to a researcher’s effective
-utilization of resources
-* Developing long-term plans as part of a larger ACI plan
-* Consulting with a researcher on aspects of a project for which the
-Facilitator has domain expertise
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+	<li>Development of ACI Plans describing the overall strategies by which a
+	researcher will proceed</li>
+	<li>Implementing the use of one or more ACI resources for a project</li>
+	<li>Attending initial and on-going meetings to discuss a researcher's
+projects, goals, and roadmap</li>
+	<li>Collaborating with a researcher on a portion of their project related
+to ACI, to enable their use of a resource near-term</li>
+	<li>Transferring knowledge that leads to a researcher’s effective
+utilization of resources</li>
+	<li>Developing long-term plans as part of a larger ACI plan</li>
+	<li>Consulting with a researcher on aspects of a project for which the
+	Facilitator has domain expertise</li>
+    </ul>
+</div>
 
 As a rule, tasks done on behalf of a researcher their own hands-on involvement 
 are not engagement. 
@@ -100,11 +105,15 @@ meeting is recommended at least for the initial meeting.
 The impetus of initial engagements vary between institutions, and even
 between departments within an institution, but commonly they arise from:
 
-* requests for access to ACI resources
-* training workshop follow-ups
-* new faculty on-boarding sessions
-* assistance for an issue related to use of a ACI resource
-* referrals from other IT personnel, departments, or other researchers
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+    	<li>requests for access to ACI resources</li>
+	    <li>training workshop follow-ups</li>
+	    <li>new faculty on-boarding sessions</li>
+	    <li>assistance for an issue related to use of a ACI resource</li>
+	    <li>referrals from other IT personnel, departments, or other researchers</li>
+    </ul>
+</div>
 
 The product of this meeting should be an course of action — an ACI plan
 — that outlines how the ACI team can be of assistance, in addition to
@@ -294,15 +303,16 @@ to be done by each party. The practice of reviewing is key, as
 individuals may otherwise leave a meeting with widely varying ideas and
 expectations about future outcomes. Furthermore, we recommend a pattern
 of discussing the tasks and a timeline. For example:
-
-* "I will email or call by the end of next week."
-
-* "The system administrator is going to setup an account on the cluster
-by Thursday and will email you the account login information."  
-
-* "I’ll send you an email by the end of the day summarizing everything
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+	<li>"I will email or call by the end of next week."</li>
+	<li>"The system administrator is going to setup an account on the cluster
+by Thursday and will email you the account login information."  </li>
+	<li>"I’ll send you an email by the end of the day summarizing everything
 we’ve discussed and links to the web pages we went over today so you can
-get started as soon as you’re ready."
+get started as soon as you’re ready."</li>
+</ul>
+</div>
 
 After the engagement, the Facilitator can continue to assist the
 researcher, bringing in other members of the ACI team as necessary (see
@@ -331,20 +341,24 @@ are looking for assistance. Therefore, Facilitators are the ones to
 identify potential engagements and initiate meetings. There are
 several places to look at for making engagement conversions:
 
-* Ticket reviews: Browsing through assistance tickets can point to
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+	<li>Ticket reviews: Browsing through assistance tickets can point to
 researchers that can benefit from a proactive engagement to discuss
-accelerating their research.
-* Email reviews: Browsing your emails and team emails for previous
-assistance, introductions, and relevant information.
-* Follow-ups from training sessions: Invitations to training attendees
-for face-to-face follow-ups can drum up engagement opportunities.
-* Survey responses: Surveys about services and trainings can point to
-researchers that could benefit from an engagement.
-* Referrals from other ACI and IT staff: Both solicited and unsolicited
+accelerating their research.</li>
+	<li>Email reviews: Browsing your emails and team emails for previous
+assistance, introductions, and relevant information.</li>
+	<li>Follow-ups from training sessions: Invitations to training attendees
+for face-to-face follow-ups can drum up engagement opportunities.</li>
+	<li>Survey responses: Surveys about services and trainings can point to
+researchers that could benefit from an engagement.</li>
+	<li>Referrals from other ACI and IT staff: Both solicited and unsolicited
 referrals can be useful opportunities for
 establishing an engagement. Meetings between local service providers
 over researcher-related assistance requests or researchers observed
-needing additional resources or help can often yield new leads.
+needing additional resources or help can often yield new leads.</li>
+	</ul>
+</div>
 
 To provide the best ROI, Facilitators should be proactively seeking out
 engagements since researchers are focused their science. Aside from being mindful of
@@ -387,36 +401,42 @@ processes and procedures for documenting and tracking researcher
 engagements there are a number of considerations. Some key items to
 keep in mind when developing these processes and procedures are:
 
-* Recognize how to reuse your solutions. Many times, the solutions for
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+<li>Recognize how to reuse your solutions. Many times, the solutions for
 one researcher’s problem may be applicable for others. Being able to
-locate, search, and browse previous approaches is useful.
-* Envision how the documentation from your engagement meeting will
-transition to action items and future interactions. For example: 
-    * Record any meeting notes into your system for review and historical reference. Others from your group will find the context useful and can look back at these notes to inform future interactions.
-    * Create assignable action items that can be tracked for progress. Consider how effort from the Facilitator and other ACI staff will need to scale.
-    * Schedule follow-up meeting, interactions, and communications.
-* Organize engagement documentation around a researcher and/or research
+locate, search, and browse previous approaches is useful. </li>
+<li>Envision how the documentation from your engagement meeting will
+transition to action items and future interactions. For example: </li>
+	<ul class="bullet-list-circle">
+    		<li>Record any meeting notes into your system for review and historical reference. Others from your group will find the context useful and can look back at these notes to inform future interactions.</li>
+		<li>Create assignable action items that can be tracked for progress. Consider how effort from the Facilitator and other ACI staff will need to scale.</li>
+		<li>Schedule follow-up meeting, interactions, and communications.</li>
+    </ul>
+<li>Organize engagement documentation around a researcher and/or research
 group. However you are tracking interactions, you may want to group
 engagements and assistance with individual researchers in the context of
 the central PI or group. This allows everything to be surveyed at once
-in the future.
-* Keep email correspondence together, as part of the engagement
-documentation.
-* Establish methods by which you can ensure balance between the effort
+in the future.</li>
+<li>Keep email correspondence together, as part of the engagement
+documentation.</li>
+<li>Establish methods by which you can ensure balance between the effort
 used in documentation and the efforts following implementation of an ACI
 plan. Especially for complex use cases, there can be a tendency to go
-overboard.   
-* Obtain management buy-in on record keeping procedures. If you have to
+overboard.</li>
+<li>Obtain management buy-in on record keeping procedures. If you have to
 devote a portion of time to documenting this information, ensure that
-you can justify the effort for your procedures.
-* Ensure compliance with your institutional policies in regard to
+you can justify the effort for your procedures.</li>
+<li>Ensure compliance with your institutional policies in regard to
 security and user information. Utilize your institution’s best practices
 on where information about researchers is stored and how it is accessed.
 For instance, can/should it be accessible from only within the
 institution (i.e. web accessible)? In some of the current ACI-REF
 institutions, this information is web accessible only with SSL
 encryption and role-based access in place. Consult with your campus IT
-or security team if you are unsure.
+or security team if you are unsure.</li>
+	</ul>
+</div>
 
 Remember, one of the overall goals of creating this tracking system is
 to convey a professional and organized appearance by capturing the
@@ -439,43 +459,50 @@ research computing ACI teams are tightly coupled with central IT.
 
 Some infrastructure features that should be considered when implementing a tracking system:
 
-* Centralized directory: A system that has a shared, centralized repository of user
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+	<li>Centralized directory: A system that has a shared, centralized repository of user
 information, including information about research goals, as well as any
-ACI Plan(s).
-* Flexible search capabilities: As more researcher information will
+ACI Plan(s).</li>
+	<li>Flexible search capabilities: As more researcher information will
 populate the system -- being able to find relevant references to
-research activities easily is essential.
-* Integration with your existing email ticket system:  Some
+research activities easily is essential.</li>
+	<li>Integration with your existing email ticket system:  Some
 help ticketing systems have additional features or an API integration
 point that could be useful. If an email help system is not currently in use,
-adopting one is strongly recommended.
-* Automated notification reminders: Review client information at set
+adopting one is strongly recommended.</li>
+	<li>Automated notification reminders: Review client information at set
 intervals. This feature might prove useful as new ACI capabilities are
-released that can benefit a researcher.
-* Integration of assessment data: Most sites survey users before and
+released that can benefit a researcher.</li>
+	<li>Integration of assessment data: Most sites survey users before and
 after trainings, or at periodic times. Being able to organize this
 information is helpful especially in the context of a user’s research
-(see the *Assessment/Metrics* chapter for more details). 
+(see the *Assessment/Metrics* chapter for more details).</li>
+</ul>
+</div>
 
 Some of the tools being used to track engagements by the current ACI-REF institutions are:
-
-* REDCap ([http://project-redcap.org](http://project-redcap.org/)) – the
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+	<li>REDCap ([http://project-redcap.org](http://project-redcap.org/)) – the
 Center for High Performance Computing at University of Utah has used this
-tool to track engagements and interactions with researchers.
-* Redmine ([http://redmine.org](http://redmine.org)) – the University of
+tool to track engagements and interactions with researchers.</li>
+	<li>Redmine ([http://redmine.org](http://redmine.org)) – the University of
 Hawaii’s CI team has made use of this software development/project
-management tool to organize and track ACI-REF projects and information.
-* Basecamp ([https://basecamp.com/](https://basecamp.com/)) – the Center
+management tool to organize and track ACI-REF projects and information.</li>
+	<li>Basecamp ([https://basecamp.com/](https://basecamp.com/)) – the Center
 for High Performance Computing University of Utah uses this for project
 management. In some cases, Basecamp is used to coordinate tasks for a
-portion of a researcher's ACI plan.
-* The University of Wisconsin has an in-house web app for account
+portion of a researcher's ACI plan.</li>
+	<li>The University of Wisconsin has an in-house web app for account
 management, associating researchers with projects, and note-taking by
 Facilitators and other staff. The data itself is stored in a database
-and integrates with campus NetIDs for usernames of researches on campus.
-* Service Now ([http://www.servicenow.com](http://www.servicenow.com)) -
+and integrates with campus NetIDs for usernames of researches on campus.</li>
+	<li>Service Now ([http://www.servicenow.com](http://www.servicenow.com)) -
 USC utilizes SNOW as a university-wide ticketing system. They also use
-USC-secure Google documentation to track more complex ACIREF engagements.
+USC-secure Google documentation to track more complex ACIREF engagements.</li>
+</ul>
+</div>
 
 Regardless of the tools and procedures chosen to develop the tracking
 system and tracking, it is important that the facilitation team
@@ -498,10 +525,14 @@ used to report on facilitation activities, as well as on
 the impact of these activities. In regards to engagements, examples of
 metrics to track include:
 
-* Researcher information within department and research area
-* Total number of engagements in a set period (monthly, yearly etc)
-* Category/type of engagement
-* Engagement conversions 
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+	<li>Researcher information within department and research area</li>
+	<li>Total number of engagements in a set period (monthly, yearly etc)</li>
+	<li>Category/type of engagement</li>
+	<li>Engagement conversions</li>
+    </ul>
+</div>
 
 Be aware of how you can integrate this information into your assessment 
 data and metrics in order to save time later  (see the
