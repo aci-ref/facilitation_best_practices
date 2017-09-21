@@ -165,9 +165,13 @@ building up ACI resources and utilization.
 
 <table>
 <tr><td>
-![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.non-captioned}{:style="float:none;"}
+
+![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg)
+{:.non-captioned}
+
 </td></tr>
 </table>
+
 It is crucial that a new Facilitator understand the 
 existing and prospective user base. A
 new Facilitator should identify the major ACI users, the departments and
