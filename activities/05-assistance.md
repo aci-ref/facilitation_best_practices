@@ -463,8 +463,6 @@ stepwise progression for solving a complex issue.
 The following is an example of the above practices in an email
 communication with a researcher:
 
-Example 1: Email from researcher regarding file transfer
-
 ~~~
 ------------------------ 
 Hello, I tried to use ‘scp’ to copy data to my 
@@ -509,6 +507,9 @@ Michelle Facilitator
 Research Computing Facilitator, CHTC
 ------------------------ 
 ~~~
+<div class="caption">
+Example 1: Email from researcher regarding file transfer
+</div>
 
 <a name="issues-communicate"></a>
 <h2>Record communication for re-use</h2>
@@ -543,11 +544,14 @@ materials will be sufficient.
 
 Examples of non-issue requests can include: 
 
-1. What is the best way to run software “X” on the compute system? 
-2. How much data can I store? 
-3. Does anything on campus support my ACI need for “X”? 
-4. I’m about to start on a project and I wanted to ask about “X”.
-
+<div class="bullet-box">
+<ol>
+<li> What is the best way to run software “X” on the compute system?  </li> 
+<li> How much data can I store? </li>
+<li> Does anything on campus support my ACI need for “X”? </li>
+<li> I’m about to start on a project and I wanted to ask about “X”. </li>
+</ol>
+</div>
 When addressing such questions, a slightly different approach for
 information exchange may be appropriate, as demonstrated in the below
 steps, though the overall process is still very similar in some ways to
@@ -567,8 +571,6 @@ to fully understand the researcher’s intent and the scope of information
 they’re seeking, within the context of what the Facilitator already
 knows about the researcher’s relevant ACI knowledge, as is demonstrated
 in the following exchange:
-
-Example 2: Email from Researcher regarding the use of research computing resources
 
 ~~~
 ------------------------
@@ -603,7 +605,9 @@ starting points (variation files).
 -Jane
 --------------------------
 ~~~ 
-(continued later...)
+<div class="caption">
+Example 2: Email from Researcher regarding the use of research computing resources (continued later...)
+</div>
 
 <a name="non-anticipate"></a>
 <h2>Anticipate the Real and Next Questions</h2>
@@ -617,8 +621,6 @@ able to anticipate and answer other questions in order to reduce the
 amount of back-and-forth communication. Inviting a transition to an
 in-person meeting – perhaps more similar to an engagement – may even be
 a more appropriate solution for assisting the researcher.
-
-Example 2: (continued)
 
 ~~~
 ------------------------
@@ -649,6 +651,9 @@ Let me know if you have any questions about the above information.
 Michelle
 --------------------------
 ~~~
+<div class="caption">
+Example 2: (continued)
+</div>
 
 <a name="non-empower"></a>
 <h2>Empower the User to Find Her/His Own Answers</h2>
@@ -659,8 +664,6 @@ researcher’s goals. This practice is not only important for providing
 next steps, but also demonstrates how one might find answers to such
 questions more quickly in the future, as was hinted in the prior
 example. Another example of these practices is provided below:
-
-Example 3:  Email from researcher regarding command-line text editors
 
 ~~~
 Hello,
@@ -684,6 +687,9 @@ Cheers,
 Michelle Facilitator
 -------------------------
 ~~~
+<div class="caption">
+Example 3:  Email from researcher regarding command-line text editors
+</div>
 
 While it should always be the goal of a Facilitator to enable
 researchers to do more for themselves, indicating how a researcher can
@@ -716,11 +722,16 @@ may not think to ask about.
 
 A few possible reasons to proactively contact a user are:
 
-1. Metrics indicate misuse of an ACI resource. 
-2. Metrics indicate that a user’s work may be better optimized. 
-3. A sudden increase in the user’s activity potentially indicates a new type of work with different resource needs to address. 
-4. The Facilitator believes a follow up to previous assistance may be helpful, perhaps after reviewing tickets.
-5. The Facilitator may simply want to check in with a long-time user who hasn’t written in with any issues in some time.
+
+<div class="bullet-box">
+<ol>
+<li> Metrics indicate misuse of an ACI resource. </li>
+<li> Metrics indicate that a user’s work may be better optimized.  </li>
+<li> A sudden increase in the user’s activity potentially indicates a new type of work with different resource needs to address.  </li>
+<li> The Facilitator believes a follow up to previous assistance may be helpful, perhaps after reviewing tickets. </li>
+<li> The Facilitator may simply want to check in with a long-time user who hasn’t written in with any issues in some time. </li>
+</ol>
+</div>
 
 If the reason for contacting the researcher is more akin to issue
 resolution or proposing enhancements to the researcher’s use of ACI, the
