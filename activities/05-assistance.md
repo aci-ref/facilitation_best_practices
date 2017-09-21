@@ -543,11 +543,15 @@ materials will be sufficient.
 
 Examples of non-issue requests can include: 
 
-1. What is the best way to run software “X” on the compute system? 
-2. How much data can I store? 
-3. Does anything on campus support my ACI need for “X”? 
-4. I’m about to start on a project and I wanted to ask about “X”.
 
+<div class="bullet-box">
+<ol>
+<li> What is the best way to run software “X” on the compute system?  </li> 
+<li> How much data can I store? </li>
+<li> Does anything on campus support my ACI need for “X”? </li>
+<li> I’m about to start on a project and I wanted to ask about “X”. </li>
+</ol>
+</div>
 When addressing such questions, a slightly different approach for
 information exchange may be appropriate, as demonstrated in the below
 steps, though the overall process is still very similar in some ways to
