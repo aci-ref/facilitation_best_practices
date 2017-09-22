@@ -25,7 +25,6 @@ facilitators. Establishing initial connections with other staff.*
 
 # Introduction
 
-<<<<<<< HEAD
 This chapter is written primarily for newly hired Facilitators,
 especially those without prior experience with ACI facilitation and/or
 working as part of an ACI team. It is meant to assist new Facilitators
@@ -37,8 +36,6 @@ the on-boarding process that are specific to ACI facilitation, including
 organizational structure, computational resources, the ACI team, the
 user base, and current state of facilitation.
 
-=======
->>>>>>> fed21986d1e8ab5beb4a77ccd2ca8824377a2332
 *with modified img visual-right-wrappeds class*<br>
 This chapter is written primarily for newly hired Facilitators,
 especially those without prior experience with ACI facilitation and/or
