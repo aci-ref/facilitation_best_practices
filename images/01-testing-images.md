@@ -163,14 +163,14 @@ building up ACI resources and utilization.
 
 ## User base 
 
-![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300} | ![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300} | ![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300} | ![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300}
+![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300 width="100%" border="0" cellspacing="0" cellpadding="0"} | ![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300 width="100%" border="0" cellspacing="0" cellpadding="0"} | ![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300 width="100%" border="0" cellspacing="0" cellpadding="0"} | ![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300 width="100%" border="0" cellspacing="0" cellpadding="0"}
 
 <table><tr>
-<td><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"></td>
-<td><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"></td>
-<td><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"></td>
-<td><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"></td>
-</td></tr></table>
+<td><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching" width="100%" border="0" cellspacing="0" cellpadding="0"></td>
+<td><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching" width="100%" border="0" cellspacing="0" cellpadding="0"></td>
+<td><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching" width="100%" border="0" cellspacing="0" cellpadding="0"></td>
+<td><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching" width="100%" border="0" cellspacing="0" cellpadding="0"></td>
+</tr></table>
 
 It is crucial that a new Facilitator understand the 
 existing and prospective user base. A
