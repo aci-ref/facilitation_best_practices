@@ -512,5 +512,7 @@ td.img-panel{
   display: block;
   padding:0;
   margin:0;
+  border:0px;
+  border-radius: 0 !important;
 }
 /* ----- Other styling ------- */
