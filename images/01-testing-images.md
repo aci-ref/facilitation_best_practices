@@ -162,13 +162,12 @@ building up ACI resources and utilization.
 <a name="user-base"></a>
 
 ## User base 
+
 <table><tr><td>
-
-![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300}
-![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300}
-![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300}
-![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300}
-
+<img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching">
+<img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching">
+<img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching">
+<img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching">
 </td></tr></table>
 
 It is crucial that a new Facilitator understand the 
