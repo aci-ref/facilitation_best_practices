@@ -163,11 +163,13 @@ building up ACI resources and utilization.
 
 ## User base 
 
-<table><tr><td>
-<img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching">
-<img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching">
-<img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching">
-<img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching">
+![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300} | ![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300} | ![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300} | ![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300}
+
+<table><tr>
+<td><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"></td>
+<td><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"></td>
+<td><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"></td>
+<td><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"></td>
 </td></tr></table>
 
 It is crucial that a new Facilitator understand the 
