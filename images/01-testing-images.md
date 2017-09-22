@@ -166,10 +166,10 @@ building up ACI resources and utilization.
 ![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300 width="100%" border="0" cellspacing="0" cellpadding="0"} | ![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300 width="100%" border="0" cellspacing="0" cellpadding="0"} | ![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300 width="100%" border="0" cellspacing="0" cellpadding="0"} | ![Bob teaching]({{ site.baseurl }}/img/bob-teaching.jpg){:.captioned .size300 width="100%" border="0" cellspacing="0" cellpadding="0"}
 
 <table><tr>
-<td  border="0" cellspacing="0" cellpadding="0"><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"></td>
-<td  border="0" cellspacing="0" cellpadding="0"><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"></td>
-<td border="0" cellspacing="0" cellpadding="0"><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"></td>
-<td  border="0" cellspacing="0" cellpadding="0"><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"></td>
+<td  border="0" cellspacing="0" cellpadding="0"><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching" /></td>
+<td  border="0" cellspacing="0" cellpadding="0"><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching" /></td>
+<td border="0" cellspacing="0" cellpadding="0"><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching" /></td>
+<td  border="0" cellspacing="0" cellpadding="0"><img class="captioned size300" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching" /></td>
 </tr></table>
 
 It is crucial that a new Facilitator understand the 
