@@ -21,7 +21,7 @@ title: Introduction and Major Ideas
   <td><img class="panel" src="{{ site.baseurl }}/images/assistance_panel.png" alt="Engagement with Researcher"></td>
   <td><img class="panel" src="{{ site.baseurl }}/images/PEARC_forpanel.png" alt="ACI-REFs at PEARC17"></td>
   <td><img class="panel" src="{{ site.baseurl }}/images/bob-teaching_panel.png" alt="Bob Teaching"></td>
-  <td><img class="panel" src="{{ site.baseurl }}/images/officehours_panel.jpg" alt="Christina Office Hours"></td>
+  <td><img class="panel" src="{{ site.baseurl }}/images/officehours_panel.png" alt="Christina Office Hours"></td>
 </tr></tbody></table>
 
 With a focus on truly accelerating scientific discovery, the
