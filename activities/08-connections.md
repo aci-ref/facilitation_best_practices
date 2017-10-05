@@ -310,7 +310,7 @@ technology exchange. Researchers may even come to facilitators or
 similar staff to discuss the potential for a specific group they have in
 mind, or to request assistance in initiating and promoting the group.
 
-The most fruitful communities and groups may be those for which
+The most fruitful <img class="non-captioned size300" src="{{ site.baseurl }}/images/08_03_CommunitiesFlowChart.png" alt="Forming Communities">communities and groups may be those for which
 researchers assemble around interests that reach beyond the limits of
 individual departments and other academic boundaries. As previously
 described, campus groups have been formed around specific statistical
