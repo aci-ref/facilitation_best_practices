@@ -17,6 +17,13 @@ title: Introduction and Major Ideas
 <a name="goals"></a>
 <h2>Goals, Motivation, and Approach for Establishing Facilitation Best Practices</h2>
 
+<table class="img-panel"><tbody><tr>
+  <td><img class="panel" src="{{ site.baseurl }}/images/assistance_panel.png" alt="Engagement with Researcher"></td>
+  <td><img class="panel" src="{{ site.baseurl }}/images/PEARC_forpanel.png" alt="ACI-REFs at PEARC17"></td>
+  <td><img class="panel" src="{{ site.baseurl }}/images/bob-teaching_panel.png" alt="Bob Teaching"></td>
+  <td><img class="panel" src="{{ site.baseurl }}/images/officehours_panel.png" alt="Christina Office Hours"></td>
+</tr></tbody></table>
+
 With a focus on truly accelerating scientific discovery, the
 <a href="http://aci-ref.org">ACI-REF (Advanced Cyberinfrastructure - Research and Education
 Facilitators) project</a> is changing the way that campuses approach cyberinfrastructure 
