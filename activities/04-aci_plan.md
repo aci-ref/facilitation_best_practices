@@ -338,7 +338,7 @@ For ACI plans in-progress, the team should internally review the
 projects every week and perhaps review with the researcher once a month.
  However, this all depends on the workloads of both your team and the
 researcher, and the amount of progress that has been made.  At the very
-least, sending periodic updates to communicates that work is
+least, sending periodic updates to communicate that work is
 on-going never hurts.
 
 A good time to follow up on completed ACI plans is around eight weeks
