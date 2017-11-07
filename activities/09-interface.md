@@ -71,6 +71,9 @@ Jump to: [top](#toc)
 
 # Collaborating with ACI Staff in Your Working Group
 
+<div class="captioned">
+<a href="http://chtc.cs.wisc.edu/people.shtml" target="_blank"><img class="captioned size300" src="{{ site.baseurl }}/images/09_02_UWteam-2016.jpeg" alt="UW CHTC Staff"></a><br>The CHTC team at UW-Madison, including ACI-REFs
+</div>
 First and foremost, Facilitators will collaborate regularly and
 significantly with members of their immediate working group, especially
 in supporting the day-to-day activities of working with researchers. The
@@ -169,6 +172,9 @@ Jump to: [top](#toc)
 
 # Building Connections beyond Your Direct Working Group
 
+<div class="captioned">
+<a href="https://aciref.org/facilitators/bios/" target="_blank"><img class="captioned size300" src="{{ site.baseurl }}/images/09_02_PEARC17chat.jpg" alt="UW CHTC Staff"></a><br>ACI-REFs chatting between sessions at PEARC17
+</div>
 Because a Facilitator should act as an “honest broker” for researchers
 by pointing them to the most appropriate ACI resources beyond the
 Facilitator’s home organization, Facilitators will benefit from forming

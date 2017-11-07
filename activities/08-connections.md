@@ -106,7 +106,17 @@ Jump to: [top](#toc)
 
 <a name="topics"></a>
 
-## Build Connections around Topics
+## Build Connections around Commonalities
+
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+<li>by Research Domain</li>
+<li>by Computational Methods</li>
+<li>by Software</li>
+<li>by Data Types</li>
+<li>by Professional Roles and Practices</li>
+    </ul> 
+</div>
 
 ### Research Domain 
 
@@ -172,7 +182,7 @@ benefit not only from sharing software use practices for but also for
 sharing licenses (e.g. Comsol, which is used across a number of research
 domains for physical simulations). 
 
-### Data 
+### Data Types
 
 Researchers may also find
 commonalities and share practice around common data formats, methods for
@@ -300,7 +310,7 @@ technology exchange. Researchers may even come to facilitators or
 similar staff to discuss the potential for a specific group they have in
 mind, or to request assistance in initiating and promoting the group.
 
-The most fruitful communities and groups may be those for which
+The most fruitful <img class="non-captioned size300" src="{{ site.baseurl }}/images/08_03_CommunitiesFlowChart.png" alt="Forming Communities">communities and groups may be those for which
 researchers assemble around interests that reach beyond the limits of
 individual departments and other academic boundaries. As previously
 described, campus groups have been formed around specific statistical
