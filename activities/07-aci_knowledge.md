@@ -358,6 +358,11 @@ that current ACI-REFs find useful.
 
 # Using Connections With Other ACI Staff/Facilitators
 
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/img/aci-ref-conf-call.png" alt="Conf call">>
+ACI-REFs participating in a video conference call
+</div>
+
 Neither science nor facilitation take place in a vacuum. It takes an
 academic village, where villagers know one another and work together, to
 foster inquiry and research. These villages, or communities of practice,
