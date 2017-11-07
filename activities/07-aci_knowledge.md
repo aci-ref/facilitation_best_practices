@@ -359,7 +359,7 @@ that current ACI-REFs find useful.
 # Using Connections With Other ACI Staff/Facilitators
 
 <div class="captioned">
-<img class="captioned size300" src="{{ site.baseurl }}/img/aci-ref-conf-call.png" alt="Conf call">>
+<img class="captioned size300" src="{{ site.baseurl }}/images/aci-ref-conf-call.png" alt="Conf call">>
 ACI-REFs participating in a video conference call
 </div>
 
