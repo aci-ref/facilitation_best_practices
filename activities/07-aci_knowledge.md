@@ -57,6 +57,11 @@ strategies for staying current with ACI resources as a Facilitator.
 
 # Trainings and Professional Development 
 
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/refs-being-trained-osg.jpg" alt="REFs being trained">
+ACI-REFs being trained at the Open Science Grid (OSG) User School
+</div>
+
 In addition to studying online
 resources and published materials on their own, it is recommended that
 Facilitators participate in professional development opportunities that
@@ -167,6 +172,12 @@ ACI facilitators are:
 	<li>Internet2 conferences</li>
     </ul>
 </div>
+
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/arcc-panel.jpg" alt="ARCC panel">
+ACI-REF panel session at the Advanced Research Computing Consortium (ARCC) meeting
+</div>
+
 There are a variety of conference opportunities to choose from and all
 have the potential to be beneficial if relevant organizations, content
 and people are present.  Keep in mind the benefit of the conference as
