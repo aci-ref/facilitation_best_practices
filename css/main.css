@@ -448,6 +448,19 @@ header.header-post .post-heading .post-subheading {
 }
 1
 
+.bullet-list-checkbox {
+  list-style-type: none;
+  position: relative;     /* It is required for setting position to absolute in the next rule. */
+}
+}
+.bullet-list-checkbox:before {
+  content: '\2611';       /* The unicode for • character */
+  position: absolute;
+  left: -0.8em;          /* Adjust this value so that it appears where you want. */
+  font-size: 1.1em;       /* Adjust this value so that it appears what size you want. */
+}
+
+
 .figure {
   float: right;
   width: 30%;

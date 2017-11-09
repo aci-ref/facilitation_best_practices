@@ -55,6 +55,15 @@ projects</li>
         <li>Demonstrate the return on the investment in ACI resources</li>
     </ul>
 </div>
+
+<div class="bullet-box">
+    <ul class="bullet-list-checkbox">
+        <li>Describe how researchers can obtain access to ACI</li>
+        <li>Increase awareness about ACI capabilities</li>
+    </ul>
+</div>
+
+
 There are a variety of outreach avenues, and Facilitators should make
 themselves aware of the ones available at their institution as well as
 determining the way to best leverage each depending on the situation and
