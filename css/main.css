@@ -460,7 +460,7 @@ header.header-post .post-heading .post-subheading {
   font-size: 1.1em;       /* Adjust this value so that it appears what size you want. */
 }
 
-li.checkbox {
+li.list-checkbox {
   list-style-image: url("{{ site.baseurl }}/img/u2611-30perc.png");
   vertical-align:bottom;
 }
