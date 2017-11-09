@@ -58,7 +58,7 @@ projects</li>
 
 <div class="bullet-box">
     <ul class="bullet-list-checkbox">
-        <li class="bullet-list-square">Describe how researchers can obtain access to ACI</li>
+        <li class="bullet-list-checkbox">Describe how researchers can obtain access to ACI</li>
         <li>Increase awareness about ACI capabilities</li>
     </ul>
 </div>
