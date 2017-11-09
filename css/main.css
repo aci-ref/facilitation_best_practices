@@ -448,6 +448,9 @@ header.header-post .post-heading .post-subheading {
 }
 1
 
+/* ----- Not sure why both of these are needed, but only works this way ------- */
+
+
 .list-checkbox li {
   list-style-image: url("/facilitation_best_practices/img/u2611-30perc.png");
   list-style-type: none;
@@ -457,6 +460,8 @@ header.header-post .post-heading .post-subheading {
   list-style-image: url("/facilitation_best_practices/img/u2611-30perc.png");
   list-style-type: none;
 }
+
+/* ----- ------- */
 
 
 
