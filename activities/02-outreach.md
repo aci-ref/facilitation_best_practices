@@ -45,7 +45,7 @@ might include:
 
 <div class="bullet-box">
     <ul class="bullet-list-square">
-        <li>Describe how researchers can obtain access to ACI</li>
+        <li style="list-style-type: '★';">Describe how researchers can obtain access to ACI</li>
 <li style='list-style-type:"☑";'>Increase awareness about ACI capabilities</li>
 <li style='list-style:url("{{ site.baseurl }}/img/u2611-orig.png");'>Discuss the applicability of available ACI solutions to research
 projects</li>
