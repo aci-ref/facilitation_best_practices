@@ -46,14 +46,14 @@ might include:
 <div class="bullet-box">
     <ul class="bullet-list-square">
         <li style="list-style-type: '★';">Describe how researchers can obtain access to ACI</li>
-<li style='list-style-type:"☑";'>Increase awareness about ACI capabilities</li>
-<li style='list-style:url("{{ site.baseurl }}/img/u2611-orig.png");'>Discuss the applicability of available ACI solutions to research
+        <li style='list-style-type: "☑";'>Increase awareness about ACI capabilities</li>
+        <li style='list-style-image: url("{{ site.baseurl }}/img/u2611-orig.png");'>Discuss the applicability of available ACI solutions to research
 projects</li>
-<li style='list-style:url("{{ site.baseurl }}/img/u2611-50perc.png">Promote the existence and importance of Facilitators</li>
-<li>Demonstrate aspects of facilitation</li>
-<li>Highlight outcomes from the use of the ACI resources</li>
-<li>Demonstrate the return on the investment in ACI resources</li>
-</ul>
+        <li style='list-style-image: url("{{ site.baseurl }}/img/u2611-50perc.png");'>Promote the existence and importance of Facilitators</li>
+        <li>Demonstrate aspects of facilitation</li>
+        <li>Highlight outcomes from the use of the ACI resources</li>
+        <li>Demonstrate the return on the investment in ACI resources</li>
+    </ul>
 </div>
 There are a variety of outreach avenues, and Facilitators should make
 themselves aware of the ones available at their institution as well as
