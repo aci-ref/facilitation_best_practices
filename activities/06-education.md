@@ -494,6 +494,11 @@ in special sections toward the end of a learning unit, perhaps under an
 
 ## Use Visual Aids
 
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/visual-aids-in-facilitation.jpg" alt="Visual aids">
+Visual aids help communicate systems, concepts and processes effectively
+</div>
+
 Visual aids should be incorporated to represent ACI systems,
 interrelated concepts, and decision processes, where applicable.[^6]
  Overall context in written and verbally-delivered materials is
