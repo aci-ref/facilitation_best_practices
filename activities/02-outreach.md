@@ -51,7 +51,7 @@ might include:
 projects</li>
         <li style='list-style-image: url("{{ site.baseurl }}/img/u2611-50perc.png");'>Promote the existence and importance of Facilitators</li>
         <li>Demonstrate aspects of facilitation</li>
-        <li>Highlight outcomes from the use of the ACI resources</li>
+        <li style='list-style-image: url("{{ site.baseurl }}/img/u2611-30perc.png");'>Highlight outcomes from the use of the ACI resources</li>
         <li>Demonstrate the return on the investment in ACI resources</li>
     </ul>
 </div>
