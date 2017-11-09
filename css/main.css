@@ -448,6 +448,23 @@ header.header-post .post-heading .post-subheading {
 }
 1
 
+/* ----- Not sure why both of these are needed, but only works this way ------- */
+
+
+.list-checkbox li {
+  list-style-image: url("/facilitation_best_practices/img/u2611-30perc.png");
+  list-style-type: none;
+}
+
+.list-checkbox {
+  list-style-image: url("/facilitation_best_practices/img/u2611-30perc.png");
+  list-style-type: none;
+}
+
+/* ----- ------- */
+
+
+
 .figure {
   float: right;
   width: 30%;
@@ -504,7 +521,7 @@ table.img-panel {
   margin:0;
 }
 td.img-panel{
-  padding:0;
+  padding:1px;
   margin:0;
 }
 .panel{

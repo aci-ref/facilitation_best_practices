@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-opacity="1" xmlns:xlink="http://www.w3.org/1999/xlink" color-rendering="auto" color-interpolation="auto" text-rendering="auto" stroke="black" stroke-linecap="square" stroke-miterlimit="10" shape-rendering="auto" stroke-opacity="1" fill="black" stroke-dasharray="none" font-weight="normal" stroke-width="1" xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;" font-style="normal" stroke-linejoin="miter" font-size="12" stroke-dashoffset="0" image-rendering="auto">
+  <!--Unicode Character 'BALLOT BOX WITH CHECK' (U+2611)-->
+  <defs id="genericDefs" />
+  <g>
+    <g>
+      <path d="M193.2188 385.875 L18.1406 385.875 L18.1406 211.0781 L193.2188 211.0781 L193.2188 385.875 ZM181.6875 374.3438 L181.6875 222.3281 L29.6719 222.3281 L29.6719 374.3438 L181.6875 374.3438 ZM80.5781 339.4688 Q94.6406 308.1094 108.7031 285.3984 Q122.7656 262.6875 133.5234 250.2422 Q144.2812 237.7969 146.6719 236.4609 Q149.0625 235.125 156.7969 233.7188 Q164.5312 232.3125 169.875 232.3125 Q171.9844 232.3125 171.9844 233.5781 Q171.9844 235.2656 166.6406 240.1875 Q145.5469 259.875 126.5625 291.375 Q107.5781 322.875 95.0625 353.9531 Q91.8281 362.1094 89.3672 364.2188 Q86.9062 366.3281 78.8906 366.3281 Q71.2969 366.3281 69.5391 365.4141 Q67.7812 364.5 63.9844 358.5938 Q57.0938 347.7656 47.25 336.6562 Q40.3594 328.9219 40.3594 326.25 Q40.3594 323.0156 45.2812 319.1484 Q50.2031 315.2812 55.5469 315.2812 Q60.3281 315.2812 67.0078 321.3984 Q73.6875 327.5156 80.5781 339.4688 Z" stroke="none" />
+    </g>
+  </g>
+</svg>

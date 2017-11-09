@@ -57,6 +57,11 @@ strategies for staying current with ACI resources as a Facilitator.
 
 # Trainings and Professional Development 
 
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/refs-being-trained-osg.jpg" alt="REFs being trained">
+ACI-REFs being trained at the Open Science Grid (OSG) User School
+</div>
+
 In addition to studying online
 resources and published materials on their own, it is recommended that
 Facilitators participate in professional development opportunities that
@@ -64,7 +69,7 @@ combine learning and professional networking. Participation should focus
 on areas that are of interest to the facilitator and will also benefit
 the institution.  Ideas for areas to pursue professional development and
 training for ACI facilitators are:
-<div class="bullet-box">
+<div class="bullet-box" style="clear: right;">
     <ul class="bullet-list-square">
 	<li>Teaching: Facilitators should continue to update their skills in
 teaching and learn the current trends and best practices to make
@@ -167,6 +172,12 @@ ACI facilitators are:
 	<li>Internet2 conferences</li>
     </ul>
 </div>
+
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/arcc-panel.jpg" alt="ARCC panel">
+ACI-REF panel session at the Advanced Research Computing Consortium (ARCC) meeting
+</div>
+
 There are a variety of conference opportunities to choose from and all
 have the potential to be beneficial if relevant organizations, content
 and people are present.  Keep in mind the benefit of the conference as
@@ -357,6 +368,11 @@ that current ACI-REFs find useful.
 <a name="connections"></a>
 
 # Using Connections With Other ACI Staff/Facilitators
+
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/aci-ref-conf-call.png" alt="Conf call">
+ACI-REFs participating in a video conference call
+</div>
 
 Neither science nor facilitation take place in a vacuum. It takes an
 academic village, where villagers know one another and work together, to

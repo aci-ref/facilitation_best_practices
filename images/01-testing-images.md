@@ -164,6 +164,7 @@ building up ACI resources and utilization.
 
 ## User base
 
+Continuous:<br>
 <table class="img-panel">
 <tr >
 <td><img class="panel" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"/></td>
@@ -171,6 +172,16 @@ building up ACI resources and utilization.
 <td><img class="panel" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"/></td>
 <td><img class="panel" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"/></td>
 </tr></table>
+<br>
+<br>
+<table class="img-panel">
+<tr >
+<td><img class="panel" style="border:1px solid transparent;" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"/></td>
+<td><img class="panel" style="border:1px solid transparent;" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"/></td>
+<td><img class="panel" style="border:1px solid transparent;" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"/></td>
+<td><img class="panel" style="border:1px solid transparent;" src="{{ site.baseurl }}/img/bob-teaching.jpg" alt="Bob teaching"/></td>
+</tr></table>
+
 
 It is crucial that a new Facilitator understand the
 existing and prospective user base. A
