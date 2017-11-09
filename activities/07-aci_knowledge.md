@@ -69,7 +69,7 @@ combine learning and professional networking. Participation should focus
 on areas that are of interest to the facilitator and will also benefit
 the institution.  Ideas for areas to pursue professional development and
 training for ACI facilitators are:
-<div class="bullet-box">
+<div class="bullet-box" style="clear: right;">
     <ul class="bullet-list-square">
 	<li>Teaching: Facilitators should continue to update their skills in
 teaching and learn the current trends and best practices to make
