@@ -449,7 +449,7 @@ header.header-post .post-heading .post-subheading {
 1
 
 
-.list-checkbox {
+.list-checkbox li {
   list-style-image: url("/facilitation_best_practices/img/u2611-30perc.png");
   list-style-type: none;
 }
