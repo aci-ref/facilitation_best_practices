@@ -57,6 +57,13 @@ projects</li>
 </div>
 
 
+<table class="img-panel"><tbody><tr>
+  <td><img class="panel" src="{{ site.baseurl }}/images/ResearcherImpact.jpg" alt="Engagement with Researcher"></td>
+  <td><img class="panel" src="{{ site.baseurl }}/images/CHPC_SC16_brochure_p2.png" alt="ACI-REFs at PEARC17"></td>
+  <td><img class="panel" src="{{ site.baseurl }}/images/CHPC_NewsFall2017.png" alt="Bob Teaching"></td>
+  <td><img class="panel" src="{{ site.baseurl }}/images/DNJtFwoXUAApeXw.jpg" alt="Christina Office Hours"></td>
+</tr></tbody></table>
+
 There are a variety of outreach avenues, and Facilitators should make
 themselves aware of the ones available at their institution as well as
 determining the way to best leverage each depending on the situation and
