@@ -251,7 +251,7 @@ worked for the institutions involved in creating this document.
 
 <div class="captioned">
 <img class="captioned size300" src="{{ site.baseurl }}/images/ResearcherImpact.jpg" alt="Research Impact Event">
-Faculty presents the impact of ACI resources at a Research Impact Event organized by 
+Faculty present the impact of ACI resources at a Research Impact Event organized by 
 Wisconsin's Center for High Throughput Computing.
 </div>
 
