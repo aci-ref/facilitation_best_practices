@@ -105,6 +105,11 @@ research community</li>
 </ul>
 </div>
 
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/DNJtFwoXUAApeXw.jpg" alt="Publicity at a Workshop">
+ACI-REFs contribute to a researcher-coordinated computing workshop.
+</div>
+
 Finally, there may be opportunities to highlight the research successes
 and use cases of the ACI organization beyond the institution, such as at
 conferences, cross-institutional communities, and promotional materials.
@@ -135,8 +140,8 @@ can be done though the same methods discussed below in the section
 "[Advertising the Event](#advertising)".
 
 <div class="captioned">
-<img class="captioned size300" src="{{ site.baseurl }}/images/DNJtFwoXUAApeXw.jpg" alt="Publicity at a Workshop">
-ACI-REFs contribute to a researcher-coordinated computing workshop.
+<img class="captioned size300" src="{{ site.baseurl }}/images/GrantAdministrators.jpg" alt="Grant Administrators">
+ACI-REFs engage with research grant administrators at the University of Wisconsin.
 </div>
 
 Facilitators should take every opportunity to cultivate advocates in
@@ -173,11 +178,6 @@ Earth-Cube. The Facilitators were able to gather information and network
 with additional UH and collaborating researchers during the event. These
 connections resulted in a partnership between the community and the ACI
 team in future grant projects.</li>
-
-<div class="captioned">
-<img class="captioned size300" src="{{ site.baseurl }}/images/GrantAdministrators.jpg" alt="Grant Administrators">
-ACI-REFs engage with research grant administrators at the University of Wisconsin.
-</div>
 
 <li>At the University of Wisconsin, Facilitators have met with the campus
 group of research grant administrators to inform them of campus ACI
