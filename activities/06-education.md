@@ -58,6 +58,11 @@ needed when applying ACI resources to their work. Importantly, though,
 these two terms are not mutually exclusive, and many learning
 opportunities will include a combination of *education* and *training*.
 
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/DNJtFwoXUAApeXw.jpg" alt="Grant Administrators">
+Researchers attend an research computing workshop.
+</div>
+
 Furthermore, there are certainly overlaps between this chapter and that
 for *[Outreach](../02-outreach)*, as some information delivered in outreach efforts
 might certainly be thought of as educational. However, we distinguish
