@@ -106,7 +106,7 @@ research community</li>
 </div>
 
 <div class="captioned">
-<img class="captioned size300" src="{{ site.baseurl }}/images/CHPC_SC16_brochure" alt="Visual aids">
+<img class="captioned size300" src="{{ site.baseurl }}/images/CHPC_SC16_brochure.png" alt="Example materials">
 Example tri-fold handout from the University of Utah's Center for High Performance Computing
 </div>
 
