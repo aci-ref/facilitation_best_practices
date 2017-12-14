@@ -58,10 +58,10 @@ projects</li>
 
 
 <table class="img-panel"><tbody><tr>
-  <td><img class="panel" src="{{ site.baseurl }}/images/ResearcherImpact.jpg" alt="Engagement with Researcher"></td>
-  <td><img class="panel" src="{{ site.baseurl }}/images/CHPC_SC16_brochure_p2.png" alt="ACI-REFs at PEARC17"></td>
-  <td><img class="panel" src="{{ site.baseurl }}/images/CHPC_NewsFall2017.png" alt="Bob Teaching"></td>
-  <td><img class="panel" src="{{ site.baseurl }}/images/DNJtFwoXUAApeXw.jpg" alt="Christina Office Hours"></td>
+  <td><img class="panel" src="{{ site.baseurl }}/images/ResearcherImpact.jpg" alt="Research Seminar"></td>
+  <td><img class="panel" src="{{ site.baseurl }}/images/CHPC_SC16_brochure_p2.png" alt="Example Brochure Page"></td>
+  <td><img class="panel" src="{{ site.baseurl }}/images/CHPCPoster2017.png" alt="Example Poster"></td>
+  <td><img class="panel" src="{{ site.baseurl }}/images/DNJtFwoXUAApeXw.jpg" alt="Researcher Workshop"></td>
 </tr></tbody></table>
 
 There are a variety of outreach avenues, and Facilitators should make
