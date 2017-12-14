@@ -105,11 +105,6 @@ research community</li>
 </ul>
 </div>
 
-<div class="captioned">
-<img class="captioned size300" src="{{ site.baseurl }}/images/CHPC_SC16_brochure_p1.png" alt="Example materials">
-Example tri-fold handout from the University of Utah's Center for High Performance Computing
-</div>
-
 <table class="img-panel"><tbody><tr>
   <td><img class="panel" src="{{ site.baseurl }}/images/CHPC_SC16_brochure_p1.png" alt="CHPC Newsletter 1"></td>
   <td><img class="panel" src="{{ site.baseurl }}/images/CHPC_SC16_brochure_p2.png" alt="CHPC Newsletter 2"></td>
@@ -144,6 +139,11 @@ the role that ACI resources played in a any prominent publications. This
 can be done though the same methods discussed below in the section
 "[Advertising the Event](#advertising)".
 
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/DNJtFwoXUAApeXw.jpg" alt="Publicity at a Workshop">
+ACI-REFs contribute to a researcher-coordinated computing workshop.
+</div>
+
 Facilitators should take every opportunity to cultivate advocates in
 different places at an institution. Good advocates are people who have
 experience with the use of the resources and with the facilitation
@@ -169,11 +169,6 @@ pipeline. Facilitators at events like this one sometimes present
 information on their ACI organization, but a  presence, alone, at these
 events allows direct and indirect users of ACI resources to put a name
 and face to the ACI provider and staff.</li>
-
-<div class="captioned">
-<img class="captioned size300" src="{{ site.baseurl }}/images/DNJtFwoXUAApeXw.jpg" alt="Publicity at a Workshop">
-ACI-REFs contribute to a researcher-coordinated computing workshop.
-</div>
 
 <li>At the University of Hawaii, a research group that heavily utilizes
 the UH ITS Cyberinfrastructure resources is working on mapping the ocean
