@@ -105,6 +105,11 @@ research community</li>
 </ul>
 </div>
 
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/CHPC_SC16_brochure" alt="Visual aids">
+Example tri-fold handout from the University of Utah's Center for High Performance Computing
+</div>
+
 Finally, there may be opportunities to highlight the research successes
 and use cases of the ACI organization beyond the institution, such as at
 conferences, cross-institutional communities, and promotional materials.
@@ -112,7 +117,7 @@ One example is the annual CASC (Coalition of Academic Scientific
 Computation, casc.org) brochure, which solicits cases to be featured
 from their member institutions. Participation in conferences such as the
 annual SuperComputing conference is another way to showcase the usage of
-ACI resources. Materials for such opportunities may  include automated
+ACI resources. Materials for such opportunities may include automated
 slideshows of highlights, interactive demonstrations of usage, or 
 handouts available at a booth; all are effective ways to provide talking
 points for people, including Facilitators, manning the booth.
