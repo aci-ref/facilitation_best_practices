@@ -106,7 +106,7 @@ research community</li>
 </div>
 
 <div class="captioned">
-<img class="captioned size300" src="{{ site.baseurl }}/images/CHPC_SC16_brochure.pdf" alt="Example materials">
+<img class="captioned size300" src="{{ site.baseurl }}/images/CHPC_SC16_brochure_p1.png" alt="Example materials">
 Example tri-fold handout from the University of Utah's Center for High Performance Computing
 </div>
 
@@ -148,11 +148,6 @@ of ACI resources and facilitation, and can be invited to outreach events
 to help promote ACI. They can also be used to point the Facilitator at
 additional opportunities for outreach that may exist. 
 
-<div class="captioned">
-<img class="captioned size300" src="{{ site.baseurl }}/images/DNJtFwoXUAApeXw.jpg" alt="Publicity at a Workshop">
-An ACI-REF contributes to a researcher-coordinated computing workshop.
-</div>
-
 Facilitators should also be aware of other service providers on campus
 that either provide ACI resources or that make use of ACI resources in
 their service catalog, and check with them about outreach opportunities.
@@ -169,6 +164,11 @@ pipeline. Facilitators at events like this one sometimes present
 information on their ACI organization, but a  presence, alone, at these
 events allows direct and indirect users of ACI resources to put a name
 and face to the ACI provider and staff.</li>
+
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/DNJtFwoXUAApeXw.jpg" alt="Publicity at a Workshop">
+ACI-REFs contribute to a researcher-coordinated computing workshop.
+</div>
 
 <li>At the University of Hawaii, a research group that heavily utilizes
 the UH ITS Cyberinfrastructure resources is working on mapping the ocean
@@ -251,7 +251,8 @@ worked for the institutions involved in creating this document.
 
 <div class="captioned">
 <img class="captioned size300" src="{{ site.baseurl }}/images/ResearcherImpact.jpg" alt="Research Impact Event">
-A faculty member presents the impact of ACI resources and facilitation on their research.
+Faculty presents the impact of ACI resources at a Research Impact Event organized by 
+Wisconsin's Center for High Throughput Computing.
 </div>
 
 <div class="bullet-box">
@@ -397,7 +398,7 @@ on how to improve your skill as a presenter.
 ## Posters
 
 <div class="captioned">
-<img class="captioned size300" src="{{ site.baseurl }}/images/CHPCPoster2017.pdf" alt="ACI Resource Poster">
+<img class="captioned size300" src="{{ site.baseurl }}/images/CHPCPoster2017.png" alt="ACI Resource Poster">
 Example poster from the University of Utah's Center for High Performance Computing.
 </div>
 
@@ -448,7 +449,7 @@ organization website.
 ## Newsletters
 
 <div class="captioned">
-<img class="captioned size300" src="{{ site.baseurl }}/images/CHPC_NewsFall2017.pdf" alt="Example Newsletter">
+<img class="captioned size300" src="{{ site.baseurl }}/images/CHPC_NewsFall2017.png" alt="Example Newsletter">
 Example newsletter.
 </div>
 
