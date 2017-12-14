@@ -148,6 +148,11 @@ of ACI resources and facilitation, and can be invited to outreach events
 to help promote ACI. They can also be used to point the Facilitator at
 additional opportunities for outreach that may exist. 
 
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/DNJtFwoXUAApeXw.jpg" alt="Publicity at a Workshop">
+An ACI-REF contributes to a researcher-coordinated computing workshop.
+</div>
+
 Facilitators should also be aware of other service providers on campus
 that either provide ACI resources or that make use of ACI resources in
 their service catalog, and check with them about outreach opportunities.
@@ -173,6 +178,11 @@ Earth-Cube. The Facilitators were able to gather information and network
 with additional UH and collaborating researchers during the event. These
 connections resulted in a partnership between the community and the ACI
 team in future grant projects.</li>
+
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/GrantAdministrators.jpg" alt="Grant Administrators">
+ACI-REFs engage with research grant administrators at the University of Wisconsin.
+</div>
 
 <li>At the University of Wisconsin, Facilitators have met with the campus
 group of research grant administrators to inform them of campus ACI
@@ -239,22 +249,26 @@ choice of event type depends greatly on the ACI organization and local
 culture. In this section we will present a number of events that have
 worked for the institutions involved in creating this document.
 
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/ResearcherImpact.jpg" alt="Research Impact Event">
+A faculty member presents the impact of ACI resources and facilitation on their research.
+</div>
+
 <div class="bullet-box">
     <ul class="bullet-list-square">
         <li><b>Data Center Tours:</b> Tours of the ACI facility can serve as an
 opportunity to demonstrate to researchers the level of service provided.</li>
 
-<li><b>CI (Cyberinfrastructure) Days:</b> These events can have different
-focuses, but the general idea is to highlighting cyberinfrastructure and
-show the critical role it plays in computational research. At these
-events users can showcase their research A related option is to focus
-the day on a specific aspect of CI. As an example Clemson recently had a
-GIS day to promote GIS resources and GIS based research on campus.</li>
+<li><b>Research Impact Event:</b> Events may be organized to highlight 
+cyberinfrastructure's role in computational research, at which users can 
+showcase their research to one another. A related option is to focus
+the day on a specific aspect of CI. As an example, Clemson University has run a
+"GIS Day" to promote GIS resources and GIS based research on campus.</li>
 
 <li><b>Seminar Series:</b> This type of outreach can be used to highlight
-uses of ACI resources and perhaps also lead to the collaborations
+uses of ACI resources and perhaps also lead to collaborations
 between research efforts. The ACI organization can sponsor periodic
-seminars that can focus on research outcomes obtained with the use of
+seminars that focus on research outcomes obtained with the use of
 their resources.</li>
 
 <li><b>Vendor presentation:</b> These can be used to promote the availability
@@ -263,10 +277,9 @@ acquire. A number of the vendors such as NVidia, Mathworks, and Ansys
 offer to to hold such events on campuses.</li>
 
 <li><b>ACI Resource Announcements:</b> An outreach session can be held in
-conjunction with the announcement a new ACI resource or a change in
-usage and accompanying policy, in order to inform the user base of
-upcoming changes and provide information on the   The Facilitators can
-add additional outreach about pre-existing resources as well.</li>
+conjunction with the announcement of a new ACI resource or a change in
+usage and accompanying policy. Facilitators can
+incorporate additional outreach about pre-existing resources as well.</li>
 
 <li><b>Annual User Meetings:</b> An annual meeting or open forum can be
 scheduled to have a dialog with researchers on the status of the ACI
@@ -297,12 +310,11 @@ Jump to: [top](#toc)
 
 # Appearing at Events
 
-As with any time a Facilitator represents their ACI organization,
-whether it is in the form of outreach, engagement, or assistance,  it is
-important to do so in a professional manner. In many cases, this will
-often be the first interaction the audience has  with the ACI
-organization and as such it is essential to make a good impression.
-Several points to keep in mind when preparing for the event and put
+As with any time a Facilitator represents their ACI organization, it is
+important to do so in a professional manner. In many cases, this may 
+be the first interaction that members of the audience have with the ACI
+organization, so it is essential to make a good impression.
+Several points to keep in mind when preparing for the event and putting
 together materials are:
 
 <div class="bullet-box">
@@ -319,7 +331,7 @@ one or one to a small group, such as when manning a booth or a table,
 prepare an initial "engagement speech" appropriate for the venue.</li>
 
 <li class="list-checkbox"><b><i>Engage the audience:</i></b>  Think about ways to draw in the anticipated
-audience. It may be worth doing something 'atypical' to get people's
+audience. It may be worth doing something 'atypical' to draw
 attention. For example, when manning a booth or a table at a larger
 event, don't underestimate the value of swag! Depending on the venue,
 visual materials might include handouts, slide shows of use cases, even
@@ -384,6 +396,11 @@ on how to improve your skill as a presenter.
 
 ## Posters
 
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/CHPCPoster2017.pdf" alt="ACI Resource Poster">
+Example poster from the University of Utah's Center for High Performance Computing.
+</div>
+
 A poster with highlights of either the resources available or a use
 case, or both, is another valuable tool to use when doing outreach. This
 can be either a printed poster, or can be a monitor showing a slideshow
@@ -429,6 +446,11 @@ organization website.
 <a name="newsletters"></a>
 
 ## Newsletters
+
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/CHPC_NewsFall2017.pdf" alt="Example Newsletter">
+Example newsletter.
+</div>
 
 Newsletters are another way to present multiple pieces and types of
 information in a succinct form. These can be produced on a regular
