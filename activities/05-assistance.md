@@ -172,6 +172,11 @@ one to the other.
 
 <h3>Office hours</h3>
 
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/Copy of cesar_cr.jpg" alt="Office Hours">
+An ACI-REF helps a researcher during Office Hours.
+</div>
+
 Regularly scheduled office hours are often an effective complement to
 other assistance routes, especially if the assistance conversation may
 not warrant the scheduling of a special meeting but would still benefit
