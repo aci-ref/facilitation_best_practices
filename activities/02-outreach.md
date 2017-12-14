@@ -110,6 +110,11 @@ research community</li>
 Example tri-fold handout from the University of Utah's Center for High Performance Computing
 </div>
 
+<table class="img-panel"><tbody><tr>
+  <td><img class="panel" src="{{ site.baseurl }}/images/CHPC_SC16_brochure_p1.png" alt="CHPC Newsletter 1"></td>
+  <td><img class="panel" src="{{ site.baseurl }}/images/CHPC_SC16_brochure_p2.png" alt="CHPC Newsletter 2"></td>
+</tr></tbody></table>
+
 Finally, there may be opportunities to highlight the research successes
 and use cases of the ACI organization beyond the institution, such as at
 conferences, cross-institutional communities, and promotional materials.
