@@ -105,10 +105,10 @@ research community</li>
 </ul>
 </div>
 
-<table class="img-panel"><tbody><tr>
-  <td><img class="panel" src="{{ site.baseurl }}/images/CHPC_SC16_brochure_p1.png" alt="CHPC Newsletter 1"></td>
-  <td><img class="panel" src="{{ site.baseurl }}/images/CHPC_SC16_brochure_p2.png" alt="CHPC Newsletter 2"></td>
-</tr></tbody></table>
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/DNJtFwoXUAApeXw.jpg" alt="Publicity at a Workshop">
+ACI-REFs contribute to a researcher-coordinated computing workshop.
+</div>
 
 Finally, there may be opportunities to highlight the research successes
 and use cases of the ACI organization beyond the institution, such as at
@@ -450,7 +450,7 @@ organization website.
 
 <div class="captioned">
 <img class="captioned size300" src="{{ site.baseurl }}/images/CHPC_NewsFall2017.png" alt="Example Newsletter">
-Example newsletter.
+Example page from an ACI resource newsletter.
 </div>
 
 Newsletters are another way to present multiple pieces and types of
