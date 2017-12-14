@@ -105,11 +105,6 @@ research community</li>
 </ul>
 </div>
 
-<div class="captioned">
-<img class="captioned size300" src="{{ site.baseurl }}/images/DNJtFwoXUAApeXw.jpg" alt="Publicity at a Workshop">
-ACI-REFs contribute to a researcher-coordinated computing workshop.
-</div>
-
 Finally, there may be opportunities to highlight the research successes
 and use cases of the ACI organization beyond the institution, such as at
 conferences, cross-institutional communities, and promotional materials.
