@@ -139,6 +139,7 @@ more technical knowledge of issues such as networking or storage than
 the researcher, and can better communicate with IT professionals on
 technical issues.
 
+<img class="non-captioned size300" src="{{ site.baseurl }}/images/detour.png" alt="Bob teaching"/>
 Connectivity and networking issues are frequently hurdles. For example,
 the ability to move around very large datasets in a reasonable amount of
 time is a hurdle that many of the current ACI-REFs have run up against. 
@@ -153,7 +154,7 @@ and could save you a lot of running around.
 Another issue that is cropping up more frequently is the management of
 data.  A terabyte of data is no longer uncommon for intermediate and
 even end results of computer simulations and bioinformatic analyses. 
-The minutia of managing all this information can slow down researchers
+The minutiae of managing all this information can slow down researchers
 who just want to get their work done. However, they are the responsible
 stewards for their research products and their data use may be governed
 by their university’s Institutional Review Board, their grant’s Data
@@ -285,7 +286,7 @@ Jump to: [top](#toc)
 
 Once an ACI plan is created and vetted by your team, you should present
 it to the researcher and solicit feedback.  With simple, informal
-plansl, an email that outlines the tasks and responsible parties for
+plans, an email that outlines the tasks and responsible parties for
 each task is sufficient and the above tools will not be required.  For
 more complex projects a more formal presentation is necessary, ideally
 in a meeting, where it is easier to capture additional questions and
@@ -337,7 +338,7 @@ For ACI plans in-progress, the team should internally review the
 projects every week and perhaps review with the researcher once a month.
  However, this all depends on the workloads of both your team and the
 researcher, and the amount of progress that has been made.  At the very
-least, periodic emails with updates that communicates that work is
+least, sending periodic updates to communicate that work is
 on-going never hurts.
 
 A good time to follow up on completed ACI plans is around eight weeks
