@@ -4,6 +4,8 @@ title: Getting Established
 prev: 
 next: 02-outreach
 icon: Ch1.png
+redirect_to:
+    - http://www.github.com/aci-ref
 ---
 
 *Defining one’s role, including expectations of institutional support
