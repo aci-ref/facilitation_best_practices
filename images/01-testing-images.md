@@ -215,19 +215,19 @@ includes:
 
 
 
-<div style="background-color:#EBF5FB; text-align:left; vertical-align: middle; padding:20px 0; margin-top:30px">
-<ul style="list-style-type:square;">         
-<li>Details about the compute hardware</li>
+<div style="background-color:#EBF5FB; text-align:left; vertical-align: right; padding:20px 0; margin-top:30px">
+<ul>         
+<li class="list-checkbox">Details about the compute hardware</li>
 	<ul style="list-style-type:circle">
 	<li>what compute resources are available</li>
 	<li>what file systems exist </li>
 	<li>what is the networking infrastructure </li>
 	<li>what operating system(s) are supported</li>
 	</ul>
-<li>Details on the batch scheduler and batch policies that are being used </li>
-<li>What services are provided </li>
-<li>Existing policies and procedures for use of the resources</li>
-<li>Tools being used for user provisioning and tracking usage</li>
+<li class="list-checkbox">Details on the batch scheduler and batch policies that are being used </li>
+<li class="list-checkbox">What services are provided </li>
+<li class="list-checkbox">Existing policies and procedures for use of the resources</li>
+<li class="list-checkbox">Tools being used for user provisioning and tracking usage</li>
 </ul>
 </div>
 
