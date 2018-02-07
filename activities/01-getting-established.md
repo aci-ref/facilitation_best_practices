@@ -185,6 +185,12 @@ building up ACI resources and utilization.
 
 ## User base 
 
+<div class="visual-right-wrapped2">
+<a href="../../img/10-03.jpg" target="_blank">
+<img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-03.jpg" alt="resource-usage"></a>
+Usage statistics help Facilitators understand the user base and identify users that
+may need assistance, and opportunities for improved use of ACI resources
+</div>
 It is crucial that a new Facilitator understand the 
 existing and prospective user base. A
 new Facilitator should identify the major ACI users, the departments and
@@ -200,6 +206,8 @@ the existing user base, Facilitators should ponder their prospective
 users as well. At this point, it is important to begin identifying
 avenues and opportunities for reaching out to both current and
 prospective users (see *[outreach](../02-outreach)* chapter). 
+
+
 
 <a name="organization"></a>
 
