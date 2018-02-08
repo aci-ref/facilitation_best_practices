@@ -68,6 +68,7 @@ scheduled initial or ongoing meeting between the Facilitator and the
 researcher to capture ACI needs and develop an action plan for meeting
 those needs.
 
+<img class="non-captioned size300" src="{{ site.baseurl }}/images/cesar_cr2.jpg" alt="Cesar introducing HPC to new faculty member."/>
 Just as engagements can be formal and informal, so can ACI Plans. In
 cases where the research needs are straightforward and the researcher
 has a sufficient background in the use of ACI resources, the plan may be
