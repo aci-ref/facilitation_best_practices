@@ -99,6 +99,11 @@ further in this section.
 
 ## Vendors
 
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/vendor-training.jpg" alt="Vendor training">
+Facilitators can work with vendors to produce training opportunities for themselves,
+as well as for researchers utilizing the vendors' products
+</div>
 Training opportunities are often also available through ACI hardware and
 software vendors. Most of the hardware and some of the software utilized
 in ACI is sold by commercial vendors whose sales teams are often
