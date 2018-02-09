@@ -301,7 +301,7 @@ case, are within the ACI plan that the meeting has produced. A review
 will focus everyone on the tasks ahead and set expectations on the items
 to be done by each party. The practice of reviewing is key, as
 individuals may otherwise leave a meeting with widely varying ideas and
-expectations about future outcomes, so conclude with clear tasks and a timelines. For example:
+expectations about future outcomes, so conclude with clear tasks and timelines. For example:
 <div class="bullet-box">
     <ul class="bullet-list-square">
 	<li>"I will email or call by the end of next week."</li>
