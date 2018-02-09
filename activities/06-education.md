@@ -541,6 +541,27 @@ Jump to: [top](#toc)
 
 <a name="format-written"></a>
 
+<div class="bullet-box">
+    <ul>
+        <li class="list-checkbox"> Written Materials </li>          
+        <ul class="bullet-list-circle">
+            <li> Concept Overviews </li>
+            <li> Tutorials </li>
+            <li> Reference-style Documentation </li>
+            <li> FAQs </li>
+        </ul>	
+        <li class="list-checkbox"> Verbal Formats </li>
+        <ul class="bullet-list-circle">
+            <li> Informational Talks </li>
+            <li> One-to-Many Training </li>
+            <li> One-on-One Training </li>
+            <li> Videos </li>
+        </ul>	
+        <li class="list-checkbox">bullet pt 3</li>          
+    </ul> 
+</div>
+
+
 ## Written Materials
 
 Building upon the general strategies for designing and composing
