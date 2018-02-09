@@ -164,6 +164,12 @@ Jump to: [top](#toc)
 
 # Understanding the Facilitator Role
 
+<table class="img-panel"><tbody><tr>
+  <td><img class="panel" src="{{ site.baseurl }}/images/assistance_panel.png" alt="Assistance"></td>
+  <td><img class="panel" src="{{ site.baseurl }}/images/aci-ref-conf-call.png " alt="Conference call"></td>
+  <td><img class="panel" src="{{ site.baseurl }}/images/Internet2_XSEDE_ACIREF_CASC.png" alt="Internet2, XSEDE, ACI-REF, CASC"></td>
+</tr></tbody></table>
+
 Once a person has been hired to serve as a Facilitator, a joint effort
 between the Facilitator and the hiring manager to start to define the
 position is the next step. While some aspects of the position, such as
