@@ -57,6 +57,13 @@ projects</li>
 </div>
 
 
+<table class="img-panel"><tbody><tr>
+  <td><img class="panel" src="{{ site.baseurl }}/images/ResearcherImpact.jpg" alt="Research Seminar"></td>
+  <td><img class="panel" src="{{ site.baseurl }}/images/CHPC_SC16_brochure_p2.png" alt="Example Brochure Page"></td>
+  <td><img class="panel" src="{{ site.baseurl }}/images/CHPCPoster2017.png" alt="Example Poster"></td>
+  <td><img class="panel" src="{{ site.baseurl }}/images/DNJtFwoXUAApeXw.jpg" alt="Researcher Workshop"></td>
+</tr></tbody></table>
+
 There are a variety of outreach avenues, and Facilitators should make
 themselves aware of the ones available at their institution as well as
 determining the way to best leverage each depending on the situation and
@@ -105,6 +112,11 @@ research community</li>
 </ul>
 </div>
 
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/DNJtFwoXUAApeXw.jpg" alt="Publicity at a Workshop">
+ACI-REFs contribute to a researcher-coordinated computing workshop.
+</div>
+
 Finally, there may be opportunities to highlight the research successes
 and use cases of the ACI organization beyond the institution, such as at
 conferences, cross-institutional communities, and promotional materials.
@@ -112,7 +124,7 @@ One example is the annual CASC (Coalition of Academic Scientific
 Computation, casc.org) brochure, which solicits cases to be featured
 from their member institutions. Participation in conferences such as the
 annual SuperComputing conference is another way to showcase the usage of
-ACI resources. Materials for such opportunities may  include automated
+ACI resources. Materials for such opportunities may include automated
 slideshows of highlights, interactive demonstrations of usage, or 
 handouts available at a booth; all are effective ways to provide talking
 points for people, including Facilitators, manning the booth.
@@ -133,6 +145,11 @@ community about resources available, but can also be used to highlight
 the role that ACI resources played in a any prominent publications. This
 can be done though the same methods discussed below in the section
 "[Advertising the Event](#advertising)".
+
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/GrantAdministrators.jpg" alt="Grant Administrators">
+ACI-REFs engage with research grant administrators at the University of Wisconsin.
+</div>
 
 Facilitators should take every opportunity to cultivate advocates in
 different places at an institution. Good advocates are people who have
@@ -234,22 +251,27 @@ choice of event type depends greatly on the ACI organization and local
 culture. In this section we will present a number of events that have
 worked for the institutions involved in creating this document.
 
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/ResearcherImpact.jpg" alt="Research Impact Event">
+Faculty present the impact of ACI resources at a Research Impact Event organized by 
+Wisconsin's Center for High Throughput Computing.
+</div>
+
 <div class="bullet-box">
     <ul class="bullet-list-square">
         <li><b>Data Center Tours:</b> Tours of the ACI facility can serve as an
 opportunity to demonstrate to researchers the level of service provided.</li>
 
-<li><b>CI (Cyberinfrastructure) Days:</b> These events can have different
-focuses, but the general idea is to highlighting cyberinfrastructure and
-show the critical role it plays in computational research. At these
-events users can showcase their research A related option is to focus
-the day on a specific aspect of CI. As an example Clemson recently had a
-GIS day to promote GIS resources and GIS based research on campus.</li>
+<li><b>Research Impact Event:</b> Events may be organized to highlight 
+cyberinfrastructure's role in computational research, at which users can 
+showcase their research to one another. A related option is to focus
+the day on a specific aspect of CI. As an example, Clemson University has run a
+"GIS Day" to promote GIS resources and GIS based research on campus.</li>
 
 <li><b>Seminar Series:</b> This type of outreach can be used to highlight
-uses of ACI resources and perhaps also lead to the collaborations
+uses of ACI resources and perhaps also lead to collaborations
 between research efforts. The ACI organization can sponsor periodic
-seminars that can focus on research outcomes obtained with the use of
+seminars that focus on research outcomes obtained with the use of
 their resources.</li>
 
 <li><b>Vendor presentation:</b> These can be used to promote the availability
@@ -258,10 +280,9 @@ acquire. A number of the vendors such as NVidia, Mathworks, and Ansys
 offer to to hold such events on campuses.</li>
 
 <li><b>ACI Resource Announcements:</b> An outreach session can be held in
-conjunction with the announcement a new ACI resource or a change in
-usage and accompanying policy, in order to inform the user base of
-upcoming changes and provide information on the   The Facilitators can
-add additional outreach about pre-existing resources as well.</li>
+conjunction with the announcement of a new ACI resource or a change in
+usage and accompanying policy. Facilitators can
+incorporate additional outreach about pre-existing resources as well.</li>
 
 <li><b>Annual User Meetings:</b> An annual meeting or open forum can be
 scheduled to have a dialog with researchers on the status of the ACI
@@ -292,12 +313,11 @@ Jump to: [top](#toc)
 
 # Appearing at Events
 
-As with any time a Facilitator represents their ACI organization,
-whether it is in the form of outreach, engagement, or assistance,  it is
-important to do so in a professional manner. In many cases, this will
-often be the first interaction the audience has  with the ACI
-organization and as such it is essential to make a good impression.
-Several points to keep in mind when preparing for the event and put
+As with any time a Facilitator represents their ACI organization, it is
+important to do so in a professional manner. In many cases, this may 
+be the first interaction that members of the audience have with the ACI
+organization, so it is essential to make a good impression.
+Several points to keep in mind when preparing for the event and putting
 together materials are:
 
 <div class="bullet-box">
@@ -314,7 +334,7 @@ one or one to a small group, such as when manning a booth or a table,
 prepare an initial "engagement speech" appropriate for the venue.</li>
 
 <li class="list-checkbox"><b><i>Engage the audience:</i></b>  Think about ways to draw in the anticipated
-audience. It may be worth doing something 'atypical' to get people's
+audience. It may be worth doing something 'atypical' to draw
 attention. For example, when manning a booth or a table at a larger
 event, don't underestimate the value of swag! Depending on the venue,
 visual materials might include handouts, slide shows of use cases, even
@@ -379,6 +399,11 @@ on how to improve your skill as a presenter.
 
 ## Posters
 
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/CHPCPoster2017.png" alt="ACI Resource Poster">
+Example poster from the University of Utah's Center for High Performance Computing.
+</div>
+
 A poster with highlights of either the resources available or a use
 case, or both, is another valuable tool to use when doing outreach. This
 can be either a printed poster, or can be a monitor showing a slideshow
@@ -424,6 +449,11 @@ organization website.
 <a name="newsletters"></a>
 
 ## Newsletters
+
+<div class="captioned">
+<img class="captioned size300" src="{{ site.baseurl }}/images/CHPC_NewsFall2017.png" alt="Example Newsletter">
+Example page from an ACI resource newsletter.
+</div>
 
 Newsletters are another way to present multiple pieces and types of
 information in a succinct form. These can be produced on a regular
