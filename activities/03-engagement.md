@@ -44,7 +44,7 @@ contributing to the plan's success. Activities defined as engagement may include
 	<li>Attending initial and on-going meetings to discuss a researcher's
 projects, goals, and roadmap</li>
 	<li>Collaborating with a researcher on a portion of their project related
-to ACI, to enable their use of a resource near-term</li>
+to ACI, to enable their near-term use of a resource</li>
 	<li>Transferring knowledge that leads to a researcher’s effective
 utilization of resources</li>
 	<li>Developing long-term plans as part of a larger ACI plan</li>
@@ -53,8 +53,7 @@ utilization of resources</li>
     </ul>
 </div>
 
-As a rule, tasks done on behalf of a researcher their own hands-on involvement 
-are not engagement. 
+As a rule, tasks done on behalf of a researcher without the researcher's involvement are not considered engagements. 
 
 Engagements can be both formal and informal. For example, an informal
 engagement might arise from a meeting to help resolve a straightforward
@@ -68,6 +67,7 @@ scheduled initial or ongoing meeting between the Facilitator and the
 researcher to capture ACI needs and develop an action plan for meeting
 those needs.
 
+<img class="non-captioned size300" src="{{ site.baseurl }}/images/cesar_cr2.jpg" alt="Cesar introducing a new faculty member to HPC."/>
 Just as engagements can be formal and informal, so can ACI Plans. In
 cases where the research needs are straightforward and the researcher
 has a sufficient background in the use of ACI resources, the plan may be
@@ -108,10 +108,10 @@ between departments within an institution, but commonly they arise from:
 <div class="bullet-box">
     <ul class="bullet-list-square">
     	<li>requests for access to ACI resources</li>
-	    <li>training workshop follow-ups</li>
-	    <li>new faculty on-boarding sessions</li>
-	    <li>assistance for an issue related to use of a ACI resource</li>
-	    <li>referrals from other IT personnel, departments, or other researchers</li>
+	<li>training workshop follow-ups</li>
+	<li>new faculty on-boarding sessions</li>
+	<li>assistance for an issue related to use of a ACI resource</li>
+	<li>referrals from other IT personnel, departments, or other researchers</li>
     </ul>
 </div>
 
@@ -122,8 +122,8 @@ researcher.
 
 For follow-on engagements the Facilitator may continue to meet in person
 or conduct subsequent meetings via web conferencing or by telephone.
-She/he will most likely be simultaneously corresponding via email and it
-may be important, depending on what is discussed, to track these
+She/he will most likely be simultaneously corresponding via email and, 
+depending on what is discussed, it may be important to track these
 conversations as part of the official record (see "[Record Keeping of
 User Interactions](#records)"). 
 
@@ -158,48 +158,49 @@ An initial engagement is the perfect time to gather knowledge about the
 science and research results that the researcher is currently pursuing
 for which they require ACI resources. For inquiring about research and
 resource needs, it is extremely helpful to have a list of prepared
-questions. A list of basic initial engagement questions as well as some
-questions specifically geared toward compute center resources is shown
-in Figure 1. 
+questions. A list of basic initial engagement questions, as well as some
+questions specifically geared toward compute center resources, is shown
+below. 
 
-<table style="border: 1px solid black;">
-  <tr>
-    <td>
-<ol>
-<li>What are your current research projects?
-<ol>
-  <li>What are the timelines of the projects?</li>  </ol></li>
-<li> What hardware resources are you currently using for computation? 
-<ol>
-  <li>Do these meet your computational needs? </li>
-  <li>Are there things you can’t do with your current resource that you would like to? 
-(E.g., can you evaluate all the data you want to at the scale you want?)</li>
-  <li>Are you interested in using other resources? 
-(E.g., our local cluster or national resources.)</li>  </ol></li>
-<li> What software programs, packages, etc. are you using for your research?
-<ol>
-  <li>Are there existing issues/limitations with the current software?</li>
-  <li>Is there software you would like to use? Is there a reason you are not currently using it?</li>
-  </ol></li>
-<li>What resource are you using for storage?
-<ol>
-  <li>How much storage are you using?</li>
-  <li>How much storage will you need?</li> 
-  <li>Is this the correct class of storage for your work?</li>
-</ol>
-</li>
-<li>Are there any roadblocks to the use of computation resources in your current research?
-<ol>
-  <li>Network issues?</li>
-  <li>Knowledge/expertise?</li>
-  <li>Hardware?</li>  </ol></li>
-<li>Where do you see your research going in the future?</li>
-</ol>
-	</td>
-  </tr>
-</table>
-
-Figure 1: Initial engagement questions
+<div class="bullet-box">
+    <ul class="bullet-list-square">
+	<li> What are your current research projects?</li>
+	    <ul>
+		<li> What are the timelines of the projects?</li>
+	    </ul>
+	</li>
+	<li> What hardware resources are you currently using for computation? 
+	    <ul>
+ 		<li> Do these meet your computational needs? </li>
+  		<li> Are there things you can’t do with your current resource that you would like to? 
+			(E.g., can you evaluate all the data you want to at the scale you want?)</li>
+  		<li> Are you interested in using other resources? 
+			(E.g., our local cluster or national resources.)</li>  
+	    </ul>
+	</li>
+	<li> What software programs, packages, etc. are you using for your research?
+	    <ul>
+  		<li> Are there existing issues/limitations with the current software?</li>
+  		<li> Is there software you would like to use? Is there a reason you are not currently using it?</li>
+  	    </ul>
+	</li>
+	<li> What resource are you using for storage?
+	    <ul>
+  		<li> How much storage are you using?</li>
+  		<li> How much storage will you need?</li> 
+	  	<li> Is this the correct class of storage for your work?</li>
+	    </ul>
+	</li>
+	<li> Are there any roadblocks to the use of computation resources in your current research?
+	    <ul>
+  		<li> Network issues?</li>
+  		<li> Knowledge/expertise?</li>
+  		<li> Hardware?</li>  </ol></li>
+		<li> Where do you see your research going in the future?</li>
+	   </ul>
+	</li>
+      </ul>
+</div>
 
 In addition to these basic tried-and-true questions, we recommend
 developing some of your own questions to add to the template. In
@@ -218,7 +219,7 @@ Another helpful item to have prepared in advance is a list of ACI
 resources available for her/his use. It is possible your ACI group has
 already compiled a list of the ACI tools and resources at your
 institution that can be leveraged. If not, this is something a
-Facilitator should do, for which the chapter on *ACI Knowledge* can
+Facilitator should do, for which the chapter on *[ACI Knowledge](../07-aci_knowledge)* can
 provide ideas. Researchers may not know or understand all the options
 that are immediately and locally available, and mentioning these can
 prompt additional discussion about their research and directions that
@@ -238,8 +239,7 @@ researchers to be made aware of all existing ACI resources available.
 
 One cannot underestimate the importance of the first face-to-face
 contact — the tone and success of this meeting sets the trajectory for
-remaining interactions you will have with this individual. Remember that
-the purpose of the engagement meeting is to gather information; to that
+remaining interactions you will have with this individual or the research group. Remember that the primary purpose of the engagement meeting is to gather information; to that
 end, there are eight key practices to keep in mind.
 
 
@@ -283,10 +283,10 @@ describing all your incredible ACI resources. Keep this urge in check while
 you focus on determining the research objectives and goals. 
 
 Whatever the method, the Facilitator and ACI team should always point
-researchers to the most appropriate resource. Remember that while the
-resources a Facilitator represents may be an effective resource for many
-cases, it is not the solution for all research needs. Be sure to utilize
-your Facilitators network, such as ACI-REF and Campus Champions, when you
+researchers to the most appropriate resource. While the
+resources a Facilitator represents may be effective for many
+cases, they may not be the best solution for all research needs. Be sure to utilize
+your Facilitators network, such as ACI-REF, CaRC, and XSEDE Campus Champions, when you
 have questions that cannot be addressed within your team.
 
 <a name="conclude"></a>
@@ -301,8 +301,7 @@ case, are within the ACI plan that the meeting has produced. A review
 will focus everyone on the tasks ahead and set expectations on the items
 to be done by each party. The practice of reviewing is key, as
 individuals may otherwise leave a meeting with widely varying ideas and
-expectations about future outcomes. Furthermore, we recommend a pattern
-of discussing the tasks and a timeline. For example:
+expectations about future outcomes, so conclude with clear tasks and timelines. For example:
 <div class="bullet-box">
     <ul class="bullet-list-square">
 	<li>"I will email or call by the end of next week."</li>
@@ -343,7 +342,7 @@ several places to look at for making engagement conversions:
 
 <div class="bullet-box">
     <ul class="bullet-list-square">
-	<li>Ticket reviews: Browsing through assistance tickets can point to
+	<li>Help-ticket reviews: Browsing through assistance tickets can point to
 researchers that can benefit from a proactive engagement to discuss
 accelerating their research.</li>
 	<li>Email reviews: Browsing your emails and team emails for previous
@@ -360,10 +359,9 @@ needing additional resources or help can often yield new leads.</li>
 	</ul>
 </div>
 
-To provide the best ROI, Facilitators should be proactively seeking out
-engagements since researchers are focused their science. Aside from being mindful of
-these engagement opportunities, weekly tasks should include scheduled time to seek out
-these new opportunities.
+To provide the best ROI, Facilitators should proactively seek out
+engagements and weekly tasks should include scheduled time to check for
+new opportunities.
 
 
 <a name="records"></a>
@@ -378,7 +376,7 @@ interactions is important, especially as demand for Facilitation and ACI
 resources increases. Many ACI groups have adopted a system
 for user management and ticketing systems to handle account requests,
 software installs, bugs etc. (see more in *[Assisting Researchers in the
-Use of ACI Resources](../05-assistance)*. Documenting, tracking, and organizing your
+Use of ACI Resources](../05-assistance)*). Documenting, tracking, and organizing your
 interactions with users/researchers can be extensions of ticketing
 activities in most ways, and most of the existing ACI-REF institutions
 have integrated their email ticket systems into their engagement
@@ -428,7 +426,7 @@ overboard.</li>
 devote a portion of time to documenting this information, ensure that
 you can justify the effort for your procedures.</li>
 <li>Ensure compliance with your institutional policies in regard to
-security and user information. Utilize your institution’s best practices
+information security and user information. Utilize your institution’s best practices
 on where information about researchers is stored and how it is accessed.
 For instance, can/should it be accessible from only within the
 institution (i.e. web accessible)? In some of the current ACI-REF
