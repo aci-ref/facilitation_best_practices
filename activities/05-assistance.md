@@ -4,6 +4,8 @@ title: Assisting Researchers in the Use of ACI Resources
 prev: 04-aci_plan
 next: 06-education
 icon: Ch5.png
+redirect_to:
+    - https://aci-ref.github.io/facilitation_leading_practices/activities/05-assistance
 ---
 
 <a name="toc"></a>

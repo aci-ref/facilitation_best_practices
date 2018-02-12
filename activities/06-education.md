@@ -4,6 +4,8 @@ title: Education and Training of Researchers
 prev: 05-assistance
 next: 07-aci_knowledge
 icon: Ch6.png
+redirect_to:
+    - https://aci-ref.github.io/facilitation_leading_practices/activities/06-education
 ---
 
 <a name="toc"></a>

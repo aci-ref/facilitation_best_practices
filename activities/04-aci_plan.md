@@ -4,6 +4,8 @@ title: Implementing a Researcher's ACI Plan
 prev: 03-engagement
 next: 05-assistance
 icon: Ch4.png
+redirect_to:
+    - https://aci-ref.github.io/facilitation_leading_practices/activities/04-aci_plan
 ---
 
 <a name="toc"></a>

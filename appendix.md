@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Appendix
+redirect_to:
+    - https://aci-ref.github.io/facilitation_leading_practices/appendix
 ---
 
 1. [3.1 Engagement - Documentation Example](3.1-engagement-documentation)

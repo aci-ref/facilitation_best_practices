@@ -2,6 +2,8 @@
 layout: page
 title: Contributing
 #subtitle: intro to document
+redirect_to:
+    - https://aci-ref.github.io/facilitation_leading_practices/contributing
 ---
 
 This documentation represents the collective experience and understanding 

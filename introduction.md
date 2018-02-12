@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Introduction and Major Ideas
-#subtitle: intro to document
+redirect_to:
+    - https://aci-ref.github.io/facilitation_leading_practices/introduction
 ---
 
 <a name="toc"></a>

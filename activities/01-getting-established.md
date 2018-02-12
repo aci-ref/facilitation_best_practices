@@ -5,7 +5,7 @@ prev:
 next: 02-outreach
 icon: Ch1.png
 redirect_to:
-    - http://www.github.com/aci-ref
+    - https://aci-ref.github.io/facilitation_leading_practices/activities/01-getting-established
 ---
 
 *Defining one’s role, including expectations of institutional support

@@ -4,6 +4,8 @@ title: Facilitating Researcher Connections
 prev: 07-aci_knowledge
 next: 09-interface
 icon: Ch8.png
+redirect_to:
+    - https://aci-ref.github.io/facilitation_leading_practices/activities/08-connections
 ---
 
 <a name="toc"></a>
