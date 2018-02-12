@@ -5,7 +5,7 @@ prev: 06-education
 next: 08-connections
 icon: Ch7.png
 redirect_to:
-    - https://aci-ref.github.io/facilitation_leading_practices/activities/07-a7-aci_knowledge
+    - https://aci-ref.github.io/facilitation_leading_practices/activities/07-aci_knowledge
 ---
 
 <a name="toc"></a>
