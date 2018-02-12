@@ -4,6 +4,8 @@ title: Engagement with Researchers
 prev: 02-outreach
 next: 04-aci_plan
 icon: Ch3.png
+redirect_to:
+    - https://aci-ref.github.io/facilitation_leading_practices/activities/03-engagement
 ---
 
 *One-on-one and small-group meetings to understand researcher goals and

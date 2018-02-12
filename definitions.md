@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Key Terms and Definitions
+redirect_to:
+    - https://aci-ref.github.io/facilitation_leading_practices/definitions
 ---
 
 The terms below are used throughout the Facilitation Best Practices

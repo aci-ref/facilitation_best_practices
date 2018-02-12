@@ -4,6 +4,8 @@ title: Metrics and Assessment
 prev: 09-interface
 next: /
 icon: Ch10.png
+redirect_to:
+    - https://aci-ref.github.io/facilitation_leading_practices/activities/10-assessment
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Executing Major Activities of Facilitation
+redirect_to:
+    - https://aci-ref.github.io/facilitation_leading_practices/activities/
 ---
 
 1. [Getting Established](01-getting-established)

@@ -4,6 +4,8 @@ title: Outreach
 prev: 01-getting-established
 next: 03-engagement
 icon : Ch2.png
+redirect_to:
+    - https://aci-ref.github.io/facilitation_leading_practices/activities/02-outreach
 ---
 
 *Promoting awareness and understanding of the facilitator role and of

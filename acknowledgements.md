@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Acknowledgements
-#subtitle: intro to document
+redirect_to:
+    - https://aci-ref.github.io/facilitation_leading_practices/acknowledgements
 ---
 
 <center><img width="100px" src="../img/nsf1.gif" alt="NSF Logo"></center>

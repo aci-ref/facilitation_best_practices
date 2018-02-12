@@ -4,6 +4,8 @@ title: Interfacing with ACI Resource Providers
 prev: 08-connections
 next: 10-assessment
 icon: Ch9.png
+redirect_to:
+    - https://aci-ref.github.io/facilitation_leading_practices/activities/09-interface
 ---
 
 <a name="toc"></a>
