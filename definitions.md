@@ -5,7 +5,7 @@ redirect_to:
     - https://aci-ref.github.io/facilitation_leading_practices/definitions
 ---
 
-The terms below are used throughout the Facilitation Best Practices
+The terms below are used throughout the Facilitation Leading Practices
 documentation, and often with definitions specific to their context
 within the documentation. To establish consistent interpretations of
 these terms across various sections and chapters, we define the terms as
@@ -16,7 +16,7 @@ Facilitator
 : an individual working directly with researchers and/or other scholars
 with a personalized approach to enhance their ACI capabilities for
 transformative impacts to scholarship. (See also, *[Introduction > What is
-Facilitation?](../introduction/#whatis)*). Throughout the Facilitation Best Practices
+Facilitation?](../introduction/#whatis)*). Throughout the Facilitation Leading Practices
 documentation, we use the capitalized form of the noun in order to
 distinguish our definition of Facilitator from more generic definitions
 of facilitator.
@@ -30,10 +30,11 @@ ACI-REF
 : *(Advanced Cyberinfrastructure - Research and Education Facilitators)*
 : (1) a Facilitator directly affiliated with the NSF-sponsored project of the
 same name, or 
-: (2) the NSF-sponsored collaboration of multiple
+: (2) the NSF-sponsored project ([NSF OAC #1241935](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1341935)), 
+a collaboration of multiple
 institutions invested in the professional development of Facilitators in
 support of cyberinfrastructure scholarship. Throughout the Facilitation
-Best Practices, we strive to clarify which entity is referred to by
+Leading Practices, we strive to clarify which entity is referred to by
 using more specific language, such as “ACI-REF project”, “ACI-REF
 institutions”, or “an ACI-REF”.
 
@@ -95,13 +96,13 @@ described below
 	provider and team of staff. Because the ACI-REF program includes
 	Facilitators who are most-closely associated with centralized research
 	computing service providers, many of the examples in the Facilitation
-	Best Practices documentation are explained within the context of common
+	Leading Practices documentation are explained within the context of common
 	approaches for supporting research computing on campuses.
 
 
 outreach
 : activities that promote awareness of ACI resources, service providers,
-and/or systems to encourage interest in pursuing them. (See *Outreach* for
+and/or systems to encourage interest in pursuing them. (See *[Outreach](../activities/02-outreach)* for
 more details and examples.)
 
 engagement
@@ -122,7 +123,7 @@ Researchers](../activities/06-education)* for more details and examples.)
 on-boarding
 : the processes of orientation and initial ramp-up in abilities for either
 (1) researchers new to using an ACI resource or service, or (2) newly
-hired Facilitators. (See *Getting Established* for more details and
+hired Facilitators. (See *[Getting Established](../activities/01-getting-established)* for more details and
 examples of the second case.)
 
 assistance
